@@ -27,9 +27,17 @@ DBI::dbDisconnect(con)
 
 ## Calculate cabinet level information
 
+# get party family and order by left-right position
+other <- c("code", "none", "spec")
+party <- party_raw %>%
+  mutate(family = factor(family_name_short),
+         family = forcats::fct_reorder(family, left_right, na.rm = TRUE),
+         family = forcats::fct_other(family, drop = other, other_level = "other")) %>% 
+  select(party_id, family)
+
 cab <- cab_raw %>% 
   filter(cabinet_party == 1) %>% 
-  left_join(party_raw %>% select(party_id, family = family_name_short))
+  left_join(party)
 
 cab_info <- cab_raw %>% 
   distinct(country_name_short, country_name, start_date, cabinet_name, caretaker, cabinet_id)
@@ -39,8 +47,7 @@ cab_fam <- cab %>%
   group_by(cabinet_id, family) %>% 
   summarise(seats = sum(seats)) %>% 
   group_by(cabinet_id) %>% 
-  mutate(share = round(seats / sum(seats) * 100, 1),
-         family = if_else(family == "none", "spec", family)) %>% 
+  mutate(share = round(seats * 100 / sum(seats), 1)) %>% 
   select(-seats)
 
 # convert long into wide format with tidyr
