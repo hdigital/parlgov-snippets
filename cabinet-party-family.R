@@ -5,7 +5,7 @@ library(tidyverse)
 rm(list = ls())
 
 
-## Get and read ParlGov cabinet and party data
+## Get and read cabinet and party data from ParlGov database
 
 db_file <- "parlgov-development.db"
 url <- "http://www.parlgov.org/static/data/"
@@ -39,11 +39,11 @@ cab_fam <- cab %>%
   group_by(cabinet_id, family) %>% 
   summarise(seats = sum(seats)) %>% 
   group_by(cabinet_id) %>% 
-  mutate(share = round(seats * 100 / sum(seats), 1),
+  mutate(share = round(seats / sum(seats) * 100, 1),
          family = if_else(family == "none", "spec", family)) %>% 
   select(-seats)
 
-# convert from long into wide format with tidyr
+# convert long into wide format with tidyr
 cab_fam_wide <- cab_fam %>% spread(family, share, fill = 0)
 
 cab_long <- cab_info %>% left_join(cab_fam)  
