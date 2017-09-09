@@ -65,12 +65,19 @@ ctr_yr <- ctr_yr_raw %>%
   filter(id_type == "cabinet") %>% 
   select(cabinet_id=id, year, year_share = share)
 
+ctr_yr_n <- ctr_yr %>%
+  left_join(cab %>%distinct(country_name_short, cabinet_id)) %>% 
+  group_by(country_name_short, year) %>% 
+  summarise(cabinets = n())
+
 cab_yr_fam <- ctr_yr %>%
   left_join(cab_fam) %>% 
   left_join(cab_info %>% select(country_name_short, country_name, cabinet_id)) %>% 
   group_by(country_name_short, country_name, year, family) %>% 
   summarise(share = round(sum(share * year_share), 1))
 
-cab_yr_wide <- cab_yr_fam %>% spread(family, share, fill = 0)
+cab_yr_wide <- cab_yr_fam %>%
+  left_join(ctr_yr_n) %>% 
+  spread(family, share, fill = 0)
 
 write_csv(cab_yr_wide, "cabinet-party-family-year.csv")
