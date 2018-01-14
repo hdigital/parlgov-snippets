@@ -1,0 +1,1441 @@
+country_name_short,country_name,start_date,cabinet_name,caretaker,cabinet_id,com,eco,soc,agr,lib,chr,con,right,other
+AUS,Australia,1901-03-30,Barton,1,996,0,0,0,0,0,0,100,0,0
+AUS,Australia,1903-09-24,Deakin I,0,997,0,0,0,0,0,0,100,0,0
+AUS,Australia,1904-04-27,Watson,0,998,0,0,100,0,0,0,0,0,0
+AUS,Australia,1904-08-18,Reid,0,999,0,0,0,0,49,0,51,0,0
+AUS,Australia,1905-07-05,Deakin II,0,1000,0,0,0,0,0,0,100,0,0
+AUS,Australia,1908-11-13,Fisher I,0,1001,0,0,100,0,0,0,0,0,0
+AUS,Australia,1909-06-02,Deakin III,0,1002,0,0,0,0,62.8,0,37.2,0,0
+AUS,Australia,1910-04-29,Fisher II,0,1003,0,0,100,0,0,0,0,0,0
+AUS,Australia,1913-06-24,Cook,0,1004,0,0,0,0,0,0,100,0,0
+AUS,Australia,1914-09-17,Fisher III,0,1005,0,0,100,0,0,0,0,0,0
+AUS,Australia,1915-10-27,Hughes I,0,1006,0,0,100,0,0,0,0,0,0
+AUS,Australia,1916-11-14,Hughes II,0,1007,0,0,100,0,0,0,0,0,0
+AUS,Australia,1917-02-17,Hughes III,0,1008,0,0,0,0,0,0,0,0,0
+AUS,Australia,1917-05-05,Hughes IV,0,1009,0,0,0,0,0,0,0,100,0
+AUS,Australia,1918-01-10,Hughes V,0,1010,0,0,0,0,0,0,0,100,0
+AUS,Australia,1919-12-13,Hughes VI,0,1011,0,0,0,0,0,0,0,100,0
+AUS,Australia,1923-02-09,Bruce I,0,1012,0,0,0,0,0,0,35,65,0
+AUS,Australia,1925-11-14,Bruce II,0,1013,0,0,0,0,0,0,27.5,72.5,0
+AUS,Australia,1928-11-17,Bruce III,0,1014,0,0,0,0,0,0,31,69,0
+AUS,Australia,1929-10-22,Scullin,0,1015,0,0,100,0,0,0,0,0,0
+AUS,Australia,1932-01-06,Lyons I,0,1016,0,0,0,0,0,0,100,0,0
+AUS,Australia,1934-11-09,Lyons II,0,1017,0,0,0,0,0,0,100,0,0
+AUS,Australia,1937-10-23,Lyons III,0,1018,0,0,0,0,0,0,100,0,0
+AUS,Australia,1939-04-07,Page,1,1019,0,0,0,0,0,0,100,0,0
+AUS,Australia,1939-04-26,Menzies I,0,1020,0,0,0,0,0,0,100,0,0
+AUS,Australia,1940-03-14,Menzies II,0,1021,0,0,0,0,0,0,100,0,0
+AUS,Australia,1940-10-28,Menzies III,0,1022,0,0,0,0,0,0,100,0,0
+AUS,Australia,1941-08-29,Fadden,0,1023,0,0,0,0,0,0,100,0,0
+AUS,Australia,1941-10-07,Curtin I,0,995,0,0,100,0,0,0,0,0,0
+AUS,Australia,1943-09-21,Curtin II,0,994,0,0,100,0,0,0,0,0,0
+AUS,Australia,1945-07-06,Forde,1,632,0,0,100,0,0,0,0,0,0
+AUS,Australia,1945-07-13,Chifley I,0,574,0,0,100,0,0,0,0,0,0
+AUS,Australia,1946-11-01,Chifley II,0,490,0,0,100,0,0,0,0,0,0
+AUS,Australia,1949-12-19,Menzies IV,0,450,0,0,0,0,0,0,100,0,0
+AUS,Australia,1951-05-11,Menzies V,0,566,0,0,0,0,0,0,100,0,0
+AUS,Australia,1954-07-09,Menzies VI,0,178,0,0,0,0,0,0,100,0,0
+AUS,Australia,1956-01-11,Menzies VII,0,479,0,0,0,0,0,0,100,0,0
+AUS,Australia,1958-12-10,Menzies IIX,0,627,0,0,0,0,0,0,100,0,0
+AUS,Australia,1961-12-22,Menzies IX,0,288,0,0,0,0,0,0,100,0,0
+AUS,Australia,1963-12-18,Menzies X,0,786,0,0,0,0,0,0,100,0,0
+AUS,Australia,1966-01-26,Holt I,0,261,0,0,0,0,0,0,100,0,0
+AUS,Australia,1966-12-14,Holt II,0,67,0,0,0,0,0,0,100,0,0
+AUS,Australia,1967-12-19,McEwen,0,634,0,0,0,0,0,0,100,0,0
+AUS,Australia,1968-01-10,Gorton I,0,1,0,0,0,0,0,0,100,0,0
+AUS,Australia,1968-02-28,Gorton II,0,795,0,0,0,0,0,0,100,0,0
+AUS,Australia,1969-11-12,Gorton III,0,1024,0,0,0,0,0,0,100,0,0
+AUS,Australia,1971-03-10,McMahon,1,671,0,0,0,0,0,0,100,0,0
+AUS,Australia,1972-12-19,Whitlam I,0,507,0,0,100,0,0,0,0,0,0
+AUS,Australia,1974-06-12,Whitlam II,0,844,0,0,100,0,0,0,0,0,0
+AUS,Australia,1975-11-11,Fraser I,1,720,0,0,0,0,0,0,100,0,0
+AUS,Australia,1975-12-22,Fraser II,0,836,0,0,0,0,0,0,100,0,0
+AUS,Australia,1977-12-20,Fraser III,0,421,0,0,0,0,0,0,100,0,0
+AUS,Australia,1980-11-03,Fraser IV,0,774,0,0,0,0,0,0,100,0,0
+AUS,Australia,1983-03-11,Hawke I,0,576,0,0,100,0,0,0,0,0,0
+AUS,Australia,1984-12-13,Hawke II,0,401,0,0,100,0,0,0,0,0,0
+AUS,Australia,1987-07-24,Hawke III,0,875,0,0,100,0,0,0,0,0,0
+AUS,Australia,1990-04-04,Hawke IV,0,155,0,0,100,0,0,0,0,0,0
+AUS,Australia,1991-12-20,Keating I,0,725,0,0,100,0,0,0,0,0,0
+AUS,Australia,1993-03-24,Keating II,0,49,0,0,100,0,0,0,0,0,0
+AUS,Australia,1996-03-11,Howard I,0,402,0,0,0,0,0,0,100,0,0
+AUS,Australia,1998-10-21,Howard II,0,423,0,0,0,0,0,0,100,0,0
+AUS,Australia,2001-11-26,Howard III,0,812,0,0,0,0,0,0,100,0,0
+AUS,Australia,2004-10-26,Howard IV,0,234,0,0,0,0,0,0,100,0,0
+AUS,Australia,2007-12-03,Rudd,0,385,0,0,100,0,0,0,0,0,0
+AUS,Australia,2010-06-24,Gillard I,0,736,0,0,100,0,0,0,0,0,0
+AUS,Australia,2010-09-14,Gillard II,0,108,0,0,100,0,0,0,0,0,0
+AUS,Australia,2013-06-27,Rudd II,0,1061,0,0,100,0,0,0,0,0,0
+AUS,Australia,2013-09-18,Abbott,0,1066,0,0,0,0,25.6,0,74.4,0,0
+AUS,Australia,2015-09-15,Turnbull I,0,1174,0,0,0,0,25.6,0,74.4,0,0
+AUS,Australia,2016-07-19,Turnbull II,0,1490,0,0,0,0,0,0,100,0,0
+AUT,Austria,1945-12-04,Figl I,0,133,2.4,0,46.1,0,0,51.5,0,0,0
+AUT,Austria,1947-11-20,Figl II,0,884,0,0,47.2,0,0,52.8,0,0,0
+AUT,Austria,1949-11-08,Figl III,0,775,0,0,46.5,0,0,53.5,0,0,0
+AUT,Austria,1952-10-28,Figl IV,1,560,0,0,46.5,0,0,53.5,0,0,0
+AUT,Austria,1953-04-02,Raab I,0,659,0,0,49.7,0,0,50.3,0,0,0
+AUT,Austria,1956-06-29,Raab II,0,105,0,0,47.4,0,0,52.6,0,0,0
+AUT,Austria,1959-07-16,Raab III,0,114,0,0,49.7,0,0,50.3,0,0,0
+AUT,Austria,1960-11-03,Raab IV,0,757,0,0,49.7,0,0,50.3,0,0,0
+AUT,Austria,1961-04-11,Gorbach I,0,533,0,0,49.7,0,0,50.3,0,0,0
+AUT,Austria,1962-11-18,Gorbach II,1,890,0,0,48.4,0,0,51.6,0,0,0
+AUT,Austria,1963-03-27,Gorbach III,0,622,0,0,48.4,0,0,51.6,0,0,0
+AUT,Austria,1964-04-02,Klaus I,0,483,0,0,48.4,0,0,51.6,0,0,0
+AUT,Austria,1965-10-25,Klaus II,1,1035,0,0,48.1,0,0,51.9,0,0,0
+AUT,Austria,1966-04-19,Klaus III,0,561,0,0,0,0,0,100,0,0,0
+AUT,Austria,1970-04-21,Kreisky I,0,354,0,0,100,0,0,0,0,0,0
+AUT,Austria,1971-11-04,Kreisky II,0,365,0,0,100,0,0,0,0,0,0
+AUT,Austria,1975-10-28,Kreisky III,0,350,0,0,100,0,0,0,0,0,0
+AUT,Austria,1979-06-05,Kreisky IV,0,463,0,0,100,0,0,0,0,0,0
+AUT,Austria,1983-05-24,Sinowatz,0,702,0,0,88.2,0,0,0,0,11.8,0
+AUT,Austria,1986-06-16,Vranitzky I,0,828,0,0,88.2,0,0,0,0,11.8,0
+AUT,Austria,1987-01-21,Vranitzky II,0,873,0,0,51,0,0,49,0,0,0
+AUT,Austria,1990-12-17,Vranitzky III,0,524,0,0,57.1,0,0,42.9,0,0,0
+AUT,Austria,1994-11-29,Vranitzky IV,0,294,0,0,55.6,0,0,44.4,0,0,0
+AUT,Austria,1996-03-12,Vranitzky V,0,323,0,0,57.7,0,0,42.3,0,0,0
+AUT,Austria,1997-01-28,Klima I,0,412,0,0,57.7,0,0,42.3,0,0,0
+AUT,Austria,1999-10-03,Klima II,1,1034,0,0,55.6,0,0,44.4,0,0,0
+AUT,Austria,2000-02-04,Schuessel I,0,722,0,0,0,0,0,50,0,50,0
+AUT,Austria,2002-11-24,Schuessel II,1,889,0,0,0,0,0,81.4,0,18.6,0
+AUT,Austria,2003-02-28,Schuessel III,0,257,0,0,0,0,0,81.4,0,18.6,0
+AUT,Austria,2005-04-05,Schuessel IV,0,888,0,0,0,0,0,86.8,0,13.2,0
+AUT,Austria,2007-01-11,Gusenbauer,0,583,0,0,50.7,0,0,49.3,0,0,0
+AUT,Austria,2008-12-02,Faymann I,0,268,0,0,52.8,0,0,47.2,0,0,0
+AUT,Austria,2013-12-16,Faymann II,0,1070,0,0,52.5,0,0,47.5,0,0,0
+AUT,Austria,2016-05-17,Kern,0,1485,0,0,52.5,0,0,47.5,0,0,0
+BEL,Belgium,1900-05-27,De Smet de Naeyer I,0,1374,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1902-05-25,De Smet de Naeyer II,0,1376,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1906-05-27,De Smet de Naeyer III,0,1375,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1907-12-31,De Trooz,0,1373,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1908-01-09,Schollaert,0,1372,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1910-05-22,Schollaert II,0,1377,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1911-06-18,De Broquevile I ,0,1285,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1912-06-02,De Broquevile II ,0,1284,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1914-05-24,De Broquevile III,0,1283,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1918-06-01,Cooreman,0,1282,0,0,29.9,0,23,47.1,0,0,0
+BEL,Belgium,1918-11-21,Delacroix I ,0,1281,0,0,29.9,0,23,47.1,0,0,0
+BEL,Belgium,1919-12-02,Delacroix II,0,1280,0,0,39.5,0,19.2,41.2,0,0,0
+BEL,Belgium,1920-11-20,Carton de Wiart,0,1279,0,0,39.5,0,19.2,41.2,0,0,0
+BEL,Belgium,1921-12-16,Theunis I,0,1278,0,0,0,0,30.3,69.7,0,0,0
+BEL,Belgium,1924-03-11,Theunis II,0,1488,0,0,0,0,30.3,69.7,0,0,0
+BEL,Belgium,1925-05-13,Van de Vyvere,0,1300,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1925-06-17,Poullet,0,1277,0,0,38.4,0,18.6,42.9,0,0,0
+BEL,Belgium,1926-05-20,Jasper ,0,1276,0,0,44.3,0,13.1,42.6,0,0,0
+BEL,Belgium,1927-11-27,Jasper II ,0,1275,0,0,0,0,23.5,76.5,0,0,0
+BEL,Belgium,1929-05-26,Jasper III,0,1274,0,0,0,0,28.3,71.7,0,0,0
+BEL,Belgium,1931-06-06,Renkin,0,1273,0,0,0,0,28.3,71.7,0,0,0
+BEL,Belgium,1932-10-22,De Broquevile IV,0,1272,0,0,0,0,28.3,71.7,0,0,0
+BEL,Belgium,1934-11-20,Theunis III,0,1271,0,0,0,0,23.3,76.7,0,0,0
+BEL,Belgium,1935-03-25,Van Zeeland I ,0,1270,0,0,41.5,0,13.6,44.9,0,0,0
+BEL,Belgium,1936-06-13,Van Zeeland II,0,1269,0,0,45.5,0,14.9,39.6,0,0,0
+BEL,Belgium,1937-11-24,Janson,0,1268,0,0,45.5,0,14.9,39.6,0,0,0
+BEL,Belgium,1938-05-15,Spaak I ,0,1267,0,0,45.5,0,14.9,39.6,0,0,0
+BEL,Belgium,1939-02-22,Pierlot I ,0,1301,0,0,53.4,0,0,46.6,0,0,0
+BEL,Belgium,1939-04-18,Pierlot II ,0,1266,0,0,0,0,33,67,0,0,0
+BEL,Belgium,1939-09-03,Pierlot III,0,1265,0,0,39,0,20.1,40.9,0,0,0
+BEL,Belgium,1944-09-26,Pierlot IV,1,593,21.4,0,0,0,78.6,0,0,0,0
+BEL,Belgium,1944-12-12,Pierlot V,1,29,0,0,0,0,100,0,0,0,0
+BEL,Belgium,1945-02-12,Van Acker I,1,808,21.4,0,0,0,78.6,0,0,0,0
+BEL,Belgium,1945-08-02,Van Acker II,1,204,21.4,0,0,0,78.6,0,0,0,0
+BEL,Belgium,1946-03-13,Spaak II,0,168,0,0,100,0,0,0,0,0,0
+BEL,Belgium,1946-03-31,Van Acker III,0,489,21.9,0,62.9,0,15.2,0,0,0,0
+BEL,Belgium,1946-08-03,Huysmans,0,540,21.9,0,62.9,0,15.2,0,0,0,0
+BEL,Belgium,1947-03-20,Spaak III,0,496,0,0,41.8,0,0,58.2,0,0,0
+BEL,Belgium,1948-11-26,Spaak IV,0,40,0,0,41.8,0,0,58.2,0,0,0
+BEL,Belgium,1949-08-11,Eyskens G I,0,746,0,0,0,0,21.6,78.4,0,0,0
+BEL,Belgium,1950-06-08,Duvieusart,0,695,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1950-08-16,Pholien,0,700,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1952-01-15,Houtte,0,389,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1954-04-22,Van Acker IV,0,745,0,0,77.4,0,22.6,0,0,0,0
+BEL,Belgium,1958-06-23,Eyskens G II,0,112,0,0,0,0,0,100,0,0,0
+BEL,Belgium,1958-11-06,Eyskens G III,0,144,0,0,0,0,16.1,83.9,0,0,0
+BEL,Belgium,1961-04-25,Lefevre,0,613,0,0,46.7,0,0,53.3,0,0,0
+BEL,Belgium,1965-07-27,Harmel,0,311,0,0,45.4,0,0,54.6,0,0,0
+BEL,Belgium,1966-03-19,Vanden Boeynants I,0,353,0,0,0,0,38.4,61.6,0,0,0
+BEL,Belgium,1968-06-17,Eyskens G IV,0,586,0,0,46.1,0,0,53.9,0,0,0
+BEL,Belgium,1972-01-21,Eyskens G V,0,448,0,0,47.7,0,0,52.3,0,0,0
+BEL,Belgium,1973-01-26,Leburton,0,859,0,0,38.4,0,19.5,42.1,0,0,0
+BEL,Belgium,1974-04-25,Tindemans I,0,677,0,0,0,0,29.4,70.6,0,0,0
+BEL,Belgium,1974-06-11,Tindemans II,0,847,0,0,11.3,0,26.1,62.6,0,0,0
+BEL,Belgium,1977-03-06,Tindemans III,0,451,0,0,0,0,29.4,70.6,0,0,0
+BEL,Belgium,1977-06-03,Tindemans IV,0,225,0,0,36,0,5.8,46.5,0,11.6,0
+BEL,Belgium,1978-10-20,Vanden Boeynants II,1,233,0,0,36,0,5.8,46.5,0,11.6,0
+BEL,Belgium,1979-04-03,Martens I,0,521,0,0,38.4,0,7.3,54.3,0,0,0
+BEL,Belgium,1980-01-23,Martens II,0,278,0,0,41.4,0,0,58.6,0,0,0
+BEL,Belgium,1980-05-18,Martens III,0,266,0,0,33,0,20.5,46.6,0,0,0
+BEL,Belgium,1980-10-22,Martens IV,0,453,0,0,41.4,0,0,58.6,0,0,0
+BEL,Belgium,1981-04-06,Eyskens M,0,429,0,0,41.4,0,0,58.6,0,0,0
+BEL,Belgium,1981-12-17,Martens V,0,724,0,0,0,0,46,54,0,0,0
+BEL,Belgium,1985-11-28,Martens VI,0,375,0,0,0,0,40,60,0,0,0
+BEL,Belgium,1987-10-21,Martens VII,1,92,0,0,0,0,40,60,0,0,0
+BEL,Belgium,1988-05-09,Martens VIII,0,457,0,0,48,0,0,41.3,0,10.7,0
+BEL,Belgium,1991-11-24,Martens IX,1,570,0,0,52.5,0,0,47.5,0,0,0
+BEL,Belgium,1992-03-07,Dehaene I,0,624,0,0,52.5,0,0,47.5,0,0,0
+BEL,Belgium,1995-06-23,Dehaene II,0,95,0,0,50,0,0,50,0,0,0
+BEL,Belgium,1999-07-12,Verhofstadt I,0,193,0,21.3,35.1,0,43.6,0,0,0,0
+BEL,Belgium,2003-07-12,Verhofstadt II,0,449,0,0,49.5,0,50.5,0,0,0,0
+BEL,Belgium,2007-06-10,Verhofstadt III,1,886,0,0,45.3,0,54.7,0,0,0,0
+BEL,Belgium,2007-12-21,Verhofstadt IV,1,441,0,0,19.8,0,40.6,39.6,0,0,0
+BEL,Belgium,2008-03-20,Leterme I,0,264,0,0,19.8,0,40.6,39.6,0,0,0
+BEL,Belgium,2008-12-30,Rompuy,0,80,0,0,21.3,0,43.6,35.1,0,0,0
+BEL,Belgium,2009-11-25,Leterme II,0,431,0,0,21.3,0,43.6,35.1,0,0,0
+BEL,Belgium,2010-06-13,Leterme III,1,675,0,0,37.1,0,25.7,37.1,0,0,0
+BEL,Belgium,2011-12-06,Di Rupo,0,987,0,0,41.9,0,30.1,28,0,0,0
+BEL,Belgium,2014-05-25,Di Rupo II,1,1140,0,0,37.1,0,35.1,27.8,0,0,0
+BEL,Belgium,2014-10-11,Michel,0,1147,0,0,0,0,40,21.2,38.8,0,0
+BGR,Bulgaria,1991-11-05,Dimitrov,0,348,0,0,0,0,0,100,0,0,0
+BGR,Bulgaria,1992-12-30,Berov,0,462,0,0,0,0,0,0,0,0,0
+BGR,Bulgaria,1994-10-16,Indzhova,1,109,0,0,0,0,0,0,0,0,0
+BGR,Bulgaria,1995-01-26,Videnov,0,541,0,0,100,0,0,0,0,0,0
+BGR,Bulgaria,1997-02-12,Sofiyanski,1,714,0,0,0,0,0,100,0,0,0
+BGR,Bulgaria,1997-05-21,Kostov,0,792,0,0,0,10.2,0,0,89.8,0,0
+BGR,Bulgaria,2001-07-24,Sakskoburggotski,0,575,0,0,0,0,100,0,0,0,0
+BGR,Bulgaria,2005-08-17,Stanishev,0,425,0,0,48.5,0,51.5,0,0,0,0
+BGR,Bulgaria,2009-07-27,Borisov I,0,805,0,0,0,0,0,0,100,0,0
+BGR,Bulgaria,2013-03-13,Raikov,1,1045,0,0,0,0,0,0,0,0,0
+BGR,Bulgaria,2013-05-29,Oresharski,1,1058,0,0,70,0,30,0,0,0,0
+BGR,Bulgaria,2014-08-05,Bliznashki,1,1139,0,0,0,0,0,0,0,0,0
+BGR,Bulgaria,2014-11-07,Borisov II,0,1153,0,0,9.3,0,0,0,90.7,0,0
+BGR,Bulgaria,2017-01-25,Gerdzhikov,1,1503,0,0,0,0,0,0,0,0,0
+BGR,Bulgaria,2017-05-04,Borisov III,0,1505,0,0,0,0,0,0,77.9,22.1,0
+CAN,Canada,1900-11-07,Laurier I,0,1466,0,0,0,0,100,0,0,0,0
+CAN,Canada,1904-11-03,Laurier II,0,1467,0,0,0,0,100,0,0,0,0
+CAN,Canada,1908-10-26,Laurier III,0,1468,0,0,0,0,100,0,0,0,0
+CAN,Canada,1911-10-10,Borden I,0,1171,0,0,0,0,0,0,100,0,0
+CAN,Canada,1917-10-12,Borden II,0,1170,0,0,0,0,0,0,100,0,0
+CAN,Canada,1917-12-17,Borden III,0,1469,0,0,0,0,0,0,100,0,0
+CAN,Canada,1920-07-10,Meighen,0,1169,0,0,0,0,0,0,100,0,0
+CAN,Canada,1921-12-29,King I,0,1168,0,0,0,0,100,0,0,0,0
+CAN,Canada,1926-09-25,King II,0,1167,0,0,0,0,100,0,0,0,0
+CAN,Canada,1930-08-07,Bennett ,0,1166,0,0,0,0,0,0,100,0,0
+CAN,Canada,1935-10-23,King III,0,1165,0,0,0,0,100,0,0,0,0
+CAN,Canada,1940-03-26,King IV,0,1164,0,0,0,0,100,0,0,0,0
+CAN,Canada,1945-06-11,King V,0,608,0,0,0,0,100,0,0,0,0
+CAN,Canada,1948-11-15,St-Laurent I,0,534,0,0,0,0,100,0,0,0,0
+CAN,Canada,1949-06-27,St-Laurent II,0,750,0,0,0,0,100,0,0,0,0
+CAN,Canada,1953-08-10,St-Laurent III,0,327,0,0,0,0,100,0,0,0,0
+CAN,Canada,1957-06-21,Diefenbaker I,0,249,0,0,0,0,0,0,100,0,0
+CAN,Canada,1958-03-31,Diefenbaker II,0,697,0,0,0,0,0,0,100,0,0
+CAN,Canada,1962-06-18,Diefenbaker III,0,619,0,0,0,0,0,0,100,0,0
+CAN,Canada,1963-04-22,Pearson I,0,857,0,0,0,0,100,0,0,0,0
+CAN,Canada,1965-12-18,Pearson II,0,415,0,0,0,0,100,0,0,0,0
+CAN,Canada,1968-04-20,Trudeau P I,0,565,0,0,0,0,100,0,0,0,0
+CAN,Canada,1968-07-06,Trudeau P II,0,696,0,0,0,0,100,0,0,0,0
+CAN,Canada,1972-11-27,Trudeau P III,0,25,0,0,0,0,100,0,0,0,0
+CAN,Canada,1974-08-08,Trudeau P IV,0,783,0,0,0,0,100,0,0,0,0
+CAN,Canada,1979-06-04,Clark,0,751,0,0,0,0,0,0,100,0,0
+CAN,Canada,1980-03-03,Trudeau V,0,70,0,0,0,0,100,0,0,0,0
+CAN,Canada,1984-06-30,Turner,0,670,0,0,0,0,100,0,0,0,0
+CAN,Canada,1984-09-17,Mulroney I,0,498,0,0,0,0,0,0,100,0,0
+CAN,Canada,1988-12-07,Mulroney II,0,739,0,0,0,0,0,0,100,0,0
+CAN,Canada,1993-06-25,Campbell,0,704,0,0,0,0,0,0,100,0,0
+CAN,Canada,1993-11-04,Chretien I,0,785,0,0,0,0,100,0,0,0,0
+CAN,Canada,1997-06-11,Chretien II,0,182,0,0,0,0,100,0,0,0,0
+CAN,Canada,2000-11-27,Chretien III,0,55,0,0,0,0,100,0,0,0,0
+CAN,Canada,2003-12-12,Martin I,0,103,0,0,0,0,100,0,0,0,0
+CAN,Canada,2004-07-20,Martin II,0,308,0,0,0,0,100,0,0,0,0
+CAN,Canada,2006-02-06,Harper I,0,610,0,0,0,0,0,0,100,0,0
+CAN,Canada,2008-10-30,Harper II,0,612,0,0,0,0,0,0,100,0,0
+CAN,Canada,2011-05-02,Harper III,0,919,0,0,0,0,0,0,100,0,0
+CAN,Canada,2015-11-04,Trudeau J,0,1176,0,0,0,0,100,0,0,0,0
+CHE,Switzerland,1902-12-11,Bundesrat 1902,0,1456,0,0,0,0,73.5,26.5,0,0,0
+CHE,Switzerland,1905-10-29,Bundesrat 1905,0,1457,0,0,0,0,74.3,25.7,0,0,0
+CHE,Switzerland,1908-10-25,Bundesrat 1908,0,1458,0,0,0,0,75,25,0,0,0
+CHE,Switzerland,1911-12-14,Bundesrat 1911,0,1459,0,0,0,0,75,25,0,0,0
+CHE,Switzerland,1914-10-25,Bundesrat 1914,0,1465,0,0,0,0,75.2,24.8,0,0,0
+CHE,Switzerland,1917-06-26,Bundesrat 1917 I,0,1463,0,0,0,0,77.4,22.6,0,0,0
+CHE,Switzerland,1917-12-13,Bundesrat 1917 II,0,1464,0,0,0,0,73.2,26.8,0,0,0
+CHE,Switzerland,1919-12-11,Bundesrat 1919,0,981,0,0,0,0,59.4,40.6,0,0,0
+CHE,Switzerland,1922-12-14,Bundesrat 1922,0,980,0,0,0,0,57.7,42.3,0,0,0
+CHE,Switzerland,1925-12-17,Bundesrat 1925,0,979,0,0,0,0,58.8,41.2,0,0,0
+CHE,Switzerland,1928-12-13,Bundesrat 1928,0,977,0,0,0,0,55.8,44.2,0,0,0
+CHE,Switzerland,1929-12-12,Bundesrat 1929,0,978,0,0,0,23,43,34.1,0,0,0
+CHE,Switzerland,1931-12-17,Bundesrat 1931,0,976,0,0,0,23.8,41.3,34.9,0,0,0
+CHE,Switzerland,1934-03-22,Bundesrat 1934,0,975,0,0,0,23.8,41.3,34.9,0,0,0
+CHE,Switzerland,1935-12-11,Bundesrat 1935,0,974,0,0,0,18.9,43.2,37.8,0,0,0
+CHE,Switzerland,1939-12-13,Bundesrat 1939,0,973,0,0,0,19.3,43,37.7,0,0,0
+CHE,Switzerland,1943-12-15,Bundesrat 1943,0,972,0,0,33.3,13.1,28,25.6,0,0,0
+CHE,Switzerland,1947-12-11,Bundesrat 1947,0,556,0,0,29.1,12.7,31.5,26.7,0,0,0
+CHE,Switzerland,1951-12-13,Bundesrat 1951,0,814,0,0,28.7,13.5,29.8,28.1,0,0,0
+CHE,Switzerland,1955-12-15,Bundesrat 1955,0,635,0,0,0,18.5,42,39.5,0,0,0
+CHE,Switzerland,1959-12-17,Bundesrat 1959,0,623,0,0,29.7,13.4,29.7,27.3,0,0,0
+CHE,Switzerland,1963-12-12,Bundesrat 1963,0,513,0,0,30.5,12.6,29.3,27.6,0,0,0
+CHE,Switzerland,1967-12-14,Bundesrat 1967,0,777,0,0,30.3,12.7,29.7,27.3,0,0,0
+CHE,Switzerland,1971-12-08,Bundesrat 1971,0,79,0,0,28.4,14.2,30.2,27.2,0,0,0
+CHE,Switzerland,1975-12-10,Bundesrat 1975,0,20,0,0,32.5,12.4,27.8,27.2,0,0,0
+CHE,Switzerland,1979-12-05,Bundesrat 1979,0,723,0,0,30.2,13.6,30.2,26,0,0,0
+CHE,Switzerland,1983-12-07,Bundesrat 1983,0,129,0,0,28.3,13.9,32.5,25.3,0,0,0
+CHE,Switzerland,1987-12-09,Bundesrat 1987,0,426,0,0,25.8,15.7,32.1,26.4,0,0,0
+CHE,Switzerland,1991-12-04,Bundesrat 1991,0,773,0,0,28.3,17.2,30.3,24.1,0,0,0
+CHE,Switzerland,1995-12-13,Bundesrat 1995,0,38,0,0,33.3,17.9,27.8,21,0,0,0
+CHE,Switzerland,1999-12-15,Bundesrat 1999,0,198,0,0,29.5,25.4,24.9,20.2,0,0,0
+CHE,Switzerland,2003-12-10,Bundesrat 2003,0,855,0,0,30.4,32.2,21.1,16.4,0,0,0
+CHE,Switzerland,2007-12-12,Bundesrat 2007,0,508,0,0,41,0,29.5,29.5,0,0,0
+CHE,Switzerland,2008-12-10,Bundesrat 2008,0,903,0,0,25.7,34.7,18.6,18.6,2.4,0,0
+CHE,Switzerland,2011-12-14,Bundesrat 2011,0,989,0,0,27.5,32.3,18,16.8,5.4,0,0
+CHE,Switzerland,2015-12-09,Bundesrat 2015,0,1212,0,0,25.6,38.7,19.6,16.1,0,0,0
+CYP,Cyprus,1976-09-05,Makarios,0,1478,0,0,0,0,0,0,0,0,0
+CYP,Cyprus,1977-08-31,Kyprianou I,0,166,0,0,0,0,0,0,100,0,0
+CYP,Cyprus,1978-03-08,Kyprianou II,0,210,0,0,0,0,0,0,100,0,0
+CYP,Cyprus,1981-05-24,Kyprianou III,0,914,0,0,0,0,0,0,100,0,0
+CYP,Cyprus,1983-02-28,Kyprianou IV,0,313,0,0,0,0,0,0,100,0,0
+CYP,Cyprus,1985-12-08,Kyprianou V,0,913,0,0,0,0,0,0,100,0,0
+CYP,Cyprus,1988-02-28,Vassiliou I,0,784,100,0,0,0,0,0,0,0,0
+CYP,Cyprus,1991-05-19,Vassiliou II,0,912,100,0,0,0,0,0,0,0,0
+CYP,Cyprus,1993-02-28,Clerides I,0,645,0,0,0,0,0,0,100,0,0
+CYP,Cyprus,1996-05-26,Clerides II,0,911,0,0,0,0,0,0,100,0,0
+CYP,Cyprus,1998-02-28,Clerides III,0,731,0,0,14.3,0,0,0,85.7,0,0
+CYP,Cyprus,2001-05-27,Clerides IV,0,910,0,0,12.5,0,0,0,87.5,0,0
+CYP,Cyprus,2003-02-28,Papadopoulos I,0,342,60.6,0,12.1,0,0,0,27.3,0,0
+CYP,Cyprus,2006-05-21,Papadopoulos II,0,909,52.9,0,14.7,0,0,0,32.4,0,0
+CYP,Cyprus,2008-02-28,Christofias I,0,289,52.9,0,14.7,0,0,0,32.4,0,0
+CYP,Cyprus,2010-03-02,Christofias II,0,908,62.1,0,0,0,0,0,37.9,0,0
+CYP,Cyprus,2011-05-22,Christofias III,0,921,67.9,0,0,0,0,0,32.1,0,0
+CYP,Cyprus,2011-08-05,Christofias IV,0,920,100,0,0,0,0,0,0,0,0
+CYP,Cyprus,2013-02-27,Anastasiades I,0,1064,0,0,0,0,6.5,0,93.5,0,0
+CYP,Cyprus,2014-03-14,Anastasiades II,0,1086,0,0,0,0,9.1,0,90.9,0,0
+CYP,Cyprus,2016-05-22,Anastasiades III,0,1492,0,0,0,0,0,0,100,0,0
+CZE,Czech Republic,1990-06-29,Pithart,0,262,0,0,0,0,75.6,11.3,0,0,13.1
+CZE,Czech Republic,1992-07-02,Klaus I,0,165,0,0,0,0,13.3,23.8,62.9,0,0
+CZE,Czech Republic,1993-01-01,Klaus II,0,835,0,0,0,0,13.3,23.8,62.9,0,0
+CZE,Czech Republic,1996-07-02,Klaus III,0,136,0,0,0,0,13.1,18.2,68.7,0,0
+CZE,Czech Republic,1998-01-02,Tosovsky,1,76,0,0,0,0,41.9,58.1,0,0,0
+CZE,Czech Republic,1998-07-17,Zeman,0,443,0,0,100,0,0,0,0,0,0
+CZE,Czech Republic,2002-07-15,Spidla,0,504,0,0,69.3,0,8.9,21.8,0,0,0
+CZE,Czech Republic,2004-08-04,Gross,0,580,0,0,69.3,0,8.9,21.8,0,0,0
+CZE,Czech Republic,2005-04-25,Paroubek,0,15,0,0,69.3,0,8.9,21.8,0,0,0
+CZE,Czech Republic,2006-08-16,Topolanek I,0,600,0,0,0,0,0,0,100,0,0
+CZE,Czech Republic,2007-01-09,Topolanek II,0,260,0,6,0,0,0,13,81,0,0
+CZE,Czech Republic,2009-04-09,Fischer,1,157,0,0,0,0,0,0,0,0,100
+CZE,Czech Republic,2010-06-28,Necas I,0,708,0,0,0,0,20.9,0,79.1,0,0
+CZE,Czech Republic,2012-04-27,Necas II,0,1030,0,0,0,0,8.2,0,91.8,0,0
+CZE,Czech Republic,2013-07-10,Rusnok,1,1062,0,0,0,0,0,0,0,0,100
+CZE,Czech Republic,2014-01-17,Sobotka,0,1072,0,0,45,0,42.3,12.6,0,0,0
+DEU,Germany,1949-09-20,Adenauer I,0,147,0,0,0,0,25,66.8,8.2,0,0
+DEU,Germany,1953-10-20,Adenauer II,0,192,0,0,0,0,14.4,73,4.5,8.1,0
+DEU,Germany,1955-07-15,Adenauer III,0,376,0,0,0,0,15.9,79.4,4.8,0,0
+DEU,Germany,1956-02-24,Adenauer IV,0,633,0,0,0,0,5,89.6,5.4,0,0
+DEU,Germany,1957-10-24,Adenauer V,0,793,0,0,0,0,0,94.1,5.9,0,0
+DEU,Germany,1960-07-01,Adenauer VI,0,906,0,0,0,0,0,100,0,0,0
+DEU,Germany,1961-11-14,Adenauer VII,0,62,0,0,0,0,21.7,78.3,0,0,0
+DEU,Germany,1963-10-16,Erhard I,0,31,0,0,0,0,21.7,78.3,0,0,0
+DEU,Germany,1965-10-26,Erhard II,0,326,0,0,0,0,16.7,83.3,0,0,0
+DEU,Germany,1966-12-01,Kiesinger,0,170,0,0,45.2,0,0,54.8,0,0,0
+DEU,Germany,1969-10-22,Brandt I,0,358,0,0,88.2,0,11.8,0,0,0,0
+DEU,Germany,1972-12-15,Brandt II,0,871,0,0,84.9,0,15.1,0,0,0,0
+DEU,Germany,1974-05-16,Schmidt I,0,252,0,0,84.9,0,15.1,0,0,0,0
+DEU,Germany,1976-12-15,Schmidt II,0,459,0,0,84.6,0,15.4,0,0,0,0
+DEU,Germany,1980-11-05,Schmidt III,0,343,0,0,80.4,0,19.6,0,0,0,0
+DEU,Germany,1982-10-01,Kohl I,0,642,0,0,0,0,19,81,0,0,0
+DEU,Germany,1983-03-30,Kohl II,0,346,0,0,0,0,12.2,87.8,0,0,0
+DEU,Germany,1987-03-11,Kohl III,0,286,0,0,0,0,17.1,82.9,0,0,0
+DEU,Germany,1991-01-18,Kohl IV,0,862,0,0,0,0,19.8,80.2,0,0,0
+DEU,Germany,1994-11-17,Kohl V,0,778,0,0,0,0,13.8,86.2,0,0,0
+DEU,Germany,1998-10-27,Schroeder I,0,107,0,13.6,86.4,0,0,0,0,0,0
+DEU,Germany,2002-10-22,Schroeder II,0,529,0,18,82,0,0,0,0,0,0
+DEU,Germany,2005-11-22,Merkel I,0,85,0,0,49.6,0,0,50.4,0,0,0
+DEU,Germany,2009-10-28,Merkel II,0,472,0,0,0,0,28,72,0,0,0
+DEU,Germany,2013-12-17,Merkel III,0,1071,0,0,38.3,0,0,61.7,0,0,0
+DNK,Denmark,1901-04-03,Sehested,1,1479,0,0,0,0,0,0,100,0,0
+DNK,Denmark,1901-07-24,Deuntzer I,0,1365,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1903-06-16,Deuntzer II,0,1366,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1905-01-14,Christensen,0,1364,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1906-05-29,Christensen II,0,1367,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1908-10-12,Neergaard I,0,1363,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1909-08-16,Holstein-Ledreborg,0,1362,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1909-10-28,Zahle I,0,1361,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1910-07-05,Berntsen,0,1360,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1913-06-21,Zahle II,0,1253,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1915-05-07,Zahle III,0,1252,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1918-04-22,Zahle IV,0,1251,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1920-03-30,Liebe,1,1480,0,0,0,0,0,0,0,0,0
+DNK,Denmark,1920-04-05,Friis,1,1481,0,0,0,0,0,0,0,0,0
+DNK,Denmark,1920-05-05,Neergaard II,0,1248,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1920-07-06,Neergaard III,0,1249,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1920-09-21,Neergaard IV,0,1250,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1922-10-09,Neergaard V,0,1247,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1924-04-23,Stauning I ,0,1246,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1926-12-14,Madsen-Mygdal,0,1245,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1929-04-30,Stauning II ,0,1244,0,0,79.2,0,20.8,0,0,0,0
+DNK,Denmark,1932-11-16,Stauning III,0,1243,0,0,81.6,0,18.4,0,0,0,0
+DNK,Denmark,1935-11-04,Stauning IV,0,1242,0,0,82.9,0,17.1,0,0,0,0
+DNK,Denmark,1939-04-03,Stauning V,0,1241,0,0,82.1,0,17.9,0,0,0,0
+DNK,Denmark,1945-05-05,Buhl II,1,10,0,0,46.8,0,29.1,0,22,2.1,0
+DNK,Denmark,1945-11-07,Kristensen,0,387,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1947-11-13,Hedtoft I,0,408,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1950-09-16,Hedtoft II,0,853,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1950-10-30,Eriksen I,0,36,0,0,0,0,54.2,0,45.8,0,0
+DNK,Denmark,1953-04-21,Eriksen II,0,359,0,0,0,0,55.9,0,44.1,0,0
+DNK,Denmark,1953-09-30,Hedtoft III,0,879,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1955-02-01,Hansen I,0,218,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1957-05-28,Hansen II,0,51,0,0,75.3,0,24.7,0,0,0,0
+DNK,Denmark,1960-02-21,Kampmann I,0,467,0,0,75.3,0,24.7,0,0,0,0
+DNK,Denmark,1960-11-18,Kampmann II,0,456,0,0,87.4,0,12.6,0,0,0,0
+DNK,Denmark,1962-09-03,Krag I,0,841,0,0,87.4,0,12.6,0,0,0,0
+DNK,Denmark,1964-09-26,Krag II,0,660,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1966-11-22,Krag III,0,825,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1968-02-02,Baunsgaard,0,596,0,0,0,0,62.2,0,37.8,0,0
+DNK,Denmark,1971-10-11,Krag IV,0,345,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1972-10-05,Jorgensen I,0,320,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1973-12-19,Hartling,0,744,0,0,0,0,100,0,0,0,0
+DNK,Denmark,1975-02-13,Jorgensen II,0,50,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1977-02-15,Jorgensen III,0,248,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1978-08-30,Jorgensen IV,0,824,0,0,75.6,0,24.4,0,0,0,0
+DNK,Denmark,1979-10-26,Jorgensen V,0,379,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1981-12-30,Jorgensen VI,0,275,0,0,100,0,0,0,0,0,0
+DNK,Denmark,1982-09-10,Schluter I,0,819,0,0,0,0,30.8,6.2,63.1,0,0
+DNK,Denmark,1984-01-10,Schluter II,0,195,0,0,0,0,28.6,6.5,64.9,0,0
+DNK,Denmark,1987-09-10,Schluter III,0,837,0,0,0,0,27.1,5.7,67.1,0,0
+DNK,Denmark,1988-06-03,Schluter IV,0,57,0,0,0,0,47.8,0,52.2,0,0
+DNK,Denmark,1990-12-18,Schluter V,0,11,0,0,0,0,49.2,0,50.8,0,0
+DNK,Denmark,1993-01-25,Rasmussen N I,0,740,0,0,77.5,0,7.9,4.5,10.1,0,0
+DNK,Denmark,1994-09-27,Rasmussen N II,0,189,0,0,82.7,0,10.7,0,6.7,0,0
+DNK,Denmark,1996-12-30,Rasmussen N III,0,255,0,0,88.6,0,11.4,0,0,0,0
+DNK,Denmark,1998-03-11,Rasmussen N IV,0,630,0,0,90,0,10,0,0,0,0
+DNK,Denmark,2001-11-27,Rasmussen F I,0,482,0,0,0,0,77.8,0,22.2,0,0
+DNK,Denmark,2005-02-18,Rasmussen F II,0,316,0,0,0,0,74.3,0,25.7,0,0
+DNK,Denmark,2007-11-23,Rasmussen F III,0,788,0,0,0,0,71.9,0,28.1,0,0
+DNK,Denmark,2009-04-05,Rasmussen L I,0,71,0,0,0,0,72.3,0,27.7,0,0
+DNK,Denmark,2011-10-02,Thorning-Schmidt I,0,970,0,20.8,57.1,0,22.1,0,0,0,0
+DNK,Denmark,2014-02-03,Thorning-Schmidt II,0,1074,0,0,72.1,0,27.9,0,0,0,0
+DNK,Denmark,2015-06-28,Rasmussen L II,0,1172,0,0,0,0,100,0,0,0,0
+DNK,Denmark,2016-11-28,Rasmussen L III,0,1497,0,0,0,0,88.7,0,11.3,0,0
+ESP,Spain,1977-07-04,Suarez I,0,205,0,0,0,0,100,0,0,0,0
+ESP,Spain,1979-04-05,Suarez II,0,539,0,0,0,0,100,0,0,0,0
+ESP,Spain,1981-02-26,Calvo-Sotelo,0,406,0,0,0,0,100,0,0,0,0
+ESP,Spain,1982-12-02,Gonzalez I,0,238,0,0,100,0,0,0,0,0,0
+ESP,Spain,1986-07-25,Gonzalez II,0,834,0,0,100,0,0,0,0,0,0
+ESP,Spain,1989-12-05,Gonzalez III,0,37,0,0,100,0,0,0,0,0,0
+ESP,Spain,1993-07-09,Gonzalez IV,0,654,0,0,100,0,0,0,0,0,0
+ESP,Spain,1996-05-05,Aznar I,0,370,0,0,0,0,0,0,100,0,0
+ESP,Spain,2000-04-26,Aznar II,0,309,0,0,0,0,0,0,100,0,0
+ESP,Spain,2004-04-17,Zapatero I,0,806,0,0,100,0,0,0,0,0,0
+ESP,Spain,2008-04-12,Zapatero II,0,497,0,0,100,0,0,0,0,0,0
+ESP,Spain,2011-12-21,Rajoy I,0,988,0,0,0,0,0,0,100,0,0
+ESP,Spain,2015-12-20,Rajoy II,1,1421,0,0,0,0,0,0,100,0,0
+ESP,Spain,2016-06-26,Rajoy III,1,1493,0,0,0,0,0,0,100,0,0
+ESP,Spain,2016-10-29,Rajoy IV,0,1494,0,0,0,0,0,0,100,0,0
+EST,Estonia,1992-10-21,Laar I,0,564,0,0,23.5,0,0,0,76.5,0,0
+EST,Estonia,1994-11-03,Tarand,0,4,0,0,23.5,0,0,0,76.5,0,0
+EST,Estonia,1995-04-17,Vahi I,0,604,0,0,28.1,0,71.9,0,0,0,0
+EST,Estonia,1995-11-03,Vahi II,0,530,0,0,0,0,100,0,0,0,0
+EST,Estonia,1996-12-01,Vahi III,0,271,0,0,0,0,100,0,0,0,0
+EST,Estonia,1997-03-14,Siimann,0,303,0,0,0,0,100,0,0,0,0
+EST,Estonia,1999-03-25,Laar II,0,480,0,0,32.1,0,34,0,34,0,0
+EST,Estonia,2002-01-28,Kallas,0,152,0,0,60.9,0,39.1,0,0,0,0
+EST,Estonia,2003-04-10,Parts,0,138,0,0,0,0,31.7,0,68.3,0,0
+EST,Estonia,2005-04-13,Ansip I,0,274,0,0,46.7,0,31.7,0,21.7,0,0
+EST,Estonia,2007-04-05,Ansip II,0,686,0,0,16.7,0,51.7,0,31.7,0,0
+EST,Estonia,2009-05-21,Ansip III,0,902,0,0,0,0,62,0,38,0,0
+EST,Estonia,2011-04-05,Ansip IV,0,905,0,0,0,0,58.9,0,41.1,0,0
+EST,Estonia,2014-03-26,Roivas I,0,1095,0,0,36.5,0,63.5,0,0,0,0
+EST,Estonia,2015-04-09,Roivas II,0,1160,0,0,25.4,0,50.8,0,23.7,0,0
+EST,Estonia,2016-11-20,Ratas,0,1495,0,0,75,0,0,0,25,0,0
+FIN,Finland,1917-11-27,Svinhufvud I,0,1475,0,0,0,32.9,26.6,0,40.5,0,0
+FIN,Finland,1918-05-27,Paasikivi,0,1221,0,0,0,32.9,26.6,0,40.5,0,0
+FIN,Finland,1918-11-27,Ingman,0,1220,0,0,0,55.3,44.7,0,0,0,0
+FIN,Finland,1919-04-17,Castren ,0,1219,0,0,0,46.7,53.3,0,0,0,0
+FIN,Finland,1919-08-15,Vennola I ,0,1218,0,0,0,61.8,38.2,0,0,0,0
+FIN,Finland,1920-03-15,Erich,0,1217,0,0,0,35.6,40.7,0,23.7,0,0
+FIN,Finland,1921-04-09,Vennola II,0,1216,0,0,0,61.8,38.2,0,0,0,0
+FIN,Finland,1922-06-02,Cajander I ,1,1215,0,0,0,0,0,0,0,0,0
+FIN,Finland,1922-11-14,Kallio I ,0,1214,0,0,0,75,25,0,0,0,0
+FIN,Finland,1924-01-18,Cajander II,1,1213,0,0,0,0,0,0,0,0,0
+FIN,Finland,1924-05-31,Ingman II,0,1211,0,0,0,37.5,33.3,0,29.2,0,0
+FIN,Finland,1925-03-31,Tulenheimo,0,1210,0,0,0,56.2,0,0,43.8,0,0
+FIN,Finland,1925-12-31,Kallio II,0,1209,0,0,0,56.2,0,0,43.8,0,0
+FIN,Finland,1926-12-13,Tanner ,0,1208,0,0,100,0,0,0,0,0,0
+FIN,Finland,1927-12-17,Sunila I ,0,1207,0,0,0,100,0,0,0,0,0
+FIN,Finland,1928-12-22,Mantere,0,1206,0,0,0,83.9,16.1,0,0,0,0
+FIN,Finland,1929-08-16,Kallio III,0,1205,0,0,0,100,0,0,0,0,0
+FIN,Finland,1930-07-04,Svinhufvud II,0,1204,0,0,0,50.8,25.4,0,23.7,0,0
+FIN,Finland,1931-03-21,Sunila II,0,1203,0,0,0,44.7,23.5,0,31.8,0,0
+FIN,Finland,1932-12-14,Kivimäki I,0,1202,0,0,0,65.6,34.4,0,0,0,0
+FIN,Finland,1933-07-01,Kivimäki II,0,1201,0,0,0,62.4,37.6,0,0,0,0
+FIN,Finland,1936-07-04,Kallio IV,0,1200,0,0,0,88.3,11.7,0,0,0,0
+FIN,Finland,1937-03-12,Cajander III,0,1199,0,0,58,37.1,4.9,0,0,0,0
+FIN,Finland,1944-09-21,Castren,0,305,0,0,44.7,29.5,12.6,0,13.2,0,0
+FIN,Finland,1944-11-17,Paasikivi I,0,120,0,0,49.4,32.6,3.5,0,14.5,0,0
+FIN,Finland,1945-04-17,Paasikivi II,0,815,28.7,0,29.2,28.7,13.5,0,0,0,0
+FIN,Finland,1946-03-26,Pekkala,0,125,30.2,0,30.9,30.2,8.6,0,0,0,0
+FIN,Finland,1948-07-29,Fagerholm I,0,78,0,0,100,0,0,0,0,0,0
+FIN,Finland,1950-03-17,Kekkonen I,0,872,0,0,0,75.7,24.3,0,0,0,0
+FIN,Finland,1951-01-17,Kekkonen II,0,639,0,0,42.2,43.8,14.1,0,0,0,0
+FIN,Finland,1951-09-20,Kekkonen III,0,200,0,0,44.9,43.2,11.9,0,0,0,0
+FIN,Finland,1953-07-09,Kekkonen IV,0,232,0,0,0,78.5,21.5,0,0,0,0
+FIN,Finland,1953-11-17,Tuomioja,1,738,0,0,0,49.5,23.3,0,27.2,0,0
+FIN,Finland,1954-05-05,Torngren,0,161,0,0,45.4,44.5,10.1,0,0,0,0
+FIN,Finland,1954-10-20,Kekkonen V,0,685,0,0,50.5,49.5,0,0,0,0,0
+FIN,Finland,1956-03-03,Fagerholm II,0,373,0,0,40.9,40.2,18.9,0,0,0,0
+FIN,Finland,1957-05-27,Sukselainen I,0,747,0,0,0,67.9,32.1,0,0,0,0
+FIN,Finland,1957-09-02,Sukselainen II,0,631,0,0,0,80.3,19.7,0,0,0,0
+FIN,Finland,1957-11-29,Fieandt,1,860,0,0,0,0,0,0,0,0,0
+FIN,Finland,1958-04-25,Kuuskoski,1,791,0,0,0,0,0,0,0,0,0
+FIN,Finland,1958-08-29,Fagerholm III,0,552,0,0,27.9,35.3,15.4,0,21.3,0,0
+FIN,Finland,1959-01-13,Sukselainen III,0,230,0,0,0,78.7,21.3,0,0,0,0
+FIN,Finland,1961-07-14,Miettunen I,0,598,0,0,0,100,0,0,0,0,0
+FIN,Finland,1962-04-13,Karjalainen I,0,764,0,0,1.8,46.9,23,0,28.3,0,0
+FIN,Finland,1963-12-18,Lehto,1,332,0,0,0,0,0,0,0,0,0
+FIN,Finland,1964-09-12,Virolainen,0,139,0,0,0,47.7,23.4,0,28.8,0,0
+FIN,Finland,1966-05-27,Paasio I,0,339,27,0,40.8,32.2,0,0,0,0,0
+FIN,Finland,1968-03-22,Koivisto I,0,203,25.2,0,38,30.1,6.7,0,0,0,0
+FIN,Finland,1970-05-14,Aura I,1,707,0,0,0,0,0,0,0,0,0
+FIN,Finland,1970-07-15,Karjalainen II,0,115,25.2,0,36.4,25.2,13.3,0,0,0,0
+FIN,Finland,1971-03-26,Karjalainen III,0,856,27.3,0,39.4,27.3,6.1,0,0,0,0
+FIN,Finland,1971-10-29,Aura II,1,391,0,0,0,0,0,0,0,0,0
+FIN,Finland,1972-02-23,Paasio II,0,618,0,0,100,0,0,0,0,0,0
+FIN,Finland,1972-09-04,Sorsa I,0,769,0,0,51.9,33,15.1,0,0,0,0
+FIN,Finland,1975-06-13,Liinamaa,1,143,0,0,0,0,0,0,0,0,0
+FIN,Finland,1975-11-30,Miettunen II,0,476,26.5,0,35.8,25.8,11.9,0,0,0,0
+FIN,Finland,1976-09-29,Miettunen III,0,848,0,0,0,68.4,31.6,0,0,0,0
+FIN,Finland,1977-05-15,Sorsa II,0,466,26.5,0,35.8,25.8,11.9,0,0,0,0
+FIN,Finland,1978-03-02,Sorsa III,0,492,28.2,0,38,27.5,6.3,0,0,0,0
+FIN,Finland,1979-05-26,Koivisto II,0,776,26.5,0,39.4,27.3,6.8,0,0,0,0
+FIN,Finland,1982-02-19,Sorsa IV,0,378,26.5,0,39.4,27.3,6.8,0,0,0,0
+FIN,Finland,1982-12-31,Sorsa V,0,34,0,0,51.5,35.6,12.9,0,0,0,0
+FIN,Finland,1983-05-06,Sorsa VI,0,650,0,0,46.7,45.1,8.2,0,0,0,0
+FIN,Finland,1987-04-30,Holkeri I,0,614,0,0,43.1,6.9,9.2,0,40.8,0,0
+FIN,Finland,1990-08-28,Holkeri II,0,41,0,0,46.3,0,9.9,0,43.8,0,0
+FIN,Finland,1991-04-26,Aho I,0,831,0,0,0,48.2,9.6,7,35.1,0,0
+FIN,Finland,1994-06-26,Aho II,0,206,0,0,0,51.9,10.4,0,37.7,0,0
+FIN,Finland,1995-04-13,Lipponen I,0,100,15.3,6.2,43.8,0,7.6,0,27.1,0,0
+FIN,Finland,1999-04-15,Lipponen II,0,352,14.4,7.9,36.7,0,7.9,0,33.1,0,0
+FIN,Finland,2002-05-31,Lipponen III,0,663,15.6,0,39.8,0,8.6,0,35.9,0,0
+FIN,Finland,2003-04-17,Jaatteenmaki,0,877,0,0,45.7,47.4,6.9,0,0,0,0
+FIN,Finland,2003-06-24,Vanhanen I,0,759,0,0,45.7,47.4,6.9,0,0,0,0
+FIN,Finland,2007-04-19,Vanhanen II,0,277,0,12,0,40.8,7.2,0,40,0,0
+FIN,Finland,2010-06-22,Kiviniemi,0,383,0,12,0,40.8,7.2,0,40,0,0
+FIN,Finland,2011-06-22,Katainen I,0,918,11.2,8,33.6,0,7.2,4.8,35.2,0,0
+FIN,Finland,2014-03-25,Katainen II,0,1094,0,9,37.8,0,8.1,5.4,39.6,0,0
+FIN,Finland,2014-06-24,Stubb I,0,1110,0,9,37.8,0,8.1,5.4,39.6,0,0
+FIN,Finland,2014-09-20,Stubb II,0,1145,0,0,41.6,0,8.9,5.9,43.6,0,0
+FIN,Finland,2015-05-29,Sipilae I,0,1163,0,0,0,70.2,0,0,29.8,0,0
+FIN,Finland,2017-06-13,Sipilae II,0,1510,0,0,0,46.2,0,0,34.9,18.9,0
+FRA,France,1902-06-07,Combes,0,1387,0,0,0,0,47.7,0,52.3,0,0
+FRA,France,1905-01-24,Rouvier ,0,1388,0,0,0,0,47.7,0,52.3,0,0
+FRA,France,1906-03-14,Sarrien I,0,1409,0,0,0,0,70,0,30,0,0
+FRA,France,1906-05-20,Sarrien II,1,1411,5.8,0,0,0,16.8,0,77.3,0,0
+FRA,France,1906-10-25,Clemenceau I,0,1390,5.8,0,0,0,16.8,0,77.3,0,0
+FRA,France,1909-07-24,Briand I,0,1391,5.2,0,0,0,14.9,0,79.9,0,0
+FRA,France,1910-05-08,Briand II,1,1412,19.2,0,0,0,0,0,80.8,0,0
+FRA,France,1910-11-03,Briand III,0,1392,19.2,0,0,0,0,0,80.8,0,0
+FRA,France,1911-03-02,Monis,0,1393,0,0,58,0,0,0,42,0,0
+FRA,France,1911-06-27,Caillaux,0,1394,0,0,58,0,0,0,42,0,0
+FRA,France,1912-01-14,Poincare I,0,1395,0,0,58,0,0,0,42,0,0
+FRA,France,1913-01-21,Briand IV,0,1396,0,0,100,0,0,0,0,0,0
+FRA,France,1913-03-22,Barthou,0,1397,0,0,0,0,0,0,0,100,0
+FRA,France,1913-12-22,Doumergue I,0,1398,0,0,58,0,0,0,42,0,0
+FRA,France,1914-06-09,Ribot I,0,1399,0,0,0,0,0,0,60.8,39.2,0
+FRA,France,1914-06-13,Viviani I,0,1400,0,0,10.4,0,0,0,89.6,0,0
+FRA,France,1914-08-26,Viviani II,0,1401,0,0,25.3,0,0,0,45.4,29.2,0
+FRA,France,1915-10-29,Briand V,0,1402,0,0,31.2,0,0,0,32.9,36,0
+FRA,France,1916-12-12,Briand VI,0,1403,0,0,31.2,0,0,0,32.9,36,0
+FRA,France,1917-03-20,Ribot II,0,1404,0,0,25.3,0,0,0,45.4,29.2,0
+FRA,France,1917-09-12,Painleve ?,0,1405,0,0,100,0,0,0,0,0,0
+FRA,France,1917-11-16,Clemenceau II,0,1359,0,0,16.5,0,0,0,83.5,0,0
+FRA,France,1919-10-16,Clemenceau III,0,1413,0,0,10.6,0,38.2,0,51.2,0,0
+FRA,France,1920-01-20,Millerand I,0,1358,0,0,4.8,0,17.2,0,34.2,43.8,0
+FRA,France,1920-02-18,Millerand II,0,1357,0,0,0,0,18.1,0,35.9,46,0
+FRA,France,1920-09-24,Leygues,0,1356,0,0,4.8,0,17.2,0,34.2,43.8,0
+FRA,France,1921-01-16,Briand VII,0,1355,0,0,4.8,0,17.2,0,34.2,43.8,0
+FRA,France,1922-01-15,Poincare II,0,1354,0,0,0,0,20.5,0,27.5,52.1,0
+FRA,France,1924-06-08,Francois-Marsal,0,1353,0,0,0,0,20.6,0,0,79.4,0
+FRA,France,1924-06-14,Herriot I,0,1352,0,0,0,0,24.7,0,75.3,0,0
+FRA,France,1925-04-17,Painleve,0,1351,0,0,0,0,0,0,100,0,0
+FRA,France,1925-11-28,Briand VIII,0,1350,0,0,0,0,24.7,0,75.3,0,0
+FRA,France,1926-07-19,Herriot II ,0,1348,0,0,0,0,24.7,0,75.3,0,0
+FRA,France,1926-07-23,Poincare III,0,1347,0,0,0,0,12.6,0,38.7,48.7,0
+FRA,France,1928-04-29,Poincare IV,1,1410,0,0,7.2,0,16.1,0,37.3,39.5,0
+FRA,France,1928-11-11,Poincare V,0,1346,0,0,7.2,0,16.1,0,37.3,39.5,0
+FRA,France,1929-07-29,Briand IX,0,1345,0,0,7.2,0,16.1,0,37.3,39.5,0
+FRA,France,1929-11-03,Tardieu I ,0,1344,0,0,7.2,0,16.1,0,37.3,39.5,0
+FRA,France,1930-02-21,Chautemps I,0,1343,0,0,11.8,0,26.5,0,61.6,0,0
+FRA,France,1930-03-02,Tardieu II ,0,1342,0,0,7.2,0,16.1,0,37.3,39.5,0
+FRA,France,1930-12-13,Steeg,0,1341,0,0,11.8,0,26.5,0,61.6,0,0
+FRA,France,1931-01-27,Laval I ,0,1340,0,0,7.2,0,16.1,0,37.3,39.5,0
+FRA,France,1932-01-14,Laval II,0,1414,0,0,0,0,17.3,0,40.2,42.5,0
+FRA,France,1932-02-20,Tardieu III ,0,1338,0,0,0,0,24,0,16.9,59.1,0
+FRA,France,1932-06-03,Herriot III,0,1337,0,0,11.1,0,0,0,66,22.9,0
+FRA,France,1932-12-18,Paul-Boncour,0,1336,0,0,11.3,0,22,0,66.8,0,0
+FRA,France,1933-01-31,Daladier I ,0,1335,0,0,11.3,0,22,0,66.8,0,0
+FRA,France,1933-10-26,Sarraut I ,0,1334,0,0,11.3,0,22,0,66.8,0,0
+FRA,France,1933-11-26,Chautemps II ,0,1333,0,0,11.3,0,22,0,66.8,0,0
+FRA,France,1934-01-30,Daladier II ,0,1332,0,0,0,0,19.6,0,59.7,20.7,0
+FRA,France,1934-02-09,Doumergue II,0,1331,0,0,11.3,0,22,0,66.8,0,0
+FRA,France,1934-11-08,Flandin,0,1330,0,0,0,0,19.6,0,59.7,20.7,0
+FRA,France,1935-06-01,Bouisson,0,1329,0,0,11.1,0,0,0,66,22.9,0
+FRA,France,1935-06-07,Laval III,0,1328,0,0,0,0,19.6,0,59.7,20.7,0
+FRA,France,1936-01-24,Sarraut II,0,1327,0,0,0,0,24.7,0,75.3,0,0
+FRA,France,1936-06-04,Blum I,0,1307,21.8,0,45.2,0,0,0,33,0,0
+FRA,France,1937-06-29,Chautemps III,0,1306,21.8,0,45.2,0,0,0,33,0,0
+FRA,France,1938-03-13,Blum II,0,1305,21.8,0,45.2,0,0,0,33,0,0
+FRA,France,1938-04-12,Daladier III,0,1304,0,0,33.9,0,0,0,66.1,0,0
+FRA,France,1939-05-11,Daladier IV,0,1303,0,0,33.9,0,0,0,66.1,0,0
+FRA,France,1939-09-13,Daladier V,0,1302,0,0,14.5,0,0,0,28.2,57.4,0
+FRA,France,1940-03-22,Reynaud ,0,1415,0,0,38.2,0,0,0,20.3,41.4,0
+FRA,France,1940-06-16,Petain,0,1416,0,0,65.3,0,0,0,34.7,0,0
+FRA,France,1944-11-10,de Gaulle I,1,329,21.8,0,45.2,0,0,0,33,0,0
+FRA,France,1945-11-21,de Gaulle II,1,411,32.2,0,29.1,0,0,30.7,7.6,0,0.4
+FRA,France,1946-01-26,Gouin,1,648,35,0,31.7,0,0,33.3,0,0,0
+FRA,France,1946-06-24,Bidault I,1,150,31.7,0,25,0,0,34.8,8.5,0,0
+FRA,France,1946-12-16,Blum,0,52,0,0,100,0,0,0,0,0,0
+FRA,France,1947-01-22,Ramadier I,0,330,30.8,0,16.7,0,0,29.3,23.2,0,0
+FRA,France,1947-11-24,Schuman I,0,753,0,0,30.3,0,0,48.3,21.4,0,0
+FRA,France,1948-07-27,Marie,0,263,0,0,27,0,0,42.9,30.1,0,0
+FRA,France,1948-08-31,Schuman II,0,363,0,0,30.3,0,0,48.3,21.4,0,0
+FRA,France,1948-09-10,Queuille I,0,355,0,0,30.3,0,0,48.3,21.4,0,0
+FRA,France,1949-10-28,Bidault II,0,636,0,0,31.7,0,0,40.1,28.1,0,0
+FRA,France,1950-02-02,Bidault III,0,758,0,0,8.7,0,0,53.7,37.6,0,0
+FRA,France,1950-07-02,Queuille II,0,1142,0,0,8.7,0,0,53.7,37.6,0,0
+FRA,France,1950-07-12,Pleven I,0,367,0,0,31.7,0,0,40.1,28.1,0,0
+FRA,France,1951-03-10,Queuille III,0,104,0,0,31.7,0,0,40.1,28.1,0,0
+FRA,France,1951-08-11,Pleven II,0,826,0,0,5.9,0,0,31.5,62.6,0,0
+FRA,France,1952-01-20,Faure I,0,32,0,0,5.9,0,0,31.5,62.6,0,0
+FRA,France,1952-03-08,Pinay,0,658,0,0,5.9,0,0,31.5,62.6,0,0
+FRA,France,1953-01-07,Mayer,0,557,0,0,5.3,0,0,28.7,66,0,0
+FRA,France,1953-06-28,Laniel,0,400,0,0,4.1,0,0,21.9,74,0,0
+FRA,France,1954-06-19,Mendes-France,0,414,0,0,4.4,0,0,23.5,72.1,0,0
+FRA,France,1955-02-23,Faure II,0,397,0,0,4.4,0,0,23.5,72.1,0,0
+FRA,France,1956-01-31,Mollet,0,591,0,0,54.7,0,0,0,45.3,0,0
+FRA,France,1957-06-13,Bourges-Maunoury,0,209,0,0,57.5,0,0,0,42.5,0,0
+FRA,France,1957-11-05,Gaillard,0,458,0,0,27.2,0,0,20.1,52.7,0,0
+FRA,France,1958-05-12,Pflimlin,0,594,0,0,28.9,0,0,21.4,49.7,0,0
+FRA,France,1958-06-02,de Gaulle III,1,197,0,0,27.7,0,0,20.5,49.9,0,1.9
+FRA,France,1959-01-08,Debré,0,692,0,0,0,0,0,16.5,83.5,0,0
+FRA,France,1962-04-15,Pompidou I,0,526,0,0,0,0,0,15.1,76.4,0,8.5
+FRA,France,1962-12-06,Pompidou II,0,698,0,0,0,0,0,0,95.4,0,4.6
+FRA,France,1966-01-09,Pompidou III,0,349,0,0,0,0,0,0,95.4,0,4.6
+FRA,France,1967-04-08,Pompidou IV,0,662,0,0,0,0,0,0,100,0,0
+FRA,France,1968-07-12,Murville,0,131,0,0,0,0,0,0,100,0,0
+FRA,France,1969-06-22,Chaban-Delmas,0,111,0,0,0,0,0,8.5,91.5,0,0
+FRA,France,1972-07-06,Messmer I,0,430,0,0,0,0,0,0,100,0,0
+FRA,France,1973-04-05,Messmer II,0,607,0,0,0,0,0,11.2,88.8,0,0
+FRA,France,1974-03-01,Messmer III,0,17,0,0,0,0,0,11.2,88.8,0,0
+FRA,France,1974-05-28,Chirac I,0,159,0,0,0,0,0,12.5,87.5,0,0
+FRA,France,1976-08-17,Barre I,0,21,0,0,0,0,0,10.7,84.7,0,4.6
+FRA,France,1978-03-31,Barre II,0,72,0,0,0,0,0,0,94.9,0,5.1
+FRA,France,1981-05-22,Mauroy I,0,1148,0,0,100,0,0,0,0,0,0
+FRA,France,1981-06-23,Mauroy II,0,116,13.2,0,86.8,0,0,0,0,0,0
+FRA,France,1983-03-22,Mauroy III,0,428,13.4,0,86.6,0,0,0,0,0,0
+FRA,France,1984-07-17,Fabius,0,843,0,0,100,0,0,0,0,0,0
+FRA,France,1986-03-20,Chirac II,0,290,0,0,0,0,0,0,100,0,0
+FRA,France,1988-05-10,Rocard I,0,1150,0,0,100,0,0,0,0,0,0
+FRA,France,1988-06-23,Rocard II,0,712,0,0,100,0,0,0,0,0,0
+FRA,France,1991-05-16,Cresson,0,229,0,0,100,0,0,0,0,0,0
+FRA,France,1992-04-02,Beregovoy I,0,199,0,0,100,0,0,0,0,0,0
+FRA,France,1993-03-29,Balladur,0,318,0,0,0,0,0,0,100,0,0
+FRA,France,1995-05-17,Juppe I,0,244,0,0,0,0,0,0,100,0,0
+FRA,France,1995-11-07,Juppe II,0,422,0,0,0,0,0,0,100,0,0
+FRA,France,1997-06-02,Jospin,0,481,13.4,0,86.6,0,0,0,0,0,0
+FRA,France,2002-05-07,Raffarin I,0,711,0,0,0,0,0,0,100,0,0
+FRA,France,2002-06-17,Raffarin II,0,820,0,0,0,0,0,0,100,0,0
+FRA,France,2004-03-30,Raffarin III,0,802,0,0,0,0,0,0,100,0,0
+FRA,France,2005-05-31,Villepin,0,46,0,0,0,0,0,0,100,0,0
+FRA,France,2007-05-18,Fillon I,0,807,0,0,0,0,0,0,100,0,0
+FRA,France,2007-06-18,Fillon II,0,306,0,0,0,0,6.6,0,93.4,0,0
+FRA,France,2010-11-14,Fillon III,0,883,0,0,0,0,6.7,0,93.3,0,0
+FRA,France,2012-05-15,Ayrault I,0,1037,0,0,100,0,0,0,0,0,0
+FRA,France,2012-06-18,Ayrault II,0,1038,0,5.5,94.5,0,0,0,0,0,0
+FRA,France,2014-03-31,Valls I,0,1103,0,0,100,0,0,0,0,0,0
+FRA,France,2014-08-26,Valls II,0,1141,0,0,100,0,0,0,0,0,0
+FRA,France,2016-02-11,Valls III,0,1406,0,5.2,94.8,0,0,0,0,0,0
+FRA,France,2016-12-06,Cazeneuve,1,1498,0,5.2,94.8,0,0,0,0,0,0
+FRA,France,2017-06-14,Philippe I,0,1508,0,0,7.4,0,0,0,92.6,0,0
+FRA,France,2017-06-21,Philippe II,0,1509,0,0,0.6,0,66.2,0,33.1,0,0
+GBR,United Kingdom,1919-01-10,Lloyd George I,0,1295,0,0,0.9,0,27.4,0,71.7,0,0
+GBR,United Kingdom,1922-10-24,Bonar Law,0,1294,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1923-05-25,Baldwin I ,0,1293,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1924-01-23,MacDonald I ,0,1292,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1924-11-06,Baldwin II ,0,1291,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1929-06-05,MacDonald II ,0,1290,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1931-11-05,MacDonald III,0,1289,0,0,2.4,0,12.2,0,85.5,0,0
+GBR,United Kingdom,1935-06-07,Baldwin III,0,1287,0,0,8.8,0,11.4,0,79.8,0,0
+GBR,United Kingdom,1935-11-14,Baldwin IV,0,1288,0,0,25.9,0,9.1,0,65,0,0
+GBR,United Kingdom,1937-05-28,Chamberlain,0,1286,0,0,1.9,0,7.7,0,90.4,0,0
+GBR,United Kingdom,1945-07-26,Attlee I,0,99,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1950-02-28,Attlee II,0,88,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1951-10-26,Churchill III,0,691,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1955-04-06,Eden I,0,729,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1955-05-26,Eden II,0,184,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1957-01-10,Macmillan I,0,404,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1959-10-14,Macmillan II,0,237,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1963-10-18,Douglas-Home,0,63,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1964-10-16,Wilson I,0,760,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1966-04-05,Wilson II,0,733,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1970-06-19,Heath,0,216,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1974-03-04,Wilson III,0,419,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1974-10-10,Wilson IV,0,7,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1976-04-05,Callaghan,0,590,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,1979-05-04,Thatcher I,0,273,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1983-06-09,Thatcher II,0,646,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1987-06-11,Thatcher III,0,297,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1990-11-28,Major I,0,515,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1992-04-09,Major II,0,678,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,1997-05-02,Blair I,0,838,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,2001-06-07,Blair II,0,19,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,2005-05-06,Blair III,0,516,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,2007-06-27,Brown,0,119,0,0,100,0,0,0,0,0,0
+GBR,United Kingdom,2010-05-11,Cameron I,0,874,0,0,0,0,15.7,0,84.3,0,0
+GBR,United Kingdom,2015-05-08,Cameron II,0,1162,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,2016-07-13,May I,0,1489,0,0,0,0,0,0,100,0,0
+GBR,United Kingdom,2017-06-11,May II,0,1507,0,0,0,0,0,0,100,0,0
+GRC,Greece,1974-11-21,Karamanlis Kon I,0,609,0,0,0,0,0,100,0,0,0
+GRC,Greece,1977-11-28,Karamanlis Kon II,0,865,0,0,0,0,0,100,0,0,0
+GRC,Greece,1980-05-09,Rallis,0,531,0,0,0,0,0,100,0,0,0
+GRC,Greece,1981-10-21,Papandreou A I,0,713,0,0,100,0,0,0,0,0,0
+GRC,Greece,1985-06-05,Papandreou A II,0,60,0,0,100,0,0,0,0,0,0
+GRC,Greece,1985-07-26,Papandreou A III,0,39,0,0,100,0,0,0,0,0,0
+GRC,Greece,1989-07-02,Tzannetakis,0,782,16.2,0,0,0,0,83.8,0,0,0
+GRC,Greece,1989-10-11,Grivas,1,721,0,0,0,0,0,0,0,0,0
+GRC,Greece,1989-11-23,Zolotas I,1,454,7.1,0,43.1,0,0,49.8,0,0,0
+GRC,Greece,1990-02-13,Zolotas II,1,716,0,0,0,0,0,0,0,0,0
+GRC,Greece,1990-04-11,Mitsotakis,0,362,0,0,0,0,0,100,0,0,0
+GRC,Greece,1993-10-13,Papandreou A IV,0,74,0,0,100,0,0,0,0,0,0
+GRC,Greece,1996-01-22,Simitis I,0,281,0,0,100,0,0,0,0,0,0
+GRC,Greece,1996-09-24,Simitis II,0,33,0,0,100,0,0,0,0,0,0
+GRC,Greece,2000-04-13,Simitis III,0,190,0,0,100,0,0,0,0,0,0
+GRC,Greece,2004-03-10,Karamanlis Kos I,0,876,0,0,0,0,0,100,0,0,0
+GRC,Greece,2007-10-01,Karamanlis Kos II,0,581,0,0,0,0,0,100,0,0,0
+GRC,Greece,2009-10-06,Papandreou G,0,224,0,0,100,0,0,0,0,0,0
+GRC,Greece,2011-11-11,Papademos,1,984,0,0,60.2,0,0,34.2,0,5.6,0
+GRC,Greece,2012-05-16,Pikramenos,1,1039,0,0,0,0,0,0,0,0,0
+GRC,Greece,2012-06-20,Samaras I,0,1040,0,0,0,0,0,100,0,0,0
+GRC,Greece,2013-06-25,Samaras II,0,1060,0,0,20.4,0,0,79.6,0,0,0
+GRC,Greece,2015-01-27,Tsipras I,0,1157,92,0,0,0,0,0,0,8,0
+GRC,Greece,2015-09-21,Tsipras II,0,1175,93.5,0,0,0,0,0,0,6.5,0
+HRV,Croatia,2000-01-27,Racan I,0,1049,0,0,47.3,18.3,34.4,0,0,0,0
+HRV,Croatia,2001-06-04,Racan II,0,1050,0,0,49.4,19.1,31.5,0,0,0,0
+HRV,Croatia,2002-07-30,Racan III,0,1051,0,0,67.7,26.2,6.2,0,0,0,0
+HRV,Croatia,2003-12-23,Sanander I,0,1052,0,0,0,0,0,100,0,0,0
+HRV,Croatia,2006-02-11,Sanander II,0,1053,0,0,0,0,0,100,0,0,0
+HRV,Croatia,2008-01-12,Sanander III,0,1054,0,0,3.9,7.8,2.6,85.7,0,0,0
+HRV,Croatia,2009-07-06,Kosor I,0,1055,0,0,3.9,7.8,2.6,85.7,0,0,0
+HRV,Croatia,2010-07-10,Kosor II,0,1057,0,0,4,8,0,88,0,0,0
+HRV,Croatia,2011-12-23,Milanovic,0,1056,0,0,79.2,0,20.8,0,0,0,0
+HRV,Croatia,2016-01-22,Oreskovic,0,1408,0,0,0,0,0,72.5,27.5,0,0
+HRV,Croatia,2016-10-19,Plenkovic I,0,1500,0,0,0,0,0,82.4,17.6,0,0
+HRV,Croatia,2017-09-09,Plenkovic II,0,1512,0,0,0,0,0,100,0,0,0
+HUN,Hungary,1990-05-23,Antall,0,369,0,0,0,0,0,9.2,90.8,0,0
+HUN,Hungary,1993-12-21,Boross,0,13,0,0,0,0,0,9.2,90.8,0,0
+HUN,Hungary,1994-07-15,Horn,0,488,0,0,75.2,0,24.8,0,0,0,0
+HUN,Hungary,1998-07-06,Orban I,0,827,0,0,0,0,0,0,100,0,0
+HUN,Hungary,2002-05-27,Medgyessy,0,302,0,0,89.9,0,10.1,0,0,0,0
+HUN,Hungary,2004-09-29,Gyurcsany I,0,188,0,0,89.9,0,10.1,0,0,0,0
+HUN,Hungary,2006-06-09,Gyurcsany II,0,325,0,0,90.5,0,9.5,0,0,0,0
+HUN,Hungary,2008-05-02,Gyurcsany III,0,706,0,0,100,0,0,0,0,0,0
+HUN,Hungary,2009-04-14,Bajnai,0,162,0,0,100,0,0,0,0,0,0
+HUN,Hungary,2010-05-29,Orban II,0,846,0,0,0,0,0,13.7,86.3,0,0
+HUN,Hungary,2014-05-10,Orban III,0,1104,0,0,0,0,0,12,88,0,0
+IRL,Ireland,1922-08-30,Cosgrave I,0,1446,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1923-09-19,Cosgrave II,0,1438,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1927-06-23,Cosgrave III,0,1439,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1927-10-11,Cosgrave IV,0,1440,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1932-03-09,Valera I,0,1441,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1933-02-08,Valera II,0,1442,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1937-07-21,Valera III,0,1443,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1938-06-30,Valera IV,0,1444,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1943-07-01,Valera V,0,1445,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1944-06-09,Valera VII,0,151,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1948-02-18,Costello I,0,154,0,0,28.4,10.4,0,46.3,14.9,0,0
+IRL,Ireland,1951-06-13,Valera VIII,0,643,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1954-06-02,Costello II,0,626,0,0,25.7,6.8,0,67.6,0,0,0
+IRL,Ireland,1957-03-20,Valera IX,0,523,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1959-06-23,Lemass I,0,364,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1961-10-11,Lemass II,0,667,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1965-04-21,Lemass III,0,217,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1966-11-10,Lynch I,0,602,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1969-07-02,Lynch II,0,863,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1973-03-14,Cosgrave L,0,315,0,0,26,0,0,74,0,0,0
+IRL,Ireland,1977-07-05,Lynch III,0,794,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1979-12-12,Haughey I,0,442,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1981-06-30,Fitzgerald I,0,335,0,0,18.8,0,0,81.2,0,0,0
+IRL,Ireland,1982-03-09,Haughey II,0,54,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1982-12-14,Fitzgerald II,0,867,0,0,18.6,0,0,81.4,0,0,0
+IRL,Ireland,1987-03-10,Haughey III,0,77,0,0,0,0,0,0,100,0,0
+IRL,Ireland,1989-07-12,Haughey IV,0,215,0,0,0,0,7.2,0,92.8,0,0
+IRL,Ireland,1992-02-11,Reynolds I,0,870,0,0,0,0,7.2,0,92.8,0,0
+IRL,Ireland,1993-01-12,Reynolds II,0,748,0,0,32.7,0,0,0,67.3,0,0
+IRL,Ireland,1994-12-15,Bruton,0,573,4.9,0,40.2,0,0,54.9,0,0,0
+IRL,Ireland,1997-06-26,Ahern I,0,126,0,0,0,0,4.9,0,95.1,0,0
+IRL,Ireland,2002-06-06,Ahern II,0,179,0,0,0,0,9,0,91,0,0
+IRL,Ireland,2007-06-14,Ahern III,0,864,0,7.1,0,0,2.4,0,90.6,0,0
+IRL,Ireland,2008-05-07,Cowen,0,173,0,7.1,0,0,2.4,0,90.6,0,0
+IRL,Ireland,2011-03-09,Kenny I,0,904,0,0,32.7,0,0,67.3,0,0,0
+IRL,Ireland,2016-05-06,Kenny II,0,1484,0,0,0,0,0,100,0,0,0
+IRL,Ireland,2017-06-14,Varadkar,0,1511,0,0,0,0,0,100,0,0,0
+ISL,Iceland,1919-11-15,Magnusson I,1,1423,0,0,0,0,100,0,0,0,0
+ISL,Iceland,1920-02-25,Magnusson II,0,1424,0,0,0,0,100,0,0,0,0
+ISL,Iceland,1922-03-07,Eggerz I,0,1425,0,0,0,0,0,0,100,0,0
+ISL,Iceland,1923-10-27,Eggerz II,1,1426,0,0,0,93.8,0,0,0,0,6.2
+ISL,Iceland,1924-03-22,Magnusson III,0,1427,0,0,0,0,0,0,100,0,0
+ISL,Iceland,1926-07-08,Porlaksson I,0,1428,0,0,0,0,0,0,100,0,0
+ISL,Iceland,1927-08-28,Porhallsson,0,1429,0,0,0,100,0,0,0,0,0
+ISL,Iceland,1931-06-12,Porlaksson II,0,1430,0,0,0,0,0,0,100,0,0
+ISL,Iceland,1932-06-03,Asgeirsson,0,1431,0,0,0,60.5,0,0,39.5,0,0
+ISL,Iceland,1934-07-28,Jonasson I,0,1432,0,0,40,60,0,0,0,0,0
+ISL,Iceland,1937-06-29,Jonasson II,1,1433,0,0,29.6,70.4,0,0,0,0,0
+ISL,Iceland,1938-04-02,Jonasson III,0,1435,0,0,0,100,0,0,0,0,0
+ISL,Iceland,1939-04-17,Jonasson IV,0,1436,0,0,18.2,43.2,0,0,38.6,0,0
+ISL,Iceland,1942-05-16,Thors I,0,1434,0,0,0,0,0,0,100,0,0
+ISL,Iceland,1942-12-16,Thordarson,0,1025,0,0,0,0,0,0,0,0,0
+ISL,Iceland,1944-10-21,Thors II,0,435,27,0,18.9,0,0,0,54.1,0,0
+ISL,Iceland,1946-06-30,Thors III,0,703,25.6,0,23.1,0,0,0,51.3,0,0
+ISL,Iceland,1947-02-04,Stefansson,0,742,0,0,21.4,31,0,0,47.6,0,0
+ISL,Iceland,1949-12-06,Thors IV,0,625,0,0,0,0,0,0,100,0,0
+ISL,Iceland,1950-03-14,Steinthorsson,0,766,0,0,0,47.2,0,0,52.8,0,0
+ISL,Iceland,1953-09-11,Thors V,0,762,0,0,0,43.2,0,0,56.8,0,0
+ISL,Iceland,1956-07-24,Jonasson V,0,664,24.2,0,24.2,51.5,0,0,0,0,0
+ISL,Iceland,1958-12-23,Jonsson I,0,446,0,0,100,0,0,0,0,0,0
+ISL,Iceland,1959-06-28,Jonsson II,1,351,0,0,100,0,0,0,0,0,0
+ISL,Iceland,1959-11-20,Thors VI,0,331,0,0,27.3,0,0,0,72.7,0,0
+ISL,Iceland,1963-06-09,Thors VII,0,851,0,0,25,0,0,0,75,0,0
+ISL,Iceland,1963-11-14,Benediktsson I,0,553,0,0,25,0,0,0,75,0,0
+ISL,Iceland,1967-06-11,Benediktsson II,0,254,0,0,28.1,0,0,0,71.9,0,0
+ISL,Iceland,1970-07-10,Hafstein,0,321,0,0,28.1,0,0,0,71.9,0,0
+ISL,Iceland,1971-07-14,Johannesson I,0,272,46.9,0,0,53.1,0,0,0,0,0
+ISL,Iceland,1974-08-28,Hallgrimsson,0,849,0,0,0,40.5,0,0,59.5,0,0
+ISL,Iceland,1978-09-01,Johannesson II,0,673,35,0,35,30,0,0,0,0,0
+ISL,Iceland,1979-10-15,Groendal,1,536,0,0,100,0,0,0,0,0,0
+ISL,Iceland,1980-02-08,Thoroddsen,0,752,22.4,0,0,34.7,0,0,42.9,0,0
+ISL,Iceland,1983-05-26,Hermannsson I,0,393,0,0,0,37.8,0,0,62.2,0,0
+ISL,Iceland,1987-07-08,Palsson,0,279,0,0,24.4,31.7,0,0,43.9,0,0
+ISL,Iceland,1988-09-28,Hermannsson II,0,301,25.8,0,32.3,41.9,0,0,0,0,0
+ISL,Iceland,1989-09-10,Hermannsson III,0,127,21.1,0,26.3,34.2,0,0,18.4,0,0
+ISL,Iceland,1991-04-30,Oddsson I,0,640,0,0,27.8,0,0,0,72.2,0,0
+ISL,Iceland,1995-04-13,Oddsson II,0,158,0,0,0,37.5,0,0,62.5,0,0
+ISL,Iceland,1999-05-28,Oddsson III,0,177,0,0,0,31.6,0,0,68.4,0,0
+ISL,Iceland,2003-05-23,Oddsson IV,0,130,0,0,0,35.3,0,0,64.7,0,0
+ISL,Iceland,2004-09-15,Asgrimsson,0,555,0,0,0,35.3,0,0,64.7,0,0
+ISL,Iceland,2006-06-15,Haarde I,0,246,0,0,0,35.3,0,0,64.7,0,0
+ISL,Iceland,2007-05-24,Haarde II,0,558,0,0,41.9,0,0,0,58.1,0,0
+ISL,Iceland,2009-02-01,Sigurdardottir I,1,538,0,33.3,66.7,0,0,0,0,0,0
+ISL,Iceland,2009-04-25,Sigurdardottir II,0,651,0,41.2,58.8,0,0,0,0,0,0
+ISL,Iceland,2013-05-23,Gunnlaugsson,0,1059,0,0,0,50,0,0,50,0,0
+ISL,Iceland,2016-04-07,Johannsson,0,1482,0,0,0,50,0,0,50,0,0
+ISL,Iceland,2017-01-10,Benediktsson III,0,1502,0,0,0,0,12.5,0,87.5,0,0
+ISR,Israel,1949-01-25,Ben-Gurion I,1,1084,0,0,0,0,0,0,0,0,0
+ISR,Israel,1949-03-10,Ben-Gurion II,0,922,0,0,63,0,6.8,0,5.5,0,24.7
+ISR,Israel,1950-11-01,Ben-Gurion III,0,923,0,0,64.8,0,7,0,5.6,0,22.5
+ISR,Israel,1951-02-14,Ben-Gurion IV,1,1137,0,0,64.8,0,7,0,5.6,0,22.5
+ISR,Israel,1951-10-08,Ben-Gurion V,0,924,0,0,77.6,0,0,0,0,0,22.4
+ISR,Israel,1952-09-18,Ben-Gurion VI,0,968,0,0,81.8,0,0,0,0,0,18.2
+ISR,Israel,1952-12-24,Ben-Gurion VII,0,925,0,0,56.2,0,33.8,0,0,0,10
+ISR,Israel,1954-01-26,Sharett I,0,927,0,0,57.3,0,32.9,0,0,0,9.8
+ISR,Israel,1955-06-29,Sharett II,0,928,0,0,79.7,0,6.8,0,0,0,13.6
+ISR,Israel,1955-07-26,Sharett III,1,1080,0,0,71.4,0,8.9,0,0,19.6,0
+ISR,Israel,1955-11-03,Ben-Gurion VIII,0,929,0,0,78.7,0,6.7,0,0,14.7,0
+ISR,Israel,1958-01-07,Ben-Gurion IX,0,930,0,0,78.7,0,6.7,0,0,14.7,0
+ISR,Israel,1958-07-01,Ben-Gurion X,0,931,0,0,92.2,0,7.8,0,0,0,0
+ISR,Israel,1959-07-05,Ben-Gurion XI,1,1083,0,0,92.2,0,7.8,0,0,0,0
+ISR,Israel,1959-12-17,Ben-Gurion XII,0,932,0,0,72.4,0,6.9,0,0,13.8,6.9
+ISR,Israel,1961-01-31,Ben-Gurion XIII,1,1106,0,0,75,0,7.1,0,0,14.3,3.6
+ISR,Israel,1961-05-30,Ben-Gurion XIV,1,1136,0,0,70.8,0,15.7,0,0,13.5,0
+ISR,Israel,1961-11-02,Ben-Gurion XV,0,933,0,0,81,0,0,0,0,19,0
+ISR,Israel,1963-06-26,Eshkol I,0,934,0,0,81,0,0,0,0,19,0
+ISR,Israel,1964-12-22,Eshkol II,0,935,0,0,80.6,0,0,0,0,19.4,0
+ISR,Israel,1966-01-12,Eshkol III,0,936,0,0,80.4,0,0,0,0,19.6,0
+ISR,Israel,1967-06-05,Eshkol IV,0,937,0,0,61.8,0,0,0,25.8,12.4,0
+ISR,Israel,1969-03-17,Meir I,0,938,0,0,65.6,0,0,0,22.9,11.5,0
+ISR,Israel,1969-12-15,Meir II,0,939,0,0,57.1,0,4.1,0,26.5,12.2,0
+ISR,Israel,1970-08-07,Meir III,0,940,0,0,77.8,0,5.6,0,0,16.7,0
+ISR,Israel,1974-03-10,Meir IV,0,1082,0,0,79.4,0,5.9,0,0,14.7,0
+ISR,Israel,1974-06-03,Rabin I,0,942,0,0,100,0,0,0,0,0,0
+ISR,Israel,1974-11-06,Rabin II,0,943,0,0,84.4,0,0,0,0,15.6,0
+ISR,Israel,1976-12-22,Rabin III,1,944,0,0,100,0,0,0,0,0,0
+ISR,Israel,1977-06-20,Begin I,0,945,0,0,0,0,0,0,78.9,21.1,0
+ISR,Israel,1977-10-24,Begin II,0,946,0,0,0,0,20.8,0,62.5,16.7,0
+ISR,Israel,1981-08-05,Begin III,0,1111,0,0,0,0,0,0,89.5,10.5,0
+ISR,Israel,1982-07-26,Begin IV,0,1112,0,0,0,0,3.2,0,87.1,9.7,0
+ISR,Israel,1983-10-10,Shamir I,0,1113,0,0,0,0,0,0,89.7,8.6,1.7
+ISR,Israel,1984-01-31,Shamir II,0,1114,0,0,0,0,0,0,91.2,8.8,0
+ISR,Israel,1984-09-13,Peres I ,0,1115,0,0,44,0,7,0,41,4,4
+ISR,Israel,1986-10-20,Shamir III,0,951,0,0,42.6,0,4.3,0,43.6,5.3,4.3
+ISR,Israel,1987-05-26,Shamir IV,0,1108,0,0,44,0,1.1,0,45.1,5.5,4.4
+ISR,Israel,1988-12-22,Shamir V,0,953,0,0,43.3,0,0,0,44.4,5.6,6.7
+ISR,Israel,1990-03-15,Shamir VI,1,1117,0,0,0,0,0,0,76.1,10.9,13
+ISR,Israel,1990-06-11,Shamir VII,0,954,0,0,0,0,0,0,66,22.6,11.3
+ISR,Israel,1991-02-05,Shamir VIII,0,955,0,0,0,0,0,0,72.2,18.5,9.3
+ISR,Israel,1992-01-21,Shamir IX,0,957,0,0,0,0,0,0,74,16,10
+ISR,Israel,1992-07-13,Rabin IV,0,958,0,0,90.3,0,0,0,0,0,9.7
+ISR,Israel,1993-09-14,Rabin V,0,959,0,0,100,0,0,0,0,0,0
+ISR,Israel,1995-01-09,Rabin VI,0,1120,0,0,94.9,0,0,0,0,5.1,0
+ISR,Israel,1995-11-22,Peres II,0,960,0,0,94.9,0,0,0,0,5.1,0
+ISR,Israel,1996-06-18,Netanyahu I,0,961,0,0,0,0,17.7,0,46.8,19.4,16.1
+ISR,Israel,1998-01-04,Netanyahu II,0,1158,0,0,0,0,19.3,0,42.1,21.1,17.5
+ISR,Israel,1998-12-21,Netanyahu III,1,1159,0,0,0,0,19.3,0,42.1,21.1,17.5
+ISR,Israel,1999-07-06,Barak I,0,1121,0,0,51.4,0,17.1,0,0,7.1,24.3
+ISR,Israel,2000-07-11,Barak II,0,962,0,0,81.2,0,18.8,0,0,0,0
+ISR,Israel,2000-12-10,Barak III,1,1138,0,0,81.2,0,18.8,0,0,0,0
+ISR,Israel,2001-03-07,Sharon I,0,965,0,0,35.1,0,5.4,0,25.7,10.8,23
+ISR,Israel,2001-08-29,Sharon II,0,966,0,0,33.8,0,11.2,0,23.8,10,21.2
+ISR,Israel,2002-04-08,Sharon III,0,1122,0,0,36,0,12,0,29.3,0,22.7
+ISR,Israel,2002-07-30,Sharon IV,0,1123,0,0,37.5,0,12.5,0,26.4,0,23.6
+ISR,Israel,2002-11-02,Sharon V,0,1124,0,0,0,0,20,0,42.2,0,37.8
+ISR,Israel,2003-03-03,Sharon VI,0,1125,0,0,0,0,22.7,0,57.6,19.7,0
+ISR,Israel,2004-06-06,Sharon VII,0,1126,0,0,0,0,24.6,0,65.6,9.8,0
+ISR,Israel,2005-01-10,Sharon VIII,0,1128,0,0,32.2,0,0,0,67.8,0,0
+ISR,Israel,2006-01-18,Sharon IX,0,1129,0,0,0,0,36.6,0,63.4,0,0
+ISR,Israel,2006-05-04,Olmert I,0,1131,0,0,28.4,0,43.3,0,0,0,28.4
+ISR,Israel,2006-10-30,Olmert II,0,1132,0,0,24.4,0,37.2,0,0,14.1,24.4
+ISR,Israel,2008-01-18,Olmert III,0,1133,0,0,28.4,0,43.3,0,0,0,28.4
+ISR,Israel,2008-09-23,Olmert IV,1,1135,0,0,29.7,0,45.3,0,0,0,25
+ISR,Israel,2009-03-31,Netanyahu IV,0,1031,0,0,18.8,0,0,0,39.1,26.1,15.9
+ISR,Israel,2011-01-19,Netanyahu V,0,1032,0,0,18.8,0,0,0,39.1,26.1,15.9
+ISR,Israel,2012-05-09,Netanyahu VI,0,1107,0,0,13.4,0,28.9,0,27.8,18.6,11.3
+ISR,Israel,2013-03-18,Netanyahu VII,0,1134,0,0,0,0,43.9,0,35.1,21.1,0
+ISR,Israel,2014-12-02,Netanyahu VIII,1,1155,0,0,0,0,0,0,62.5,37.5,0
+ISR,Israel,2015-05-14,Netanyahu IX,0,1161,0,0,0,0,18.2,0,54.5,14.5,12.7
+ISR,Israel,2016-05-30,Netanyahu X,0,1486,0,0,0,0,16.4,0,49.2,23,11.5
+ITA,Italy,1946-07-13,De Gasperi I,0,416,23.2,0,25.6,0,5.1,46.1,0,0,0
+ITA,Italy,1947-02-02,De Gasperi II,0,525,24.4,0,27,0,0,48.6,0,0,0
+ITA,Italy,1947-05-31,De Gasperi III,0,501,0,0,0,0,10,90,0,0,0
+ITA,Italy,1948-05-23,De Gasperi IV,0,676,0,0,9.5,0,2.6,87.9,0,0,0
+ITA,Italy,1950-01-21,De Gasperi V,0,123,0,0,9.5,0,2.6,87.9,0,0,0
+ITA,Italy,1951-07-26,De Gasperi VI,0,597,0,0,0,0,2.9,97.1,0,0,0
+ITA,Italy,1953-07-16,De Gasperi VII,0,603,0,0,0,0,0,100,0,0,0
+ITA,Italy,1953-08-17,Pella,0,798,0,0,0,0,0,100,0,0,0
+ITA,Italy,1954-01-18,Fanfani I,0,90,0,0,0,0,0,100,0,0,0
+ITA,Italy,1954-02-10,Scelba,0,796,0,0,6.4,0,4.4,89.2,0,0,0
+ITA,Italy,1955-07-22,Segni I,0,250,0,0,6.4,0,4.4,89.2,0,0,0
+ITA,Italy,1957-05-19,Zoli,0,280,0,0,0,0,0,100,0,0,0
+ITA,Italy,1958-07-01,Fanfani II,0,880,0,0,7.5,0,0,92.5,0,0,0
+ITA,Italy,1959-02-15,Segni II,0,372,0,0,0,0,0,100,0,0,0
+ITA,Italy,1960-03-26,Tambroni,0,615,0,0,0,0,0,100,0,0,0
+ITA,Italy,1960-07-26,Fanfani III,0,810,0,0,0,0,0,100,0,0,0
+ITA,Italy,1962-02-21,Fanfani IV,0,347,0,0,7.3,0,2,90.7,0,0,0
+ITA,Italy,1963-06-21,Leone I,0,511,0,0,0,0,0,100,0,0,0
+ITA,Italy,1963-12-04,Moro I,0,818,0,0,31.1,0,1.6,67.4,0,0,0
+ITA,Italy,1964-07-22,Moro II,0,705,0,0,31.1,0,1.6,67.4,0,0,0
+ITA,Italy,1966-02-23,Moro III,0,433,0,0,31.1,0,1.6,67.4,0,0,0
+ITA,Italy,1968-06-24,Leone II,0,183,0,0,0,0,0,100,0,0,0
+ITA,Italy,1968-12-12,Rumor I,0,554,0,0,24.9,0,2.5,72.7,0,0,0
+ITA,Italy,1969-08-05,Rumor II,0,548,0,0,0,0,0,100,0,0,0
+ITA,Italy,1970-03-27,Rumor III,0,113,0,0,24.9,0,2.5,72.7,0,0,0
+ITA,Italy,1970-08-06,Colombo,0,89,0,0,24.9,0,2.5,72.7,0,0,0
+ITA,Italy,1972-02-17,Andreotti I,1,398,0,0,0,0,0,100,0,0,0
+ITA,Italy,1972-07-26,Andreotti II,0,439,0,0,9.2,0,6.3,84.4,0,0,0
+ITA,Italy,1973-07-07,Rumor IV,0,24,0,0,24.3,0,4,71.7,0,0,0
+ITA,Italy,1974-03-14,Rumor V,0,317,0,0,25.3,0,0,74.7,0,0,0
+ITA,Italy,1974-11-23,Moro IV,0,149,0,0,0,0,5.3,94.7,0,0,0
+ITA,Italy,1976-02-12,Moro V,0,842,0,0,0,0,0,100,0,0,0
+ITA,Italy,1976-07-29,Andreotti III,0,140,0,0,0,0,0,100,0,0,0
+ITA,Italy,1978-03-11,Andreotti IV,0,245,0,0,0,0,0,100,0,0,0
+ITA,Italy,1979-03-20,Andreotti V,0,638,0,0,5.2,0,4.8,90,0,0,0
+ITA,Italy,1979-08-04,Cossiga I,0,578,0,0,6.9,0,3.1,90,0,0,0
+ITA,Italy,1980-04-04,Cossiga II,0,86,0,0,18.2,0,4.7,77.1,0,0,0
+ITA,Italy,1980-10-18,Forlani,0,464,0,0,22.8,0,4.4,72.8,0,0,0
+ITA,Italy,1981-06-28,Spadolini I,0,674,0,0,22.2,0,6.8,71,0,0,0
+ITA,Italy,1982-08-23,Spadolini II,0,84,0,0,22.2,0,6.8,71,0,0,0
+ITA,Italy,1982-12-01,Fanfani V,0,87,0,0,23.2,0,2.5,74.2,0,0,0
+ITA,Italy,1983-08-04,Craxi I,0,334,0,0,26.2,0,12.3,61.5,0,0,0
+ITA,Italy,1986-08-01,Craxi II,0,293,0,0,26.2,0,12.3,61.5,0,0,0
+ITA,Italy,1987-04-17,Fanfani VI,0,737,0,0,0,0,0,100,0,0,0
+ITA,Italy,1987-07-28,Goria,0,756,0,0,29.4,0,8.5,62.1,0,0,0
+ITA,Italy,1988-04-13,De Mita,0,809,0,0,29.4,0,8.5,62.1,0,0,0
+ITA,Italy,1989-07-23,Andreotti VI,0,460,0,0,29.4,0,8.5,62.1,0,0,0
+ITA,Italy,1991-04-13,Andreotti VII,0,202,0,0,31.2,0,3.1,65.7,0,0,0
+ITA,Italy,1992-06-28,Amato I,0,176,0,0,32.6,0,5.1,62.2,0,0,0
+ITA,Italy,1993-04-29,Ciampi,0,801,0,0,32.6,0,5.1,62.2,0,0,0
+ITA,Italy,1994-05-11,Berlusconi I,0,672,0,0,0,0,1.1,8.1,58.1,32.7,0
+ITA,Italy,1995-01-17,Dini I,1,382,0,0,0,0,0,0,0,0,0
+ITA,Italy,1996-01-11,Dini II,1,991,0,0,0,0,0,0,0,0,0
+ITA,Italy,1996-05-18,Prodi I,0,276,0,5.6,59.4,0,9,26,0,0,0
+ITA,Italy,1998-10-21,D'Alema I,0,214,6.4,4.3,59.2,0,0,30.1,0,0,0
+ITA,Italy,1999-12-21,D'Alema II,0,522,7.1,4.7,65.4,0,0,22.7,0,0,0
+ITA,Italy,2000-04-28,Amato II,0,239,7.1,4.7,65.4,0,0,22.7,0,0,0
+ITA,Italy,2001-06-11,Berlusconi II,0,256,0,0,0,0,0,11.5,79.8,8.6,0
+ITA,Italy,2005-05-28,Berlusconi III,0,567,0,0,0.9,0,0,11.4,79.1,8.6,0
+ITA,Italy,2006-05-17,Prodi II,0,117,16.9,4.5,70.6,0,5,3,0,0,0
+ITA,Italy,2008-05-08,Berlusconi IV,0,823,0,0,0,0,0,0,82.1,17.9,0
+ITA,Italy,2011-11-16,Monti,1,983,0,0,0,0,0,0,0,0,0
+ITA,Italy,2013-04-27,Letta I,0,1048,0,0,67.3,0,8.5,1.8,22.4,0,0
+ITA,Italy,2013-11-18,Letta II,0,1068,0,0,79.8,0,10.1,2.2,7.9,0,0
+ITA,Italy,2014-02-22,Renzi,0,1079,0,0,79.8,0,10.1,2.2,7.9,0,0
+ITA,Italy,2016-12-12,Gentiloni,0,1501,0,0,79.8,0,10.1,2.2,7.9,0,0
+JPN,Japan,1946-05-22,Yoshida I,0,891,0,0,0,0,0,0,100,0,0
+JPN,Japan,1947-05-23,Katayama,0,892,0,0,48,0,10.4,0,41.6,0,0
+JPN,Japan,1948-02-21,Ashida,0,893,0,0,48,0,10.4,0,41.6,0,0
+JPN,Japan,1948-10-15,Yoshida II,0,894,0,0,0,0,0,0,100,0,0
+JPN,Japan,1949-02-11,Yoshida III,0,895,0,0,0,0,0,0,100,0,0
+JPN,Japan,1952-10-24,Yoshida IV,0,896,0,0,0,0,0,0,100,0,0
+JPN,Japan,1953-05-19,Yoshida V,0,897,0,0,0,0,0,0,100,0,0
+JPN,Japan,1954-12-09,Hatoyama I I,1,898,0,0,0,0,0,0,100,0,0
+JPN,Japan,1955-03-18,Hatoyama I II,0,899,0,0,0,0,0,0,100,0,0
+JPN,Japan,1955-11-22,Hatoyama I III,0,900,0,0,0,0,0,0,100,0,0
+JPN,Japan,1956-12-20,Ishibashi,0,901,0,0,0,0,0,0,100,0,0
+JPN,Japan,1957-02-25,Kishi I,0,887,0,0,0,0,0,0,100,0,0
+JPN,Japan,1958-06-12,Kishi II,0,780,0,0,0,0,0,0,100,0,0
+JPN,Japan,1960-07-19,Ikeda I,0,241,0,0,0,0,0,0,100,0,0
+JPN,Japan,1960-12-08,Ikeda II,0,48,0,0,0,0,0,0,100,0,0
+JPN,Japan,1963-12-09,Ikeda III,0,649,0,0,0,0,0,0,100,0,0
+JPN,Japan,1964-11-09,Sato I,0,8,0,0,0,0,0,0,100,0,0
+JPN,Japan,1967-02-17,Sato II,0,787,0,0,0,0,0,0,100,0,0
+JPN,Japan,1970-01-14,Sato III,0,789,0,0,0,0,0,0,100,0,0
+JPN,Japan,1972-07-07,Tanaka I,0,656,0,0,0,0,0,0,100,0,0
+JPN,Japan,1972-12-22,Tanaka II,0,502,0,0,0,0,0,0,100,0,0
+JPN,Japan,1974-12-09,Miki,0,59,0,0,0,0,0,0,100,0,0
+JPN,Japan,1976-12-24,Fukuda T,0,337,0,0,0,0,0,0,100,0,0
+JPN,Japan,1978-12-07,Ohira I,0,227,0,0,0,0,0,0,100,0,0
+JPN,Japan,1979-11-09,Ohira II,0,727,0,0,0,0,0,0,100,0,0
+JPN,Japan,1980-07-17,Suzuki,0,180,0,0,0,0,0,0,100,0,0
+JPN,Japan,1982-11-27,Nakasone I,0,242,0,0,0,0,0,0,100,0,0
+JPN,Japan,1983-12-27,Nakasone II,0,568,0,0,0,0,0,0,100,0,0
+JPN,Japan,1986-07-22,Nakasone III,0,146,0,0,0,0,0,0,100,0,0
+JPN,Japan,1987-11-06,Takeshita,0,283,0,0,0,0,0,0,100,0,0
+JPN,Japan,1989-06-03,Uno,0,743,0,0,0,0,0,0,100,0,0
+JPN,Japan,1989-08-10,Kaifu I,0,106,0,0,0,0,0,0,100,0,0
+JPN,Japan,1990-02-28,Kaifu II,0,213,0,0,0,0,0,0,100,0,0
+JPN,Japan,1991-11-05,Miyazawa,0,253,0,0,0,0,0,0,100,0,0
+JPN,Japan,1993-08-06,Hosokawa,0,417,0,0,36.7,0,14.3,0,49,0,0
+JPN,Japan,1994-04-25,Hata,0,432,0,0,10.2,0,22.3,0,67.5,0,0
+JPN,Japan,1994-06-30,Murayama,0,868,0,0,23.4,0,0,0,76.6,0,0
+JPN,Japan,1996-01-11,Hashimoto I,0,800,0,0,22,0,0,0,78,0,0
+JPN,Japan,1996-11-07,Hashimoto II,0,371,0,0,0,0,0,0,100,0,0
+JPN,Japan,1998-07-30,Obuchi I,0,915,0,0,0,0,0,0,100,0,0
+JPN,Japan,1999-01-14,Obuchi II,0,916,0,0,0,0,0,0,100,0,0
+JPN,Japan,1999-10-05,Obuchi III,0,665,0,0,0,0,0,0,100,0,0
+JPN,Japan,2000-04-05,Mori I,0,211,0,0,0,0,0,0,100,0,0
+JPN,Japan,2000-07-04,Mori II,0,163,0,0,0,0,0,0,100,0,0
+JPN,Japan,2001-04-26,Koizumi I,0,840,0,0,0,0,0,0,100,0,0
+JPN,Japan,2003-11-19,Koizumi II,0,770,0,0,0,0,0,0,100,0,0
+JPN,Japan,2005-10-31,Koizumi III,0,850,0,0,0,0,0,0,100,0,0
+JPN,Japan,2006-09-26,Abe I,0,679,0,0,0,0,0,0,100,0,0
+JPN,Japan,2007-08-27,Abe II,0,390,0,0,0,0,0,0,100,0,0
+JPN,Japan,2007-09-26,Fukuda Y,0,134,0,0,0,0,0,0,100,0,0
+JPN,Japan,2008-09-24,Aso,0,494,0,0,0,0,0,0,100,0,0
+JPN,Japan,2009-09-16,Hatoyama Y,0,374,0,0,2.2,0,0,0,97.8,0,0
+JPN,Japan,2010-06-04,Kan,0,493,0,0,0,0,0,0,100,0,0
+JPN,Japan,2011-08-30,Noda,0,969,0,0,0,0,0,0,100,0,0
+JPN,Japan,2012-12-26,Abe III,0,1044,0,0,0,0,0,0,100,0,0
+JPN,Japan,2014-12-24,Abe IV,0,1156,0,0,0,0,0,0,100,0,0
+LTU,Lithuania,1990-03-17,Prunskiene,0,584,43.4,0,0,0,0,1.9,54.7,0,0
+LTU,Lithuania,1991-01-10,Simenas,0,267,43.4,0,0,0,0,1.9,54.7,0,0
+LTU,Lithuania,1991-01-13,Vagnorius I,0,546,0,0,0,0,0,3.3,96.7,0,0
+LTU,Lithuania,1992-07-21,Abisala,0,512,0,0,0,0,0,3.3,96.7,0,0
+LTU,Lithuania,1992-12-02,Lubys,1,684,0,0,100,0,0,0,0,0,0
+LTU,Lithuania,1993-03-10,Slezevicius,0,811,0,0,100,0,0,0,0,0,0
+LTU,Lithuania,1996-02-23,Stankevicius,0,91,0,0,100,0,0,0,0,0,0
+LTU,Lithuania,1996-12-10,Vagnorius II,0,47,0,0,0,0,13.1,16.2,70.7,0,0
+LTU,Lithuania,1999-05-18,Paksas I,0,444,0,0,0,0,13.1,16.2,70.7,0,0
+LTU,Lithuania,1999-10-29,Kubilius I,0,735,0,0,0,0,13.1,16.2,70.7,0,0
+LTU,Lithuania,2000-10-26,Paksas II,0,304,0,0,0,0,100,0,0,0,0
+LTU,Lithuania,2001-07-03,Brazauskas I,0,405,0,0,0,0,100,0,0,0,0
+LTU,Lithuania,2004-12-14,Brazauskas II,0,287,0,0,25,12.5,62.5,0,0,0,0
+LTU,Lithuania,2006-04-11,Brazauskas III,0,495,0,0,29,14.5,56.5,0,0,0,0
+LTU,Lithuania,2006-07-04,Kirkilas,0,579,0,0,36.4,18.2,45.5,0,0,0,0
+LTU,Lithuania,2008-11-27,Kubilius II,0,688,0,0,0,0,43.8,0,56.2,0,0
+LTU,Lithuania,2010-09-21,Kubilius III,0,1026,0,0,0,0,13.9,0,86.1,0,0
+LTU,Lithuania,2012-11-22,Butkevicius,0,1042,0,0,43.7,0,33.3,0,13.8,0,9.2
+LTU,Lithuania,2016-11-22,Skvernelis,0,1496,0,0,23.9,76.1,0,0,0,0,0
+LUX,Luxembourg,1920-01-05,Reuter I,0,1447,0,0,0,0,20.6,0,0,79.4,0
+LUX,Luxembourg,1921-04-15,Reuters II,0,1448,0,0,0,0,0,0,0,100,0
+LUX,Luxembourg,1925-03-20,Prum,0,1449,0,0,0,0,62.5,0,0,37.5,0
+LUX,Luxembourg,1926-07-16,Bech I,0,1450,0,0,0,0,0,0,0,100,0
+LUX,Luxembourg,1932-04-11,Bech II,0,1451,0,0,0,0,0,0,0,100,0
+LUX,Luxembourg,1937-06-06,Bech III,1,1452,0,0,0,0,3.8,0,0,96.2,0
+LUX,Luxembourg,1937-11-05,Dupong-Krier I,0,1453,0,0,37.5,0,10.4,0,0,52.1,0
+LUX,Luxembourg,1938-02-07,Dupong-Krier II,0,1454,0,0,41.9,0,0,0,0,58.1,0
+LUX,Luxembourg,1940-05-10,Dupong I,0,1455,0,0,41.9,0,0,0,0,58.1,0
+LUX,Luxembourg,1944-11-23,Dupong II,1,340,0,0,100,0,0,0,0,0,0
+LUX,Luxembourg,1945-11-14,Dupong III,1,174,10,0,22,0,18,50,0,0,0
+LUX,Luxembourg,1947-03-01,Dupong IV,0,395,0,0,0,0,26.5,73.5,0,0,0
+LUX,Luxembourg,1948-07-14,Dupong V,0,799,0,0,0,0,29,71,0,0,0
+LUX,Luxembourg,1951-07-03,Dupong VI,0,360,0,0,47.5,0,0,52.5,0,0,0
+LUX,Luxembourg,1953-12-29,Bech IV,0,532,0,0,47.5,0,0,52.5,0,0,0
+LUX,Luxembourg,1954-06-28,Bech V,0,500,0,0,39.5,0,0,60.5,0,0,0
+LUX,Luxembourg,1958-03-29,Frieden,0,544,0,0,39.5,0,0,60.5,0,0,0
+LUX,Luxembourg,1959-03-02,Werner I,0,832,0,0,0,0,34.4,65.6,0,0,0
+LUX,Luxembourg,1964-07-15,Werner II,0,491,0,0,48.8,0,0,51.2,0,0,0
+LUX,Luxembourg,1969-02-06,Werner III,0,101,0,0,0,0,34.4,65.6,0,0,0
+LUX,Luxembourg,1974-06-15,Thorn,0,655,0,0,54.8,0,45.2,0,0,0,0
+LUX,Luxembourg,1979-07-16,Werner IV,0,27,0,0,0,0,38.5,61.5,0,0,0
+LUX,Luxembourg,1984-07-20,Santer I,0,175,0,0,45.7,0,0,54.3,0,0,0
+LUX,Luxembourg,1989-07-14,Santer II,0,418,0,0,45,0,0,55,0,0,0
+LUX,Luxembourg,1994-07-13,Santer III,0,222,0,0,44.7,0,0,55.3,0,0,0
+LUX,Luxembourg,1995-01-20,Juncker I,0,621,0,0,44.7,0,0,55.3,0,0,0
+LUX,Luxembourg,1999-08-07,Juncker II,0,196,0,0,0,0,44.1,55.9,0,0,0
+LUX,Luxembourg,2004-07-31,Juncker III,0,12,0,0,36.8,0,0,63.2,0,0,0
+LUX,Luxembourg,2009-07-23,Juncker IV,0,601,0,0,33.3,0,0,66.7,0,0,0
+LUX,Luxembourg,2013-07-11,Juncker V,1,1063,0,0,33.3,0,0,66.7,0,0,0
+LUX,Luxembourg,2013-12-04,Bettel,0,1069,0,18.8,40.6,0,40.6,0,0,0,0
+LVA,Latvia,1990-05-07,Godmanis I,0,595,0,0,0,0,0,0,0,0,100
+LVA,Latvia,1993-08-07,Birkavs,0,434,0,0,0,25,75,0,0,0,0
+LVA,Latvia,1994-09-15,Gailis,0,201,0,0,0,0,100,0,0,0,0
+LVA,Latvia,1995-12-21,Skele I,0,235,11,0,0,0,47.9,11,0,30.1,0
+LVA,Latvia,1997-02-13,Skele II,0,377,0,0,0,0,53.8,12.3,0,33.8,0
+LVA,Latvia,1997-08-07,Krasts I,0,878,0,0,0,0,57.4,13.1,0,29.5,0
+LVA,Latvia,1998-04-08,Krasts II,0,2,0,0,0,0,39.5,18.6,0,41.9,0
+LVA,Latvia,1998-11-26,Kristopans I,0,682,0,0,0,0,45.7,0,17.4,37,0
+LVA,Latvia,1999-02-04,Kristopans II,0,469,0,0,0,0,45.7,0,17.4,37,0
+LVA,Latvia,1999-07-16,Skele III,0,110,0,0,0,0,33.9,0,38.7,27.4,0
+LVA,Latvia,2000-05-04,Berzins,0,23,0,0,0,0,30,0,45.7,24.3,0
+LVA,Latvia,2002-11-07,Repse,0,661,0,0,0,21.8,0,0,65.5,12.7,0
+LVA,Latvia,2004-03-09,Emsis,0,153,0,0,0,28.6,0,0,71.4,0,0
+LVA,Latvia,2004-12-02,Kalvitis I,0,228,0,0,0,17.6,0,0,82.4,0,0
+LVA,Latvia,2006-04-08,Kalvitis II,0,535,0,0,0,28.6,0,0,71.4,0,0
+LVA,Latvia,2006-11-07,Kalvitis III,0,680,0,0,0,30.5,0,0,55.9,13.6,0
+LVA,Latvia,2007-12-20,Godmanis II,0,42,0,0,0,30.5,0,0,55.9,13.6,0
+LVA,Latvia,2009-02-26,Dombrovskis I,0,477,0,0,0,26.9,0,0,65.7,7.5,0
+LVA,Latvia,2010-03-17,Dombrovskis II,0,519,0,0,0,40.9,0,0,47.7,11.4,0
+LVA,Latvia,2010-11-03,Dombrovskis III,0,882,0,0,0,40,0,0,60,0,0
+LVA,Latvia,2011-10-25,Dombrovskis IV,0,971,0,0,0,0,0,0,72,28,0
+LVA,Latvia,2014-01-22,Straujuma I,0,1073,0,0,0,20.6,0,0,57.1,22.2,0
+LVA,Latvia,2014-11-05,Straujuma II,0,1152,0,0,0,34.4,0,0,37.7,27.9,0
+LVA,Latvia,2016-02-11,Kucinskis,0,1407,0,0,0,34.4,0,0,37.7,27.9,0
+MLT,Malta,1947-10-27,Boffa,0,1470,0,0,100,0,0,0,0,0,0
+MLT,Malta,1950-09-04,Mizzi,0,1471,0,0,0,0,0,0,100,0,0
+MLT,Malta,1951-05-06,Borg Olivier,0,1472,0,0,0,0,0,0,100,0,0
+MLT,Malta,1953-12-14,Borg Olivier ?,0,1473,0,0,0,0,0,0,100,0,0
+MLT,Malta,1955-02-28,Mintoff,0,1474,0,0,100,0,0,0,0,0,0
+MLT,Malta,1962-03-05,Borg Olivier I,0,589,0,0,0,0,0,0,100,0,0
+MLT,Malta,1966-04-07,Borg Olivier II,0,681,0,0,0,0,0,0,100,0,0
+MLT,Malta,1971-06-21,Mintoff I,0,295,0,0,100,0,0,0,0,0,0
+MLT,Malta,1974-09-30,Mintoff II,0,816,0,0,100,0,0,0,0,0,0
+MLT,Malta,1976-09-25,Mintoff III,0,606,0,0,100,0,0,0,0,0,0
+MLT,Malta,1981-12-18,Mintoff IV,0,83,0,0,100,0,0,0,0,0,0
+MLT,Malta,1984-12-22,Mifsud Bonnici,0,122,0,0,100,0,0,0,0,0,0
+MLT,Malta,1987-05-12,Fenech Adami I,0,3,0,0,0,0,0,0,100,0,0
+MLT,Malta,1992-02-27,Fenech Adami II,0,881,0,0,0,0,0,0,100,0,0
+MLT,Malta,1996-10-28,Sant,0,299,0,0,100,0,0,0,0,0,0
+MLT,Malta,1998-09-06,Fenech Adami III,0,582,0,0,0,0,0,0,100,0,0
+MLT,Malta,2003-04-15,Fenech Adami IV,0,160,0,0,0,0,0,0,100,0,0
+MLT,Malta,2004-03-23,Gonzi I,0,298,0,0,0,0,0,0,100,0,0
+MLT,Malta,2008-03-12,Gonzi II,0,468,0,0,0,0,0,0,100,0,0
+MLT,Malta,2013-03-11,Muscat I,0,1046,0,0,100,0,0,0,0,0,0
+MLT,Malta,2017-06-06,Muscat II,0,1504,0,0,0,0,0,0,0,0,0
+NLD,Netherlands,1918-09-09,Ruijs de Beerenbrouck I,0,1262,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1922-09-18,Ruijs de Beerenbrouck II ,0,1261,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1925-08-04,Colijn I ,0,1260,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1926-03-08,De Geer I ,0,1259,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1929-08-10,Ruijs de Beerenbrouck III,0,1258,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1933-05-26,Colijn II ,0,1257,0,0,0,0,10.3,89.7,0,0,0
+NLD,Netherlands,1935-07-31,Colijn III,0,1256,0,0,0,0,10.3,89.7,0,0,0
+NLD,Netherlands,1937-06-24,Colijn IV,0,1255,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1939-07-25,Colijn V,0,1297,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1939-08-10,De Geer II,0,1254,0,0,29.1,0,0,70.9,0,0,0
+NLD,Netherlands,1945-06-24,Schermerhorn,1,767,0,0,42.6,0,11.1,46.3,0,0,0
+NLD,Netherlands,1946-07-03,Beel I,0,96,0,0,43.3,0,9,47.8,0,0,0
+NLD,Netherlands,1948-08-07,Drees I,0,128,0,0,35.5,0,10.5,53.9,0,0,0
+NLD,Netherlands,1951-03-15,Drees II,0,243,0,0,35.5,0,10.5,53.9,0,0,0
+NLD,Netherlands,1952-09-02,Drees III,0,366,0,0,37,0,0,63,0,0,0
+NLD,Netherlands,1956-10-12,Drees IV,0,761,0,0,39.4,0,0,60.6,0,0,0
+NLD,Netherlands,1958-12-22,Beel II,1,741,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1959-05-19,De Quay,0,694,0,0,0,0,20.2,79.8,0,0,0
+NLD,Netherlands,1963-07-24,Marijnen,0,35,0,0,0,0,17.4,82.6,0,0,0
+NLD,Netherlands,1965-04-14,Cals,0,518,0,0,40.6,0,0,59.4,0,0,0
+NLD,Netherlands,1966-11-22,Zijlstra,1,455,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,1967-04-05,De Jong,0,172,0,0,0,0,19.8,80.2,0,0,0
+NLD,Netherlands,1971-06-07,Biesheuvel I,0,231,0,0,0,0,19.5,70.7,9.8,0,0
+NLD,Netherlands,1972-08-09,Biesheuvel II,1,291,0,0,0,0,21.6,78.4,0,0,0
+NLD,Netherlands,1973-05-11,Den Uyl I,0,765,0,7.2,44.3,0,6.2,42.3,0,0,0
+NLD,Netherlands,1977-05-25,Den Uyl II,1,324,0,2.7,46.9,0,7.1,43.4,0,0,0
+NLD,Netherlands,1977-12-19,Van Agt I,0,563,0,0,0,0,36.4,63.6,0,0,0
+NLD,Netherlands,1981-09-11,Van Agt II,0,258,0,0,40.4,0,15.6,44,0,0,0
+NLD,Netherlands,1982-05-29,Van Agt III,1,6,0,0,0,0,26.2,73.8,0,0,0
+NLD,Netherlands,1982-11-04,Lubbers I,0,270,0,0,0,0,44.4,55.6,0,0,0
+NLD,Netherlands,1986-07-14,Lubbers II,0,550,0,0,0,0,33.3,66.7,0,0,0
+NLD,Netherlands,1989-11-07,Lubbers III,0,148,0,0,47.6,0,0,52.4,0,0,0
+NLD,Netherlands,1994-08-22,Kok I,0,637,0,0,40.2,0,59.8,0,0,0,0
+NLD,Netherlands,1998-08-03,Kok II,0,749,0,0,46.4,0,53.6,0,0,0,0
+NLD,Netherlands,2002-07-22,Balkenende I,0,763,0,0,0,0,25.8,46.2,0,28,0
+NLD,Netherlands,2002-10-16,Balkenende II,1,1105,0,0,0,0,25.8,46.2,0,28,0
+NLD,Netherlands,2003-05-27,Balkenende III,0,124,0,0,0,0,43.6,56.4,0,0,0
+NLD,Netherlands,2006-07-07,Balkenende IV,1,65,0,0,0,0,38,62,0,0,0
+NLD,Netherlands,2007-02-22,Balkenende V,0,69,0,0,41.2,0,0,58.8,0,0,0
+NLD,Netherlands,2010-02-23,Balkenende VI,1,652,0,0,0,0,0,100,0,0,0
+NLD,Netherlands,2010-10-14,Rutte I,0,804,0,0,0,0,59.6,40.4,0,0,0
+NLD,Netherlands,2012-04-23,Rutte II,1,1028,0,0,0,0,59.6,40.4,0,0,0
+NLD,Netherlands,2012-11-05,Rutte III,0,1041,0,0,48.1,0,51.9,0,0,0,0
+NLD,Netherlands,2017-03-15,Rutte IV,1,1506,0,0,0,0,0,0,0,0,0
+NOR,Norway,1900-07-01,Steens,0,1476,0,0,0,0,100,0,0,0,0
+NOR,Norway,1902-04-21,Blehr,0,1378,0,0,0,0,100,0,0,0,0
+NOR,Norway,1903-10-22,Hagerup ,0,1379,0,0,0,0,48,0,52,0,0
+NOR,Norway,1905-03-11,Michelsen I,0,1380,0,0,0,0,100,0,0,0,0
+NOR,Norway,1906-08-27,Michelsen II,0,1385,0,0,0,0,100,0,0,0,0
+NOR,Norway,1907-10-23,Løvland,0,1381,0,0,0,0,100,0,0,0,0
+NOR,Norway,1908-03-18,Knudsen I,0,1382,0,0,0,0,100,0,0,0,0
+NOR,Norway,1909-10-25,Knudsen II,0,1386,0,0,0,0,100,0,0,0,0
+NOR,Norway,1910-02-02,Konow,0,1383,0,0,0,0,35.9,0,64.1,0,0
+NOR,Norway,1912-02-20,Bratlie,0,1384,0,0,0,0,35.9,0,64.1,0,0
+NOR,Norway,1913-01-31,Knudsen III,0,1240,0,0,0,0,100,0,0,0,0
+NOR,Norway,1915-10-21,Knudsen IV,0,1239,0,0,0,0,100,0,0,0,0
+NOR,Norway,1918-10-21,Knudsen V,0,1238,0,0,0,0,100,0,0,0,0
+NOR,Norway,1920-06-21,Halvorsen I ,0,1237,0,0,0,0,20,0,80,0,0
+NOR,Norway,1921-06-22,Blehr I ,0,1235,0,0,0,0,100,0,0,0,0
+NOR,Norway,1921-10-24,Blehr II,0,1236,0,0,0,0,100,0,0,0,0
+NOR,Norway,1923-03-06,Halvorsen II,0,1298,0,0,0,0,26.3,0,73.7,0,0
+NOR,Norway,1923-05-30,Berge,0,1234,0,0,0,0,26.3,0,73.7,0,0
+NOR,Norway,1924-07-25,Mowinckel I ,0,1233,0,0,0,0,100,0,0,0,0
+NOR,Norway,1924-10-21,Mowinckel II,0,1232,0,0,0,0,100,0,0,0,0
+NOR,Norway,1926-03-05,Lykke I ,0,1231,0,0,0,0,20.4,0,79.6,0,0
+NOR,Norway,1927-10-17,Lykke II,0,1230,0,0,0,0,6.7,0,93.3,0,0
+NOR,Norway,1928-01-28,Hornsrud,0,1299,0,0,100,0,0,0,0,0,0
+NOR,Norway,1928-02-15,Mowinckel III,0,1229,0,0,0,0,100,0,0,0,0
+NOR,Norway,1930-10-20,Mowinckel IV,0,1228,0,0,0,0,100,0,0,0,0
+NOR,Norway,1931-05-12,Kolstad,0,1227,0,0,0,100,0,0,0,0,0
+NOR,Norway,1932-03-14,Hundseid,0,1226,0,0,0,100,0,0,0,0,0
+NOR,Norway,1933-03-03,Mowinckel V,0,1225,0,0,0,0,100,0,0,0,0
+NOR,Norway,1933-10-16,Mowinckel VI,0,1224,0,0,0,0,100,0,0,0,0
+NOR,Norway,1935-03-20,Nygaardsvold I ,0,1223,0,0,100,0,0,0,0,0,0
+NOR,Norway,1936-10-19,Nygaardsvold II,0,1222,0,0,100,0,0,0,0,0,0
+NOR,Norway,1945-06-25,Gerhardsen I,1,666,0,0,47.6,12.2,15.6,0,24.5,0,0
+NOR,Norway,1945-11-05,Gerhardsen II,0,58,0,0,100,0,0,0,0,0,0
+NOR,Norway,1949-10-10,Gerhardsen III,0,726,0,0,100,0,0,0,0,0,0
+NOR,Norway,1951-11-19,Torp I,0,487,0,0,100,0,0,0,0,0,0
+NOR,Norway,1953-10-12,Torp II,0,545,0,0,100,0,0,0,0,0,0
+NOR,Norway,1955-01-22,Gerhardsen IV,0,221,0,0,100,0,0,0,0,0,0
+NOR,Norway,1957-10-07,Gerhardsen V,0,61,0,0,100,0,0,0,0,0,0
+NOR,Norway,1961-09-11,Gerhardsen VI,0,98,0,0,100,0,0,0,0,0,0
+NOR,Norway,1963-08-28,Lyng,0,53,0,0,0,21.6,18.9,20.3,39.2,0,0
+NOR,Norway,1963-09-25,Gerhardsen VII,0,510,0,0,100,0,0,0,0,0,0
+NOR,Norway,1965-10-12,Borten I,0,284,0,0,0,22.5,22.5,16.2,38.8,0,0
+NOR,Norway,1969-09-07,Borten II,0,657,0,0,0,26.3,17.1,18.4,38.2,0,0
+NOR,Norway,1971-03-17,Bratteli I,0,14,0,0,100,0,0,0,0,0,0
+NOR,Norway,1972-10-17,Korvald,1,822,0,0,0,42.6,27.7,29.8,0,0,0
+NOR,Norway,1973-10-16,Bratteli II,0,56,0,0,100,0,0,0,0,0,0
+NOR,Norway,1976-01-12,Nordli I,0,520,0,0,100,0,0,0,0,0,0
+NOR,Norway,1977-09-11,Nordli II,0,653,0,0,100,0,0,0,0,0,0
+NOR,Norway,1981-02-04,Brundtland I,0,81,0,0,100,0,0,0,0,0,0
+NOR,Norway,1981-10-14,Willoch I,0,485,0,0,0,0,0,0,100,0,0
+NOR,Norway,1983-06-08,Willoch II,0,181,0,0,0,13.8,0,18.8,67.5,0,0
+NOR,Norway,1985-09-08,Willoch III,0,310,0,0,0,15.4,0,20.5,64.1,0,0
+NOR,Norway,1986-05-09,Brundtland II,0,394,0,0,100,0,0,0,0,0,0
+NOR,Norway,1989-10-16,Syse,0,94,0,0,0,17.7,0,22.6,59.7,0,0
+NOR,Norway,1990-11-03,Brundtland III,0,588,0,0,100,0,0,0,0,0,0
+NOR,Norway,1993-09-13,Brundtland IV,0,572,0,0,100,0,0,0,0,0,0
+NOR,Norway,1996-10-25,Jagland,0,813,0,0,100,0,0,0,0,0,0
+NOR,Norway,1997-10-17,Bondevik I,0,45,0,0,0,26.2,14.3,59.5,0,0,0
+NOR,Norway,2000-03-17,Stoltenberg I,0,333,0,0,100,0,0,0,0,0,0
+NOR,Norway,2001-10-19,Bondevik II,0,300,0,0,0,0,3.2,35.5,61.3,0,0
+NOR,Norway,2005-10-17,Stoltenberg II,0,693,17.2,0,70.1,12.6,0,0,0,0,0
+NOR,Norway,2009-10-20,Stoltenberg III,0,551,12.8,0,74.4,12.8,0,0,0,0,0
+NOR,Norway,2013-10-16,Solberg,0,1065,0,0,0,0,0,0,62.3,37.7,0
+NZL,New Zealand,1902-11-25,Seddon I,0,1325,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1905-12-06,Seddon II,0,1326,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1906-06-21,Hall-Jones,0,1308,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1906-08-06,Ward I,0,1309,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1908-12-19,Ward II,0,1323,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1911-12-19,Ward III,0,1324,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1912-03-18,Mackenzie,0,1310,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1912-07-10,Massey,0,1311,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1914-11-12,Massey II,0,1320,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1919-12-17,Massey III,0,1321,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1922-12-07,Massey IV,0,1322,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1925-05-14,Bell,0,1312,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1925-05-30,Coates,0,1313,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1928-12-10,Ward IV,0,1314,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1930-05-28,Forbes I,0,1315,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1931-12-02,Forbes II,0,1319,0,0,0,0,100,0,0,0,0
+NZL,New Zealand,1935-12-06,Savage I,0,1316,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1938-10-15,Savage II,0,1318,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1940-04-01,Fraser I,0,1317,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1943-09-25,Frazer II,0,1036,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1946-12-20,Frazer III,0,474,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1949-12-08,Holland I,0,717,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1951-09-01,Holland II,0,66,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1954-11-26,Holland III,0,410,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1957-09-26,Holyoake I,0,629,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1957-12-11,Nash,0,869,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1960-12-12,Holyoake II,0,701,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1963-12-20,Holyoake III,0,668,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1966-11-26,Holyoake IV,0,44,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1969-12-22,Holyoake V,0,344,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1972-02-07,Marshall,0,569,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1972-12-08,Kirk,0,97,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1974-09-06,Rowling,0,413,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1975-12-12,Muldoon I,0,285,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1978-12-12,Muldoon II,0,669,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1981-12-11,Muldoon III,0,259,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1984-07-26,Lange I,0,121,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1987-08-19,Lange II,0,611,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1989-08-08,Palmer,0,307,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1990-09-04,Moore,0,571,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,1990-11-02,Bolger I,0,473,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1993-11-28,Bolger II,0,514,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1996-03-01,Bolger III,0,830,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1996-12-16,Bolger IV,0,620,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1997-12-08,Shipley I,0,341,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1998-08-14,Shipley II,0,388,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,1999-12-09,Clark I,0,212,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,2002-08-15,Clark II,0,845,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,2005-10-17,Clark III,0,427,0,0,100,0,0,0,0,0,0
+NZL,New Zealand,2008-11-19,Key I,0,251,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,2011-12-14,Key II,0,986,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,2014-10-08,Key III,0,1151,0,0,0,0,0,0,100,0,0
+NZL,New Zealand,2016-12-12,English,0,1499,0,0,0,0,0,0,100,0,0
+POL,Poland,1989-08-24,Mazowiecki,0,728,45.8,0,36.8,17.4,0,0,0,0,0
+POL,Poland,1991-01-12,Bielecki,0,75,26.2,0,0,73.8,0,0,0,0,0
+POL,Poland,1991-12-23,Olszewski,0,132,0,0,0,23.1,0,36.4,40.5,0,0
+POL,Poland,1992-06-05,Pawlak I,1,605,0,0,0,100,0,0,0,0,0
+POL,Poland,1992-07-11,Suchocka I,0,68,0,0,0,31.1,47.1,1.6,20.1,0,0
+POL,Poland,1993-05-28,Suchocka II,1,730,0,0,0,31.1,47.1,1.6,20.1,0,0
+POL,Poland,1993-10-26,Pawlak II,0,226,0,0,56.4,43.6,0,0,0,0,0
+POL,Poland,1995-03-06,Oleksy,0,409,0,0,56.4,43.6,0,0,0,0,0
+POL,Poland,1996-02-07,Cimoszewicz,0,437,0,0,56.4,43.6,0,0,0,0,0
+POL,Poland,1997-10-31,Buzek I,0,517,0,0,0,0,23,77,0,0,0
+POL,Poland,2000-06-07,Buzek II,0,194,0,0,0,0,0,100,0,0,0
+POL,Poland,2001-10-19,Miller I,0,357,0,0,83.7,16.3,0,0,0,0,0
+POL,Poland,2003-03-01,Miller II,0,18,0,0,100,0,0,0,0,0,0
+POL,Poland,2004-05-02,Belka,0,322,0,0,83.7,16.3,0,0,0,0,0
+POL,Poland,2005-10-31,Marcinkiewicz I,0,312,0,0,0,0,0,0,100,0,0
+POL,Poland,2006-05-05,Marcinkiewicz II,0,754,0,0,0,22.9,0,0,77.1,0,0
+POL,Poland,2006-07-14,Kaczynski,0,356,0,0,0,22.9,0,0,77.1,0,0
+POL,Poland,2007-11-16,Tusk I,0,164,0,0,0,12.9,0,0,87.1,0,0
+POL,Poland,2011-11-18,Tusk II,0,985,0,0,0,11.9,0,0,88.1,0,0
+POL,Poland,2014-09-22,Kopacz,0,1146,0,0,0,11.9,0,0,88.1,0,0
+POL,Poland,2015-11-16,Szydlo,0,1196,0,0,0,0,0,0,100,0,0
+PRT,Portugal,1975-04-25,Goncalves,1,1477,0,0,0,0,0,0,0,0,0
+PRT,Portugal,1975-09-19,Pinheiro de Azevedo,1,1067,0,0,0,0,0,0,0,0,0
+PRT,Portugal,1976-07-23,Soares I,0,585,0,0,100,0,0,0,0,0,0
+PRT,Portugal,1978-01-23,Soares II,0,336,0,0,71.8,0,0,28.2,0,0,0
+PRT,Portugal,1978-08-29,Nobre da Costa,1,542,0,0,0,0,0,0,0,0,0
+PRT,Portugal,1978-11-22,Mota Pinto,1,465,0,0,0,0,100,0,0,0,0
+PRT,Portugal,1979-07-07,Pintassilgo,1,384,0,0,100,0,0,0,0,0,0
+PRT,Portugal,1980-01-03,Carneiro I,0,549,0,0,0,0,61,35,4.1,0,0
+PRT,Portugal,1980-10-05,Carneiro II,0,328,0,0,0,0,61.2,34.3,4.5,0,0
+PRT,Portugal,1981-01-09,Balsemao I,0,396,0,0,0,0,61.2,34.3,4.5,0,0
+PRT,Portugal,1981-09-04,Balsemao II,0,135,0,0,0,0,61.2,34.3,4.5,0,0
+PRT,Portugal,1983-06-09,Soares III,0,689,0,0,57.4,0,42.6,0,0,0,0
+PRT,Portugal,1985-06-14,Soares IV,1,885,0,0,100,0,0,0,0,0,0
+PRT,Portugal,1985-10-31,Silva I,0,734,0,0,0,0,100,0,0,0,0
+PRT,Portugal,1987-08-17,Silva II,0,718,0,0,0,0,100,0,0,0,0
+PRT,Portugal,1991-10-31,Silva III,0,282,0,0,0,0,100,0,0,0,0
+PRT,Portugal,1995-10-28,Guterres I,0,265,0,0,100,0,0,0,0,0,0
+PRT,Portugal,1999-10-25,Guterres II,0,5,0,0,100,0,0,0,0,0,0
+PRT,Portugal,2002-04-06,Barroso,0,381,0,0,0,0,88.2,11.8,0,0,0
+PRT,Portugal,2004-07-23,Santana Lopes,0,755,0,0,0,0,88.2,11.8,0,0,0
+PRT,Portugal,2005-03-12,Socrates I,0,169,0,0,100,0,0,0,0,0,0
+PRT,Portugal,2009-10-26,Socrates II,0,858,0,0,100,0,0,0,0,0,0
+PRT,Portugal,2011-06-15,Passos Coelho I,0,917,0,0,0,0,81.8,18.2,0,0,0
+PRT,Portugal,2015-10-30,Passos Coelho II,0,1177,0,0,0,0,100,0,0,0,0
+PRT,Portugal,2015-11-26,Costa,0,1198,0,0,100,0,0,0,0,0,0
+ROU,Romania,1990-05-20,Roman,0,715,0,0,0,0,100,0,0,0,0
+ROU,Romania,1991-10-16,Stolojan,1,710,0,3.8,0,2.9,93.3,0,0,0,0
+ROU,Romania,1992-11-13,Vacaroiu I,0,839,0,0,100,0,0,0,0,0,0
+ROU,Romania,1994-08-18,Vacaroiu II,0,447,0,0,79.6,0,0,0,0,20.4,0
+ROU,Romania,1996-09-02,Vacaroiu III,0,102,0,0,100,0,0,0,0,0,0
+ROU,Romania,1996-12-11,Ciorbea,0,73,0,0,5,0,36.5,46,12.5,0,0
+ROU,Romania,1998-04-15,Vasile,0,440,0,0,5,0,36.5,46,12.5,0,0
+ROU,Romania,1999-12-21,Isarescu,0,171,0,0,5,0,36.5,46,12.5,0,0
+ROU,Romania,2000-12-20,Nastase I,0,64,0,0,100,0,0,0,0,0,0
+ROU,Romania,2003-06-19,Nastase II,0,1029,0,0,100,0,0,0,0,0,0
+ROU,Romania,2004-12-29,Popescu-Tariceanu I,0,509,0,0,0,0,83.6,0,16.4,0,0
+ROU,Romania,2006-12-07,Popescu-Tariceanu II,0,28,0,0,0,0,83.6,0,16.4,0,0
+ROU,Romania,2007-04-05,Popescu-Tariceanu III,0,118,0,0,0,0,74.4,0,25.6,0,0
+ROU,Romania,2008-12-22,Boc I,0,599,0,0,48.9,0,51.1,0,0,0,0
+ROU,Romania,2009-12-23,Boc II,0,993,0,0,0,0,83.9,0,16.1,0,0
+ROU,Romania,2010-05-19,Boc III,0,537,0,0,10.5,0,75.2,0,14.4,0,0
+ROU,Romania,2012-02-09,Ungureanu,0,992,0,0,10.8,0,76.6,0,12.7,0,0
+ROU,Romania,2012-05-07,Ponta I,0,1033,0,0,61.2,0,38.8,0,0,0,0
+ROU,Romania,2012-12-21,Ponta II,0,1043,0,0,58.6,0,36.6,0,4.8,0,0
+ROU,Romania,2014-03-04,Ponta III,0,1085,0,0,83.8,0,0,0,16.2,0,0
+ROU,Romania,2014-12-15,Ponta IV,0,1154,0,0,82.1,0,11.3,0,6.7,0,0
+ROU,Romania,2015-11-10,Ciolos,1,1197,0,0,0,0,0,0,0,0,0
+ROU,Romania,2017-01-04,Grindeanu,0,1513,0,0,88.5,0,11.5,0,0,0,0
+ROU,Romania,2017-06-29,Tudose,0,1514,0,0,88.5,0,11.5,0,0,0,0
+SVK,Slovakia,1990-06-27,Meciar I,0,399,0,0,0,0,55.8,44.2,0,0,0
+SVK,Slovakia,1991-04-23,Carnogursky,0,436,0,0,0,0,55.8,44.2,0,0,0
+SVK,Slovakia,1992-06-24,Meciar II,0,690,0,0,0,0,0,0,83.1,16.9,0
+SVK,Slovakia,1993-01-12,Meciar III,0,420,0,0,0,0,0,0,83.1,16.9,0
+SVK,Slovakia,1993-03-19,Meciar IV,0,592,0,0,0,0,0,0,100,0,0
+SVK,Slovakia,1993-11-17,Meciar V,0,719,0,0,0,0,0,0,81.5,18.5,0
+SVK,Slovakia,1994-03-16,Moravcik,0,817,40.8,0,0,0,25.4,25.4,0,8.5,0
+SVK,Slovakia,1994-12-13,Meciar VI,0,26,15.7,0,0,0,0,0,73.5,10.8,0
+SVK,Slovakia,1998-10-30,Dzurinda I,0,699,24.7,0,14,0,0,45.2,16.1,0,0
+SVK,Slovakia,2002-10-16,Dzurinda II,0,547,0,0,0,0,19.2,55.1,25.6,0,0
+SVK,Slovakia,2006-02-08,Dzurinda III,1,185,0,0,0,0,26.3,38.6,35.1,0,0
+SVK,Slovakia,2006-07-04,Fico I,0,269,0,0,58.8,0,0,0,17.6,23.5,0
+SVK,Slovakia,2010-07-08,Radicova I,0,319,0,0,0,0,24,57.3,18.7,0,0
+SVK,Slovakia,2011-10-20,Radicova II,1,982,0,0,0,0,23.3,57.5,19.2,0,0
+SVK,Slovakia,2012-04-04,Fico II,0,1027,0,0,100,0,0,0,0,0,0
+SVK,Slovakia,2016-03-23,Fico III,0,1483,0,0,57.6,0,0,0,24.7,17.6,0
+SVK,Slovakia,2016-09-01,Fico IV,0,1491,0,0,65.3,0,0,0,14.7,20,0
+SVN,Slovenia,1990-05-16,Peterle,0,527,0,18.2,13.6,0,18.2,50,0,0,0
+SVN,Slovenia,1992-04-22,Drnovsek I,0,9,0,20,50,0,30,0,0,0,0
+SVN,Slovenia,1993-01-12,Drnovsek II,0,559,0,0,32.7,0,40,27.3,0,0,0
+SVN,Slovenia,1994-04-08,Drnovsek III,0,145,0,0,27.5,0,43.1,29.4,0,0,0
+SVN,Slovenia,1996-01-26,Drnovsek IV,0,562,0,0,0,0,59.5,40.5,0,0,0
+SVN,Slovenia,1997-02-27,Drnovsek V,0,644,0,0,0,0,51,38.8,0,0,10.2
+SVN,Slovenia,2000-06-07,Bajuk,0,768,0,0,45.7,0,0,54.3,0,0,0
+SVN,Slovenia,2000-11-30,Drnovsek VI,0,505,0,0,20.4,0,63,16.7,0,0,0
+SVN,Slovenia,2002-12-19,Rop I,0,187,0,0,19,0,58.6,15.5,0,0,6.9
+SVN,Slovenia,2004-04-08,Rop II,0,292,0,0,22.4,0,69.4,0,0,0,8.2
+SVN,Slovenia,2004-12-03,Jansa I,0,407,0,0,59.2,0,0,32.7,0,0,8.2
+SVN,Slovenia,2008-11-21,Pahor I,0,803,0,0,76,0,10,0,0,0,14
+SVN,Slovenia,2011-06-27,Pahor II,0,907,0,0,84.8,0,15.2,0,0,0,0
+SVN,Slovenia,2012-01-28,Jansa II,0,990,0,0,52,0,16,20,0,0,12
+SVN,Slovenia,2013-03-20,Bratusek,0,1047,0,0,73.1,0,15.4,0,0,0,11.5
+SVN,Slovenia,2014-08-25,Cerar,0,1144,0,0,80.8,0,0,0,0,0,19.2
+SWE,Sweden,1911-10-07,Staaff,0,1370,0,0,0,0,100,0,0,0,0
+SWE,Sweden,1914-02-17,Hammarskjold I,1,1369,0,0,0,0,0,0,0,0,0
+SWE,Sweden,1914-09-13,Hammarskjold II,1,1371,0,0,0,0,0,0,0,0,0
+SWE,Sweden,1917-03-13,Swartz,0,1368,0,0,0,0,0,0,100,0,0
+SWE,Sweden,1917-10-19,Eden,0,1194,0,0,58.1,0,41.9,0,0,0,0
+SWE,Sweden,1920-03-10,Branting I,0,1193,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1920-10-27,De Geer,1,1192,0,0,0,0,0,0,0,0,0
+SWE,Sweden,1921-02-23,von Sydow,1,1191,0,0,0,0,0,0,0,0,0
+SWE,Sweden,1921-10-13,Branting II,0,1190,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1923-04-19,Trygger,0,1189,0,0,0,0,0,0,100,0,0
+SWE,Sweden,1924-10-18,Branting III,0,1188,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1925-01-24,Sandler,0,1187,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1926-06-07,Ekman I,0,1186,0,0,0,0,100,0,0,0,0
+SWE,Sweden,1928-10-02,Lindman,0,1185,0,0,0,0,0,0,100,0,0
+SWE,Sweden,1930-06-07,Ekman II,0,1184,0,0,0,0,100,0,0,0,0
+SWE,Sweden,1932-09-24,Hansson I,0,1183,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1936-06-19,Pehrsson-Bramstorp,0,1182,0,0,0,100,0,0,0,0,0
+SWE,Sweden,1936-09-28,Hansson II,0,1178,0,0,75.7,24.3,0,0,0,0,0
+SWE,Sweden,1939-12-13,Hansson III,0,1179,0,0,51.1,16.4,12.3,0,20.1,0,0
+SWE,Sweden,1940-09-15,Hansson IV,1,1180,0,0,59,12.3,10.1,0,18.5,0,0
+SWE,Sweden,1944-09-17,Hansson V,1,1181,0,0,53.5,16.3,12.1,0,18.1,0,0
+SWE,Sweden,1945-07-31,Hansson VI,0,543,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1946-10-11,Erlander I,0,628,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1948-11-19,Erlander II,0,445,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1951-10-01,Erlander III,0,361,0,0,78.9,21.1,0,0,0,0,0
+SWE,Sweden,1952-09-21,Erlander IV,0,781,0,0,80.9,19.1,0,0,0,0,0
+SWE,Sweden,1956-09-26,Erlander V,0,207,0,0,84.8,15.2,0,0,0,0,0
+SWE,Sweden,1957-10-31,Erlander VI,0,380,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1958-06-01,Erlander VII,0,208,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1960-09-18,Erlander VIII,0,424,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1964-09-20,Erlander IX,0,506,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1968-09-15,Erlander X,0,821,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1969-10-14,Palme I,0,219,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1970-09-20,Palme II,0,577,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1973-09-16,Palme III,0,438,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1976-10-07,Falldin I,0,137,0,0,0,47.8,21.7,0,30.6,0,0
+SWE,Sweden,1978-10-13,Ullsten,0,587,0,0,0,0,100,0,0,0,0
+SWE,Sweden,1979-10-11,Falldin II,0,16,0,0,0,36.6,21.7,0,41.7,0,0
+SWE,Sweden,1981-05-19,Falldin III,0,142,0,0,0,62.7,37.3,0,0,0,0
+SWE,Sweden,1982-10-07,Palme IV,0,647,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1985-09-15,Palme V,0,296,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1986-03-12,Carlsson I,0,478,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1988-09-18,Carlsson II,0,220,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1990-02-26,Carlsson III,0,732,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1991-10-03,Bildt,0,779,0,0,0,18.2,19.4,15.3,47.1,0,0
+SWE,Sweden,1994-10-06,Carlsson IV,0,528,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1996-03-21,Persson I,0,156,0,0,100,0,0,0,0,0,0
+SWE,Sweden,1998-10-07,Persson II,0,503,0,0,100,0,0,0,0,0,0
+SWE,Sweden,2002-10-21,Persson III,0,641,0,0,100,0,0,0,0,0,0
+SWE,Sweden,2006-10-05,Reinfeldt I,0,475,0,0,0,16.3,15.7,13.5,54.5,0,0
+SWE,Sweden,2010-09-19,Reinfeldt II,0,854,0,0,0,13.3,13.9,11,61.8,0,0
+SWE,Sweden,2014-10-02,Lofven,0,1149,0,18.1,81.9,0,0,0,0,0,0
+TUR,Turkey,1983-12-13,Ozal I,0,1087,0,0,0,0,0,0,100,0,0
+TUR,Turkey,1987-12-21,Ozal II,0,1088,0,0,0,0,0,0,100,0,0
+TUR,Turkey,1990-11-09,Akbulut,0,1089,0,0,0,0,0,0,100,0,0
+TUR,Turkey,1991-06-23,Yilmaz I,0,1090,0,0,0,0,0,0,100,0,0
+TUR,Turkey,1991-11-20,Demirel,0,1091,0,0,33.1,0,0,0,66.9,0,0
+TUR,Turkey,1993-06-25,Ciller I,0,1092,0,0,28.5,0,0,0,71.5,0,0
+TUR,Turkey,1995-10-05,Ciller II,0,1096,0,0,0,0,0,0,100,0,0
+TUR,Turkey,1995-10-31,Ciller III,1,1093,0,0,33.1,0,0,0,66.9,0,0
+TUR,Turkey,1996-03-06,Yilmaz II,0,1097,0,0,0,0,0,0,100,0,0
+TUR,Turkey,1996-06-28,Erbakan,0,1098,0,0,0,0,0,0,46.1,0,53.9
+TUR,Turkey,1997-06-30,Yilmaz III,0,1099,0,0,35.5,0,0,0,64.5,0,0
+TUR,Turkey,1999-01-11,Ecevit I,1,1100,0,0,100,0,0,0,0,0,0
+TUR,Turkey,1999-05-28,Ecevit II,0,1101,0,0,38.7,0,0,0,24.5,36.8,0
+TUR,Turkey,2002-11-16,Gul,0,1078,0,0,0,0,0,0,100,0,0
+TUR,Turkey,2003-03-14,Erdogan I,0,1077,0,0,0,0,0,0,100,0,0
+TUR,Turkey,2007-08-29,Erdogan II,0,1076,0,0,0,0,0,0,100,0,0
+TUR,Turkey,2011-07-06,Erdogan III,0,1075,0,0,0,0,0,0,100,0,0
+TUR,Turkey,2014-08-28,Davutoglu I,0,1143,0,0,0,0,0,0,100,0,0
+TUR,Turkey,2015-08-28,Davutoglu II,1,1173,19.1,0,0,0,0,0,61.7,19.1,0
+TUR,Turkey,2015-11-30,Davutoglu III,0,1195,0,0,0,0,0,0,100,0,0
+TUR,Turkey,2016-05-24,Yildirim,0,1487,0,0,0,0,0,0,100,0,0
