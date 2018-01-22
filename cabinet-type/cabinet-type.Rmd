@@ -1,0 +1,81 @@
+---
+title: "ParlGov cabinet type"
+output:
+  html_document:
+    code_folding: hide
+    toc: yes
+---
+<style type="text/css"> <!-- .table { width: auto } ---> </style>
+
+```{r data, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+## source("cabinet-type.R")  # create cabinet type dataset "cabinet-type.csv"
+cab_raw <- readr::read_csv("cabinet-type.csv")
+
+# post-war data only, factor for ordering, duration in years
+cab_data <-
+  cab_raw %>%
+  filter(start_date > "1945-05-08") %>% 
+  mutate(cabinet_type = factor(cabinet_type) %>% relevel("minority"),
+         years = as.numeric(duration, units="days") / 365)
+```
+
+# Graphs
+
+__Post-war frequency and duration of cabinet types__
+
+```{r graphs, message=FALSE}
+# plot frequency of cabinet type by number of formations
+pl_freq <- ggplot(cab_data, aes(x = country_name_short)) +
+  geom_bar(aes(fill = cabinet_type)) +
+  labs(x = NULL, y = "Frequency", fill = "") +
+  theme(axis.text.x = element_text(angle = 90))
+print(pl_freq)
+
+# plot occurence of cabinet type by duration
+pl_dur <- ggplot(cab_data, aes(x = country_name_short, weight = years)) + 
+  geom_bar(aes(fill = cabinet_type)) +
+  labs(x = NULL, y = "Years", fill = "") +
+  theme(axis.text.x = element_text(angle = 90))
+print(pl_dur)
+```
+
+```{r svg-graphs, eval=FALSE}
+# export graphs into svg-files
+
+out_file <- "cabinet-type-frequency.svg"
+pl_freq <- pl_freq + theme(plot.title  =  element_text("Frequency of formation"))
+ggsave(plot = pl_freq, file = out_file, width = 12, height = 8 )
+
+out_file <- "cabinet-type-duration.svg"
+pl_dur <- pl_dur + theme(plot.title = element_text("Duration"))
+ggsave(plot = pl_dur, file = out_file, width = 12, height = 8 )
+```
+
+# Summary
+
+__Post-war frequency of cabinet types__
+
+```{r freqency, message=FALSE}
+# cabinet type summary by country
+country_type <-
+  cab_data %>% 
+  count(country_name_short, cabinet_type) %>% 
+  spread(cabinet_type, n, fill = 0) %>% 
+  mutate_if(is.numeric, as.integer)
+
+# grand coalition summary
+country_gc <- 
+  cab_data %>% 
+  group_by(country_name_short) %>% 
+  summarise(grand = sum(grand_coalition))
+
+# combine and pretty print cabinet information
+country_type %>%
+  left_join(cab_data %>% count(country_name_short)) %>% 
+  left_join(country_gc) %>%
+  rename(country = country_name_short, total = n) %>% 
+  knitr::kable()
+```
+
