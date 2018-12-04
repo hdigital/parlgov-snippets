@@ -1,0 +1,266 @@
+---
+title: "Dutch election 2017"
+author: "Holger Doering -- University of Bremen"
+date: "16 March 2017"
+output:
+  html_document:
+    toc: true
+    theme: united
+    code_folding: hide
+---
+<style type="text/css">
+<!--
+  .table {
+    width: auto
+  }
+--->
+</style>
+
+__Election Netherlands 15 March 2017__
+
+This morning, two facts from yesterdays Dutch election were particularly striking to me.
+
+ * The __Social Democracts__ (PVdA) fell from __24.8% in 2012__ to __5.7%__ vote share.
+ * The __largest party__ (Liberals, VVD) won only __21.3%__ vote share.
+
+The Economist has a [nice chart](http://www.economist.com/blogs/graphicdetail/2017/03/daily-chart-10) visualizing the results.
+
+I wondered what these effects are in a comparative perspective and conducted an analysis with data from
+[ParlGov](http://www.parlgov.org/).
+
+Here are the main facts.
+
+ 1. The electoral loss of the Social Democrats (PVdA) was particularly bad.
+ 2. A largest party with little more than 20% vote share is less exceptional nowadays.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Den_Haag_Binnenhof.jpg/320px-Den_Haag_Binnenhof.jpg)
+
+```{r setup, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(lubridate)
+
+library(knitr)
+options(knitr.kable.NA = '')
+```
+
+I use the data from [ParlGov](http://www.parlgov.org/) and limit my analysis to older democracies,
+excluding countries from Central/Eastern Europe.
+
+```{r get_data, message=FALSE, warning=FALSE}
+db_file <- 'parlgov.db'
+url <- 'http://www.parlgov.org/static/data/parlgov-experimental.db'
+if( ! db_file %in% list.files()) download.file(url, db_file, mode='wb')
+parlgov_db <- src_sqlite(db_file)
+
+get_decade <- function(election_date) year(election_date) %/% 10 * 10
+
+get_parlgov_table <- function(table_name) tbl(parlgov_db, table_name) %>% as_tibble
+party_raw <- get_parlgov_table('view_party')
+elec_raw <- get_parlgov_table('view_election')
+
+elec <- elec_raw %>%
+  filter(election_type == 'parliament',
+         election_date >= '1945-01-01') %>%
+  mutate(country = country_name,
+         decade = get_decade(election_date)) %>%
+  left_join(party_raw %>% select(party_id, family=family_name_short)) %>%
+  group_by(country) %>%
+  filter(min(election_date) <= '1980-01-01') %>%
+  ungroup
+
+elec_info <- get_parlgov_table('election')
+turnout <- elec_info %>% 
+  filter(id %in% elec$election_id) %>% 
+  mutate(decade = get_decade(date)) %>% 
+  group_by(decade) %>% 
+  summarize(turnout = mean(votes_valid / electorate, na.rm=T))
+
+results <- get_parlgov_table('election_result')
+alliance <- results %>%
+  filter(id %in% alliance_id) %>%
+  mutate(tmp = paste(election_id, party_id)) %>%
+  .[['tmp']]
+
+cabinet <- get_parlgov_table('view_cabinet')
+cab_party <- cabinet %>%
+  filter(cabinet_party == 1) %>%
+  distinct(election_id, party_id) %>%
+  mutate(cabinet = 1)
+```
+
+First, I look at the electoral performance of the Dutch Social Democrats (PVdA) with the following information.
+
+ * mean vote share PVdA by decade
+ * PVdA election results compared to Social Democrats in Germany and Sweden
+ * party family vote share by decade
+ * large electoral losses in old democracies
+
+# PvdA vote share
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo_PvdA.svg/320px-Logo_PvdA.svg.png)
+
+The [PVd](http://www.parlgov.org/explore/NLD/party/742/)
+has always been less successful than the German and Swedish Social Democrats. Nevertheless, the 2017 result is particularly bad (see also vote loss comparison below).
+
+```{r pvda, message=FALSE, warning=FALSE}
+socdem <- elec %>%
+  filter(party_id %in% c(558, 742, 904)) %>%  # NOR-104 SWE-904
+  mutate(year = year(election_date),
+         party = paste(stringi::stri_trans_totitle(country_name_short), party_name_short, sep=' - ')) %>%
+  bind_rows(tibble(party='Nld - PvdA', party_name_short='PvdA',
+                   decade=2010, year=2017, vote_share=5.7))
+
+pvda <- socdem %>%
+  filter(party_name_short == 'PvdA') %>%
+  group_by(decade) %>%
+  summarise(vote_share = round(mean(vote_share, na.rm=T), 0)) %>%
+  spread(decade, vote_share)
+pvda %>% kable
+
+ggplot(socdem, aes(year, vote_share, color=party)) + geom_line() + ylim(0, 60)
+```
+
+# Party family share
+
+Here, I present a comparison of the mean vote share of the main party families by decade.
+
+All the main large party families have lost vote share over the last decades. Social Democrats have lost to Greens and Socialists/Communists.
+
+Nevertheless, I was surprised how relatively stable the mean vote by party family has been.
+
+```{r family, message=FALSE, warning=FALSE}
+pa_fam <- elec %>%
+  filter( ! family %in% c('code', 'none', 'spec')) %>%
+  group_by(decade, election_id, family) %>%
+  summarise(vote_share = sum(vote_share, na.rm=T)) %>%
+  group_by(decade, family)
+
+# use reshape to add 0.0% for complete family data
+pa_fam <-  pa_fam %>%
+  spread(family, vote_share, fill = 0) %>%
+  gather(family, vote_share, -election_id, -decade) %>%
+  group_by(decade, family) %>%
+  summarise(vote_share = mean(vote_share, na.rm=T))
+
+fam_level <- c('com', 'eco', 'soc', 'agr', 'lib', 'chr', 'con', 'right')
+fam_color <- c('#FB9A99', '#33A02C', '#E31A1C', '#B2DF8A', '#FDBF6F', '#FF7F00', '#1F78B4', '#A6CEE3')
+pa_fam <- pa_fam %>% mutate(family = factor(family, fam_level))
+
+pa_fam_pl <- pa_fam %>% 
+  left_join(turnout) %>% 
+  mutate(vote_share_with_turnout = vote_share * turnout) %>% 
+  select(-turnout) %>% 
+  gather(turnout, vote_share, -decade, -family)
+
+ggplot(pa_fam_pl, aes(decade, vote_share, fill=family)) +
+  geom_area(position = 'stack') +
+  scale_fill_manual(values = fam_color) +
+  facet_grid(. ~ turnout)
+
+pa_fam_wide <- pa_fam %>%
+  mutate(vote_share = round(vote_share, 0)) %>%
+  spread(decade, vote_share, fill = 0)
+pa_fam_wide %>% kable
+```
+
+
+# Electoral losses
+
+## Cost or ruling
+
+Parties in cabinet tend to loose votes. A fact that political scientists refer to as the cost of ruling (see [Nannestad/Paldam 2002](https://books.google.de/books?hl=en&lr=&id=vdGeUywOkR0C&oi=fnd&pg=PA17&dq=Nannestad+Paldam&ots=h_OVPMvfjk&sig=xCIfGOoG2maiD8UkKeIeu11QOPU&redir_esc=y#v=onepage&q=Nannestad%20Paldam&f=false)).
+
+
+```{r cost_ruling, message=FALSE, warning=FALSE}
+elec_prev <- elec %>%
+  filter( ! paste(election_id, party_id) %in% alliance) %>%
+  left_join(cab_party) %>%
+  mutate(cabinet = ifelse(is.na(cabinet), 'no', 'yes') %>% factor(c('yes', 'no'))) %>%
+  select(country, party_id, cabinet,
+         previous_parliament_election_id = election_id,
+         vote_share_last = vote_share)
+
+party_url <- '[%s](http://www.parlgov.org/explore/%s/party/%s/)'
+
+loss <- elec %>%
+  inner_join(elec_prev) %>%
+  mutate(change = vote_share - vote_share_last,
+         year = year(election_date),
+         name = party_name_english,
+         party = sprintf(party_url, party_name_short, country_name_short, party_id)) %>%
+  select(country, year, cabinet, party, name, family, last=vote_share_last, share=vote_share, change) %>%
+  mutate_each(funs(round(.,1)), last, share, change) %>%
+  arrange(change)
+
+ggplot(loss, aes(share, change, color=cabinet)) + geom_smooth() + xlim(c(0, 50))
+```
+
+## Largest vote losses
+
+Here, I list the largest vote losses (excluding alliances). All of the parties were members of cabinet in the previous legislative term.
+
+The __PVdA__ was the smaller coaliton party in the [Rutte III](http://www.parlgov.org/explore/NLD/cabinet/2012-11-05/)
+cabinet but a vote share __loss of 19.1%__ (from 24.8% in 2012 to 5.7% in 2017) is exceptional.
+
+Given the modest size of the PVdA in recent elections with about 20% vote share, only [Kadima](http://www.parlgov.org/explore/ISR/party/1870/) in Israel suffered a similar electoral defeat. However, Kadima was competing with a splinter party 
+([Hatnuah](http://www.parlgov.org/explore/isr/party/2320/)) and the combined vote share reduces the electoral loss in comparative perspective.
+
+```{r share_loss, message=FALSE, warning=FALSE}
+loss %>% top_n(-20) %>% kable
+```
+
+
+# Largest party vote share
+
+## Smallest largest party
+
+Recently, elections in several countries have resulted in largest parties with only about 20% vote share.
+
+```{r share_max, message=FALSE, warning=FALSE}
+elec_url <- '[%s](http://www.parlgov.org/explore/%s/election/%s/)'
+
+elec_max <- elec %>%
+  mutate(year = year(election_date)) %>%
+  group_by(country, year) %>%
+  mutate(share_max = round(max(vote_share, na.rm=T), 1)) %>%
+  ungroup %>%
+  mutate(year = sprintf(elec_url, year, country_name_short, election_date)) %>%
+  arrange(share_max) %>%
+  distinct(country, .keep_all=T) %>%
+  select(country, year, party=party_name_short, share_max)
+
+elec_max %>% top_n(10, -share_max) %>% kable
+```
+
+## Largest party share by decade
+
+This is the result of a general decline in the vote share of the largest party and more fragmented party systems.
+
+```{r share_decade, message=FALSE, warning=FALSE}
+decade <- elec %>%
+  group_by(country, decade) %>%
+  summarise(share_max = round(max(vote_share, na.rm=T), 0))
+
+ggplot(decade, aes(factor(decade), share_max)) + geom_boxplot()
+
+decade_wide <- decade %>% tidyr::spread(decade, share_max)
+knitr::kable(decade_wide)
+```
+
+# Sources
+
+Analysis in R with `tidyverse` and document created in `knitr`.
+
+Images linked to from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
+
+# Updates
+
+Initial analysis on 16 March 2017.
+
+Minor updates afterwards:
+
+ * added cabinet status to vote share loss
+ * added turnout to party family vote share plot
+ * switched colors of liberals and right party families
+
+Last updated on `r format(Sys.time(), '%d %B %Y, %H:%M')`
