@@ -42,7 +42,7 @@ cab_pl <-
 
 # filter(lat > 35.5, lat < 69.5, long > -12.5, long < 33)  # Europe
 
-pl <- 
+pl <-
   ggplot(cab_pl, aes(map_id = country)) +
   geom_map(aes(fill = share), map = europe_map, colour = "darkgrey") +
   scale_fill_gradient(low = "grey90",
