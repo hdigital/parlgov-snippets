@@ -72,10 +72,16 @@ ctr_yr_n <- ctr_yr %>%
 
 cab_yr_fam <- ctr_yr %>%
   left_join(cab_fam) %>% 
+  drop_na(family) %>% 
   left_join(cab_info %>% select(country_name_short, country_name, cabinet_id)) %>% 
   group_by(country_name_short, country_name, year, family) %>% 
   summarise(share = round(sum(share * year_share), 1))
 
+# remove first and last year per country (no full cabinet)
+cab_yr_fam <- cab_yr_fam %>% 
+  group_by(country_name_short) %>% 
+  filter(year != min(year), year != max(year)) %>% 
+  ungroup()
 cab_yr_wide <- cab_yr_fam %>%
   left_join(ctr_yr_n) %>% 
   spread(family, share, fill = 0)
