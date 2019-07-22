@@ -1,4 +1,4 @@
-## Create map of yearly cabinet composition
+# Create map of yearly cabinet composition
 
 library(tidyverse)
 library(maptools)  # dependency ggplot::coord_map()
@@ -9,7 +9,7 @@ family_color <- "red"
 family_caption <- "(Social Democratic cabinet share since 1945)"
 
 
-## Cabinet data
+## Cabinet data ----
 
 # read ParlGov cabinet table and select cabinet parties
 cab_raw <- read_csv("cabinet-party-family-year.csv")
@@ -23,7 +23,7 @@ cab_share_45 <-
   summarise_at(vars(com:other), mean)
 
 
-## Graph map
+## Graph map ----
 
 europe_map <- read_rds("europe-map.rds")
 
@@ -42,7 +42,8 @@ cab_pl <-
 
 # filter(lat > 35.5, lat < 69.5, long > -12.5, long < 33)  # Europe
 
-pl <- ggplot(cab_pl, aes(map_id = country)) +
+pl <- 
+  ggplot(cab_pl, aes(map_id = country)) +
   geom_map(aes(fill = share), map = europe_map, colour = "darkgrey") +
   scale_fill_gradient(low = "grey90",
                       high = family_color,

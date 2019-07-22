@@ -2,10 +2,8 @@
 
 library(tidyverse)
 
-rm(list = ls())
 
-
-## Get and read cabinet and party data from ParlGov database
+## Cabinet/party data from ParlGov database ----
 
 db_file <- "parlgov-development.db"
 url <- "http://www.parlgov.org/static/data/"
@@ -25,14 +23,14 @@ ctr_yr_raw <- tbl(con, "viewcalc_country_year_share") %>% collect()
 DBI::dbDisconnect(con)
 
 
-## Calculate cabinet level information
+## Calculate cabinet level information ----
 
 # get party family and order by left-right position
 other <- c("code", "none", "spec")
 party <- party_raw %>%
   mutate(family = factor(family_name_short),
-         family = forcats::fct_reorder(family, left_right, na.rm = TRUE),
-         family = forcats::fct_other(family, drop = other, other_level = "other")) %>% 
+         family = fct_reorder(family, left_right, na.rm = TRUE),
+         family = fct_other(family, drop = other, other_level = "other")) %>% 
   select(party_id, family)
 
 cab <- cab_raw %>% 
@@ -59,14 +57,14 @@ cab_wide <- cab_info %>% left_join(cab_fam_wide)
 write_csv(cab_wide, "cabinet-party-family.csv")
 
 
-## Data in country-year format
+## Data in country-year format----
 
 ctr_yr <- ctr_yr_raw %>% 
   filter(id_type == "cabinet") %>% 
   select(cabinet_id=id, year, year_share = share)
 
 ctr_yr_n <- ctr_yr %>%
-  left_join(cab %>%distinct(country_name_short, cabinet_id)) %>% 
+  left_join(cab %>% distinct(country_name_short, cabinet_id)) %>% 
   group_by(country_name_short, year) %>% 
   summarise(cabinets = n())
 
@@ -82,6 +80,7 @@ cab_yr_fam <- cab_yr_fam %>%
   group_by(country_name_short) %>% 
   filter(year != min(year), year != max(year)) %>% 
   ungroup()
+
 cab_yr_wide <- cab_yr_fam %>%
   left_join(ctr_yr_n) %>% 
   spread(family, share, fill = 0)
