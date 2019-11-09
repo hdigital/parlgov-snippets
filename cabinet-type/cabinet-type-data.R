@@ -1,8 +1,16 @@
 library(tidyverse)
 library(lubridate)
 
+csv_file <- "view_cabinet.csv"
+url <- "http://www.parlgov.org/static/data/development-utf-8/"
+
+# download ParlGov database if not in local folder
+if (!csv_file %in% list.files()) {
+  download.file(paste0(url, csv_file), csv_file, mode = "wb")
+}
+
 # read ParlGov cabinet table
-cab_raw <- read_csv("view_cabinet.csv")
+cab_raw <- read_csv(csv_file)
 
 
 ## Cabinet types -- minority, minimal winning, surplus
@@ -72,4 +80,4 @@ cab_out <-
   left_join(cab_gc) %>%
   arrange(country_name_short, start_date)
 
-write_csv(cab_out, "cabinet-type.csv", na = "")
+write_csv(cab_out, "cabinet-type-data.csv", na = "")

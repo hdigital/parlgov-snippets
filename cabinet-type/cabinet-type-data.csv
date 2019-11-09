@@ -68,7 +68,29 @@ AUS,Australia,2010-08-21,2010-09-14,Gillard II,0,108,1017,minority,0
 AUS,Australia,2010-08-21,2013-06-27,Rudd II,0,1061,83,minority,0
 AUS,Australia,2013-09-07,2013-09-18,Abbott,0,1066,727,surplus,0
 AUS,Australia,2013-09-07,2015-09-15,Turnbull I,0,1174,308,surplus,0
-AUS,Australia,2016-07-02,2016-07-19,Turnbull II,0,1490,552,minority,0
+AUS,Australia,2016-07-02,2016-07-19,Turnbull II,0,1490,766,min_win,0
+AUS,Australia,2016-07-02,2018-08-24,Morrison,0,1585,442,min_win,0
+AUT,Austria,1919-02-16,1919-03-15,Renner II,0,1535,216,min_win,1
+AUT,Austria,1919-02-16,1919-10-17,Renner III,0,1536,264,min_win,1
+AUT,Austria,1919-02-16,1920-07-07,Mayr I,1,1537,136,surplus,1
+AUT,Austria,1920-10-17,1920-11-20,Mayr II,0,1538,213,minority,0
+AUT,Austria,1920-10-17,1921-06-21,Schober I,0,1539,220,surplus,0
+AUT,Austria,1920-10-17,1922-01-27,Schober II,0,1540,124,minority,0
+AUT,Austria,1920-10-17,1922-05-31,Seipel I,0,1541,321,min_win,0
+AUT,Austria,1920-10-17,1923-04-17,Seipel II,0,1542,217,min_win,0
+AUT,Austria,1923-10-21,1923-11-20,Seipel III,0,1543,366,min_win,0
+AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1544,421,min_win,0
+AUT,Austria,1923-10-21,1926-01-15,Ramek II,0,1545,278,min_win,0
+AUT,Austria,1923-10-21,1926-10-20,Seipel IV,0,1546,211,surplus,0
+AUT,Austria,1927-04-24,1927-05-19,Seipel V,0,1547,716,surplus,0
+AUT,Austria,1927-04-24,1929-05-04,Streeruwitz,0,1548,145,surplus,0
+AUT,Austria,1927-04-24,1929-09-26,Schober III,0,1549,369,surplus,0
+AUT,Austria,1927-04-24,1930-09-30,Vaugoin,0,1550,65,minority,0
+AUT,Austria,1930-11-09,1930-12-04,Ender,0,1551,198,min_win,0
+AUT,Austria,1930-11-09,1931-06-20,Buresch I,0,1552,223,min_win,0
+AUT,Austria,1930-11-09,1932-01-29,Buresch II,0,1553,112,min_win,0
+AUT,Austria,1930-11-09,1932-05-20,Dollfuß,0,1554,4725,min_win,0
+AUT,Austria,1930-11-09,1945-04-27,Renner IV,1,452,221,surplus,1
 AUT,Austria,1945-11-25,1945-12-04,Figl I,0,133,716,surplus,1
 AUT,Austria,1945-11-25,1947-11-20,Figl II,0,884,719,surplus,1
 AUT,Austria,1949-10-09,1949-11-08,Figl III,0,775,1085,min_win,1
@@ -102,7 +124,9 @@ AUT,Austria,2002-11-24,2005-04-05,Schuessel IV,0,888,646,minority,0
 AUT,Austria,2006-10-01,2007-01-11,Gusenbauer,0,583,691,min_win,1
 AUT,Austria,2008-09-28,2008-12-02,Faymann I,0,268,1840,min_win,1
 AUT,Austria,2013-09-29,2013-12-16,Faymann II,0,1070,883,min_win,1
-AUT,Austria,2013-09-29,2016-05-17,Kern,0,1485,615,min_win,1
+AUT,Austria,2013-09-29,2016-05-17,Kern,0,1485,580,min_win,1
+AUT,Austria,2017-10-15,2017-12-18,Kurz,0,1521,532,min_win,0
+AUT,Austria,2017-10-15,2019-06-03,Bierlein,1,1600,159,minority,0
 BEL,Belgium,1900-05-27,1900-05-27,De Smet de Naeyer I,0,1374,728,min_win,0
 BEL,Belgium,1902-05-25,1902-05-25,De Smet de Naeyer II,0,1376,1463,min_win,0
 BEL,Belgium,1906-05-27,1906-05-27,De Smet de Naeyer III,0,1375,583,min_win,0
@@ -182,7 +206,8 @@ BEL,Belgium,2007-06-10,2009-11-25,Leterme II,0,431,200,surplus,1
 BEL,Belgium,2010-06-13,2010-06-13,Leterme III,1,675,541,minority,0
 BEL,Belgium,2010-06-13,2011-12-06,Di Rupo,0,987,901,surplus,0
 BEL,Belgium,2014-05-25,2014-05-25,Di Rupo II,1,1140,139,surplus,0
-BEL,Belgium,2014-05-25,2014-10-11,Michel,0,1147,1199,min_win,0
+BEL,Belgium,2014-05-25,2014-10-11,Michel I,0,1147,1520,min_win,0
+BEL,Belgium,2014-05-25,2018-12-09,Michel II,0,1586,335,minority,0
 BGR,Bulgaria,1991-10-13,1991-11-05,Dimitrov,0,348,421,minority,0
 BGR,Bulgaria,1991-10-13,1992-12-30,Berov,0,462,655,minority,0
 BGR,Bulgaria,1991-10-13,1994-10-16,Indzhova,1,109,102,minority,0
@@ -195,7 +220,9 @@ BGR,Bulgaria,2009-07-05,2009-07-27,Borisov I,0,805,1325,minority,0
 BGR,Bulgaria,2009-07-05,2013-03-13,Raikov,1,1045,77,minority,0
 BGR,Bulgaria,2013-05-12,2013-05-29,Oresharski,1,1058,433,minority,0
 BGR,Bulgaria,2013-05-12,2014-08-05,Bliznashki,1,1139,94,minority,0
-BGR,Bulgaria,2014-10-05,2014-11-07,Borisov II,0,1153,1172,minority,0
+BGR,Bulgaria,2014-10-05,2014-11-07,Borisov II,0,1153,810,minority,0
+BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,1503,99,minority,0
+BGR,Bulgaria,2017-03-26,2017-05-04,Borisov III,0,1505,919,min_win,0
 CAN,Canada,1900-11-07,1900-11-07,Laurier I,0,1466,1457,min_win,0
 CAN,Canada,1904-11-03,1904-11-03,Laurier II,0,1467,1453,min_win,0
 CAN,Canada,1908-10-26,1908-10-26,Laurier III,0,1468,1079,min_win,0
@@ -235,7 +262,7 @@ CAN,Canada,2004-06-28,2004-07-20,Martin II,0,308,566,minority,0
 CAN,Canada,2006-01-23,2006-02-06,Harper I,0,610,997,minority,0
 CAN,Canada,2008-10-14,2008-10-30,Harper II,0,612,914,minority,0
 CAN,Canada,2011-05-02,2011-05-02,Harper III,0,919,1647,min_win,0
-CAN,Canada,2015-10-19,2015-11-04,Trudeau J,0,1176,810,min_win,0
+CAN,Canada,2015-10-19,2015-11-04,Trudeau J,0,1176,1466,min_win,0
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,1456,1053,surplus,1
 CHE,Switzerland,1905-10-29,1905-10-29,Bundesrat 1905,0,1457,1092,surplus,1
 CHE,Switzerland,1908-10-25,1908-10-25,Bundesrat 1908,0,1458,1145,surplus,1
@@ -271,7 +298,7 @@ CHE,Switzerland,2003-10-19,2003-12-10,Bundesrat 2003,0,855,1463,surplus,1
 CHE,Switzerland,2007-10-21,2007-12-12,Bundesrat 2007,0,508,364,min_win,0
 CHE,Switzerland,2007-10-21,2008-12-10,Bundesrat 2008,0,903,1099,surplus,1
 CHE,Switzerland,2011-10-23,2011-12-14,Bundesrat 2011,0,989,1456,surplus,1
-CHE,Switzerland,2015-10-18,2015-12-09,Bundesrat 2015,0,1212,775,surplus,1
+CHE,Switzerland,2015-10-18,2015-12-09,Bundesrat 2015,0,1212,1431,surplus,1
 CYP,Cyprus,1976-09-05,1976-09-05,Makarios,0,1478,360,minority,0
 CYP,Cyprus,1976-09-05,1977-08-31,Kyprianou I,0,166,189,min_win,0
 CYP,Cyprus,1976-09-05,1978-03-08,Kyprianou II,0,210,1173,min_win,0
@@ -292,7 +319,7 @@ CYP,Cyprus,2011-05-22,2011-05-22,Christofias III,0,921,75,minority,0
 CYP,Cyprus,2011-05-22,2011-08-05,Christofias IV,0,920,572,minority,0
 CYP,Cyprus,2011-05-22,2013-02-27,Anastasiades I,0,1064,380,surplus,0
 CYP,Cyprus,2011-05-22,2014-03-14,Anastasiades II,0,1086,800,minority,0
-CYP,Cyprus,2016-05-22,2016-05-22,Anastasiades III,0,1492,610,minority,0
+CYP,Cyprus,2016-05-22,2016-05-22,Anastasiades III,0,1492,1266,minority,0
 CZE,Czech Republic,1990-06-09,1990-06-29,Pithart,0,262,734,surplus,0
 CZE,Czech Republic,1992-06-06,1992-07-02,Klaus I,0,165,183,min_win,0
 CZE,Czech Republic,1992-06-06,1993-01-01,Klaus II,0,835,1278,min_win,0
@@ -306,9 +333,40 @@ CZE,Czech Republic,2006-06-03,2006-08-16,Topolanek I,0,600,146,minority,0
 CZE,Czech Republic,2006-06-03,2007-01-09,Topolanek II,0,260,821,minority,0
 CZE,Czech Republic,2006-06-03,2009-04-09,Fischer,1,157,445,minority,0
 CZE,Czech Republic,2010-05-29,2010-06-28,Necas I,0,708,669,min_win,0
-CZE,Czech Republic,2010-05-29,2012-04-27,Necas II,0,1030,439,min_win,0
+CZE,Czech Republic,2010-05-29,2012-04-27,Necas II,0,1030,439,minority,0
 CZE,Czech Republic,2010-05-29,2013-07-10,Rusnok,1,1062,191,minority,0
-CZE,Czech Republic,2013-10-25,2014-01-17,Sobotka,0,1072,1466,min_win,1
+CZE,Czech Republic,2013-10-25,2014-01-17,Sobotka,0,1072,1426,min_win,1
+CZE,Czech Republic,2017-10-21,2017-12-13,Babis I,1,1522,196,minority,0
+CZE,Czech Republic,2017-10-21,2018-06-27,Babis II,0,1534,500,minority,0
+DEU,Germany,1919-01-19,1919-02-13,Scheidemann,0,1556,129,surplus,1
+DEU,Germany,1919-01-19,1919-06-22,Bauer I,0,1557,103,surplus,0
+DEU,Germany,1919-01-19,1919-10-03,Bauer II,0,1558,178,surplus,1
+DEU,Germany,1919-01-19,1920-03-29,Müller I,0,1559,89,surplus,1
+DEU,Germany,1920-06-06,1920-06-26,Fehrenbach,0,1560,318,minority,0
+DEU,Germany,1920-06-06,1921-05-10,Wirth I,0,1561,169,minority,0
+DEU,Germany,1920-06-06,1921-10-26,Wirth II,0,1562,97,minority,0
+DEU,Germany,1920-06-06,1922-01-31,Wirth III,0,1563,59,minority,0
+DEU,Germany,1920-06-06,1922-03-31,Wirth IV,0,1564,236,minority,0
+DEU,Germany,1920-06-06,1922-11-22,Cuno,0,1565,264,minority,0
+DEU,Germany,1920-06-06,1923-08-13,Stresemann I,0,1566,82,surplus,1
+DEU,Germany,1920-06-06,1923-11-03,Stresemann II,0,1567,28,minority,0
+DEU,Germany,1920-06-06,1923-12-01,Marx I,0,1568,136,minority,0
+DEU,Germany,1920-06-06,1924-04-15,Marx II,0,1569,50,minority,0
+DEU,Germany,1924-05-04,1924-06-04,Marx III,1,1570,226,minority,0
+DEU,Germany,1924-12-07,1925-01-16,Luther I,0,1571,286,minority,0
+DEU,Germany,1924-12-07,1925-10-29,Luther II,0,1572,83,minority,0
+DEU,Germany,1924-12-07,1926-01-20,Luther III,0,1573,118,minority,0
+DEU,Germany,1924-12-07,1926-05-18,Marx IV,0,1574,256,minority,0
+DEU,Germany,1924-12-07,1927-01-29,Marx V,0,1575,517,minority,0
+DEU,Germany,1928-05-20,1928-06-29,Müller II,0,1576,639,surplus,0
+DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,1581,200,minority,0
+DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1582,50,minority,0
+DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,1583,309,minority,0
+DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,1584,236,minority,0
+DEU,Germany,1930-09-14,1932-06-02,Papen I,0,1579,102,minority,0
+DEU,Germany,1932-07-31,1932-09-12,Papen II,0,1580,82,minority,0
+DEU,Germany,1932-11-06,1932-12-03,Schleicher,0,1577,59,minority,0
+DEU,Germany,1932-11-06,1933-01-31,Hitler,0,1578,6076,minority,0
 DEU,Germany,1949-08-14,1949-09-20,Adenauer I,0,147,1491,min_win,0
 DEU,Germany,1953-09-06,1953-10-20,Adenauer II,0,192,633,surplus,0
 DEU,Germany,1953-09-06,1955-07-15,Adenauer III,0,376,224,surplus,0
@@ -333,7 +391,9 @@ DEU,Germany,1998-09-27,1998-10-27,Schroeder I,0,107,1456,min_win,0
 DEU,Germany,2002-09-22,2002-10-22,Schroeder II,0,529,1127,min_win,0
 DEU,Germany,2005-09-18,2005-11-22,Merkel I,0,85,1436,min_win,1
 DEU,Germany,2009-09-27,2009-10-28,Merkel II,0,472,1511,min_win,0
-DEU,Germany,2013-09-22,2013-12-17,Merkel III,0,1071,1497,min_win,1
+DEU,Germany,2013-09-22,2013-12-17,Merkel III,0,1071,1377,min_win,1
+DEU,Germany,2017-09-24,2017-09-24,Merkel IV,1,1515,171,min_win,1
+DEU,Germany,2017-09-24,2018-03-14,Merkel V,0,1528,605,min_win,1
 DNK,Denmark,1901-04-03,1901-04-03,Sehested,1,1479,112,minority,0
 DNK,Denmark,1901-04-03,1901-07-24,Deuntzer I,0,1365,692,min_win,0
 DNK,Denmark,1903-06-16,1903-06-16,Deuntzer II,0,1366,578,min_win,0
@@ -396,7 +456,9 @@ DNK,Denmark,2007-11-13,2007-11-23,Rasmussen F III,0,788,499,minority,0
 DNK,Denmark,2007-11-13,2009-04-05,Rasmussen L I,0,71,910,minority,0
 DNK,Denmark,2011-09-15,2011-10-02,Thorning-Schmidt I,0,970,855,minority,0
 DNK,Denmark,2011-09-15,2014-02-03,Thorning-Schmidt II,0,1074,510,minority,0
-DNK,Denmark,2015-06-18,2015-06-28,Rasmussen L II,0,1172,939,minority,0
+DNK,Denmark,2015-06-18,2015-06-28,Rasmussen L II,0,1172,519,minority,0
+DNK,Denmark,2015-06-18,2016-11-28,Rasmussen L III,0,1497,941,minority,0
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,1598,135,minority,0
 ESP,Spain,1977-06-15,1977-07-04,Suarez I,0,205,640,minority,0
 ESP,Spain,1979-03-01,1979-04-05,Suarez II,0,539,693,minority,0
 ESP,Spain,1979-03-01,1981-02-26,Calvo-Sotelo,0,406,644,minority,0
@@ -410,7 +472,10 @@ ESP,Spain,2004-03-14,2004-04-17,Zapatero I,0,806,1456,minority,0
 ESP,Spain,2008-03-09,2008-04-12,Zapatero II,0,497,1348,minority,0
 ESP,Spain,2011-11-20,2011-12-21,Rajoy I,0,988,1460,min_win,0
 ESP,Spain,2015-12-20,2015-12-20,Rajoy II,1,1421,189,minority,0
-ESP,Spain,2016-06-26,2016-06-26,Rajoy III,1,1493,575,minority,0
+ESP,Spain,2016-06-26,2016-06-26,Rajoy III,1,1493,125,minority,0
+ESP,Spain,2016-06-26,2016-10-29,Rajoy IV,0,1494,581,minority,0
+ESP,Spain,2016-06-26,2018-06-02,Sanchez,0,1533,330,minority,0
+ESP,Spain,2019-04-28,2019-04-28,Sanchez II,0,1601,195,minority,0
 EST,Estonia,1992-09-20,1992-10-21,Laar I,0,564,743,min_win,0
 EST,Estonia,1992-09-20,1994-11-03,Tarand,0,4,165,surplus,0
 EST,Estonia,1995-03-05,1995-04-17,Vahi I,0,604,200,min_win,0
@@ -425,7 +490,9 @@ EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,686,777,min_win,0
 EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,902,684,minority,0
 EST,Estonia,2011-03-06,2011-04-05,Ansip IV,0,905,1086,min_win,0
 EST,Estonia,2011-03-06,2014-03-26,Roivas I,0,1095,379,min_win,0
-EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,1160,1019,min_win,0
+EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,1160,591,min_win,0
+EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,1495,890,min_win,0
+EST,Estonia,2019-03-03,2019-04-29,Ratas II,0,1595,194,min_win,0
 FIN,Finland,1917-10-02,1917-11-27,Svinhufvud I,0,1475,181,minority,0
 FIN,Finland,1917-10-02,1918-05-27,Paasikivi,0,1221,184,minority,0
 FIN,Finland,1917-10-02,1918-11-27,Ingman,0,1220,141,minority,0
@@ -485,9 +552,9 @@ FIN,Finland,1975-09-22,1975-11-30,Miettunen II,0,476,304,surplus,1
 FIN,Finland,1975-09-22,1976-09-29,Miettunen III,0,848,228,minority,0
 FIN,Finland,1975-09-22,1977-05-15,Sorsa II,0,466,291,surplus,1
 FIN,Finland,1975-09-22,1978-03-02,Sorsa III,0,492,450,surplus,1
-FIN,Finland,1979-03-13,1979-05-26,Koivisto II,0,776,1000,surplus,0
-FIN,Finland,1979-03-13,1982-02-19,Sorsa IV,0,378,315,surplus,0
-FIN,Finland,1979-03-13,1982-12-31,Sorsa V,0,34,126,min_win,0
+FIN,Finland,1979-03-19,1979-05-26,Koivisto II,0,776,1000,surplus,0
+FIN,Finland,1979-03-19,1982-02-19,Sorsa IV,0,378,315,surplus,0
+FIN,Finland,1979-03-19,1982-12-31,Sorsa V,0,34,126,min_win,0
 FIN,Finland,1983-03-21,1983-05-06,Sorsa VI,0,650,1455,surplus,0
 FIN,Finland,1987-03-16,1987-04-30,Holkeri I,0,614,1216,surplus,1
 FIN,Finland,1987-03-16,1990-08-28,Holkeri II,0,41,241,surplus,1
@@ -504,7 +571,9 @@ FIN,Finland,2011-04-17,2011-06-22,Katainen I,0,918,1007,surplus,1
 FIN,Finland,2011-04-17,2014-03-25,Katainen II,0,1094,91,surplus,1
 FIN,Finland,2011-04-17,2014-06-24,Stubb I,0,1110,88,surplus,1
 FIN,Finland,2011-04-17,2014-09-20,Stubb II,0,1145,251,min_win,1
-FIN,Finland,2015-04-19,2015-05-29,Sipilae,0,1163,969,min_win,1
+FIN,Finland,2015-04-19,2015-05-29,Sipilae I,0,1163,746,min_win,1
+FIN,Finland,2015-04-19,2017-06-13,Sipilae II,0,1510,723,min_win,1
+FIN,Finland,2019-04-14,2019-06-06,Rinne,0,1596,156,surplus,0
 FRA,France,1902-05-11,1902-06-07,Combes,0,1387,962,surplus,0
 FRA,France,1902-05-11,1905-01-24,Rouvier,0,1388,414,surplus,0
 FRA,France,1902-05-11,1906-03-14,Sarrien I,0,1409,67,minority,0
@@ -525,7 +594,7 @@ FRA,France,1914-05-10,1914-08-26,Viviani II,0,1401,429,surplus,1
 FRA,France,1914-05-10,1915-10-29,Briand V,0,1402,410,surplus,1
 FRA,France,1914-05-10,1916-12-12,Briand VI,0,1403,98,surplus,1
 FRA,France,1914-05-10,1917-03-20,Ribot II,0,1404,176,surplus,1
-FRA,France,1914-05-10,1917-09-12,Painleve ?,0,1405,65,minority,0
+FRA,France,1914-05-10,1917-09-12,Painleve I,0,1405,65,minority,0
 FRA,France,1914-05-10,1917-11-16,Clemenceau II,0,1359,699,minority,0
 FRA,France,1919-10-16,1919-10-16,Clemenceau III,0,1413,96,minority,0
 FRA,France,1919-10-16,1920-01-20,Millerand I,0,1358,29,surplus,1
@@ -535,7 +604,7 @@ FRA,France,1919-10-16,1921-01-16,Briand VII,0,1355,364,surplus,1
 FRA,France,1919-10-16,1922-01-15,Poincare II,0,1354,875,min_win,1
 FRA,France,1924-05-25,1924-06-08,Francois-Marsal,0,1353,6,minority,0
 FRA,France,1924-05-25,1924-06-14,Herriot I,0,1352,307,minority,0
-FRA,France,1924-05-25,1925-04-17,Painleve,0,1351,225,minority,0
+FRA,France,1924-05-25,1925-04-17,Painleve II,0,1351,225,minority,0
 FRA,France,1924-05-25,1925-11-28,Briand VIII,0,1350,233,minority,0
 FRA,France,1924-05-25,1926-07-19,Herriot II,0,1348,4,minority,0
 FRA,France,1924-05-25,1926-07-23,Poincare III,0,1347,646,surplus,1
@@ -548,7 +617,7 @@ FRA,France,1928-04-29,1930-03-02,Tardieu II,0,1342,286,surplus,1
 FRA,France,1928-04-29,1930-12-13,Steeg,0,1341,45,minority,0
 FRA,France,1928-04-29,1931-01-27,Laval I,0,1340,352,surplus,1
 FRA,France,1928-04-29,1932-01-14,Laval II,0,1414,37,surplus,1
-FRA,France,1928-04-29,1932-02-20,Tardieu III,0,1338,104,minority,0
+FRA,France,1928-04-29,1932-02-20,Tardieu III,0,1338,104,surplus,0
 FRA,France,1932-05-08,1932-06-03,Herriot III,0,1337,198,surplus,0
 FRA,France,1932-05-08,1932-12-18,Paul-Boncour,0,1336,44,surplus,0
 FRA,France,1932-05-08,1933-01-31,Daladier I,0,1335,268,surplus,0
@@ -632,9 +701,12 @@ FRA,France,2007-06-17,2012-05-15,Ayrault I,0,1037,34,minority,0
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,1038,651,surplus,0
 FRA,France,2012-06-17,2014-03-31,Valls I,0,1103,148,surplus,0
 FRA,France,2012-06-17,2014-08-26,Valls II,0,1141,534,surplus,0
-FRA,France,2012-06-17,2016-02-11,Valls III,0,1406,711,surplus,0
-GBR,United Kingdom,1918-12-14,1919-01-10,Lloyd George I,0,1295,1383,minority,0
-GBR,United Kingdom,1918-12-14,1922-10-24,Bonar Law,0,1294,213,minority,0
+FRA,France,2012-06-17,2016-02-11,Valls III,0,1406,299,surplus,0
+FRA,France,2012-06-17,2016-12-06,Cazeneuve,1,1498,190,surplus,0
+FRA,France,2012-06-17,2017-06-14,Philippe I,0,1508,7,minority,0
+FRA,France,2017-06-18,2017-06-21,Philippe II,0,1509,871,surplus,1
+GBR,United Kingdom,1918-12-14,1919-01-10,Lloyd George I,0,1295,1383,surplus,1
+GBR,United Kingdom,1918-12-14,1922-10-24,Bonar Law,0,1294,213,min_win,0
 GBR,United Kingdom,1922-11-15,1923-05-25,Baldwin I,0,1293,243,min_win,0
 GBR,United Kingdom,1923-12-06,1924-01-23,MacDonald I,0,1292,288,minority,0
 GBR,United Kingdom,1924-10-29,1924-11-06,Baldwin II,0,1291,1672,min_win,0
@@ -642,7 +714,9 @@ GBR,United Kingdom,1929-05-30,1929-06-05,MacDonald II,0,1290,883,minority,0
 GBR,United Kingdom,1931-10-27,1931-11-05,MacDonald III,0,1289,1310,surplus,0
 GBR,United Kingdom,1931-10-27,1935-06-07,Baldwin III,0,1287,160,surplus,1
 GBR,United Kingdom,1935-11-14,1935-11-14,Baldwin IV,0,1288,561,surplus,1
-GBR,United Kingdom,1935-11-14,1937-05-28,Chamberlain,0,1286,2981,surplus,0
+GBR,United Kingdom,1935-11-14,1937-05-28,Chamberlain,0,1286,1078,surplus,0
+GBR,United Kingdom,1935-11-14,1940-05-10,Churchill I,1,1519,1839,surplus,1
+GBR,United Kingdom,1935-11-14,1945-05-23,Churchill II,1,1520,64,surplus,0
 GBR,United Kingdom,1945-07-05,1945-07-26,Attlee I,0,99,1678,min_win,0
 GBR,United Kingdom,1950-02-23,1950-02-28,Attlee II,0,88,605,min_win,0
 GBR,United Kingdom,1951-10-25,1951-10-26,Churchill III,0,691,1258,minority,0
@@ -668,7 +742,9 @@ GBR,United Kingdom,2005-05-05,2005-05-06,Blair III,0,516,782,min_win,0
 GBR,United Kingdom,2005-05-05,2007-06-27,Brown,0,119,1049,min_win,0
 GBR,United Kingdom,2010-05-06,2010-05-11,Cameron I,0,874,1823,min_win,0
 GBR,United Kingdom,2015-05-07,2015-05-08,Cameron II,0,1162,432,min_win,0
-GBR,United Kingdom,2015-05-07,2016-07-13,May,0,1489,558,min_win,0
+GBR,United Kingdom,2015-05-07,2016-07-13,May I,0,1489,333,min_win,0
+GBR,United Kingdom,2017-06-08,2017-06-11,May II,0,1507,773,minority,0
+GBR,United Kingdom,2017-06-08,2019-07-24,Johnson,0,1599,108,minority,0
 GRC,Greece,1974-11-17,1974-11-21,Karamanlis Kon I,0,609,1103,min_win,0
 GRC,Greece,1977-11-20,1977-11-28,Karamanlis Kon II,0,865,893,min_win,0
 GRC,Greece,1977-11-20,1980-05-09,Rallis,0,531,530,min_win,0
@@ -679,7 +755,7 @@ GRC,Greece,1989-06-18,1989-07-02,Tzannetakis,0,782,101,min_win,0
 GRC,Greece,1989-06-18,1989-10-11,Grivas,1,721,43,minority,0
 GRC,Greece,1989-11-05,1989-11-23,Zolotas I,1,454,82,surplus,1
 GRC,Greece,1989-11-05,1990-02-13,Zolotas II,1,716,57,minority,0
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,362,1281,minority,0
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,362,1281,minority,0
 GRC,Greece,1993-10-10,1993-10-13,Papandreou A IV,0,74,831,min_win,0
 GRC,Greece,1993-10-10,1996-01-22,Simitis I,0,281,246,min_win,0
 GRC,Greece,1996-09-22,1996-09-24,Simitis II,0,33,1297,min_win,0
@@ -689,20 +765,24 @@ GRC,Greece,2007-09-16,2007-10-01,Karamanlis Kos II,0,581,736,min_win,0
 GRC,Greece,2009-10-04,2009-10-06,Papandreou G,0,224,766,min_win,0
 GRC,Greece,2009-10-04,2011-11-11,Papademos,1,984,187,surplus,1
 GRC,Greece,2012-05-06,2012-05-16,Pikramenos,1,1039,35,minority,0
-GRC,Greece,2012-06-17,2012-06-20,Samaras I,0,1040,370,minority,0
+GRC,Greece,2012-06-17,2012-06-20,Samaras I,0,1040,370,surplus,0
 GRC,Greece,2012-06-17,2013-06-25,Samaras II,0,1060,581,min_win,0
 GRC,Greece,2015-01-25,2015-01-27,Tsipras I,0,1157,237,min_win,0
-GRC,Greece,2015-09-20,2015-09-21,Tsipras II,0,1175,854,min_win,0
+GRC,Greece,2015-09-20,2015-09-21,Tsipras II,0,1175,1210,min_win,0
+GRC,Greece,2015-09-20,2019-01-13,Tsipras III,0,1593,176,minority,0
+GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr.,0,1597,124,min_win,0
 HRV,Croatia,2000-01-03,2000-01-27,Racan I,0,1049,494,surplus,0
 HRV,Croatia,2000-01-03,2001-06-04,Racan II,0,1050,421,surplus,0
 HRV,Croatia,2000-01-03,2002-07-30,Racan III,0,1051,511,minority,0
-HRV,Croatia,2003-11-23,2003-12-23,Sanander I,0,1052,781,minority,0
-HRV,Croatia,2003-11-23,2006-02-11,Sanander II,0,1053,700,minority,0
-HRV,Croatia,2007-11-25,2008-01-12,Sanander III,0,1054,541,min_win,0
+HRV,Croatia,2003-11-23,2003-12-23,Sanader I,0,1052,781,minority,0
+HRV,Croatia,2003-11-23,2006-02-11,Sanader II,0,1053,700,minority,0
+HRV,Croatia,2007-11-25,2008-01-12,Sanader III,0,1054,541,min_win,0
 HRV,Croatia,2007-11-25,2009-07-06,Kosor I,0,1055,369,min_win,0
 HRV,Croatia,2007-11-25,2010-07-10,Kosor II,0,1057,531,minority,0
 HRV,Croatia,2011-12-04,2011-12-23,Milanovic,0,1056,1491,min_win,0
-HRV,Croatia,2015-11-08,2016-01-22,Oreskovic,0,1408,731,minority,0
+HRV,Croatia,2015-11-08,2016-01-22,Oreskovic,0,1408,271,minority,0
+HRV,Croatia,2016-09-11,2016-10-19,Plenkovic I,0,1500,263,minority,0
+HRV,Croatia,2016-09-11,2017-07-09,Plenkovic II,0,1512,853,minority,0
 HUN,Hungary,1990-04-08,1990-05-23,Antall,0,369,1308,surplus,0
 HUN,Hungary,1990-04-08,1993-12-21,Boross,0,13,206,surplus,0
 HUN,Hungary,1994-05-29,1994-07-15,Horn,0,488,1452,surplus,1
@@ -713,7 +793,8 @@ HUN,Hungary,2006-04-09,2006-06-09,Gyurcsany II,0,325,693,min_win,0
 HUN,Hungary,2006-04-09,2008-05-02,Gyurcsany III,0,706,347,minority,0
 HUN,Hungary,2006-04-09,2009-04-14,Bajnai,0,162,410,minority,0
 HUN,Hungary,2010-04-25,2010-05-29,Orban II,0,846,1442,surplus,0
-HUN,Hungary,2014-04-06,2014-05-10,Orban III,0,1104,1353,surplus,0
+HUN,Hungary,2014-04-06,2014-05-10,Orban III,0,1104,1461,surplus,0
+HUN,Hungary,2018-04-08,2018-05-10,Orban IV,0,1531,548,surplus,0
 IRL,Ireland,1922-06-22,1922-08-30,Cosgrave I,0,1446,385,minority,0
 IRL,Ireland,1923-08-27,1923-09-19,Cosgrave II,0,1438,1373,minority,0
 IRL,Ireland,1927-06-09,1927-06-23,Cosgrave III,0,1439,110,minority,0
@@ -726,7 +807,7 @@ IRL,Ireland,1943-06-23,1943-07-01,Valera V,0,1445,344,minority,0
 IRL,Ireland,1944-05-30,1944-06-09,Valera VII,0,151,1349,min_win,0
 IRL,Ireland,1948-02-04,1948-02-18,Costello I,0,154,1211,minority,0
 IRL,Ireland,1951-05-30,1951-06-13,Valera VIII,0,643,1085,minority,0
-IRL,Ireland,1954-04-18,1954-06-02,Costello II,0,626,1022,min_win,0
+IRL,Ireland,1954-05-18,1954-06-02,Costello II,0,626,1022,min_win,0
 IRL,Ireland,1957-03-05,1957-03-20,Valera IX,0,523,825,min_win,0
 IRL,Ireland,1957-03-05,1959-06-23,Lemass I,0,364,841,min_win,0
 IRL,Ireland,1961-10-04,1961-10-11,Lemass II,0,667,1288,minority,0
@@ -743,13 +824,14 @@ IRL,Ireland,1987-02-17,1987-03-10,Haughey III,0,77,855,minority,0
 IRL,Ireland,1989-06-15,1989-07-12,Haughey IV,0,215,944,minority,0
 IRL,Ireland,1989-06-15,1992-02-11,Reynolds I,0,870,336,minority,0
 IRL,Ireland,1992-11-25,1993-01-12,Reynolds II,0,748,702,min_win,0
-IRL,Ireland,1992-11-25,1994-12-15,Bruton,0,573,924,minority,0
+IRL,Ireland,1992-11-25,1994-12-15,Bruton,0,573,924,min_win,0
 IRL,Ireland,1997-06-06,1997-06-26,Ahern I,0,126,1806,minority,0
-IRL,Ireland,2002-05-15,2002-06-06,Ahern II,0,179,1834,min_win,0
+IRL,Ireland,2002-05-17,2002-06-06,Ahern II,0,179,1834,min_win,0
 IRL,Ireland,2007-05-24,2007-06-14,Ahern III,0,864,328,surplus,0
 IRL,Ireland,2007-05-24,2008-05-07,Cowen,0,173,1036,surplus,0
 IRL,Ireland,2011-02-25,2011-03-09,Kenny I,0,904,1885,min_win,1
-IRL,Ireland,2016-02-26,2016-05-06,Kenny II,0,1484,626,minority,0
+IRL,Ireland,2016-02-26,2016-05-06,Kenny II,0,1484,404,minority,0
+IRL,Ireland,2016-02-26,2017-06-14,Varadkar,0,1511,878,minority,0
 ISL,Iceland,1919-11-15,1919-11-15,Magnusson I,1,1423,102,minority,0
 ISL,Iceland,1919-11-15,1920-02-25,Magnusson II,0,1424,741,minority,0
 ISL,Iceland,1919-11-15,1922-03-07,Eggerz I,0,1425,599,minority,0
@@ -798,7 +880,9 @@ ISL,Iceland,2007-05-12,2007-05-24,Haarde II,0,558,619,min_win,1
 ISL,Iceland,2007-05-12,2009-02-01,Sigurdardottir I,1,538,83,minority,0
 ISL,Iceland,2009-04-25,2009-04-25,Sigurdardottir II,0,651,1489,min_win,0
 ISL,Iceland,2013-04-27,2013-05-23,Gunnlaugsson,0,1059,1050,min_win,1
-ISL,Iceland,2013-04-27,2016-04-07,Johannsson,0,1482,655,min_win,1
+ISL,Iceland,2013-04-27,2016-04-07,Johannsson,0,1482,278,min_win,1
+ISL,Iceland,2016-10-29,2017-01-10,Benediktsson III,0,1502,324,min_win,0
+ISL,Iceland,2017-10-28,2017-11-30,Jakobsdottir,0,1524,709,min_win,1
 ISR,Israel,1949-01-25,1949-01-25,Ben-Gurion I,1,1084,44,minority,0
 ISR,Israel,1949-01-25,1949-03-10,Ben-Gurion II,0,922,601,surplus,0
 ISR,Israel,1949-01-25,1950-11-01,Ben-Gurion III,0,923,105,surplus,0
@@ -863,15 +947,17 @@ ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,1128,373,minority,1
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,1129,106,minority,0
 ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1131,179,min_win,1
 ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1132,445,surplus,1
-ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1133,249,min_win,1
-ISR,Israel,2006-03-28,2008-09-23,Olmert IV,1,1135,189,min_win,1
-ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1031,659,surplus,0
-ISR,Israel,2009-02-10,2011-01-19,Netanyahu V,0,1032,476,surplus,0
-ISR,Israel,2009-02-10,2012-05-09,Netanyahu VI,0,1107,313,surplus,1
-ISR,Israel,2013-01-22,2013-03-18,Netanyahu VII,0,1134,624,minority,1
+ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1133,247,min_win,1
+ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1135,191,min_win,1
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1031,657,surplus,0
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1032,477,min_win,0
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1107,314,surplus,1
+ISR,Israel,2013-01-22,2013-03-18,Netanyahu VII,0,1134,624,surplus,1
 ISR,Israel,2013-01-22,2014-12-02,Netanyahu VIII,1,1155,163,minority,0
 ISR,Israel,2015-03-17,2015-05-14,Netanyahu IX,0,1161,382,minority,0
-ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1486,602,min_win,0
+ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1486,902,surplus,0
+ISR,Israel,2015-03-17,2018-11-18,Netanyahu XI,1,1589,142,minority,0
+ISR,Israel,2019-04-09,2019-04-09,Netanyahu XII,1,1602,214,minority,0
 ITA,Italy,1946-06-02,1946-07-13,De Gasperi I,0,416,204,surplus,1
 ITA,Italy,1946-06-02,1947-02-02,De Gasperi II,0,525,118,surplus,1
 ITA,Italy,1946-06-02,1947-05-31,De Gasperi III,0,501,358,minority,0
@@ -932,11 +1018,14 @@ ITA,Italy,1996-04-21,2000-04-28,Amato II,0,239,409,minority,0
 ITA,Italy,2001-05-13,2001-06-11,Berlusconi II,0,256,1447,surplus,0
 ITA,Italy,2001-05-13,2005-05-28,Berlusconi III,0,567,354,surplus,0
 ITA,Italy,2006-04-09,2006-05-17,Prodi II,0,117,722,surplus,0
-ITA,Italy,2008-04-13,2008-05-08,Berlusconi IV,0,823,1287,min_win,0
+ITA,Italy,2008-04-13,2008-05-08,Berlusconi IV,0,823,1287,minority,0
 ITA,Italy,2008-04-13,2011-11-16,Monti,1,983,528,minority,0
 ITA,Italy,2013-02-25,2013-04-27,Letta I,0,1048,205,surplus,0
 ITA,Italy,2013-02-25,2013-11-18,Letta II,0,1068,96,surplus,0
-ITA,Italy,2013-02-25,2014-02-22,Renzi,0,1079,1430,surplus,0
+ITA,Italy,2013-02-25,2014-02-22,Renzi,0,1079,1024,surplus,0
+ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,1501,536,surplus,0
+ITA,Italy,2018-03-04,2018-06-01,Conte I,0,1532,461,surplus,1
+ITA,Italy,2018-03-04,2019-09-05,Conte II,0,1603,65,surplus,0
 JPN,Japan,1946-04-10,1946-05-22,Yoshida I,0,891,366,min_win,1
 JPN,Japan,1947-04-25,1947-05-23,Katayama,0,892,274,surplus,0
 JPN,Japan,1947-04-25,1948-02-21,Ashida,0,893,237,surplus,0
@@ -992,7 +1081,8 @@ JPN,Japan,2009-08-30,2009-09-16,Hatoyama Y,0,374,261,surplus,0
 JPN,Japan,2009-08-30,2010-06-04,Kan,0,493,452,surplus,0
 JPN,Japan,2009-08-30,2011-08-30,Noda,0,969,484,surplus,0
 JPN,Japan,2012-12-16,2012-12-26,Abe III,0,1044,728,surplus,0
-JPN,Japan,2014-12-14,2014-12-24,Abe IV,0,1156,1125,surplus,0
+JPN,Japan,2014-12-14,2014-12-24,Abe IV,0,1156,1043,surplus,0
+JPN,Japan,2017-10-22,2017-11-01,Abe V,0,1525,738,surplus,0
 LTU,Lithuania,1990-03-10,1990-03-17,Prunskiene,0,584,299,surplus,1
 LTU,Lithuania,1990-03-10,1991-01-10,Simenas,0,267,3,surplus,1
 LTU,Lithuania,1990-03-10,1991-01-13,Vagnorius I,0,546,555,minority,0
@@ -1010,7 +1100,8 @@ LTU,Lithuania,2004-10-24,2006-04-11,Brazauskas III,0,495,84,minority,0
 LTU,Lithuania,2004-10-24,2006-07-04,Kirkilas,0,579,877,minority,0
 LTU,Lithuania,2008-10-12,2008-11-27,Kubilius II,0,688,663,surplus,0
 LTU,Lithuania,2008-10-12,2010-09-21,Kubilius III,0,1026,793,min_win,0
-LTU,Lithuania,2012-10-14,2012-11-22,Butkevicius,0,1042,1887,surplus,0
+LTU,Lithuania,2012-10-14,2012-11-22,Butkevicius,0,1042,1461,surplus,0
+LTU,Lithuania,2016-10-09,2016-11-22,Skvernelis,0,1496,1082,min_win,0
 LUX,Luxembourg,1919-10-26,1920-01-05,Reuter I,0,1447,466,surplus,0
 LUX,Luxembourg,1919-10-26,1921-04-15,Reuters II,0,1448,1435,min_win,0
 LUX,Luxembourg,1925-03-01,1925-03-20,Prum,0,1449,483,minority,0
@@ -1041,7 +1132,8 @@ LUX,Luxembourg,1999-06-13,1999-08-07,Juncker II,0,196,1820,min_win,1
 LUX,Luxembourg,2004-06-13,2004-07-31,Juncker III,0,12,1818,min_win,1
 LUX,Luxembourg,2009-06-07,2009-07-23,Juncker IV,0,601,1449,min_win,1
 LUX,Luxembourg,2009-06-07,2013-07-11,Juncker V,1,1063,146,min_win,1
-LUX,Luxembourg,2013-10-20,2013-12-04,Bettel,0,1069,1510,min_win,1
+LUX,Luxembourg,2013-10-20,2013-12-04,Bettel I,0,1069,1827,min_win,1
+LUX,Luxembourg,2018-10-14,2018-12-05,Bettel II,0,1588,339,min_win,0
 LVA,Latvia,1990-04-29,1990-05-07,Godmanis I,0,595,1188,min_win,0
 LVA,Latvia,1993-06-06,1993-08-07,Birkavs,0,434,404,minority,0
 LVA,Latvia,1993-06-06,1994-09-15,Gailis,0,201,462,minority,0
@@ -1065,7 +1157,9 @@ LVA,Latvia,2010-10-02,2010-11-03,Dombrovskis III,0,882,356,min_win,0
 LVA,Latvia,2011-09-17,2011-10-25,Dombrovskis IV,0,971,820,minority,0
 LVA,Latvia,2011-09-17,2014-01-22,Straujuma I,0,1073,287,min_win,0
 LVA,Latvia,2014-10-04,2014-11-05,Straujuma II,0,1152,463,min_win,0
-LVA,Latvia,2014-10-04,2016-02-11,Kucinskis,0,1407,711,min_win,0
+LVA,Latvia,2014-10-04,2016-02-11,Kucinskis I,0,1407,968,min_win,0
+LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,1591,109,minority,0
+LVA,Latvia,2018-10-06,2019-01-23,Karins,0,1592,290,surplus,1
 MLT,Malta,1947-10-27,1947-10-27,Boffa,0,1470,1043,min_win,0
 MLT,Malta,1950-09-04,1950-09-04,Mizzi,0,1471,244,minority,0
 MLT,Malta,1951-05-06,1951-05-06,Borg Olivier,0,1472,953,minority,0
@@ -1085,7 +1179,8 @@ MLT,Malta,1998-09-05,1998-09-06,Fenech Adami III,0,582,1682,min_win,0
 MLT,Malta,2003-04-12,2003-04-15,Fenech Adami IV,0,160,343,min_win,0
 MLT,Malta,2003-04-12,2004-03-23,Gonzi I,0,298,1450,min_win,0
 MLT,Malta,2008-03-08,2008-03-12,Gonzi II,0,468,1825,min_win,0
-MLT,Malta,2013-03-09,2013-03-11,Muscat,0,1046,1778,min_win,0
+MLT,Malta,2013-03-09,2013-03-11,Muscat I,0,1046,1548,min_win,0
+MLT,Malta,2017-06-03,2017-06-06,Muscat II,0,1504,886,min_win,0
 NLD,Netherlands,1918-07-03,1918-09-09,Ruijs de Beerenbrouck I,0,1262,1470,min_win,0
 NLD,Netherlands,1922-07-05,1922-09-18,Ruijs de Beerenbrouck II,0,1261,1051,min_win,0
 NLD,Netherlands,1925-07-01,1925-08-04,Colijn I,0,1260,216,min_win,0
@@ -1128,7 +1223,9 @@ NLD,Netherlands,2006-11-22,2007-02-22,Balkenende V,0,69,1097,min_win,1
 NLD,Netherlands,2006-11-22,2010-02-23,Balkenende VI,1,652,233,minority,0
 NLD,Netherlands,2010-06-09,2010-10-14,Rutte I,0,804,557,minority,0
 NLD,Netherlands,2010-06-09,2012-04-23,Rutte II,1,1028,196,minority,0
-NLD,Netherlands,2012-09-12,2012-11-05,Rutte III,0,1041,1904,min_win,1
+NLD,Netherlands,2012-09-12,2012-11-05,Rutte III,0,1041,1591,min_win,1
+NLD,Netherlands,2017-03-15,2017-03-15,Rutte IV,1,1506,225,minority,0
+NLD,Netherlands,2017-03-15,2017-10-26,Rutte V,0,1530,744,min_win,0
 NOR,Norway,1900-07-01,1900-07-01,Steens,0,1476,659,min_win,0
 NOR,Norway,1900-07-01,1902-04-21,Blehr,0,1378,549,min_win,0
 NOR,Norway,1903-09-16,1903-10-22,Hagerup,0,1379,506,min_win,1
@@ -1191,7 +1288,10 @@ NOR,Norway,1997-09-16,2000-03-17,Stoltenberg I,0,333,581,minority,0
 NOR,Norway,2001-09-10,2001-10-19,Bondevik II,0,300,1459,minority,0
 NOR,Norway,2005-09-12,2005-10-17,Stoltenberg II,0,693,1464,min_win,0
 NOR,Norway,2009-09-14,2009-10-20,Stoltenberg III,0,551,1457,min_win,0
-NOR,Norway,2013-09-09,2013-10-16,Solberg,0,1065,1559,minority,0
+NOR,Norway,2013-09-09,2013-10-16,Solberg I,0,1065,1426,minority,0
+NOR,Norway,2017-09-11,2017-09-11,Solberg II,0,1516,128,minority,0
+NOR,Norway,2017-09-11,2018-01-17,Solberg III,0,1517,370,minority,0
+NOR,Norway,2017-09-11,2019-01-22,Solberg IV,0,1594,291,min_win,0
 NZL,New Zealand,1902-11-25,1902-11-25,Seddon I,0,1325,1107,min_win,0
 NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,1326,197,min_win,0
 NZL,New Zealand,1905-12-06,1906-06-21,Hall-Jones,0,1308,46,min_win,0
@@ -1243,7 +1343,9 @@ NZL,New Zealand,2002-07-27,2002-08-15,Clark II,0,845,1159,minority,0
 NZL,New Zealand,2005-09-17,2005-10-17,Clark III,0,427,1129,minority,0
 NZL,New Zealand,2008-11-08,2008-11-19,Key I,0,251,1120,minority,0
 NZL,New Zealand,2011-11-26,2011-12-14,Key II,0,986,1029,minority,0
-NZL,New Zealand,2014-09-20,2014-10-08,Key III,0,1151,1202,minority,0
+NZL,New Zealand,2014-09-20,2014-10-08,Key III,0,1151,796,minority,0
+NZL,New Zealand,2014-09-20,2016-12-12,English,0,1499,318,minority,0
+NZL,New Zealand,2017-09-23,2017-10-26,Ardern,0,1518,744,min_win,0
 POL,Poland,1989-06-18,1989-08-24,Mazowiecki,0,728,506,surplus,1
 POL,Poland,1989-06-18,1991-01-12,Bielecki,0,75,345,minority,0
 POL,Poland,1991-10-27,1991-12-23,Olszewski,0,132,165,minority,0
@@ -1264,15 +1366,16 @@ POL,Poland,2005-09-25,2006-07-14,Kaczynski,0,356,490,min_win,0
 POL,Poland,2007-10-19,2007-11-16,Tusk I,0,164,1463,min_win,0
 POL,Poland,2011-10-09,2011-11-18,Tusk II,0,985,1039,min_win,0
 POL,Poland,2011-10-09,2014-09-22,Kopacz,0,1146,420,min_win,0
-POL,Poland,2015-10-25,2015-11-16,Szydlo,0,1196,798,min_win,0
+POL,Poland,2015-10-25,2015-11-16,Szydlo,0,1196,756,min_win,0
+POL,Poland,2015-10-25,2017-12-11,Morawiecki,0,1526,698,min_win,0
 PRT,Portugal,1975-04-25,1975-04-25,Goncalves,1,1477,147,minority,0
-PRT,Portugal,1975-04-25,1975-09-19,Pinheiro de Azevedo,0,1067,308,minority,0
+PRT,Portugal,1975-04-25,1975-09-19,Pinheiro de Azevedo,1,1067,308,minority,0
 PRT,Portugal,1976-04-25,1976-07-23,Soares I,0,585,549,minority,0
 PRT,Portugal,1976-04-25,1978-01-23,Soares II,0,336,218,min_win,0
 PRT,Portugal,1976-04-25,1978-08-29,Nobre da Costa,1,542,85,minority,0
 PRT,Portugal,1976-04-25,1978-11-22,Mota Pinto,1,465,227,minority,0
 PRT,Portugal,1976-04-25,1979-07-07,Pintassilgo,1,384,180,minority,0
-PRT,Portugal,1979-10-05,1980-01-03,Carneiro I,0,549,276,minority,0
+PRT,Portugal,1979-12-02,1980-01-03,Carneiro I,0,549,276,minority,0
 PRT,Portugal,1980-10-05,1980-10-05,Carneiro II,0,328,96,surplus,0
 PRT,Portugal,1980-10-05,1981-01-09,Balsemao I,0,396,238,surplus,0
 PRT,Portugal,1980-10-05,1981-09-04,Balsemao II,0,135,643,surplus,0
@@ -1289,7 +1392,7 @@ PRT,Portugal,2005-02-20,2005-03-12,Socrates I,0,169,1689,min_win,0
 PRT,Portugal,2009-09-27,2009-10-26,Socrates II,0,858,597,minority,0
 PRT,Portugal,2011-06-05,2011-06-15,Passos Coelho I,0,917,1598,min_win,0
 PRT,Portugal,2015-10-04,2015-10-30,Passos Coelho II,0,1177,27,minority,0
-PRT,Portugal,2015-10-04,2015-11-26,Costa,0,1198,788,minority,0
+PRT,Portugal,2015-10-04,2015-11-26,Costa,0,1198,1444,minority,0
 ROU,Romania,1990-05-20,1990-05-20,Roman,0,715,514,min_win,0
 ROU,Romania,1990-05-20,1991-10-16,Stolojan,1,710,394,surplus,1
 ROU,Romania,1992-09-27,1992-11-13,Vacaroiu I,0,839,643,minority,0
@@ -1311,7 +1414,10 @@ ROU,Romania,2008-11-30,2012-05-07,Ponta I,0,1033,228,minority,0
 ROU,Romania,2012-12-09,2012-12-21,Ponta II,0,1043,438,surplus,1
 ROU,Romania,2012-12-09,2014-03-04,Ponta III,0,1085,286,minority,0
 ROU,Romania,2012-12-09,2014-12-15,Ponta IV,0,1154,330,minority,0
-ROU,Romania,2012-12-09,2015-11-10,Ciolos,1,1197,804,minority,0
+ROU,Romania,2012-12-09,2015-11-10,Ciolos,1,1197,421,minority,0
+ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,1513,176,min_win,0
+ROU,Romania,2016-12-11,2017-06-29,Tudose,0,1514,214,min_win,0
+ROU,Romania,2016-12-11,2018-01-29,Dancila,0,1527,649,min_win,0
 SVK,Slovakia,1990-06-09,1990-06-27,Meciar I,0,399,300,surplus,1
 SVK,Slovakia,1990-06-09,1991-04-23,Carnogursky,0,436,428,surplus,1
 SVK,Slovakia,1992-06-06,1992-06-24,Meciar II,0,690,202,min_win,0
@@ -1328,7 +1434,8 @@ SVK,Slovakia,2010-06-12,2010-07-08,Radicova I,0,319,469,minority,0
 SVK,Slovakia,2010-06-12,2011-10-20,Radicova II,1,982,167,minority,0
 SVK,Slovakia,2012-03-10,2012-04-04,Fico II,0,1027,1449,min_win,0
 SVK,Slovakia,2016-03-06,2016-03-23,Fico III,0,1483,162,min_win,0
-SVK,Slovakia,2016-03-06,2016-09-01,Fico IV,0,1491,508,minority,0
+SVK,Slovakia,2016-03-06,2016-09-01,Fico IV,0,1491,567,minority,0
+SVK,Slovakia,2016-03-06,2018-03-22,Pellegrini,0,1529,597,minority,0
 SVN,Slovenia,1990-04-12,1990-05-16,Peterle,0,527,707,min_win,0
 SVN,Slovenia,1990-04-12,1992-04-22,Drnovsek I,0,9,265,minority,1
 SVN,Slovenia,1992-12-06,1993-01-12,Drnovsek II,0,559,451,surplus,1
@@ -1344,7 +1451,8 @@ SVN,Slovenia,2008-09-21,2008-11-21,Pahor I,0,803,948,min_win,0
 SVN,Slovenia,2008-09-21,2011-06-27,Pahor II,0,907,215,minority,0
 SVN,Slovenia,2011-12-04,2012-01-28,Jansa II,0,990,417,surplus,0
 SVN,Slovenia,2011-12-04,2013-03-20,Bratusek,0,1047,523,surplus,0
-SVN,Slovenia,2014-07-13,2014-08-25,Cerar,0,1144,1246,surplus,0
+SVN,Slovenia,2014-07-13,2014-08-25,Cerar,0,1144,1453,surplus,0
+SVN,Slovenia,2018-06-03,2018-08-17,Sarec,0,1555,449,minority,0
 SWE,Sweden,1911-09-24,1911-10-07,Staaff,0,1370,864,minority,0
 SWE,Sweden,1911-09-24,1914-02-17,Hammarskjold I,1,1369,208,minority,0
 SWE,Sweden,1914-09-13,1914-09-13,Hammarskjold II,1,1371,912,minority,0
@@ -1371,8 +1479,8 @@ SWE,Sweden,1944-09-17,1946-10-11,Erlander I,0,628,770,minority,0
 SWE,Sweden,1948-09-19,1948-11-19,Erlander II,0,445,1046,minority,0
 SWE,Sweden,1948-09-19,1951-10-01,Erlander III,0,361,356,min_win,0
 SWE,Sweden,1952-09-21,1952-09-21,Erlander IV,0,781,1466,min_win,0
-SWE,Sweden,1956-09-26,1956-09-26,Erlander V,0,207,400,min_win,0
-SWE,Sweden,1956-09-26,1957-10-31,Erlander VI,0,380,213,minority,0
+SWE,Sweden,1956-09-16,1956-09-26,Erlander V,0,207,400,min_win,0
+SWE,Sweden,1956-09-16,1957-10-31,Erlander VI,0,380,213,minority,0
 SWE,Sweden,1958-06-01,1958-06-01,Erlander VII,0,208,840,minority,0
 SWE,Sweden,1960-09-18,1960-09-18,Erlander VIII,0,424,1463,minority,0
 SWE,Sweden,1964-09-20,1964-09-20,Erlander IX,0,506,1456,minority,0
@@ -1392,11 +1500,13 @@ SWE,Sweden,1988-09-18,1990-02-26,Carlsson III,0,732,584,minority,0
 SWE,Sweden,1991-09-15,1991-10-03,Bildt,0,779,1099,minority,0
 SWE,Sweden,1994-09-18,1994-10-06,Carlsson IV,0,528,532,minority,0
 SWE,Sweden,1994-09-18,1996-03-21,Persson I,0,156,930,minority,0
-SWE,Sweden,1998-09-21,1998-10-07,Persson II,0,503,1475,minority,0
+SWE,Sweden,1998-09-20,1998-10-07,Persson II,0,503,1475,minority,0
 SWE,Sweden,2002-09-15,2002-10-21,Persson III,0,641,1445,minority,0
 SWE,Sweden,2006-09-17,2006-10-05,Reinfeldt I,0,475,1445,min_win,0
 SWE,Sweden,2010-09-19,2010-09-19,Reinfeldt II,0,854,1474,minority,0
-SWE,Sweden,2014-09-14,2014-10-02,Lofven,0,1149,1208,minority,0
+SWE,Sweden,2014-09-14,2014-10-02,Lofven I,0,1149,1438,minority,0
+SWE,Sweden,2018-09-09,2018-09-09,Lofven II,1,1587,131,minority,0
+SWE,Sweden,2018-09-09,2019-01-18,Lofven III,0,1590,295,minority,0
 TUR,Turkey,1983-11-06,1983-12-13,Ozal I,0,1087,1469,min_win,0
 TUR,Turkey,1987-10-29,1987-12-21,Ozal II,0,1088,1054,min_win,0
 TUR,Turkey,1987-10-29,1990-11-09,Akbulut,0,1089,226,min_win,0
@@ -1417,4 +1527,4 @@ TUR,Turkey,2011-06-12,2011-07-06,Erdogan III,0,1075,1149,min_win,0
 TUR,Turkey,2011-06-12,2014-08-28,Davutoglu I,0,1143,365,min_win,0
 TUR,Turkey,2015-06-07,2015-08-28,Davutoglu II,1,1173,94,surplus,0
 TUR,Turkey,2015-11-01,2015-11-30,Davutoglu III,0,1195,176,min_win,0
-TUR,Turkey,2015-11-01,2016-05-24,Yildirim,0,1487,608,min_win,0
+TUR,Turkey,2015-11-01,2016-05-24,Yildirim,0,1487,1264,min_win,0

@@ -11,7 +11,7 @@ output:
 library(tidyverse)
 
 ## source("cabinet-type.R")  # create cabinet type dataset "cabinet-type.csv"
-cab_raw <- readr::read_csv("cabinet-type.csv")
+cab_raw <- readr::read_csv("cabinet-type-data.csv")
 
 # post-war data only, factor for ordering, duration in years
 cab_data <-
@@ -26,18 +26,25 @@ cab_data <-
 __Post-war frequency and duration of cabinet types__
 
 ```{r graphs, message=FALSE}
+pl_dt <- cab_data %>% 
+  select(country = country_name, cabinet_type, years) %>% 
+  mutate(country = fct_rev(country))
+
 # plot frequency of cabinet type by number of formations
-pl_freq <- ggplot(cab_data, aes(x = country_name_short)) +
+pl_freq <- ggplot(pl_dt, aes(x = country)) +
   geom_bar(aes(fill = cabinet_type)) +
-  labs(x = NULL, y = "Frequency", fill = "") +
-  theme(axis.text.x = element_text(angle = 90))
+  coord_flip() +
+  labs(x = NULL, y = "Frequency", fill = "")
+
+ggsave("cabinet-type.png", pl_freq, width = 8, height = 6)
 print(pl_freq)
 
 # plot occurence of cabinet type by duration
-pl_dur <- ggplot(cab_data, aes(x = country_name_short, weight = years)) + 
+pl_dur <- ggplot(pl_dt, aes(x = country, weight = years)) + 
   geom_bar(aes(fill = cabinet_type)) +
-  labs(x = NULL, y = "Years", fill = "") +
-  theme(axis.text.x = element_text(angle = 90))
+  coord_flip() +
+  labs(x = NULL, y = "Years", fill = "")
+
 print(pl_dur)
 ```
 
