@@ -1,0 +1,148 @@
+---
+title: "Small party premiers"
+author: "Holger Doering --- doering@uni-bremen.de"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  html_notebook:
+    code_folding: hide
+    toc: yes
+    toc_float: yes
+---
+<style type="text/css"> <!-- .table { width: auto } ---> </style>
+
+```{r options, include=FALSE}
+knitr::opts_chunk$set(
+  # results = "hide",
+  message = FALSE,
+  warning = FALSE,
+  package.startup.message = FALSE
+  )
+
+options(
+  readr.num_columns = 0,
+  knitr.kable.NA = "",
+  width = 100,
+  tidyverse.quiet = TRUE
+)
+```
+
+```{r corepacks}
+library(tidyverse)
+library(knitr)
+
+ggplot2::theme_set(theme_minimal())
+```
+
+```{r}
+tbl <- "view_cabinet.csv"  # view_party.csv -- view_election.csv -- view_cabinet.csv
+if( ! tbl %in% list.files()) {
+  download.file(paste0("http://www.parlgov.org/static/data/development-utf-8/", tbl),  tbl)
+}
+cab_raw <- read_csv(tbl)
+```
+
+### Question
+
+[Fruits and votes on 5 Feb. 2020](https://fruitsandvotes.wordpress.com/2020/02/05/thuringia-leader-of-smallest-party-in-state-parliament-elected-premier-with-afd-support/)
+
+> I don’t know how common a government led by the sixth largest party in parliament is, but I am guessing pretty uncommon. 
+
+
+### ParlGov data
+
+[ParlGov cabinet table](http://www.parlgov.org/data/table/view_cabinet/)
+
+Prime minister parties and their size rank in parliament
+
+Size rank determined by seat share in parliament at instance of cabinet formation.
+
+Excluded parties and cabinets:
+
++ caretaker cabinets
++ parties with no seats
++ PMs with no party affiliation
+
+```{r}
+cab_pm <- 
+  cab_raw %>% 
+  filter(caretaker == 0, seats > 0, party_name_short != "none") %>% 
+  arrange(country_name_short, start_date, desc(seats)) %>% 
+  group_by(cabinet_id) %>% 
+  mutate(
+    size_rank = row_number(),
+    size = round(100 * seats / election_seats_total, 1),
+    smallest = if_else(size_rank == max(size_rank), 1, 0),
+    year = lubridate::year(start_date)
+    ) %>% 
+  ungroup() %>% 
+  filter(prime_minister == 1) %>% 
+  select(
+    country = country_name_short,
+    year,
+    date = start_date,
+    cabinet = cabinet_name,
+    party = party_name_short,
+    seats, size, size_rank, smallest
+    )
+```
+
+
+__`r nrow(cab_pm)`__ cabinets in __`r length(unique(cab_pm$country))`__ countries
+
+
+### PM parties by size rank
+
+```{r}
+cab_pm %>% 
+  count(size_rank) %>% 
+  mutate(share = round(100 * n / sum(n), 1)) %>% 
+  knitr::kable()
+```
+
+
+```{r}
+pl_dt <- 
+  cab_pm %>% 
+  mutate(
+    size_rank_5 = ifelse(size_rank < 5, size_rank, 5),
+    size_rank = as_factor(size_rank_5) %>% fct_rev(),
+    size_rank = fct_recode(size_rank, `> 4` = "5")
+    ) 
+  
+ggplot(pl_dt, aes(x = size_rank)) +
+  geom_bar() +
+  coord_flip() +
+  labs(x = NULL, y = "Frequency", fill = "") +
+  guides(fill = guide_legend(reverse = TRUE)) +
+  theme_bw()
+```
+
+### PM smallest party
+
+```{r}
+cab_pm %>% 
+  filter(smallest == 1) %>% 
+  select(-date, -smallest) %>% 
+  knitr::kable()
+```
+
+
+### Country information
+
+```{r}
+pl <- 
+  ggplot(pl_dt, aes(x = date, y = size_rank_5)) +
+  geom_point(colour = "deepskyblue3", alpha = 0.5) +
+  facet_wrap(~ country)
+
+print(pl)
+ggsave("pm-party-size-rank.png", pl, width = 8, height = 6)
+```
+
+```{r}
+cab_pm %>% 
+  arrange(desc(size_rank), size) %>% 
+  select(-year, -smallest) %>% 
+  DT::datatable()
+```
+
