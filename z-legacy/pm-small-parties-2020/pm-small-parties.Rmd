@@ -90,7 +90,9 @@ cab_pm <-
 __`r nrow(cab_pm)`__ cabinets in __`r length(unique(cab_pm$country))`__ countries
 
 
-### PM parties by size rank
+### PM parties by size rank {.tabset .tabset-pills}
+
+#### Table
 
 ```{r}
 cab_pm %>% 
@@ -99,6 +101,7 @@ cab_pm %>%
   knitr::kable()
 ```
 
+#### Figure
 
 ```{r}
 pl_dt <- 
