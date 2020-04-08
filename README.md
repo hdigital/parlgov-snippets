@@ -8,5 +8,6 @@ Snippets for dataset generation and analysis with ParlGov – [parlgov.org](http
 * __cabinet-party-family__ -- country-year data on cabinets party family share
 * __cabinet-type__ -- determine cabinet type: minority, minimal winning, surplus (grand coalition)
 * __eu-cabinets__ -- party composition of EU cabinets on left/right and pro/contra EU dimension
+* __isr-cabinet-support__ -- structure and patterns of ISR cabinet support parties (Author: Lukas Warode)
 
 ![left-right recent cabinets](cabinet-map/cabinet-map.png)
