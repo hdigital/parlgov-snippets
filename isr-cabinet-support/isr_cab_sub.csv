@@ -1,0 +1,410 @@
+country_name_short,country_name,election_date,start_date,cabinet_name,caretaker,cabinet_party,prime_minister,seats,election_seats_total,party_name_short,party_name,party_name_english,left_right,cab_sup
+ISR,Israel,1949-01-25,1949-01-25,Ben-Gurion I,1,1,1,0,120,none,no party affiliation,no party affiliation,NA,0
+ISR,Israel,1949-01-25,1949-03-10,Ben-Gurion II,0,1,0,16,120,HDM,Hazit Datit Meuhedet,United Religious Front,NA,0
+ISR,Israel,1949-01-25,1949-03-10,Ben-Gurion II,0,1,1,46,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1949-01-25,1949-03-10,Ben-Gurion II,0,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1949-01-25,1949-03-10,Ben-Gurion II,0,0,0,2,120,RDN,Reshima Demokratit shel Natzrat,Democratic List of Nazareth,NA,1
+ISR,Israel,1949-01-25,1949-03-10,Ben-Gurion II,0,1,0,4,120,SVM,Sfaradim VeEdot Mizrah,Sephardim and Oriental Communities,7.4,0
+ISR,Israel,1949-01-25,1950-11-01,Ben-Gurion III,0,1,0,16,120,HDM,Hazit Datit Meuhedet,United Religious Front,NA,0
+ISR,Israel,1949-01-25,1950-11-01,Ben-Gurion III,0,1,1,46,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1949-01-25,1950-11-01,Ben-Gurion III,0,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1949-01-25,1950-11-01,Ben-Gurion III,0,0,0,2,120,RDN,Reshima Demokratit shel Natzrat,Democratic List of Nazareth,NA,1
+ISR,Israel,1949-01-25,1950-11-01,Ben-Gurion III,0,1,0,4,120,SVM,Sfaradim VeEdot Mizrah,Sephardim and Oriental Communities,7.4,0
+ISR,Israel,1949-01-25,1951-02-14,Ben-Gurion IV,1,1,0,16,120,HDM,Hazit Datit Meuhedet,United Religious Front,NA,0
+ISR,Israel,1949-01-25,1951-02-14,Ben-Gurion IV,1,1,1,46,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1949-01-25,1951-02-14,Ben-Gurion IV,1,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1949-01-25,1951-02-14,Ben-Gurion IV,1,0,0,2,120,RDN,Reshima Demokratit shel Natzrat,Democratic List of Nazareth,NA,1
+ISR,Israel,1949-01-25,1951-02-14,Ben-Gurion IV,1,1,0,4,120,SVM,Sfaradim VeEdot Mizrah,Sephardim and Oriental Communities,7.4,0
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,1,0,3,120,AY,Agudat Yisrael,Union of Israel,NA,0
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,1,0,8,120,HHM,Hapoel HaMizrachi,Mizrachi Workers,NA,0
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,1,1,45,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,0,0,1,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,1,0,2,120,Mizrahi,HaMizrahi – Merkaz Ruhani,Spiritual Centre,NA,0
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1951-07-30,1951-10-08,Ben-Gurion V,0,0,0,3,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1951-07-30,1952-09-18,Ben-Gurion VI,0,1,0,8,120,HHM,Hapoel HaMizrachi,Mizrachi Workers,NA,0
+ISR,Israel,1951-07-30,1952-09-18,Ben-Gurion VI,0,1,1,45,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1951-07-30,1952-09-18,Ben-Gurion VI,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1951-07-30,1952-09-18,Ben-Gurion VI,0,0,0,1,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1951-07-30,1952-09-18,Ben-Gurion VI,0,1,0,2,120,Mizrahi,HaMizrahi – Merkaz Ruhani,Spiritual Centre,NA,0
+ISR,Israel,1951-07-30,1952-09-18,Ben-Gurion VI,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1951-07-30,1952-09-18,Ben-Gurion VI,0,0,0,3,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,1,0,8,120,HHM,Hapoel HaMizrachi,Mizrachi Workers,NA,0
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,1,1,45,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,0,0,1,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,1,0,4,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,0,0,2,120,Mizrahi,HaMizrahi – Merkaz Ruhani,Spiritual Centre,NA,1
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1951-07-30,1952-12-24,Ben-Gurion VII,0,1,0,23,120,ZK,Zionim Klalim,General Zionists,6,0
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,1,0,8,120,HHM,Hapoel HaMizrachi,Mizrachi Workers,NA,0
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,1,1,47,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,0,0,1,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,1,0,4,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,0,0,2,120,Mizrahi,HaMizrahi – Merkaz Ruhani,Spiritual Centre,NA,1
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,0,0,3,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1951-07-30,1954-01-26,Sharett I,0,1,0,23,120,ZK,Zionim Klalim,General Zionists,6,0
+ISR,Israel,1951-07-30,1955-06-29,Sharett II,0,1,0,8,120,HHM,Hapoel HaMizrachi,Mizrachi Workers,NA,0
+ISR,Israel,1951-07-30,1955-06-29,Sharett II,0,1,1,47,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1951-07-30,1955-06-29,Sharett II,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1951-07-30,1955-06-29,Sharett II,0,0,0,1,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1951-07-30,1955-06-29,Sharett II,0,1,0,4,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1951-07-30,1955-06-29,Sharett II,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1951-07-30,1955-06-29,Sharett II,0,0,0,3,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1955-07-26,1955-07-26,Sharett III,1,1,1,40,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1955-07-26,1955-07-26,Sharett III,1,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1955-07-26,1955-07-26,Sharett III,1,0,0,2,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1955-07-26,1955-07-26,Sharett III,1,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1955-07-26,1955-07-26,Sharett III,1,1,0,11,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1955-07-26,1955-07-26,Sharett III,1,0,0,2,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,1,0,10,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,1,1,40,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,0,0,2,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,1,0,11,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,1,0,9,120,Mapam,Mifleget HaPoalim HaMeuhedet,United Workers Party,3.3,0
+ISR,Israel,1955-07-26,1955-11-03,Ben-Gurion VIII,0,0,0,2,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,1,0,10,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,1,1,40,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,0,0,2,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,1,0,11,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,1,0,9,120,Mapam,Mifleget HaPoalim HaMeuhedet,United Workers Party,3.3,0
+ISR,Israel,1955-07-26,1958-01-07,Ben-Gurion IX,0,0,0,2,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1955-07-26,1958-07-01,Ben-Gurion X,0,1,0,10,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1955-07-26,1958-07-01,Ben-Gurion X,0,1,1,40,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1955-07-26,1958-07-01,Ben-Gurion X,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1955-07-26,1958-07-01,Ben-Gurion X,0,0,0,2,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1955-07-26,1958-07-01,Ben-Gurion X,0,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1955-07-26,1958-07-01,Ben-Gurion X,0,1,0,9,120,Mapam,Mifleget HaPoalim HaMeuhedet,United Workers Party,3.3,0
+ISR,Israel,1955-07-26,1958-07-01,Ben-Gurion X,0,0,0,2,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1955-07-26,1959-07-05,Ben-Gurion XI,1,1,0,10,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1955-07-26,1959-07-05,Ben-Gurion XI,1,1,1,40,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1955-07-26,1959-07-05,Ben-Gurion XI,1,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1955-07-26,1959-07-05,Ben-Gurion XI,1,0,0,2,120,KiVe,Kidma Ve'avoda,Progress and Work,NA,1
+ISR,Israel,1955-07-26,1959-07-05,Ben-Gurion XI,1,1,0,5,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1955-07-26,1959-07-05,Ben-Gurion XI,1,1,0,9,120,Mapam,Mifleget HaPoalim HaMeuhedet,United Workers Party,3.3,0
+ISR,Israel,1955-07-26,1959-07-05,Ben-Gurion XI,1,0,0,2,120,RDAY,Reshima Demokratit LeAravei Yisrael,Democratic List for Israeli Arabs,NA,1
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,1,0,7,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,1,0,6,120,HDT,Hazit Datit Toratit,Religious Torah Front,NA,0
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,1,1,47,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,1,0,6,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,1,0,9,120,Mapam,Mifleget HaPoalim HaMeuhedet,United Workers Party,3.3,0
+ISR,Israel,1959-11-03,1959-12-17,Ben-Gurion XII,0,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,1,0,7,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,1,1,47,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,1,0,6,120,MP,Miflaga Progresivit,Progressive Party,6,0
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,1,0,9,120,Mapam,Mifleget HaPoalim HaMeuhedet,United Workers Party,3.3,0
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,1,0,3,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,0
+ISR,Israel,1959-11-03,1961-01-31,Ben-Gurion XIII,1,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,1,0,7,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,1,1,47,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,0,0,1,120,HU,Hakla'ut Ufituah,Agriculture and Development,NA,1
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,1,0,9,120,Mapam,Mifleget HaPoalim HaMeuhedet,United Workers Party,3.3,0
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,1,0,14,120,MiHal,Miflaga Haliberalit,Liberal Party,6,0
+ISR,Israel,1959-11-03,1961-05-30,Ben-Gurion XIV,1,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1961-08-15,1961-11-02,Ben-Gurion XV,0,1,0,9,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1961-08-15,1961-11-02,Ben-Gurion XV,0,1,1,42,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1961-08-15,1961-11-02,Ben-Gurion XV,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1961-08-15,1961-11-02,Ben-Gurion XV,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1961-08-15,1961-11-02,Ben-Gurion XV,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1961-08-15,1961-11-02,Ben-Gurion XV,0,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1961-08-15,1963-06-26,Eshkol I,0,1,0,9,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1961-08-15,1963-06-26,Eshkol I,0,1,1,42,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1961-08-15,1963-06-26,Eshkol I,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1961-08-15,1963-06-26,Eshkol I,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1961-08-15,1963-06-26,Eshkol I,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1961-08-15,1963-06-26,Eshkol I,0,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1961-08-15,1964-12-22,Eshkol II,0,1,0,9,120,AH,Ahdut HaAvoda,Labour Unity,3.3,0
+ISR,Israel,1961-08-15,1964-12-22,Eshkol II,0,1,1,41,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1961-08-15,1964-12-22,Eshkol II,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1961-08-15,1964-12-22,Eshkol II,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1961-08-15,1964-12-22,Eshkol II,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1961-08-15,1964-12-22,Eshkol II,0,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1965-11-01,1966-01-12,Eshkol III,0,1,1,45,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1965-11-01,1966-01-12,Eshkol III,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1965-11-01,1966-01-12,Eshkol III,0,0,0,5,120,LA,Libralim Atzma'im,Independent Liberals,6,1
+ISR,Israel,1965-11-01,1966-01-12,Eshkol III,0,1,0,11,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1965-11-01,1966-01-12,Eshkol III,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1965-11-01,1966-01-12,Eshkol III,0,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,1,1,45,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,1,0,23,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,0,0,5,120,LA,Libralim Atzma'im,Independent Liberals,6,1
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,1,0,11,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,1,0,10,120,Rafi,Reshimat Poalei Yisrael,Israeli Workers List,3.3,0
+ISR,Israel,1965-11-01,1967-06-05,Eshkol IV,0,0,0,1,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1965-11-01,1969-03-17,Meir I,0,1,1,63,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1965-11-01,1969-03-17,Meir I,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1965-11-01,1969-03-17,Meir I,0,1,0,22,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1965-11-01,1969-03-17,Meir I,0,0,0,4,120,LA,Libralim Atzma'im,Independent Liberals,6,1
+ISR,Israel,1965-11-01,1969-03-17,Meir I,0,1,0,11,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1965-11-01,1969-03-17,Meir I,0,0,0,2,120,PAY,Poalei Agudat Yisrael,Agudat Israel Workers,NA,1
+ISR,Israel,1965-11-01,1969-03-17,Meir I,0,0,0,1,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1969-10-28,1969-12-15,Meir II,0,1,1,56,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1969-10-28,1969-12-15,Meir II,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1969-10-28,1969-12-15,Meir II,0,1,0,26,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1969-10-28,1969-12-15,Meir II,0,1,0,4,120,LA,Libralim Atzma'im,Independent Liberals,6,0
+ISR,Israel,1969-10-28,1969-12-15,Meir II,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1969-10-28,1969-12-15,Meir II,0,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1969-10-28,1970-08-07,Meir III,0,1,1,56,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1969-10-28,1970-08-07,Meir III,0,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1969-10-28,1970-08-07,Meir III,0,1,0,4,120,LA,Libralim Atzma'im,Independent Liberals,6,0
+ISR,Israel,1969-10-28,1970-08-07,Meir III,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1969-10-28,1970-08-07,Meir III,0,0,0,2,120,SV,Shituf VeAhvah,Cooperation and Brotherhood,NA,1
+ISR,Israel,1973-12-31,1974-03-10,Meir IV,0,1,1,54,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1973-12-31,1974-03-10,Meir IV,0,1,0,4,120,LA,Libralim Atzma'im,Independent Liberals,6,0
+ISR,Israel,1973-12-31,1974-03-10,Meir IV,0,1,0,10,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1973-12-31,1974-06-03,Rabin I,0,1,1,54,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1973-12-31,1974-06-03,Rabin I,0,1,0,3,120,Ratz,Hatnuah Lezhiot Ha'ezrach,Movement for Civil Rights and Peace,3.3,0
+ISR,Israel,1973-12-31,1974-11-06,Rabin II,0,1,1,54,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1973-12-31,1974-11-06,Rabin II,0,1,0,10,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1973-12-31,1976-12-22,Rabin III,1,1,1,51,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1973-12-31,1976-12-22,Rabin III,1,0,0,2,120,KP,Kidma vePituah,Progress and Development,NA,1
+ISR,Israel,1977-05-17,1977-06-20,Begin I,0,1,1,43,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1977-05-17,1977-06-20,Begin I,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1977-05-17,1977-06-20,Begin I,0,1,0,2,120,Sh,Shlomtzion,Peace-Zion,7.4,0
+ISR,Israel,1977-05-17,1977-10-24,Begin II,0,1,1,45,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1977-05-17,1977-10-24,Begin II,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1977-05-17,1977-10-24,Begin II,0,1,0,15,120,TDL,Tnu'a Demokratit LeShinu,Democratic Movement for Change,5.4776,0
+ISR,Israel,1981-06-30,1981-08-05,Begin III,0,1,1,48,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1981-06-30,1981-08-05,Begin III,0,1,0,6,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1981-06-30,1981-08-05,Begin III,0,1,0,3,120,Tami,Tnu'at Masoret Yisrael,Movement for the Heritage of Israel,7.4,0
+ISR,Israel,1981-06-30,1982-07-26,Begin IV,0,1,1,48,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1981-06-30,1982-07-26,Begin IV,0,1,0,6,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1981-06-30,1982-07-26,Begin IV,0,1,0,2,120,O,Ometz,Courage,6,0
+ISR,Israel,1981-06-30,1982-07-26,Begin IV,0,1,0,3,120,Tami,Tnu'at Masoret Yisrael,Movement for the Heritage of Israel,7.4,0
+ISR,Israel,1981-06-30,1982-07-26,Begin IV,0,1,0,3,120,Tehiya,Tehiya,Revival,7.4,0
+ISR,Israel,1981-06-30,1983-10-10,Shamir I,0,1,1,46,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1981-06-30,1983-10-10,Shamir I,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1981-06-30,1983-10-10,Shamir I,0,1,0,1,120,THTH,Tenoa'a leHithadshut Tzionut Hevratit,Movement for the Renewal of Social Zionism,NA,0
+ISR,Israel,1981-06-30,1983-10-10,Shamir I,0,1,0,3,120,Tami,Tnu'at Masoret Yisrael,Movement for the Heritage of Israel,7.4,0
+ISR,Israel,1981-06-30,1983-10-10,Shamir I,0,1,0,3,120,Tehiya,Tehiya,Revival,7.4,0
+ISR,Israel,1981-06-30,1984-01-31,Shamir II,0,1,1,46,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1981-06-30,1984-01-31,Shamir II,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1981-06-30,1984-01-31,Shamir II,0,1,0,3,120,Tami,Tnu'at Masoret Yisrael,Movement for the Heritage of Israel,7.4,0
+ISR,Israel,1981-06-30,1984-01-31,Shamir II,0,1,0,3,120,Tehiya,Tehiya,Revival,7.4,0
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,0,0,2,120,AY,Agudat Yisrael,Union of Israel,NA,1
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,1,1,44,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,1,0,41,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,1,0,4,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,1,0,1,120,O,Ometz,Courage,6,0
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,1,0,4,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,1,0,3,120,Shinui,Shinui,Change,5.4776,0
+ISR,Israel,1984-07-23,1984-09-13,Peres I,0,1,0,3,120,Yahad,Yahad,Together,6,0
+ISR,Israel,1984-07-23,1986-10-20,Shamir III,0,1,0,40,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1984-07-23,1986-10-20,Shamir III,0,1,1,41,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1984-07-23,1986-10-20,Shamir III,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1984-07-23,1986-10-20,Shamir III,0,1,0,1,120,O,Ometz,Courage,6,0
+ISR,Israel,1984-07-23,1986-10-20,Shamir III,0,1,0,4,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1984-07-23,1986-10-20,Shamir III,0,1,0,3,120,Shinui,Shinui,Change,5.4776,0
+ISR,Israel,1984-07-23,1987-05-26,Shamir IV,0,1,0,40,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1984-07-23,1987-05-26,Shamir IV,0,1,1,41,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1984-07-23,1987-05-26,Shamir IV,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1984-07-23,1987-05-26,Shamir IV,0,1,0,1,120,O,Ometz,Courage,6,0
+ISR,Israel,1984-07-23,1987-05-26,Shamir IV,0,1,0,4,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1988-11-01,1988-12-22,Shamir V,0,0,0,5,120,AY,Agudat Yisrael,Union of Israel,NA,1
+ISR,Israel,1988-11-01,1988-12-22,Shamir V,0,1,0,39,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1988-11-01,1988-12-22,Shamir V,0,1,1,40,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1988-11-01,1988-12-22,Shamir V,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1988-11-01,1988-12-22,Shamir V,0,1,0,6,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1988-11-01,1990-03-15,Shamir VI,1,1,1,35,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1988-11-01,1990-03-15,Shamir VI,1,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1988-11-01,1990-03-15,Shamir VI,1,1,0,6,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,0,0,5,120,AY,Agudat Yisrael,Union of Israel,NA,1
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,0,0,2,120,DH,Degel HaTorah,Banner of the Torah,7.4,1
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,0,0,39,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,1
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,1,1,35,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,1,0,2,120,M,Moledet,Homeland,7.4,0
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,1,0,5,120,MLH,Miflaga Libralit Hadasha,New Liberal Party,8.8,0
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,1,0,6,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,0,0,3,120,Tehiya,Tehiya,Revival,7.4,1
+ISR,Israel,1988-11-01,1990-06-11,Shamir VII,0,1,0,2,120,Tzomet,Tzomet,Crossroads,8.8,0
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,0,0,4,120,AY,Agudat Yisrael,Union of Israel,NA,1
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,0,0,2,120,DH,Degel HaTorah,Banner of the Torah,7.4,1
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,1,1,37,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,1,0,2,120,M,Moledet,Homeland,7.4,0
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,1,0,3,120,MLH,Miflaga Libralit Hadasha,New Liberal Party,8.8,0
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,1,0,5,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,0,0,3,120,Tehiya,Tehiya,Revival,7.4,1
+ISR,Israel,1988-11-01,1991-02-05,Shamir VIII,0,1,0,2,120,Tzomet,Tzomet,Crossroads,8.8,0
+ISR,Israel,1988-11-01,1992-01-21,Shamir IX,0,0,0,4,120,AY,Agudat Yisrael,Union of Israel,NA,1
+ISR,Israel,1988-11-01,1992-01-21,Shamir IX,0,0,0,2,120,DH,Degel HaTorah,Banner of the Torah,7.4,1
+ISR,Israel,1988-11-01,1992-01-21,Shamir IX,0,1,1,37,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1988-11-01,1992-01-21,Shamir IX,0,1,0,3,120,MLH,Miflaga Libralit Hadasha,New Liberal Party,8.8,0
+ISR,Israel,1988-11-01,1992-01-21,Shamir IX,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1988-11-01,1992-01-21,Shamir IX,0,1,0,5,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1992-06-23,1992-07-13,Rabin IV,0,1,1,44,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1992-06-23,1992-07-13,Rabin IV,0,1,0,12,120,Meretz,Meretz,Energy,1.7786,0
+ISR,Israel,1992-06-23,1992-07-13,Rabin IV,0,1,0,6,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1992-06-23,1993-09-14,Rabin V,0,1,1,44,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1992-06-23,1993-09-14,Rabin V,0,1,0,12,120,Meretz,Meretz,Energy,1.7786,0
+ISR,Israel,1992-06-23,1995-01-09,Rabin VI,0,1,1,44,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1992-06-23,1995-01-09,Rabin VI,0,1,0,12,120,Meretz,Meretz,Energy,1.7786,0
+ISR,Israel,1992-06-23,1995-01-09,Rabin VI,0,1,0,3,120,Yiud,Yiud,Mission,8.8,0
+ISR,Israel,1992-06-23,1995-11-22,Peres II,0,1,1,44,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1992-06-23,1995-11-22,Peres II,0,1,0,12,120,Meretz,Meretz,Energy,1.7786,0
+ISR,Israel,1992-06-23,1995-11-22,Peres II,0,1,0,3,120,Yiud,Yiud,Mission,8.8,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,1,0,4,120,DS,HaDerekh HaShlishit,The Third Way,6,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,1,0,5,120,Gesher,Gesher,Bridge,7.4,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,1,1,24,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,1,0,9,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,1,0,10,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,1,0,3,120,Tzomet,Tzomet,Crossroads,8.8,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,1,0,7,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1996-05-29,1996-06-18,Netanyahu I,0,0,0,4,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,1996-05-29,1998-01-04,Netanyahu II,0,1,0,4,120,DS,HaDerekh HaShlishit,The Third Way,6,0
+ISR,Israel,1996-05-29,1998-01-04,Netanyahu II,0,1,1,24,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1996-05-29,1998-01-04,Netanyahu II,0,1,0,9,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1996-05-29,1998-01-04,Netanyahu II,0,1,0,10,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1996-05-29,1998-01-04,Netanyahu II,0,1,0,3,120,Tzomet,Tzomet,Crossroads,8.8,0
+ISR,Israel,1996-05-29,1998-01-04,Netanyahu II,0,1,0,7,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1996-05-29,1998-01-04,Netanyahu II,0,0,0,4,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,1,0,4,120,DS,HaDerekh HaShlishit,The Third Way,6,0
+ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,1,1,24,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,1,0,9,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,1,0,10,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,1,0,3,120,Tzomet,Tzomet,Crossroads,8.8,0
+ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,1,0,7,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,0,0,4,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,1,26,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,0,5,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,0,10,120,Meretz,Meretz,Energy,1.7786,0
+ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,0,6,120,MiHa,Mifleget Hamerkaz,Centre Party,6,0
+ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,0,17,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,0,6,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1999-05-17,2000-07-11,Barak II,0,1,1,26,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1999-05-17,2000-07-11,Barak II,0,1,0,6,120,MiHa,Mifleget Hamerkaz,Centre Party,6,0
+ISR,Israel,1999-05-17,2000-12-10,Barak III,1,1,1,26,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1999-05-17,2000-12-10,Barak III,1,1,0,6,120,MiHa,Mifleget Hamerkaz,Centre Party,6,0
+ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,0,26,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,0
+ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,1,19,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,0,17,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,0,4,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,0,27,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,0
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,1,19,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,0,5,120,MiHa,Mifleget Hamerkaz,Centre Party,6,0
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,0,17,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,0,4,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,0,3,120,Gesher,Gesher,Bridge,7.4,0
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,0,27,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,1,19,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,0,5,120,MiHa,Mifleget Hamerkaz,Centre Party,6,0
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,0,17,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,0,4,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,1,0,27,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,1
+ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,1,1,19,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,1,0,5,120,MiHa,Mifleget Hamerkaz,Centre Party,6,0
+ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,1,0,17,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,1,0,4,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,1,1,19,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,1,0,5,120,MiHa,Mifleget Hamerkaz,Centre Party,6,0
+ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,1,0,17,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,1,0,4,120,YBA,Yisrael Ba-Aliya,Israel for Immigration,6,0
+ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,0,7,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,0
+ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,1,38,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,0,6,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,0,15,120,Shinui,Shinui,Change,5.4776,0
+ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,1,1,40,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,1,0,6,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,1,0,15,120,Shinui,Shinui,Change,5.4776,0
+ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,1,0,19,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,1,1,40,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,3,120,AY,Agudat Yisrael,Union of Israel,NA,1
+ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,2,120,DH,Degel HaTorah,Banner of the Torah,7.4,1
+ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,1,0,15,120,Kadima,Kadima,Forward,6,0
+ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,1,1,26,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1,0,7,120,Gil,Gimla'ey Israel,Pensioners of Israel,NA,0
+ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1,0,19,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1,1,29,120,Kadima,Kadima,Forward,6,0
+ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1,0,12,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,0,7,120,Gil,Gimla'ey Israel,Pensioners of Israel,NA,0
+ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,0,19,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,1,29,120,Kadima,Kadima,Forward,6,0
+ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,0,12,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,0,11,120,YB,Yisrael Beiteinu,Israel is Our Home,8.8,0
+ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1,0,7,120,Gil,Gimla'ey Israel,Pensioners of Israel,NA,0
+ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1,0,19,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1,1,29,120,Kadima,Kadima,Forward,6,0
+ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1,0,12,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1,0,4,120,Gil,Gimla'ey Israel,Pensioners of Israel,NA,0
+ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1,0,19,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1,1,29,120,Kadima,Kadima,Forward,6,0
+ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1,0,12,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,0,13,120,HM|HA,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,0
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,1,27,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,0,3,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,0,11,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,0,15,120,YB,Yisrael Beiteinu,Israel is Our Home,8.8,0
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,0,5,120,Haatz,Sia'at Ha'Atzma'ut,Sia'at Ha'Atzma'ut,3.3,0
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,1,27,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,0,3,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,0,11,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,0,15,120,YB,Yisrael Beiteinu,Israel is Our Home,8.8,0
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,0,5,120,Haatz,Sia'at Ha'Atzma'ut,Sia'at Ha'Atzma'ut,3.3,0
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,0,28,120,Kadima,Kadima,Forward,6,0
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,1,27,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,0,3,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,0,11,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,0,15,120,YB,Yisrael Beiteinu,Israel is Our Home,8.8,0
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,0,0,5,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2013-01-22,2013-03-18,Netanyahu VII,0,1,0,6,120,Hat,Hatnuah,The Movement,6,0
+ISR,Israel,2013-01-22,2013-03-18,Netanyahu VII,0,1,1,31,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2013-01-22,2013-03-18,Netanyahu VII,0,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2013-01-22,2013-03-18,Netanyahu VII,0,1,0,19,120,YA,Yesh Atid,There is a Future,6,0
+ISR,Israel,2013-01-22,2013-03-18,Netanyahu VII,0,1,0,0,120,YB,Yisrael Beiteinu,Israel is Our Home,8.8,0
+ISR,Israel,2013-01-22,2014-12-02,Netanyahu VIII,1,1,1,18,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2013-01-22,2014-12-02,Netanyahu VIII,1,1,0,12,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2013-01-22,2014-12-02,Netanyahu VIII,1,1,0,13,120,YB,Yisrael Beiteinu,Israel is Our Home,8.8,0
+ISR,Israel,2015-03-17,2015-05-14,Netanyahu IX,0,1,0,10,120,Kulanu,Kulanu,All of Us,6,0
+ISR,Israel,2015-03-17,2015-05-14,Netanyahu IX,0,1,1,30,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2015-03-17,2015-05-14,Netanyahu IX,0,1,0,8,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2015-03-17,2015-05-14,Netanyahu IX,0,1,0,7,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2015-03-17,2015-05-14,Netanyahu IX,0,0,0,6,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1,0,10,120,Kulanu,Kulanu,All of Us,6,0
+ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1,1,30,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1,0,8,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1,0,7,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1,0,6,120,YB,Yisrael Beiteinu,Israel is Our Home,8.8,0
+ISR,Israel,2015-03-17,2016-05-30,Netanyahu X,0,1,0,6,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,0
+ISR,Israel,2015-03-17,2018-11-18,Netanyahu XI,1,1,0,10,120,Kulanu,Kulanu,All of Us,6,0
+ISR,Israel,2015-03-17,2018-11-18,Netanyahu XI,1,1,1,30,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2015-03-17,2018-11-18,Netanyahu XI,1,1,0,8,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2015-03-17,2018-11-18,Netanyahu XI,1,1,0,7,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2015-03-17,2018-11-18,Netanyahu XI,1,0,0,6,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2019-04-09,2019-04-09,Netanyahu XII,1,1,0,4,120,Kulanu,Kulanu,All of Us,6,0
+ISR,Israel,2019-04-09,2019-04-09,Netanyahu XII,1,1,1,35,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2019-04-09,2019-04-09,Netanyahu XII,1,1,0,0,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2019-04-09,2019-04-09,Netanyahu XII,1,1,0,8,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2019-04-09,2019-04-09,Netanyahu XII,1,0,0,8,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
+ISR,Israel,2019-09-17,2019-09-17,Netanyahu XIII,1,1,0,0,120,Kulanu,Kulanu,All of Us,6,0
+ISR,Israel,2019-09-17,2019-09-17,Netanyahu XIII,1,1,1,32,120,L,Likud,The Consolidation,6.6788,0
+ISR,Israel,2019-09-17,2019-09-17,Netanyahu XIII,1,1,0,0,120,Mafdal,Miflaga Datit Leumit,National Religious Party,8.6207,0
+ISR,Israel,2019-09-17,2019-09-17,Netanyahu XIII,1,1,0,9,120,Shas,Shomrei Sfarad,Sfarad's guards of the Torah,7.0417,0
+ISR,Israel,2019-09-17,2019-09-17,Netanyahu XIII,1,0,0,7,120,YH,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,1
