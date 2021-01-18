@@ -3,11 +3,8 @@
 ---
 
 ## Riverplot: German party system
-<<<<<<< HEAD
 
 * Authors: Lukas Warode and Philip Manow
-=======
->>>>>>> 98ddd51886a4ff61c57e34c362baffbecc7377b9
 
 ### Script with data manipulation and visualizations
 
@@ -22,8 +19,5 @@
 
 ---
 
-<<<<<<< HEAD
 ![German Party Vote Share](riverplot_de.png)
-=======
-![](riverplot_de.png)
->>>>>>> 98ddd51886a4ff61c57e34c362baffbecc7377b9
+
