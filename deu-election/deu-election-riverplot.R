@@ -3,6 +3,8 @@ library(partycoloR)
 library(ggalluvial)
 library(scales)
 
+# install partycoloR package
+# devtools::install_github("lwarode/partycoloR")
 
 
 # ParlGov data ------------------------------------------------------------
