@@ -1,7 +1,7 @@
 library(tidyverse)
 library(sf)
 
-## ParlGov data -----
+## ParlGov data ----
 
 if(FALSE) {
   # run once to get recent data
