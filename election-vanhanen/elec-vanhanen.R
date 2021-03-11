@@ -3,6 +3,7 @@ library(countrycode) # regions
 library(lubridate) # date manipulation
 library(ggsci) # color palette
 
+
 # set working directory in subfolder
 setwd(here::here("election-vanhanen"))
 
@@ -17,6 +18,7 @@ elec_level_raw <- read_csv(paste0(pg_url, "election.csv"))
 elec <- elec_raw %>% 
   rename(id = election_id) %>% 
   left_join(elec_level_raw)
+
 
 # data wrangling ----------------------------------------------------------
 
@@ -42,6 +44,7 @@ vanhanen_id <- elec %>%
 vanhanen_id_mean <- vanhanen_id %>% 
   group_by(region, year) %>% 
   mutate(index_mean = mean(index, na.rm = TRUE)) 
+
 
 # data visualization ------------------------------------------------------
 
@@ -70,7 +73,7 @@ plot_all <- ggplot(vanhanen_id, aes(x = year, y = index)) +
 plot_all
 
 # saving plot
-ggsave("vanhanen_plot_all.png",
+ggsave("vanhanen-plot-all.png",
        plot = plot_all,
        width = 8,
        height = 4)
@@ -94,7 +97,7 @@ plot_grp <- ggplot(vanhanen_id, aes(x = year, color = region)) +
 plot_grp
 
 # saving plot
-ggsave("vanhanen_plot_grouped.png",
+ggsave("vanhanen-plot-grouped.png",
        plot = plot_grp,
        width = 12,
        height = 6)
