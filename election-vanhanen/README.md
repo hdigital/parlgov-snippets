@@ -6,7 +6,7 @@
 
 ### Author: Lukas Warode (inspiration from Philip Manow & Holger Döring)
 
-The *Index of Democratization* by Tatu Vanhanen is a measure that uses party competition (*C*) and voter participation or turnout (*P*) in order to express the democratic condition of a state. *C* is calculated by subtracting the percentage vote share of the largest party from 100, while *P* is the electoral participation. Both values can be calculated for every single election. The index is defined as: *ID = (C `*` P) / 100*
+The *Index of Democratization* by Tatu Vanhanen is a measure that uses party competition (*C*) and voter participation or turnout (*P*) in order to express the democratic condition of a state. *C* is calculated by subtracting the percentage vote share of the largest party from 100, while *P* is the electoral participation. Both values can be calculated for every single election. The index is defined as: *ID = (C * P) / 100*
 
 Vanhanen defines the following threshold values for his index:
 
