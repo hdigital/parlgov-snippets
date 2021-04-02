@@ -11,7 +11,8 @@ The *Index of Democratization* by Tatu Vanhanen is a measure that uses party com
 *C* is calculated by subtracting the percentage vote share of the largest party from 100, while *P* is the electoral participation. Both values can be calculated for every election.
 
 The index is defined as:
-$$ ID = \frac{C \cdot P}{100} $$
+
+![](https://latex.codecogs.com/gif.latex?ID&space;=&space;\frac{C&space;\cdot&space;P}{100})
 
 Vanhanen defines the following threshold values for his index:
 
