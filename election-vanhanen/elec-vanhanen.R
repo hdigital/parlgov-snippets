@@ -1,5 +1,6 @@
 library(tidyverse)
 library(countrycode) # regions
+library(WDI) # World Bank data (population)
 library(lubridate) # date manipulation
 library(ggsci) # color palette
 
@@ -20,6 +21,25 @@ elec <- elec_raw %>%
   left_join(elec_level_raw)
 
 
+# World Bank population data ----------------------------------------------
+
+# list of distinct countries
+country_list <- elec_raw %>% 
+  distinct(country_name_short) %>% 
+  transmute(iso2c = countrycode(country_name_short, "iso3c", "iso2c")) %>% 
+  pull()
+
+# list of distinct years
+elec_year_list <- elec_raw %>% 
+  distinct(year(election_date)) %>% 
+  pull()
+
+# population data
+wdi_population <- WDI(
+  country = country_list,
+  indicator = "SP.POP.TOTL") %>% 
+  rename(population = 3)
+
 # data wrangling ----------------------------------------------------------
 
 # generate Vanhanen Index (ID)
@@ -27,23 +47,24 @@ vanhanen_id <- elec %>%
   group_by(country_name, country_name_short, election_date, id) %>% 
   summarise(
     vote_share_max = max(vote_share, na.rm = TRUE),
-    electorate, 
+    # electorate, 
     votes_cast,
     .groups = "drop"
   ) %>% 
-  distinct() %>% 
+  filter(across(everything(), ~ !is.infinite(.x))) %>% 
+  distinct() %>%
+  mutate(iso2c = countrycode(country_name_short, "iso3c", "iso2c"),
+         year = year(election_date)) %>% 
+  left_join(wdi_population, by = c("iso2c", "year")) %>% 
+  filter(!is.na(population)) %>% 
   mutate(competition = 100 - vote_share_max,
-         turnout = votes_cast / electorate * 100) %>% 
+         participation = (votes_cast / population) * 100) %>% 
   # Vanhanen thresholds
-  filter(competition > 30 & turnout > 10) %>%
-  mutate(index = competition * turnout / 100,
+  filter(competition > 30 & participation > 10) %>%
+  mutate(index = (competition * participation) / 100,
          # Regions from World Bank Development Indicators 
          region = countrycode(country_name_short, "iso3c", "region23"),
-         year = lubridate::year(election_date)) 
-
-vanhanen_id_mean <- vanhanen_id %>% 
-  group_by(region, year) %>% 
-  mutate(index_mean = mean(index, na.rm = TRUE)) 
+         year = year(election_date)) 
 
 
 # data visualization ------------------------------------------------------
@@ -61,7 +82,7 @@ plot_all <- ggplot(vanhanen_id, aes(x = year, y = index)) +
   geom_point(alpha = 0.5, aes(color = region)) + 
   geom_line(size = 1, alpha = 0.5, stat = "smooth") +
   scale_color_nejm(name = "") +
-  scale_x_continuous(breaks = seq(1900, 2020, 20)) + 
+  scale_x_continuous(breaks = seq(1960, 2020, 10)) + 
   guides(fill = guide_legend(ncol = 4)) + 
   labs(title = "Vanhanen Index of Democratization (ID)",
        x = "Year",
@@ -82,7 +103,7 @@ plot_grp <- ggplot(vanhanen_id, aes(x = year, color = region)) +
   geom_point(aes(y = index), alpha = 0.5, show.legend = FALSE) + 
   geom_smooth(aes(y = index), se = FALSE) +
   scale_color_nejm(name = "") +
-  scale_x_continuous(breaks = seq(1900, 2020, 20)) + 
+  scale_x_continuous(breaks = seq(1960, 2020, 10)) + 
   lemon::facet_rep_wrap(~ region, ncol = 4, repeat.tick.labels = "all") +
   guides(fill = guide_legend(ncol = 4)) + 
   labs(title = "Vanhanen Index of Democratization (ID)",

@@ -8,7 +8,7 @@
 
 The *Index of Democratization* by Tatu Vanhanen is a measure that uses party competition (*C*) and voter participation or turnout (*P*) to express the democratic condition of a state.
 
-*C* is calculated by subtracting the percentage vote share of the largest party from 100, while *P* is the electoral participation. Both values can be calculated for every election.
+*C* is calculated by subtracting the percentage vote share of the largest party from 100, while *P* is the electoral participation, measured as the percentage value from the proportion of people voting divided by the total population. Both values can be calculated for every election.
 
 The index is defined as:
 
