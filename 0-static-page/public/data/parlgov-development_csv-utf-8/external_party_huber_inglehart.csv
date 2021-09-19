@@ -1,0 +1,301 @@
+id,country,name_english,name,name_short,left_right,range_left,range_right,sd,respondents
+101,ARGENTINA,Radical Civic Union,Union Civica Radical,UCR,5.0,4.0,6.0,0.63,5
+102,ARGENTINA,Justice Party,Partido Justicialista,PJ,7.4,5.0,8.0,1.2,5
+203,AUSTRALIA,Australian Democrats,Australian Democrats,AD,3.0,2.0,4.0,0.82,6
+204,AUSTRALIA,Australian Labour Party,Australian Labour Party,ALP,4.75,4.0,6.0,0.66,8
+205,AUSTRALIA,Liberal Party,Liberal Party,LPA,7.13,6.0,8.0,0.93,8
+206,AUSTRALIA,National Party of Australia,National Party of Australia,NPA,8.5,7.0,9.0,0.76,6
+307,AUSTRIA,Green Alternative,Gruene Alternativen,GA,2.86,2.0,4.0,0.64,7
+308,AUSTRIA,Austrian Socialist Party,Sozialistische Partei,SPO,4.75,4.0,5.0,0.43,8
+309,AUSTRIA,Austrian People's Party,Volkspartei,OVP,6.25,6.0,7.0,0.43,8
+310,AUSTRIA,Liberal Forum,Liberales Forum,LF,6.33,6.0,7.0,0.47,3
+311,AUSTRIA,Austrian Freedom Party,Freiheitliche Partei,FPO,8.63,7.0,9.0,0.7,8
+401,BELGIUM,Ecologist,Agalev,A,3.4,3.0,4.0,0.49,5
+402,BELGIUM,Ecologist,Ecolo,E,3.5,3.0,4.0,0.5,6
+403,BELGIUM,Socialist,Parti Socialiste,PS,4.0,3.0,5.0,0.76,7
+404,BELGIUM,Flemish Socialist Party,Socialistische Partij,SP,4.2,4.0,5.0,0.4,5
+405,BELGIUM,Christian-Social Party,Parti Social Chretien,PSC,5.71,5.0,6.0,0.45,7
+406,BELGIUM,Flemish Christian People's Party,Christelijke Volkspartij,CVP,6.0,5.0,7.0,0.63,5
+407,BELGIUM,People's Union,Volksunie,VU,6.5,5.0,8.0,1.12,4
+408,BELGIUM,Democratic Front of the Francophones,Front Democratique des Francophones,FDF,7.0,5.0,10.0,1.67,5
+409,BELGIUM,Liberal Reform Party,Parti Reformateur Liberal,PRL,7.29,6.0,8.0,0.7,7
+501,BRAZIL,Brazilian Communist Party,Partido Comunista do Brasil,PCdoB,1.33,1.0,2.0,0.47,3
+502,BRAZIL,Brasileire Workers' Party,Partido Trabalhista,PTB,2.25,2.0,3.0,0.43,4
+503,BRAZIL,People's Social Party,Partido Popular Social,PPS,2.67,2.0,3.0,0.47,3
+504,BRAZIL,Democratic Labour Party,Partido Democratico Trabalhista,PDT,3.5,3.0,5.0,0.87,4
+505,BRAZIL,Brazilian Social Democracy,Partido da Social Democrata Brasileira,PSDB,4.0,3.0,5.0,0.71,4
+506,BRAZIL,Party of Brazilian Democratic Movement,Partido do Movimento Democratico Brasiliero,PMDB,5.25,4.0,6.0,0.83,4
+507,BRAZIL,Liberal Party,Partido Liberal,PL,7.0,7.0,7.0,0.0,3
+508,BRAZIL,Liberal Front,Partido da Frente Liberal,PFL,8.25,8.0,9.0,0.43,4
+509,BRAZIL,Social Democratic Party,Partido Democratico Social,PDS,9.33,9.0,10.0,0.47,3
+601,BRITAIN,Labour,Labour,Lab,4.43,3.0,6.0,0.82,14
+602,BRITAIN,Liberal Democratic Party,Liberal Democratic Party,LDP,5.21,4.0,7.0,0.94,14
+603,BRITAIN,Conservative Party,Conservative Party,Con,7.71,6.0,9.0,0.96,14
+701,BULGARIA,Bulgarian Communist Party,Bulgarska Komunisticheska Partiya,BKP,1.4,1.0,2.0,0.49,5
+702,BULGARIA,Bulgarian Socialist Party,Bulgarska Socialisticheska Partiya,BSP,4.0,2.0,9.0,2.31,6
+703,BULGARIA,Bulgarian Social Democratic Party,,BSDP,4.2,3.0,5.0,0.75,5
+704,BULGARIA,Naroden Soyuz Bulgarian Agrarian National Movement,Bulgarski Zemedelski,BANU,5.5,5.0,6.0,0.5,4
+705,BULGARIA,Green Party,,GP,6.0,5.0,7.0,1.0,4
+706,BULGARIA,Union of Democratic Forces,Soyuz na Demokratichnite Sili,SDS,6.25,1.0,8.0,3.03,4
+707,BULGARIA,Bulgarian Liberal Party,,BPL,6.5,6.0,7.0,0.5,4
+708,BULGARIA,Bulgarian Business Bloc,,BBB,8.0,7.0,10.0,1.41,3
+709,BULGARIA,Democratic Party,,DP,9.5,9.0,10.0,0.5,-4
+801,CANADA,New Democratic Party,New Democratic Party,NDP,2.9,1.0,4.0,1.22,10
+802,CANADA,Bloc Quebecois,Bloc Quebecois,BQ,3.5,2.0,5.0,1.12,4
+803,CANADA,Liberal Party,Liberal Party,L,5.1,3.0,7.0,1.04,10
+804,CANADA,Progressive Conservative Party,Progressive Conservative Party,PCP,7.3,5.0,10.0,1.42,10
+805,CANADA,Reform Party,Reform Party,RP,9.0,7.0,10.0,0.94,9
+901,CHILE,Communist,Partido Comunista,PC,1.33,1.0,2.0,0.47,6
+902,CHILE,Socialist,Partido Socialista,PS,3.0,2.0,4.0,0.58,6
+903,CHILE,Reformed Socialist,Partido por la Democracia,PPD,4.17,3.0,5.0,0.69,6
+904,CHILE,Christian Democrat,Partido Democrata Cristiano,PDC,5.0,4.0,6.0,0.58,6
+905,CHILE,Radical Party,Partido Radical,PR,6.0,5.0,8.0,1.22,4
+906,CHILE,Moderate right,Renovacion National,RN,7.33,6.0,9.0,0.94,6
+907,CHILE,Pinochet,Union Democrata Independiente,UDI,8.33,6.0,10.0,1.37,6
+1001,CZECH REPUBLIC,Left Bloc,Komunisticka Strana C.a.M.,KSCM,1.33,1.0,2.0,0.47,6
+1002,CZECH REPUBLIC,Social Democrats,Ceskastrana Socialne Demokraticka,CSSD,2.83,2.0,4.0,0.69,6
+1003,CZECH REPUBLIC,Liberal Social,Liberalni Socialni Unie,LSU,3.67,3.0,4.0,0.47,3
+1004,CZECH REPUBLIC,Civic Movement,Obcanske Hunte,OH,4.75,4.0,5.0,0.43,4
+1005,CZECH REPUBLIC,Civic Democratic Party,Obcansko Demokraticka Strana,ODS,7.33,5.0,8.0,1.12,6
+1006,CZECH REPUBLIC,Civic Democratic Alliance,Obcansko Demokraticka Aliance,ODA,7.4,6.0,9.0,1.02,5
+1007,CZECH REPUBLIC,Christian Democratic Union -- Czech People's Party,Krestanska Demokraticka Unie-Ceska Strana Lidova,KDU-CSL,7.6,6.0,9.0,1.2,5
+1008,CZECH REPUBLIC,Christian Democratic Party,Krestansko Demokracie,KDS,8.33,8.0,9.0,0.47,3
+1009,CZECH REPUBLIC,Republican Party,Republik Duska Strana Ceska,SPR-RSC,9.8,9.0,10.0,0.4,5
+1101,DENMARK,Red-Green List,Rod-Gron Enhedsliste,RGE,2.0,1.0,3.0,1.0,2
+1102,DENMARK,Socialist People's,Socialistik Folkeparti,SF,2.89,2.0,4.0,0.57,9
+1103,DENMARK,Social Democrat,Socialdemokratiet,SD,4.22,3.0,5.0,0.79,9
+1104,DENMARK,Radical Liberals,Radikale Venstre,RV,5.67,5.0,6.0,0.47,9
+1105,DENMARK,Centre Democrats,Centrum-demokraterne,CD,6.0,4.0,7.0,1.15,9
+1106,DENMARK,Christian People's,Kristeligt Folkeparti,KRF,6.22,5.0,7.0,0.79,9
+1107,DENMARK,Conservatives,Konservative Folkeparti,KF,7.56,7.0,8.0,0.5,9
+1108,DENMARK,Liberal,Venstre,V,8.11,8.0,9.0,0.31,9
+1109,DENMARK,Progress Party,Fremskridtspartiet,FRP,9.13,7.0,10.0,0.93,8
+1201,ESTONIA,Russian Democratic Movement,,RDM,1.0,1.0,1.0,0.0,1
+1202,ESTONIA,Estonian Democratic Labor Party,,EDLP,2.0,2.0,2.0,0.0,1
+1203,ESTONIA,Estonian Rural Union,,ERU,3.0,3.0,3.0,0.0,2
+1204,ESTONIA,Estonian Center Party,,ECP,4.0,3.0,5.0,1.0,2
+1205,ESTONIA,Estonian Social Democratic Party,,ESDP,4.5,4.0,5.0,0.5,2
+1206,ESTONIA,Greens,,-,6.0,6.0,6.0,0.0,1
+1207,ESTONIA,Estonian Rural Center Party,,ERCP,6.0,5.0,7.0,1.0,2
+1208,ESTONIA,Liberal Democratic Party,,ELDP,7.0,7.0,7.0,0.0,1
+1209,ESTONIA,Coalition Party,,CP,7.5,7.0,8.0,0.5,2
+1210,ESTONIA,Estonian National Independence Party,,ENIP,8.0,7.0,9.0,1.0,2
+1211,ESTONIA,Estonian Party of Entrepreneurs,,EPE,8.5,8.0,9.0,0.5,2
+1212,ESTONIA,Pro Patria,,NCP,8.5,7.0,10.0,1.5,2
+1213,ESTONIA,National Party of the Unlawfully Repressed,,NPUR,9.0,9.0,9.0,0.0,1
+1214,ESTONIA,Estonian Farmers' Party,,EFP,9.0,9.0,9.0,0.0,1
+1301,FINLAND,left-Wing Alliance,Vasemmistoliitto,VAS,3.5,2.0,8.0,1.87,8
+1302,FINLAND,Green League,Vihrea Liitto,VIHR,4.0,2.0,5.0,1.12,8
+1303,FINLAND,Social Democratic Party,Sosialidemokraattinen Puolue,SDP,4.38,3.0,6.0,1.11,8
+1304,FINLAND,Liberal People's Party,Liberaalinen Kansanpuolue,LKP,6.25,5.0,7.0,0.83,4
+1305,FINLAND,Swedish People's Party,Svenska Folkpartiet,SFP,6.57,3.0,8.0,1.49,7
+1306,FINLAND,Centre Party,Suomen Keskusta,KESK,7.0,5.0,9.0,1.22,8
+1307,FINLAND,Rural Party,Maaseudun Puole,SMP,7.0,4.0,10.0,2.16,6
+1308,FINLAND,National Coalition,Kansallinen Kokoomus,KOK,7.38,5.0,9.0,1.22,8
+1309,FINLAND,Christian Union,Kristillinen Liitto,SKL,9.0,7.0,10.0,1.22,4
+1401,FRANCE,Republican Communist Front,Lutte Communiste pour la Republique,LCR,1.0,1.0,1.0,0.0,3
+1402,FRANCE,Workers' Front,Lutte Ouvriere,LO,1.0,1.0,1.0,0.0,3
+1403,FRANCE,Communist,Parti Communiste,PCF,2.25,1.0,3.0,0.66,8
+1404,FRANCE,Socialist,Parti Socialiste,PS,4.13,3.0,5.0,0.6,8
+1405,FRANCE,Ecologists,Generation Ecologie,GE,4.4,3.0,6.0,0.8,5
+1406,FRANCE,Ecologist,Ecologiste,E,4.44,3.0,6.0,1.26,8
+1407,FRANCE,left Radicals,Mouvement des Radicaux de Gauche,MRG,4.75,4.0,5.0,0.43,4
+1408,FRANCE,Social Democratic Center,Centre des Democrats Sociaux,CDS,5.75,5.0,6.0,0.43,4
+1409,FRANCE,Union for French Democracy,Union pour la Democratie Francaise,UDF,6.67,6.0,7.5,0.55,6
+1410,FRANCE,Republican,Parti Republicain,PR,7.2,7.0,8.0,0.4,5
+1411,FRANCE,Rally for the Republic,Rassemblement pour la Republique,RPR,7.88,7.0,8.5,0.41,8
+1412,FRANCE,National Front,Front National,FN,10.0,10.0,10.0,0.0,8
+1501,GERMANY,Democratic Socialist,Demokratisch-Sozialistische Partei,PDS,1.5,1.0,2.0,0.5,4
+1502,GERMANY,Green,Die Gruenen,G,2.91,1.0,5.0,1.08,11
+1503,GERMANY,Social Democrat,Sozialdemokratische Partei Deutschlands,SPD,3.83,3.0,5.0,0.69,12
+1504,GERMANY,Free Democrat,Freie Demokratische Partei,FDP,5.64,4.0,7.0,0.77,11
+1505,GERMANY,Christian Democrat,Christlich Demokratische Union,CDU,6.42,5.0,8.0,0.86,12
+1506,GERMANY,Christian Social Union,Christlich Soziale Union,CSU,7.3,6.0,8.0,7.78,10
+1507,GERMANY,Republican,Republikaner,Rep,9.3,8.0,10.0,0.64,10
+1601,HUNGARY,Hungarian Socialist Party,Magyar Szocialista Part,MSZP,2.14,1.0,3.0,0.64,7
+1602,HUNGARY,Alliance of Free Democrats,Szabad Demokratak Szoevetsege,SLDSZ,3.71,2.0,6.0,1.28,7
+1603,HUNGARY,Federation of Young Democrats,Fiatal Demokratak Szoevetsege,FIDESZ,5.0,2.0,6.0,1.41,7
+1604,HUNGARY,Christian Democratic People's Party,Keresztenydemokrata Neppart,KDNP,7.57,6.0,9.0,1.18,7
+1605,HUNGARY,Hungarian Democratic Forum,Magyar Demokrata Forum,MDF,7.71,7.0,8.0,0.45,7
+1606,HUNGARY,Independent Smallholders' Party,Fuggetlen Kisgazda Part,FKGP,9.57,9.0,10.0,0.49,7
+1701,ICELAND,Womens' Alliance,Samtok um kvennalista,WA,3.0,1.0,5.0,2.0,2
+1702,ICELAND,People's Alliance,Althydubandalag,PA,3.0,1.0,4.0,1.22,4
+1703,ICELAND,Progressive Party,Framsoknarflokkurinn,PP,4.5,3.0,6.0,1.12,4
+1704,ICELAND,Social Democrat,Althyduflokkurinn,SDP,5.0,2.0,7.0,1.87,4
+1705,ICELAND,Independence Party,Sjaltstaedisflokkurinn,IP,7.25,6.0,9.0,1.3,4
+1801,INDIA,Communist Party of India (Marxist-Leninist),,CPI/ML,1.38,1.0,3.0,0.7,8
+1802,INDIA,Communist Party of India (Marxist),,CPM,2.22,2.0,3.0,0.42,9
+1803,INDIA,Communist Party of India,,CPI,2.64,1.0,3.0,0.64,11
+1804,INDIA,People's Party -- A,Janata Dal  (A),JD A,4.0,4.0,4.0,0.0,2
+1805,INDIA,Janata Dal,,JD,4.5,4.0,5.0,0.46,7
+1806,INDIA,All Indian Anna Party (=rural Tamil party),,AIDMK,5.67,5.0,7.0,0.94,3
+1807,INDIA,Indian National Congress,,INC,5.8,3.0,8.0,1.47,10
+1808,INDIA,Bahurja Sanaj Party,,BSP,6.0,4.0,10.0,2.83,3
+1809,INDIA,Dravidian Progressive Federation =rural Tamil party,Dravida Munnetra Kazhagam,DMK,6.5,5.0,9.0,1.66,4
+1810,INDIA,Bharatiya Janata Party,,BJP,8.18,5.0,10.0,1.34,11
+1811,INDIA,Indian Union Muslim League,,IUML,9.0,9.0,9.0,0.0,2
+1901,IRELAND,Democratic Left,Democratic Left,DL,2.7,1.0,4.0,0.9,10
+1902,IRELAND,Labour,Labour,LAB,4.1,3.0,5.0,0.7,10
+1903,IRELAND,Republican Party,Fianna Fail,FF,5.8,5.0,7.0,0.6,10
+1904,IRELAND,United Ireland,Fine Gael,FG,7.0,6.0,9.0,0.77,10
+1905,IRELAND,Progressive Democrats,Progressive Democrats,PDP,8.3,7.0,10.0,0.78,10
+2001,NORTHERN IRELAND,Sinn Fein,Sinn Fein,SF,1.8,1.0,2.0,0.4,5
+2002,NORTHERN IRELAND,Worker Party,Worker Party,WP,2.83,1.0,7.0,2.11,6
+2003,NORTHERN IRELAND,Labour,Labour,LAB,3.7,3.0,6.0,0.9,10
+2004,NORTHERN IRELAND,Liberal Democrats,Liberal Democrats,LD,5.2,2.0,7.0,1.72,5
+2005,NORTHERN IRELAND,Alliance,Alliance,A,5.79,5.0,7.0,0.65,7
+2006,NORTHERN IRELAND,Conservatives,Conservatives,Con,7.89,7.0,9.0,0.57,9
+2007,NORTHERN IRELAND,Democratic Unionist,Democratic Unionist,DUP,8.0,4.0,10.0,2.27,7
+2008,NORTHERN IRELAND,Ulster Unionist Party,Ulster Unionist Party,UUP,8.14,7.0,9.0,0.64,7
+2101,ITALY,Reform Communist,Rifondazione Communista,RC,1.0,1.0,1.0,0.0,5
+2102,ITALY,Democratic Left,Partito Democratico della Sinistra,PDS,2.5,1.0,3.0,0.76,6
+2103,ITALY,Green,Liste Verdi,RV,2.6,2.0,4.0,0.8,5
+2104,ITALY,Socialist,Partito Socialista,PS!,5.0,4.0,6.0,0.82,6
+2105,ITALY,Democratic Socialist,Partito Socialista Democratico,PSDI,5.25,4.5,6.0,0.56,6
+2106,ITALY,Republican,Partito Republicano,PRI,5.6,4.0,7.0,1.2,5
+2107,ITALY,Christian Democrat,Democrazia Cristiana,DC,6.33,5.0,8.0,0.94,6
+2108,ITALY,Liberal,Partito Liberale,PLI,7.3,4.5,9.0,1.54,5
+2109,ITALY,League of Northern Italy,Lega Nord,Lega,7.5,6.0,9.0,0.96,6
+2110,ITALY,Social Movement,Movimento Sociale,MSI,9.33,8.0,10.0,0.75,6
+2201,JAPAN,Japan Communist Party,Nihon Kyosan-to,JCP,2.07,1.0,7.0,1.44,14
+2202,JAPAN,Japan Socialist Party,Nihon Shakai-to,JSP (SDPJ),3.79,2.0,8.0,1.42,14
+2203,JAPAN,Clean Government,Komeito,KOMEI,5.92,5.0,7.0,0.76,12
+2204,JAPAN,Democratic Socialist Party,Minshato,DSP,6.54,5.0,9.0,1.22,13
+2205,JAPAN,Liberal Democratic Party,Jiyu Minshu-to,LDP,8.43,7.0,10.0,1.05,14
+2301,SOUTH KOREA,New Politics Party,Sa Jongjhi Dang,NPP,3.67,3.0,5.0,0.94,3
+2302,SOUTH KOREA,Democratic Party,Minju Dang,DP,5.67,5.0,7.0,0.94,6
+2303,SOUTH KOREA,Democratic Liberal Party,Minja Dang,DLP,7.86,7.0,9.0,0.83,7
+2304,SOUTH KOREA,Unification Nationalist Party,Tongi Kookmin Dang,UNP,8.25,7.0,10.0,1.09,4
+2401,LITHUANIA,Democratic Labor Party,Lietuvos Demokratine Darbo Partija,LDLP,4.0,2.0,10.0,3.1,5
+2402,LITHUANIA,Social Democratic Party,Lietuvos Socialdemokratu Partija,LSDP,4.6,3.0,9.0,2.24,5
+2403,LITHUANIA,Center Movement,Lietuvos Centras Sajudis,LCM,4.75,4.0,6.0,0.83,4
+2404,LITHUANIA,Christian Democratic Party,Lietuvos Krikscioniu Demokratu Partija,LCDP,5.4,4.0,7.0,1.02,5
+2405,LITHUANIA,Liberal Union,Liberalu Sajunga,LLU,5.8,1.0,9.0,2.64,5
+2406,LITHUANIA,Lithuanian Conservatives,Tevynes Sajunga,LC,6.0,2.0,10.0,3.27,3
+2407,LITHUANIA,Democratic Party,Demokratu Partija,LDP,6.25,3.0,8.0,2.05,4
+2501,MEXICO,Democratic Revolutionary Party,Partido Revolutionario Democratico,PRD,3.33,1.0,5.0,1.25,6
+2502,MEXICO,Institutional Revolutionary Party,Partido Revolutionario Institucional,PRI,6.2,6.0,7.0,0.4,5
+2503,MEXICO,National Action Party,Partido Accion Nacional,PAN,7.0,6.0,8.0,0.82,6
+2601,NETHERLANDS,Green Left,Groen Links,GL,1.78,1.0,3.0,0.63,9
+2602,NETHERLANDS,Labour,Partij van de Arbeid,Pvda,4.2,3.0,8.0,1.47,10
+2603,NETHERLANDS,Democrats '66,Democraten '66,D'66,4.8,4.0,6.0,0.75,10
+2604,NETHERLANDS,Christian Democrat,Christen-Democratisch Appel,CDA,6.3,5.0,8.0,0.78,10
+2605,NETHERLANDS,Liberal,Volkspartij voor Vrijheid en Demokratie,VVD,7.2,5.0,9.0,0.98,10
+2606,NETHERLANDS,Reformed Political Union,Gereformeerd Politiek Verbond,GPV,8.86,8.0,10.0,0.64,7
+2607,NETHERLANDS,Political Reformed Party,Staatkundig Gereformeerde Partij,SGP,9.0,8.0,10.0,0.76,7
+2608,NETHERLANDS,Reformed Political Federation,Reformatische Politieke Federatie,RPF,9.0,8.0,10.0,0.76,7
+2609,NETHERLANDS,Center Democrats,Centrumdemocraten,CD,9.5,7.0,10.0,1.12,6
+2701,NEW ZEALAND,New Labour Party,New Labour Party,NLP,3.5,2.0,5.0,1.12,4
+2702,NEW ZEALAND,People's Alliance,People's Alliance,A,3.71,1.0,8.0,2.12,7
+2703,NEW ZEALAND,Labour Party,Labour Party,LP,5.8,5.0,7.0,0.6,10
+2704,NEW ZEALAND,National Party,National Party,NP,7.3,6.0,9.0,0.9,10
+2801,NIGERIA,Social Democratic Party,Social Democratic Party,SDP,5.09,3.0,9.0,1.62,11
+2802,NIGERIA,National Republican Convention,National Republican Convention,NRC,7.45,6.0,10.0,1.3,11
+2901,NORWAY,Radical Party,Radikale Venstreparti,RV,1.33,1.0,2.0,0.47,3
+2902,NORWAY,Socialist Party,Sosialistik Venstreparti,SV,2.55,1.0,4.0,0.89,11
+2903,NORWAY,Labour Party,Det Norske Arbeiderparti,Ap,4.13,3.0,6.0,0.93,8
+2904,NORWAY,Center Party,Senterpartiet,SP,5.33,3.0,7.0,1.15,9
+2905,NORWAY,Agrarian Party,Landmansforbundet,L,5.4,4.0,7.0,1.02,5
+2906,NORWAY,Liberal,Venstre,V,5.86,5.0,8.0,0.99,7
+2907,NORWAY,Christian People's Party,Kristelig Folkeparti,KrF,6.55,4.0,8.0,1.08,11
+2908,NORWAY,Conservative,Hoyre,H,8.0,7.0,9.0,0.74,11
+2909,NORWAY,Progress Party,Fremskrittspartiet,Fp,9.18,8.0,10.0,0.57,11
+3001,POLAND,Alliance of Democratic Left,Sojusz Lewicy Demokratycznej,SLD,2.0,1.0,3.0,0.82,3
+3002,POLAND,Polish Peasant Party,Polskie Stronnictwo Ludowe,PSL,4.0,3.0,5.0,0.71,4
+3003,POLAND,Democratic Union,Unia Demokratyczna,UD,5.0,4.0,6.0,0.7,4
+3004,POLAND,Liberal-Democratic Congress,Kongres Liberalno-Demokratyczny,KLD,5.75,2.0,9.0,2.49,4
+3005,POLAND,Civic Alliance Center,Porozumienie Obywatelskie Centrum,POC,6.0,5.0,7.0,0.82,3
+3006,POLAND,Confederation for an Independent Poland,Konfederacja Polski Niepodleglej,KPN,6.25,3.0,10.0,2.86,4
+3007,POLAND,Catholic Elector Action,Wyborcza Akcja Katolicka,ZChN/WAK,7.75,4.0,9.0,2.17,4
+3101,PORTUGAL,Communist,Partido Comunista Portugues,PCP,3.63,1.0,10.0,2.69,8
+3102,PORTUGAL,Socialist,Partido Socialista,PSP,4.88,3.0,6.0,0.78,8
+3103,PORTUGAL,Social Democrat,Partido Social Democrata,PSD,6.38,5.0,8.0,0.86,8
+3104,PORTUGAL,Social and Democratic Center Party or Popular Party,Partido do Centro Democratico e Social,CDS,8.38,7.0,9.0,0.7,8
+3201,ROMANIA,Liberal Party,Liberal Party,PL,4.5,2.0,7.0,2.5,2
+3202,ROMANIA,Romanian Social Democratic Party,Partidul Social-Democrat Roman,PSDR,4.5,3.0,6.0,1.5,2
+3203,ROMANIA,Party of the Civic Alliance,Party of the Civic Alliance,PAC,5.0,2.0,8.0,3.0,2
+3204,ROMANIA,National Salvation Front,National Salvation Front,FNS,5.0,4.0,6.0,1.0,2
+3205,ROMANIA,Christian Democratic National Peasants' Party,Partidul National Taranesc-Crestin si Democrat,PNTCD,5.5,3.0,8.0,2.5,2
+3206,ROMANIA,FDSN,FDSN,FDSN,6.0,5.0,7.0,1.0,2
+3207,ROMANIA,Agrarian Democratic Party,Agrarian Democratic Party,PDAR,6.0,5.0,7.0,1.0,2
+3208,ROMANIA,Romanian National Unity Party,Romanian National Unity Party,PUNR,6.0,4.0,8.0,2.0,2
+3209,ROMANIA,PRM,PRM,PRM,6.0,3.0,9.0,3.0,2
+3210,ROMANIA,Socialist Labor Party,Socialist Labor Party,PSM,6.0,3.0,9.0,3.0,2
+3301,RUSSIA,Democratic Union,Demokraticheskii Soyuz,DS,1.0,1.0,1.0,0.0,1
+3302,RUSSIA,Social Democratic Party of Russia,Sotsial-Demokrati-cheskaia Partiia Rossii,SDPR,3.0,3.0,3.0,0.0,2
+3303,RUSSIA,Free Democratic Party of Russia,Svobodnaia Demokratichestraia Partiia Rossii,,3.33,2.0,5.0,1.25,-3
+3304,RUSSIA,Russian Party of Free Labor,Rossiiskaia Partiia Svobodnoyo Truda,RPST,4.33,3.0,6.0,1.25,3
+3305,RUSSIA,Democratic Party of Russia,Demokraticheskaia Partiia Rossii,DPR,4.38,2.0,6.0,1.56,4
+3306,RUSSIA,Republican Party of Russian Federation,Respublikanskaia Partiia Rossiiskoi Federatsii,RPRF,5.0,2.0,10.0,3.56,3
+3307,RUSSIA,People's Party of Free Russia/Democratic Party of Communism of Russia,Narodnaia Partiio Svobodnoi Rossii,NPSR,5.5,4.0,7.0,1.12,4
+3308,RUSSIA,Civic Union,Gradzhdanskii Soyuz,GS,5.67,5.0,6.0,0.47,3
+3309,RUSSIA,Russian Christian Democratic Movement,Rossiiskoye Khristiansko Demokraticheskoye Dvizhenie,RKDD,7.67,7.0,9.0,0.94,3
+3310,RUSSIA,Constitution Democratic Party,Konstitutsionno-Demokraticheskaia Partiia,KDP,7.75,7.0,8.5,0.75,2
+3311,RUSSIA,Russian National Council,Rossiiskii Natsional'nyi Sovet,RNS,9.0,9.0,9.0,0.0,2
+3312,RUSSIA,Liberal Democratic Party,Liberal'no-Demokraticheskaia Partiia,LDP,9.5,8.5,10.0,0.61,4
+3401,SLOVAKIA,Slovak National Party,Slovenka Narodna Strana,SNS,4.67,3.0,6.0,1.25,3
+3402,SLOVAKIA,Party of the Democratic Left,Party of the Democratic Left,SDL,5.0,4.0,7.0,1.41,3
+3403,SLOVAKIA,Movement for a Democratic Slovakia,Movement for a Democratic Slovakia,HZDS,5.0,4.0,6.0,0.82,3
+3404,SLOVAKIA,Social Democratic Party,Socialno-Demokraticka Strana na Slovensku,SDSS,5.33,4.0,8.0,1.89,3
+3405,SLOVAKIA,Christian Democratic Movement,Christian Democratic Movement,KDH,5.67,2.0,8.0,2.62,3
+3406,SLOVAKIA,Christian Social Union,Christian Social Union,KSU,7.0,5.0,10.0,2.16,3
+3407,SLOVAKIA,Hungarian Christian Democratic Movement,Hungarian Christian Democratic Movement,MKDH,7.0,7.0,7.0,0.0,2
+3501,SOUTH AFRICA,Azanian People's Organization,Azanian People's Organization,Azapo,1.75,1.0,2.0,0.43,4
+3502,SOUTH AFRICA,South African Communist Party,South African Communist Party,SACP,2.88,1.0,4.0,0.93,8
+3503,SOUTH AFRICA,Pan Africanist Congress,Pan Africanist Congress,PAC,3.14,1.0,8.0,2.36,7
+3504,SOUTH AFRICA,African National Congress,African National Congress,ANC,3.88,3.0,5.0,0.6,8
+3505,SOUTH AFRICA,Liberal Party,Liberal Party,LP,5.0,4.0,6.0,0.82,3
+3506,SOUTH AFRICA,Democratic Party,Democratic Party,DP,5.43,5.0,6.0,0.49,7
+3507,SOUTH AFRICA,National Party,National Party,NP,7.25,6.0,8.0,0.83,8
+3508,SOUTH AFRICA,Inkatha Freedom Party,Inkatha Freedom Party,IFP,8.17,7.0,9.0,0.69,6
+3509,SOUTH AFRICA,Conservative Party,Conservative Party,CP,9.4,9.0,10.0,0.49,5
+3510,SOUTH AFRICA,African Resistance Movement,Afrikaner Weerstandsbewegung,AWB,10.0,10.0,10.0,0.0,5
+3601,SPAIN,Basque United People,Herri Batasuna,HB,1.0,1.0,1.0,0.0,4
+3602,SPAIN,United Left,Izquierda Unida,IU,2.38,2.0,3.0,0.48,8
+3603,SPAIN,Socialist,Partido Socialista Obrero Espanol,PSOE,4.0,3.0,5.0,0.5,8
+3604,SPAIN,Basque Solidarity,Eusko Alkartasuna,EA,4.67,3.0,6.0,1.25,3
+3605,SPAIN,Social and Democratic Center,Centro Democratico y Social,CDS,5.4,5.0,6.0,0.49,5
+3606,SPAIN,Basque Nationalist Party,Partido Nacionalista Vasco,PNV,6.14,6.0,7.0,0.35,7
+3607,SPAIN,Convergence and Unity,Convergencia i Unio (Catalan),CiU,6.17,6.0,7.0,0.37,6
+3608,SPAIN,Popular Party,Partido Popular,PP,7.5,7.0,8.0,0.5,8
+3701,SWEDEN,Left Party,Vansterpartiet,V,2.62,1.0,5.0,0.92,13
+3702,SWEDEN,Social Democrat,Socialdemokraterna,SdAP,4.08,3.0,6.0,0.83,13
+3703,SWEDEN,Green Ecology Party,Miljopartiet de Grona,MP,4.25,3.0,6.0,0.97,8
+3704,SWEDEN,Liberal Party,Folkpartiet Liberalerna,FP,5.92,5.0,7.0,0.62,13
+3705,SWEDEN,Center Party,Centerpartiet,C,5.92,4.0,7.0,0.92,13
+3706,SWEDEN,Christian Democrat,Kristdemokratiska Samhallspartiet,KDS,7.0,6.0,9.0,0.85,11
+3707,SWEDEN,Conservative Party,Moderata Samlingspartiet,MSP,8.33,7.0,10.0,0.75,12
+3708,SWEDEN,New Democracy,Ny Demokrati,NYD,9.09,8.0,10.0,0.79,11
+3801,SWITZERLAND,Social Democratic Party,Parti Socialiste Suisse,PSS,2.6,2.0,3.0,0.49,5
+3802,SWITZERLAND,Christian Democratic Party,Parti Democrate-Chretien,PDC,4.4,3.0,5.0,0.8,5
+3803,SWITZERLAND,Radical Democratic Party,Parti Radical Suisse,PRD,6.0,5.0,7.0,0.63,5
+3804,SWITZERLAND,Swiss People's Party,Union Democratique du Centre,UDC,6.25,4.0,8.0,1.48,4
+3805,SWITZERLAND,Liberal Party,Parti Liberal Suisse,PL,7.2,7.0,8.0,0.4,5
+3806,SWITZERLAND,Swiss Motorists,Parti des Automobiliste,PA,8.25,7.0,9.0,0.83,4
+3901,TAIWAN,Democratic Progressive Party,Minjin Dang,DDP,3.58,1.0,7.0,2.02,12
+3902,TAIWAN,Social Democratic Party,Shemin Dang,SDP,5.5,3.0,8.0,1.8,4
+3903,TAIWAN,Nationalist Party,Kuomintang,KMT,7.42,5.0,10.0,1.44,12
+4001,TURKEY,Socialist Party,Turkiye Sosyalist Partisi,TSP,1.67,1.0,2.0,0.47,3
+4002,TURKEY,People's Labour Party,Halk Emekci Partisi,HEP,3.25,2.0,5.0,1.09,4
+4003,TURKEY,Social Democrat Populist Party,Sosyal Democrasi Halkci Partisi,SHP,3.45,1.0,5.0,1.08,11
+4004,TURKEY,People's Republican Party,Cumhuriyet Halk Partisi,CHP,3.8,2.0,5.0,1.08,10
+4005,TURKEY,Democratic Left Party,Demokratik Sol Parti,DSP,4.0,1.0,6.0,1.26,10
+4006,TURKEY,True Path,Dogru Yol Partisi,DYP,6.55,4.0,8.0,1.08,11
+4007,TURKEY,Motherland Party,Anavatan Partisi,ANAP,6.55,5.0,9.0,1.16,11
+4008,TURKEY,Welfare Party,Refah Partisi,RP,8.5,6.0,10.0,1.36,10
+4009,TURKEY,Nationalist Action Party,Milliyetci Hareket Partisi,MHP,8.33,6.0,10.0,1.05,9
+4101,UKRAINE,Ukrainian Communist Party,,CPU,3.67,1.0,9.0,3.77,3
+4102,UKRAINE,Social Democratic Party,,SDPU,4.0,1.0,8.0,2.55,4
+4103,UKRAINE,Party of Democratic Restoration,,PDRU,4.0,2.0,5.0,1.41,3
+4104,UKRAINE,Greens,,GPU,4.0,3.0,5.0,1.0,2
+4105,UKRAINE,`Ruh' Party,,RP,4.75,2.0,6.0,1.64,4
+4106,UKRAINE,Liberal Democratic Party,,LDPU,5.33,5.0,6.0,0.47,3
+4107,UKRAINE,Socialist Party,,SPU,5.5,2.0,10.0,3.57,4
+4108,UKRAINE,Democratic Party,,DPU,5.75,4.0,7.0,1.3,4
+4109,UKRAINE,Responsibility Party,,-,6.0,4.0,8.0,1.63,3
+4110,UKRAINE,Conservative Republican Party,,UCRP,6.5,1.0,10.0,3.5,4
+4111,UKRAINE,Christian Democratic Party,,CDPU,7.0,7.0,7.0,0.0,2
+4112,UKRAINE,Ukrainian National Assembly,,UNSO,8.67,7.0,10.0,1.25,3
+4113,UKRAINE,Communist Party of Bolshevics,,BCP,10.0,10.0,10.0,0.0,1
+4201,USA,Democratic Party,Democratic Party,D,4.15,3.0,5.0,0.66,13
+4202,USA,Republican Party,Republican Party,R,6.85,6.0,8.0,0.86,13

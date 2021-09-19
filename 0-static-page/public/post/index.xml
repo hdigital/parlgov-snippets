@@ -1,0 +1,3121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ParlGov website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on ParlGov website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static ParlGov web page</title>
+      <link>/2021/09/15/static-parlgov-web-page/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/09/15/static-parlgov-web-page/</guid>
+      <description>Status This static page is a gateway to recent additions to the ParlGov data (development version).
+The ParlGov project is active and alive. Currently, we are adding the data for the first half of 2021.
+Here, we will provide project news and updates of the data.
+In September 2021, our long term hosting of the dynamic web page ended. Unfortunately, we were not able to migrate the page — see details below.</description>
+    </item>
+    
+    <item>
+      <title>Constantin Huber joining ParlGov</title>
+      <link>/2021/07/07/constantin-huber-joining-parlgov/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/07/07/constantin-huber-joining-parlgov/</guid>
+      <description>Constantin Huber  has joined ParlGov and will support us in updating the data, consolidating and extending the project. We are looking forward to Constantin bringing in new ideas.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov Dashboard</title>
+      <link>/2021/06/23/parlgov-dashboard/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/06/23/parlgov-dashboard/</guid>
+      <description>Lukas Warode has developed a ParlGov Dashboard that allow to explore the ParlGov data more dynamically. It is a very nice and interactive approach to visualize our data.</description>
+    </item>
+    
+    <item>
+      <title>Preliminary coding of 2020 elections and cabinets</title>
+      <link>/2021/04/09/preliminary-coding-of-2020-elections-and-cabinets/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/04/09/preliminary-coding-of-2020-elections-and-cabinets/</guid>
+      <description>We have completed the initial coding of the 2020 election and cabinet data.
+We have yet to validate the coding by a second coder and to finally decide about our future agenda (see news post 2 Feb.).
+As previously, further information will be provided in another news entry.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · Vanhanen Index</title>
+      <link>/2021/03/11/snippet-vanhanen-index/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/03/11/snippet-vanhanen-index/</guid>
+      <description>Lukas Warode added a ParlGov snippet visualizing the Vanhanen Index of Democratization.</description>
+    </item>
+    
+    <item>
+      <title>Agenda 2021</title>
+      <link>/2021/02/02/agenda-2021/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/02/02/agenda-2021/</guid>
+      <description>We are currently updating the ParlGov data for 2020 and are moving to a new interval of updating our data.
+In 2020, we stopped providing regular updates within about three months. Some internal changes and an effort to collect the data with less resources are behind these changes.
+We have not finally determined the new agenda for updating ParlGov data but will do so after we have completed the 2020 update.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · DEU election visualization</title>
+      <link>/2021/01/15/snippet-deu-election-visualization/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/01/15/snippet-deu-election-visualization/</guid>
+      <description>Lukas Warode and Philip Manow added a ParlGov snippet visualizing the German election results.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 2020 released</title>
+      <link>/2020/12/08/parlgov-2020-released/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/08/parlgov-2020-released/</guid>
+      <description>We have added the 2020 stable version of the ParlGov data. An archived version is also available in the ParlGov Dataverse. The 2020 version includes all elections and cabinets until March 2020.
+This has been an a challenging year. We will post updates about our future plans with ParlGov at some later stage.</description>
+    </item>
+    
+    <item>
+      <title>Twitter news tracker depreciated</title>
+      <link>/2020/06/01/twitter-news-tracker-depreciated/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/01/twitter-news-tracker-depreciated/</guid>
+      <description>Our Twitter news tracker was mainly based on an automatic classification of Reuters news entries. We curated the automatically posted tweets regularly by removing false positives and added a few references from time to time manually.
+The automatic classification and curation was based on some older Python scripts (tweetpy, nltk, scikit-learn, flask) that stopped working today. The code would need a substantial rewrite and curating the automatic posts did also take some time regularly.</description>
+    </item>
+    
+    <item>
+      <title>Israel cabinets update – support parties</title>
+      <link>/2020/04/16/israel-cabinets-update-support-parties/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/16/israel-cabinets-update-support-parties/</guid>
+      <description>We have updated and recoded several Israeli cabinets with a special focus on cabinet support parties. Crucial expertise and support was provided by Or Tuttnauer and Ofer Kenig. Further information is provided at the country notes section.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · ISR cabinet support parties</title>
+      <link>/2020/04/16/snippet-isr-cabinet-support-parties/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/16/snippet-isr-cabinet-support-parties/</guid>
+      <description>We added a ParlGov snippet about the updated cabinets and cabinet support parties in Israel.</description>
+    </item>
+    
+    <item>
+      <title>Lithuanian cabinets update</title>
+      <link>/2020/04/09/lithuanian-cabinets-update/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/09/lithuanian-cabinets-update/</guid>
+      <description>We updated and recoded several Lithuanian cabinets according to a constitutional requirement that is now also documented at the country notes section.</description>
+    </item>
+    
+    <item>
+      <title>Belgium cabinet added</title>
+      <link>/2020/04/03/belgium-cabinet-added/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/03/belgium-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Wilmès.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added</title>
+      <link>/2020/04/02/romania-cabinet-added/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/02/romania-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Orban.</description>
+    </item>
+    
+    <item>
+      <title>Slovakia cabinets added</title>
+      <link>/2020/03/30/slovakia-cabinets-added/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/30/slovakia-cabinets-added/</guid>
+      <description>We added the new cabinet under PM Matovic and PM Jansa.</description>
+    </item>
+    
+    <item>
+      <title>Israel election added</title>
+      <link>/2020/03/26/israel-election-added/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/26/israel-election-added/</guid>
+      <description>We added the recent election in Israel.</description>
+    </item>
+    
+    <item>
+      <title>Slovakia election added</title>
+      <link>/2020/03/24/slovakia-election-added/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/24/slovakia-election-added/</guid>
+      <description>We added the recent election in Slovakia.</description>
+    </item>
+    
+    <item>
+      <title>New Commission added</title>
+      <link>/2020/03/06/new-commission-added/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/06/new-commission-added/</guid>
+      <description>We have added the newly appointed Commission to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Belgium cabinet added</title>
+      <link>/2020/02/24/belgium-cabinet-added/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/belgium-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Michel.</description>
+    </item>
+    
+    <item>
+      <title>Belgium caretaker cabinet added</title>
+      <link>/2020/02/24/belgium-caretaker-cabinet-added/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/belgium-caretaker-cabinet-added/</guid>
+      <description>We added the new caretaker cabinet under PM Wilmès.</description>
+    </item>
+    
+    <item>
+      <title>Canada cabinet added</title>
+      <link>/2020/02/24/canada-cabinet-added/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/canada-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Trudeau.</description>
+    </item>
+    
+    <item>
+      <title>Ireland election added</title>
+      <link>/2020/02/24/ireland-election-added/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/ireland-election-added/</guid>
+      <description>We added the recent election in Ireland.</description>
+    </item>
+    
+    <item>
+      <title>Malta cabinet added</title>
+      <link>/2020/02/24/malta-cabinet-added/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/24/malta-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Abela.</description>
+    </item>
+    
+    <item>
+      <title>Australia cabinet added</title>
+      <link>/2020/02/19/australia-cabinet-added/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/19/australia-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Morrison.</description>
+    </item>
+    
+    <item>
+      <title>Australia election added</title>
+      <link>/2020/02/19/australia-election-added/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/19/australia-election-added/</guid>
+      <description>We added the recent election in Australia.</description>
+    </item>
+    
+    <item>
+      <title>Norway cabinet added</title>
+      <link>/2020/02/19/norway-cabinet-added/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/19/norway-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Solberg.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added</title>
+      <link>/2020/02/19/romania-cabinet-added/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/19/romania-cabinet-added/</guid>
+      <description>We added the recent cabinet under PM Orban.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · PM small party</title>
+      <link>/2020/02/07/snippet-pm-small-party/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/07/snippet-pm-small-party/</guid>
+      <description>We added a ParlGov snippet about the frequency of PMs from smaller parties.
+The analysis was inspired by a Fruits and Votes discussion about a controversial PM election in the German state of Thuringia — “How common it is for a party as small as the sixth largest in parliament to lead the government?”</description>
+    </item>
+    
+    <item>
+      <title>Switzerland cabinet added</title>
+      <link>/2020/01/23/switzerland-cabinet-added/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/23/switzerland-cabinet-added/</guid>
+      <description>We added the new cabinet under Bundesrat 2019.</description>
+    </item>
+    
+    <item>
+      <title>Poland cabinet added</title>
+      <link>/2020/01/21/poland-cabinet-added/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/21/poland-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Morawiecki.</description>
+    </item>
+    
+    <item>
+      <title>Portugal cabinet added</title>
+      <link>/2020/01/21/portugal-cabinet-added/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/21/portugal-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Costa.</description>
+    </item>
+    
+    <item>
+      <title>Austria cabinet added</title>
+      <link>/2020/01/17/austria-cabinet-added/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/17/austria-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Kurz.</description>
+    </item>
+    
+    <item>
+      <title>Finland cabinet added</title>
+      <link>/2020/01/17/finland-cabinet-added/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/17/finland-cabinet-added/</guid>
+      <description>We added the new cabinet PM Marin.</description>
+    </item>
+    
+    <item>
+      <title>United Kingdom cabinet added</title>
+      <link>/2020/01/17/united-kingdom-cabinet-added/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/17/united-kingdom-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Johnson.</description>
+    </item>
+    
+    <item>
+      <title>United Kingdom election added</title>
+      <link>/2020/01/16/united-kingdom-election-added/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/16/united-kingdom-election-added/</guid>
+      <description>We added the recent election in the United Kingdom.</description>
+    </item>
+    
+    <item>
+      <title>Spain cabinet added</title>
+      <link>/2020/01/15/spain-cabinet-added/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/15/spain-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Sánchez.</description>
+    </item>
+    
+    <item>
+      <title>Spain election added</title>
+      <link>/2020/01/15/spain-election-added/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/15/spain-election-added/</guid>
+      <description>We added the recent election in Spain.</description>
+    </item>
+    
+    <item>
+      <title>Luxembourg party names updated</title>
+      <link>/2020/01/13/luxembourg-party-names-updated/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/13/luxembourg-party-names-updated/</guid>
+      <description>We changed the names of Luxembourgish parties to their Luxembourgish indication. French and German party names are from now on coded as json.</description>
+    </item>
+    
+    <item>
+      <title>Canada election added</title>
+      <link>/2020/01/07/canada-election-added/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/07/canada-election-added/</guid>
+      <description>We added the recent election in Canada.</description>
+    </item>
+    
+    <item>
+      <title>Switzerland election added</title>
+      <link>/2019/11/12/switzerland-election-added/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/12/switzerland-election-added/</guid>
+      <description>We added the recent election in Switzerland.</description>
+    </item>
+    
+    <item>
+      <title>Poland election added</title>
+      <link>/2019/11/03/poland-election-added/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/03/poland-election-added/</guid>
+      <description>We added the recent election in Poland.</description>
+    </item>
+    
+    <item>
+      <title>Portugal election added</title>
+      <link>/2019/10/24/portugal-election-added/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/24/portugal-election-added/</guid>
+      <description>We added the recent election in Portugal.</description>
+    </item>
+    
+    <item>
+      <title>Austria election added</title>
+      <link>/2019/10/19/austria-election-added/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/19/austria-election-added/</guid>
+      <description>We added the recent election in Austria.</description>
+    </item>
+    
+    <item>
+      <title>Israel election added</title>
+      <link>/2019/10/08/israel-election-added/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/08/israel-election-added/</guid>
+      <description>We added the recent election in Israel.</description>
+    </item>
+    
+    <item>
+      <title>Italy cabinet added</title>
+      <link>/2019/09/16/italy-cabinet-added/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/16/italy-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Conte.</description>
+    </item>
+    
+    <item>
+      <title>Israel caretaker cabinet added</title>
+      <link>/2019/09/14/israel-caretaker-cabinet-added/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/14/israel-caretaker-cabinet-added/</guid>
+      <description>We added the new caretaker cabinet under PM Netanyahu.</description>
+    </item>
+    
+    <item>
+      <title>EP election results</title>
+      <link>/2019/08/05/ep-election-results/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/05/ep-election-results/</guid>
+      <description>We have added all results of the elections to the European Parliament in 2019. The coding is based on the official election results provided by the respective national authorities.</description>
+    </item>
+    
+    <item>
+      <title>Austria caretaker cabinet added</title>
+      <link>/2019/07/31/austria-caretaker-cabinet-added/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/31/austria-caretaker-cabinet-added/</guid>
+      <description>We added the new caretaker cabinet under PM Bierlein.</description>
+    </item>
+    
+    <item>
+      <title>Denmark cabinet added</title>
+      <link>/2019/07/29/denmark-cabinet-added/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/29/denmark-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Frederiksen.</description>
+    </item>
+    
+    <item>
+      <title>United Kingdom cabinet added</title>
+      <link>/2019/07/29/united-kingdom-cabinet-added/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/29/united-kingdom-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Johnson.</description>
+    </item>
+    
+    <item>
+      <title>Denmark election added</title>
+      <link>/2019/07/24/denmark-election-added/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/24/denmark-election-added/</guid>
+      <description>We added the recent election in Denmark.</description>
+    </item>
+    
+    <item>
+      <title>Finland cabinet added</title>
+      <link>/2019/07/23/finland-cabinet-added/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/23/finland-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Rinne.</description>
+    </item>
+    
+    <item>
+      <title>Greece cabinet added</title>
+      <link>/2019/07/23/greece-cabinet-added/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/23/greece-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Mitsotakis.</description>
+    </item>
+    
+    <item>
+      <title>Greece election added</title>
+      <link>/2019/07/23/greece-election-added/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/23/greece-election-added/</guid>
+      <description>We added the recent election in Greece.</description>
+    </item>
+    
+    <item>
+      <title>EP election results (preliminary)</title>
+      <link>/2019/06/22/ep-election-results-preliminary/</link>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/22/ep-election-results-preliminary/</guid>
+      <description>We have added the results of last month’s European Parliament election. This data collection was supported by a student seminar at the University of Bremen led by Philip Manow. Many thanks to all the contributors. All entries have been initially validated. The results are preliminary but can be used for analyses. This summer, we will add the number of votes, further specify some information for new parties and conduct another validation with the primary sources.</description>
+    </item>
+    
+    <item>
+      <title>Belgium election added</title>
+      <link>/2019/06/03/belgium-election-added/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/03/belgium-election-added/</guid>
+      <description>We added the recent election in Belgium.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · Map recent cabinets</title>
+      <link>/2019/05/23/snippet-map-recent-cabinets/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/23/snippet-map-recent-cabinets/</guid>
+      <description>We added a script to visualize current cabinets in a map.</description>
+    </item>
+    
+    <item>
+      <title>Israel election added</title>
+      <link>/2019/05/13/israel-election-added/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/13/israel-election-added/</guid>
+      <description>We added the recent election in Israel.</description>
+    </item>
+    
+    <item>
+      <title>Estonia cabinet added</title>
+      <link>/2019/05/09/estonia-cabinet-added/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/09/estonia-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Ratas.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · EU cabinets</title>
+      <link>/2019/05/06/snippet-eu-cabinets/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/06/snippet-eu-cabinets/</guid>
+      <description>We added a script to determine recent EU cabinets based on ParlGov and CHES 2014 party positions.</description>
+    </item>
+    
+    <item>
+      <title>Spain election added</title>
+      <link>/2019/05/03/spain-election-added/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/03/spain-election-added/</guid>
+      <description>We added the recent election in Spain.</description>
+    </item>
+    
+    <item>
+      <title>Finland election added</title>
+      <link>/2019/05/02/finland-election-added/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/02/finland-election-added/</guid>
+      <description>We added the recent election in Finland.</description>
+    </item>
+    
+    <item>
+      <title>Estonia election added</title>
+      <link>/2019/04/29/estonia-election-added/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/29/estonia-election-added/</guid>
+      <description>We added the recent election in Estonia.</description>
+    </item>
+    
+    <item>
+      <title>Party Facts party linking</title>
+      <link>/2019/03/07/party-facts-party-linking/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/07/party-facts-party-linking/</guid>
+      <description>ParlGov provides links of party IDs to some of the main data sets with information about political parties. However, these party links in ParlGov have not been updated for some time and we have concentrated our efforts to link parties across data sets in the Party Facts project. An article introducing the project was recently published in Party Politics (Döring and Regel 2019) and archived versions of the data are available at the Party Facts Dataverse.</description>
+    </item>
+    
+    <item>
+      <title>Greece cabinet added</title>
+      <link>/2019/02/18/greece-cabinet-added/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/18/greece-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Tsipras.</description>
+    </item>
+    
+    <item>
+      <title>Norway cabinet added</title>
+      <link>/2019/02/18/norway-cabinet-added/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/18/norway-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Solberg.</description>
+    </item>
+    
+    <item>
+      <title>Latvia cabinet added</title>
+      <link>/2019/02/15/latvia-cabinet-added/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/15/latvia-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Karins.</description>
+    </item>
+    
+    <item>
+      <title>Germany inter-war elections and cabinets added</title>
+      <link>/2019/02/14/germany-inter-war-elections-and-cabinets-added/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/14/germany-inter-war-elections-and-cabinets-added/</guid>
+      <description>We added all cabinets and elections in Germany between 1919 and 1933.</description>
+    </item>
+    
+    <item>
+      <title>Sweden cabinet added</title>
+      <link>/2019/01/21/sweden-cabinet-added/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/21/sweden-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Löfven.</description>
+    </item>
+    
+    <item>
+      <title>Israel caretaker cabinet added</title>
+      <link>/2019/01/09/israel-caretaker-cabinet-added/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/09/israel-caretaker-cabinet-added/</guid>
+      <description>We added the new caretaker cabinet under PM Netanyahu.</description>
+    </item>
+    
+    <item>
+      <title>Luxembourg cabinet added</title>
+      <link>/2018/12/20/luxembourg-cabinet-added/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/20/luxembourg-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Bettel.</description>
+    </item>
+    
+    <item>
+      <title>Sweden caretaker cabinet added</title>
+      <link>/2018/12/20/sweden-caretaker-cabinet-added/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/20/sweden-caretaker-cabinet-added/</guid>
+      <description>We added the new caretaker cabinet under PM Löfven.</description>
+    </item>
+    
+    <item>
+      <title>The Guardian populism analysis</title>
+      <link>/2018/11/20/the-guardian-populism-analysis/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/20/the-guardian-populism-analysis/</guid>
+      <description>The Guardian has a nice series on the rise of populism. Some of the analysis is based on ParlGov data.</description>
+    </item>
+    
+    <item>
+      <title>Luxembourg election added</title>
+      <link>/2018/10/26/luxembourg-election-added/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/26/luxembourg-election-added/</guid>
+      <description>We added the recent election in Luxembourg.</description>
+    </item>
+    
+    <item>
+      <title>Sweden election added</title>
+      <link>/2018/10/11/sweden-election-added/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/11/sweden-election-added/</guid>
+      <description>We added the recent election in Sweden.</description>
+    </item>
+    
+    <item>
+      <title>Lithuania election added</title>
+      <link>/2018/10/10/lithuania-election-added/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/10/lithuania-election-added/</guid>
+      <description>We added the recent election in Lithuania.</description>
+    </item>
+    
+    <item>
+      <title>Australia cabinet added</title>
+      <link>/2018/09/11/australia-cabinet-added/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/11/australia-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Morrison.</description>
+    </item>
+    
+    <item>
+      <title>Austria inter-war elections and cabinets added</title>
+      <link>/2018/09/10/austria-inter-war-elections-and-cabinets-added/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/10/austria-inter-war-elections-and-cabinets-added/</guid>
+      <description>We added all cabinets and elections in Austria between 1919 and 1933.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia cabinet added</title>
+      <link>/2018/08/24/slovenia-cabinet-added/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/24/slovenia-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Savec.</description>
+    </item>
+    
+    <item>
+      <title>Czech cabinet added</title>
+      <link>/2018/08/09/czech-cabinet-added/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/09/czech-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Babiš.</description>
+    </item>
+    
+    <item>
+      <title>Manifesto tutorial ParlGov merge</title>
+      <link>/2018/08/02/manifesto-tutorial-parlgov-merge/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/02/manifesto-tutorial-parlgov-merge/</guid>
+      <description>There is a nice tutorial about Adding parties’ government/opposition status to the manifesto project dataset using ParlGov data by Nicolas Merz and Fabio Ellger from the Manifesto group.
+It reminds us to update the Manifesto codes in ParlGov and encourages us to publish some more tutorials on ParlGov snippets.</description>
+    </item>
+    
+    <item>
+      <title>News tracker issue</title>
+      <link>/2018/07/06/news-tracker-issue/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/06/news-tracker-issue/</guid>
+      <description>The ParlGov news tracker needs an update. Since 6 July, it is not posting relevant events about parties, elelctions and cabinets regularly anymore. We keep posting some of the news irregularly and hope to update the automatic tracker soon.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia election added</title>
+      <link>/2018/06/27/slovenia-election-added/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/27/slovenia-election-added/</guid>
+      <description>We added the recent election.</description>
+    </item>
+    
+    <item>
+      <title>Spain cabinet added</title>
+      <link>/2018/06/12/spain-cabinet-added/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/12/spain-cabinet-added/</guid>
+      <description>We added the new cabinet under PM Sánchez.</description>
+    </item>
+    
+    <item>
+      <title>Italy election and cabinet added</title>
+      <link>/2018/06/05/italy-election-and-cabinet-added/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/05/italy-election-and-cabinet-added/</guid>
+      <description>We added the recent election and the new cabinet under PM Conte.</description>
+    </item>
+    
+    <item>
+      <title>Hungary election and cabinet added</title>
+      <link>/2018/05/24/hungary-election-and-cabinet-added/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/24/hungary-election-and-cabinet-added/</guid>
+      <description>We have added the election in Hungary 2018 and the new cabinet Orban IV.
+We also added the cabinet Rutte V, which we forgot to include in the stable version</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 2018 released</title>
+      <link>/2018/05/01/parlgov-2018-released/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/01/parlgov-2018-released/</guid>
+      <description>We have added the 2018 stable version of the ParlGov data. An archived version is also available in the ParlGov Dataverse.
+The version name is now based on the year of the stable release. The 2018 version includes all elections and cabinets until March 2018.</description>
+    </item>
+    
+    <item>
+      <title>Elections and cabinets added</title>
+      <link>/2018/04/26/elections-and-cabinets-added/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/26/elections-and-cabinets-added/</guid>
+      <description>Over the last months we have added recent elections and new cabinets in New Zealand, Austria, Iceland, Czech Republic, Poland, Germany, Japan and cabinet changes in Romania and Slovakia.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · cabinet types</title>
+      <link>/2018/01/22/snippet-cabinet-types/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/22/snippet-cabinet-types/</guid>
+      <description>We added a new script to determine the cabinet type (minority, minimal winning, surplus) for all cabinets in ParlGov.
+We also added a nice map to the party family snippet.</description>
+    </item>
+    
+    <item>
+      <title>Updates and stable version</title>
+      <link>/2018/01/11/updates-and-stable-version/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/11/updates-and-stable-version/</guid>
+      <description>We are a little behind with updating elections and cabinets from the second half of 2017. We will add the information over the coming weeks.
+In addition, we will publish a stable version ones we have updated all 2017 information.</description>
+    </item>
+    
+    <item>
+      <title>Snippet · cabinets party family</title>
+      <link>/2017/09/09/snippet-cabinets-party-family/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/09/snippet-cabinets-party-family/</guid>
+      <description>A first script creates cabinet data by party family. We calculate the share of party families in each cabinet and also transform it into country-year format. This is a widely used format in studies of partisan effects on public policy.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov snippets on Github</title>
+      <link>/2017/08/30/parlgov-snippets-on-github/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/08/30/parlgov-snippets-on-github/</guid>
+      <description>For users of ParlGov, it is often not straightforward to understand how to create new datasets based on the core information in ParlGov. Users are interested in creating datasets on electoral gains and losses, government composition by party family or the party composition of EU institutions. Over the years, we have regularly written and revised scripts for our work and for colleagues to create these datasets based on information in ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added ·</title>
+      <link>/2017/08/06/romania-cabinet-added/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/08/06/romania-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Tudose.</description>
+    </item>
+    
+    <item>
+      <title>France election and cabinets added</title>
+      <link>/2017/07/18/france-election-and-cabinets-added/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/18/france-election-and-cabinets-added/</guid>
+      <description>We have added the recent election in France and the two cabinets under PM Philippe that formed after the election of President Macron.</description>
+    </item>
+    
+    <item>
+      <title>Croatia cabinet added</title>
+      <link>/2017/07/09/croatia-cabinet-added/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/09/croatia-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Plenkovic.</description>
+    </item>
+    
+    <item>
+      <title>Finland cabinet added</title>
+      <link>/2017/07/07/finland-cabinet-added/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/07/finland-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Sipilae that continued in office after a change in cabinet composition.</description>
+    </item>
+    
+    <item>
+      <title>UK election and cabinet added</title>
+      <link>/2017/06/27/uk-election-and-cabinet-added/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/27/uk-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in the UK and the cabinet under PM May.</description>
+    </item>
+    
+    <item>
+      <title>Netherlands election added</title>
+      <link>/2017/06/26/netherlands-election-added/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/26/netherlands-election-added/</guid>
+      <description>We have added the recent election in the Netherlands.</description>
+    </item>
+    
+    <item>
+      <title>Bulgaria election and cabinet added</title>
+      <link>/2017/06/23/bulgaria-election-and-cabinet-added/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/23/bulgaria-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Bulgaria and the new cabinet under PM Borisov.</description>
+    </item>
+    
+    <item>
+      <title>Malta election and cabinet added</title>
+      <link>/2017/06/23/malta-election-and-cabinet-added/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/23/malta-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Malta and the cabinet under PM Muscat.</description>
+    </item>
+    
+    <item>
+      <title>Biyearly stable releases</title>
+      <link>/2017/06/16/biyearly-stable-releases/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/06/16/biyearly-stable-releases/</guid>
+      <description>We decided to move to a biyearly relase of the stable version. ParlGov is a stable project by now. We mainly include updates for recent elections and new cabinets as well as minor bug fixes. Currently, we are not planning any major additions to the projects.
+Please make use of the development version if you need recent elections. We aim to include new information within three months. Updates are announced in the news section and bug fixes in the changelog.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov and data journalism</title>
+      <link>/2017/03/30/parlgov-and-data-journalism/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/30/parlgov-and-data-journalism/</guid>
+      <description>ParlGov data is increasingly used by data journalists. We have regularly been contacted and have provided some guidance. Here is a recent article from El País and an earlier article by The Economist.</description>
+    </item>
+    
+    <item>
+      <title>Dutch election analysis</title>
+      <link>/2017/03/16/dutch-election-analysis/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/16/dutch-election-analysis/</guid>
+      <description>Two facts were striking in yesterdays election in the Netherlands.
+ The Social Democracts (PVdA) fell from 24.8% in 2012 to 5.7% vote share. The largest party (Liberals, VVD) won only 21.3% vote share.  A ParlGov analysis in R presents a broader picture. It does also demonstrate how the R tidyverse and knitr make analysing ParlGov data more easy.</description>
+    </item>
+    
+    <item>
+      <title>Bulgaria interim cabinet added</title>
+      <link>/2017/02/17/bulgaria-interim-cabinet-added/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/02/17/bulgaria-interim-cabinet-added/</guid>
+      <description>We have added the new caretaker cabinet under PM Gerdzhikov.</description>
+    </item>
+    
+    <item>
+      <title>Iceland election and cabinet added</title>
+      <link>/2017/01/20/iceland-election-and-cabinet-added/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/20/iceland-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Iceland and the new cabinet under PM Benediktsson.</description>
+    </item>
+    
+    <item>
+      <title>Italy cabinet added</title>
+      <link>/2017/01/19/italy-cabinet-added/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/19/italy-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Gentiloni.</description>
+    </item>
+    
+    <item>
+      <title>New Zealand cabinet added</title>
+      <link>/2016/12/29/new-zealand-cabinet-added/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/12/29/new-zealand-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM English.</description>
+    </item>
+    
+    <item>
+      <title>Denmark cabinet added</title>
+      <link>/2016/12/13/denmark-cabinet-added/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/12/13/denmark-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Rasmussen.</description>
+    </item>
+    
+    <item>
+      <title>France cabinet added</title>
+      <link>/2016/12/11/france-cabinet-added/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/12/11/france-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Cazeneuve.</description>
+    </item>
+    
+    <item>
+      <title>Lithuania election and cabinet added</title>
+      <link>/2016/11/30/lithuania-election-and-cabinet-added/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/11/30/lithuania-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Lithuania and the cabinet under PM Skvernelis.</description>
+    </item>
+    
+    <item>
+      <title>Spain cabinet added</title>
+      <link>/2016/11/29/spain-cabinet-added/</link>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/11/29/spain-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Rajoy.</description>
+    </item>
+    
+    <item>
+      <title>Estonia cabinet added</title>
+      <link>/2016/11/28/estonia-cabinet-added/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/11/28/estonia-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Ratas.</description>
+    </item>
+    
+    <item>
+      <title>Cyprus election and cabinet added</title>
+      <link>/2016/10/05/cyprus-election-and-cabinet-added/</link>
+      <pubDate>Wed, 05 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/05/cyprus-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Cyprus and the cabinet under PM Anastasiades.</description>
+    </item>
+    
+    <item>
+      <title>Spain election and cabinet added</title>
+      <link>/2016/10/04/spain-election-and-cabinet-added/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/04/spain-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Spain and the caretaker cabinet under PM Rajoy.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov class session Copenhagen</title>
+      <link>/2016/10/03/parlgov-class-session-copenhagen/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/03/parlgov-class-session-copenhagen/</guid>
+      <description>Today, we contributed to a class session of Conor Little&amp;rsquo;s seminar on &amp;ldquo;Parties in government. Who gets in? Who gets what? How long will it last?&amp;rdquo; at the University of Copenhagen. In class, we gave a hands-on introduction to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Electoral Studies article</title>
+      <link>/2016/08/18/electoral-studies-article/</link>
+      <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/08/18/electoral-studies-article/</guid>
+      <description>An article discussing the methodological design of the ParlGov database was recently accepted by Electoral Studies and is now available online.
+“Mapping established democracies: Integrated data on parties, elections and cabinets” Electoral Studies, 2016, Advance online publication. doi:10.1016/j.electstud.2016.07.002</description>
+    </item>
+    
+    <item>
+      <title>UK cabinet added</title>
+      <link>/2016/08/03/uk-cabinet-added/</link>
+      <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/08/03/uk-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM May.</description>
+    </item>
+    
+    <item>
+      <title>pre 1945 cabinets (experimental)</title>
+      <link>/2016/06/27/pre-1945-cabinets-experimental/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/27/pre-1945-cabinets-experimental/</guid>
+      <description>We have added cabinet information for the pre 1945 elections we cover. This information is experimental and will not be included in the next stable version.</description>
+    </item>
+    
+    <item>
+      <title>Austria cabinet added</title>
+      <link>/2016/06/24/austria-cabinet-added/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/24/austria-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Kern.</description>
+    </item>
+    
+    <item>
+      <title>Turkey cabinet added</title>
+      <link>/2016/06/23/turkey-cabinet-added/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/23/turkey-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Yildirim.</description>
+    </item>
+    
+    <item>
+      <title>Israel cabinet change added</title>
+      <link>/2016/06/20/israel-cabinet-change-added/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/20/israel-cabinet-change-added/</guid>
+      <description>We added the recent change in the composition of the Netanyahu cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Ireland election and cabinet added</title>
+      <link>/2016/05/16/ireland-election-and-cabinet-added/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/05/16/ireland-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Ireland and the new cabinet under PM Kenny.</description>
+    </item>
+    
+    <item>
+      <title>Slovakia election and cabinet added</title>
+      <link>/2016/05/15/slovakia-election-and-cabinet-added/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/05/15/slovakia-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Slovakia and the new cabinet under PM Fico.</description>
+    </item>
+    
+    <item>
+      <title>Iceland cabinet added</title>
+      <link>/2016/05/14/iceland-cabinet-added/</link>
+      <pubDate>Sat, 14 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/05/14/iceland-cabinet-added/</guid>
+      <description>We have added the cabinet under the new PM Johannsson.</description>
+    </item>
+    
+    <item>
+      <title>Spain election and interim cabinet added</title>
+      <link>/2016/03/17/spain-election-and-interim-cabinet-added/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/03/17/spain-election-and-interim-cabinet-added/</guid>
+      <description>We have added the recent election in Spain and the caretaker cabinet under PM Rajoy.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 2015 released</title>
+      <link>/2016/03/12/parlgov-2015-released/</link>
+      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/03/12/parlgov-2015-released/</guid>
+      <description>We have added the 2015 stable version of the ParlGov data. An archived version is also available in the ParlGov Dataverse.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov archive at  Harvard Dataverse</title>
+      <link>/2016/03/09/parlgov-archive-at-harvard-dataverse/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/03/09/parlgov-archive-at-harvard-dataverse/</guid>
+      <description>We have published an archive of our stable releases at the Harvard Dataverse — dataverse.harvard.edu/dataverse/parlgov</description>
+    </item>
+    
+    <item>
+      <title>Latvia cabinet added</title>
+      <link>/2016/02/25/latvia-cabinet-added/</link>
+      <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/02/25/latvia-cabinet-added/</guid>
+      <description>We have added the cabinet under the new PM Kucinskis.</description>
+    </item>
+    
+    <item>
+      <title>Croatia election and cabinet added</title>
+      <link>/2016/02/24/croatia-election-and-cabinet-added/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/02/24/croatia-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Croatia and the new cabinet under PM Orešković.</description>
+    </item>
+    
+    <item>
+      <title>Turkey election and cabinet added</title>
+      <link>/2015/12/18/turkey-election-and-cabinet-added/</link>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/12/18/turkey-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Turkey and the new cabinet under PM Davutoğlu.</description>
+    </item>
+    
+    <item>
+      <title>Portugal election and cabinet added</title>
+      <link>/2015/12/17/portugal-election-and-cabinet-added/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/12/17/portugal-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Portugal and the new cabinet under PM Costa.</description>
+    </item>
+    
+    <item>
+      <title>Poland election and cabinet added</title>
+      <link>/2015/12/16/poland-election-and-cabinet-added/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/12/16/poland-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Poland and the new cabinet under PM Szydło.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added</title>
+      <link>/2015/12/15/romania-cabinet-added/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/12/15/romania-cabinet-added/</guid>
+      <description>We have added the technocrat cabinet under PM Cioloș.</description>
+    </item>
+    
+    <item>
+      <title>Canada election and cabinet added</title>
+      <link>/2015/11/19/canada-election-and-cabinet-added/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/11/19/canada-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Canada and the new cabinet under PM Trudeau J.</description>
+    </item>
+    
+    <item>
+      <title>Greece election and cabinet added</title>
+      <link>/2015/10/12/greece-election-and-cabinet-added/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/12/greece-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Greece and the second cabinet under PM Tsipras.</description>
+    </item>
+    
+    <item>
+      <title>Australia cabinet added</title>
+      <link>/2015/10/06/australia-cabinet-added/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/06/australia-cabinet-added/</guid>
+      <description>We have added the cabinet under the new PM Turnball.</description>
+    </item>
+    
+    <item>
+      <title>pre 1945 election results (experimental)</title>
+      <link>/2015/09/11/pre-1945-election-results-experimental/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/11/pre-1945-election-results-experimental/</guid>
+      <description>We have added elections results for all consecutive democratic elections since 1900. This information is experimental and the pre 1945 data will not be included in the next stable version.</description>
+    </item>
+    
+    <item>
+      <title>Turkey election and interim cabinet added</title>
+      <link>/2015/09/01/turkey-election-and-interim-cabinet-added/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/01/turkey-election-and-interim-cabinet-added/</guid>
+      <description>We have added the recent election in Turkey and the caretaker cabinet under PM Davutoglu.</description>
+    </item>
+    
+    <item>
+      <title>Denmark election and cabinet added</title>
+      <link>/2015/08/28/denmark-election-and-cabinet-added/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/08/28/denmark-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Denmark and the second cabinet under PM Rasmussen.</description>
+    </item>
+    
+    <item>
+      <title>UK election and cabinet added</title>
+      <link>/2015/06/03/uk-election-and-cabinet-added/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/06/03/uk-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in the United Kingdom and the second cabinet under PM Cameron.</description>
+    </item>
+    
+    <item>
+      <title>Finland election and cabinet added</title>
+      <link>/2015/06/02/finland-election-and-cabinet-added/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/06/02/finland-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Finland and the cabinet under PM Sipilä.</description>
+    </item>
+    
+    <item>
+      <title>Israel election and cabinet added</title>
+      <link>/2015/05/20/israel-election-and-cabinet-added/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/20/israel-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Israel and the cabinet under PM Netanyahu.</description>
+    </item>
+    
+    <item>
+      <title>Estonia election and cabinet added</title>
+      <link>/2015/04/15/estonia-election-and-cabinet-added/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/04/15/estonia-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Estonia and the cabinet under PM Roivas.</description>
+    </item>
+    
+    <item>
+      <title>Greece election and cabinet added</title>
+      <link>/2015/01/29/greece-election-and-cabinet-added/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/01/29/greece-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Greece and the cabinet under PM Tsipras.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 14/12 released</title>
+      <link>/2014/12/29/parlgov-14/12-released/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/29/parlgov-14/12-released/</guid>
+      <description>We have added the 2014 stable version of the ParlGov data. Our FAQ provides some details about the streamlined release process.</description>
+    </item>
+    
+    <item>
+      <title>Japan election and cabinet added</title>
+      <link>/2014/12/27/japan-election-and-cabinet-added/</link>
+      <pubDate>Sat, 27 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/27/japan-election-and-cabinet-added/</guid>
+      <description>Preparing the 2014 stable version, we have added results for the recent election in Japan and the new Abe cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Votes level data for all countries</title>
+      <link>/2014/12/24/votes-level-data-for-all-countries/</link>
+      <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/24/votes-level-data-for-all-countries/</guid>
+      <description>This December, we have completed updating all countries to &amp;lsquo;votes level&amp;rsquo; data. The first versions of ParlGov included parties with seats in parliament and their vote share (&amp;lsquo;seats level&amp;rsquo;). Over the years we updated all countries to &amp;lsquo;votes level&amp;rsquo;: adding the number of votes and parties with no seats in parliament and more than 1.0% vote share.</description>
+    </item>
+    
+    <item>
+      <title>Excel spreadsheet added</title>
+      <link>/2014/12/23/excel-spreadsheet-added/</link>
+      <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/23/excel-spreadsheet-added/</guid>
+      <description>We have added an Excel spreadsheet of our main data. It includes sheets for the three main data tables (party, election, cabinet) and two documentation sheets (variable, readme). Importing the csv files has always caused some issues among our users due to different language and encoding settings.</description>
+    </item>
+    
+    <item>
+      <title>Final country selection</title>
+      <link>/2014/12/22/final-country-selection/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/22/final-country-selection/</guid>
+      <description>We have completed the country selection and include 37 EU and OECD democracies with a parliamentary or semi-presidential system. We removed countries from the experimental version that we have not fully covered (alb, chl, gdr, kor, lie, mex, nir, sco, usa, wal).</description>
+    </item>
+    
+    <item>
+      <title>New webpage at www.parlgov.org</title>
+      <link>/2014/12/21/new-webpage-at-www.parlgov.org/</link>
+      <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/21/new-webpage-at-www.parlgov.org/</guid>
+      <description>We moved a new webpage to www.parlgov.org. We have adjusted and tested the new version for some time. This will now be the main page of the project and all different versions (dev.parlgov.org, testing.parlgov.org, wiki.parlgov.org) that existed previously are redirected to it. An archive of the old static version is available on the new page.</description>
+    </item>
+    
+    <item>
+      <title>Wiki removed</title>
+      <link>/2014/12/20/wiki-removed/</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/20/wiki-removed/</guid>
+      <description>We removed the wiki that was previously available at wiki.parlgov.org. It has never received the level of attention or activity to keep it as an individual entity. We moved the relevant information from the wiki to the main new page (codebook, country info, changelog).</description>
+    </item>
+    
+    <item>
+      <title>European Parliament elections added</title>
+      <link>/2014/12/19/european-parliament-elections-added/</link>
+      <pubDate>Fri, 19 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/19/european-parliament-elections-added/</guid>
+      <description>We have added all results of the elections to the European Parliament in 2014. The coding is based on the official election results provided by the respective national authorities.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added</title>
+      <link>/2014/12/18/romania-cabinet-added/</link>
+      <pubDate>Thu, 18 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/18/romania-cabinet-added/</guid>
+      <description>We have added the fourth cabinet of PM Ponta that formed after a change in party composition.</description>
+    </item>
+    
+    <item>
+      <title>2015 sprint</title>
+      <link>/2014/12/17/2015-sprint/</link>
+      <pubDate>Wed, 17 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/17/2015-sprint/</guid>
+      <description>We are completing our work on a major new version of ParlGov. It will include all data updated to votes level, the 2014 EP election and a new version of the web page. This will complete our effort to establish ParlGov as a coherent source of information about parties, elections and cabinets. We will also start to streamline the project and remove some old cruft. Separate news entries will inform about the individual steps.</description>
+    </item>
+    
+    <item>
+      <title>Bulgaria election and cabinet added</title>
+      <link>/2014/12/03/bulgaria-election-and-cabinet-added/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/03/bulgaria-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Bulgaria and the second cabinet under PM Borisov.</description>
+    </item>
+    
+    <item>
+      <title>Presidents added to ParlGov</title>
+      <link>/2014/12/02/presidents-added-to-parlgov/</link>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/12/02/presidents-added-to-parlgov/</guid>
+      <description>We have added all presidents to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>France cabinets updated</title>
+      <link>/2014/11/20/france-cabinets-updated/</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/11/20/france-cabinets-updated/</guid>
+      <description>We have updated all cabinets in France from 1944 to 1997.</description>
+    </item>
+    
+    <item>
+      <title>Latvia election and cabinet added</title>
+      <link>/2014/11/06/latvia-election-and-cabinet-added/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/11/06/latvia-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Latvia and the second cabinet under PM Straujuma.</description>
+    </item>
+    
+    <item>
+      <title>New Commission added</title>
+      <link>/2014/11/01/new-commission-added/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/11/01/new-commission-added/</guid>
+      <description>We have added the newly appointed Commission to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Israel added to ParlGov</title>
+      <link>/2014/10/30/israel-added-to-parlgov/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/30/israel-added-to-parlgov/</guid>
+      <description>After considerable coding effort we have added all elections and cabinets in Israel since 1948 to ParlGov. The coding is mainly based on Israel Central Bureau of Statistics, Knesset and Reuters.</description>
+    </item>
+    
+    <item>
+      <title>New Zealand election and cabinet added</title>
+      <link>/2014/10/29/new-zealand-election-and-cabinet-added/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/29/new-zealand-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in New Zealand and the third cabinet under PM Key.</description>
+    </item>
+    
+    <item>
+      <title>Belgium cabinet added</title>
+      <link>/2014/10/16/belgium-cabinet-added/</link>
+      <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/16/belgium-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Michel.</description>
+    </item>
+    
+    <item>
+      <title>Switzerland with votes level data</title>
+      <link>/2014/10/15/switzerland-with-votes-level-data/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/15/switzerland-with-votes-level-data/</guid>
+      <description>We have updated all election results for Switzerland from seats to votes level data. The coding is mainly based on the Statistical Office of Switzerland.</description>
+    </item>
+    
+    <item>
+      <title>Poland cabinet added</title>
+      <link>/2014/10/14/poland-cabinet-added/</link>
+      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/14/poland-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Kopacz.</description>
+    </item>
+    
+    <item>
+      <title>Sweden cabinet added</title>
+      <link>/2014/10/13/sweden-cabinet-added/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/10/13/sweden-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Loefven.</description>
+    </item>
+    
+    <item>
+      <title>Sweden election added</title>
+      <link>/2014/09/30/sweden-election-added/</link>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/30/sweden-election-added/</guid>
+      <description>We have added the recent election in Sweden.</description>
+    </item>
+    
+    <item>
+      <title>Finland cabinet added</title>
+      <link>/2014/09/29/finland-cabinet-added/</link>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/29/finland-cabinet-added/</guid>
+      <description>We have added the second cabinet of PM Stubb that formed after a change in party composition.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia cabinet added</title>
+      <link>/2014/09/25/slovenia-cabinet-added/</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/25/slovenia-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Cerar.</description>
+    </item>
+    
+    <item>
+      <title>Turkey cabinet added</title>
+      <link>/2014/09/23/turkey-cabinet-added/</link>
+      <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/23/turkey-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Davutoglu.</description>
+    </item>
+    
+    <item>
+      <title>Bulgaria interim cabinet added</title>
+      <link>/2014/09/03/bulgaria-interim-cabinet-added/</link>
+      <pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/09/03/bulgaria-interim-cabinet-added/</guid>
+      <description>We have added the new caretaker cabinet under PM Bliznashki.</description>
+    </item>
+    
+    <item>
+      <title>France cabinet added</title>
+      <link>/2014/08/29/france-cabinet-added/</link>
+      <pubDate>Fri, 29 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/29/france-cabinet-added/</guid>
+      <description>We have added the second cabinet of PM Valls.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia election added</title>
+      <link>/2014/08/07/slovenia-election-added/</link>
+      <pubDate>Thu, 07 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/07/slovenia-election-added/</guid>
+      <description>We have added the recent election in Slovenia.</description>
+    </item>
+    
+    <item>
+      <title>Finland cabinet added</title>
+      <link>/2014/06/26/finland-cabinet-added/</link>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/06/26/finland-cabinet-added/</guid>
+      <description>We have added the first cabinet of PM Stubb.</description>
+    </item>
+    
+    <item>
+      <title>Belgian election added</title>
+      <link>/2014/06/25/belgian-election-added/</link>
+      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/06/25/belgian-election-added/</guid>
+      <description>We have added the recent election in Belgium.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov at “Big Data? New Data!“ workshop in Duisburg</title>
+      <link>/2014/05/23/parlgov-at-big-data-new-data-workshop-in-duisburg/</link>
+      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/05/23/parlgov-at-big-data-new-data-workshop-in-duisburg/</guid>
+      <description>We presented ParlGov&amp;rsquo;s history and technical infrastructure at the “Big Data? New Data!“ workshop of the German Political Science Association (DVPW) political methodology section in Duisburg-Essen.</description>
+    </item>
+    
+    <item>
+      <title>Hungary election and cabinet added</title>
+      <link>/2014/05/13/hungary-election-and-cabinet-added/</link>
+      <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/05/13/hungary-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Hungary and the third cabinet under PM Orban.</description>
+    </item>
+    
+    <item>
+      <title>Hungary with votes level data</title>
+      <link>/2014/05/09/hungary-with-votes-level-data/</link>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/05/09/hungary-with-votes-level-data/</guid>
+      <description>We have updated all election results for Hungary from seats to votes level data. The coding is mainly based on the National Election Committee Hungary and the Essex CEE elections database.</description>
+    </item>
+    
+    <item>
+      <title>Turkey added to ParlGov</title>
+      <link>/2014/05/06/turkey-added-to-parlgov/</link>
+      <pubDate>Tue, 06 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/05/06/turkey-added-to-parlgov/</guid>
+      <description>We have added all elections and cabinets in Turkey since 1983 to ParlGov. The coding is based mainly on Reuters and Turkish Statistical Institute.</description>
+    </item>
+    
+    <item>
+      <title>France cabinet added</title>
+      <link>/2014/04/08/france-cabinet-added/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/04/08/france-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Valls.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov at MPSA</title>
+      <link>/2014/04/05/parlgov-at-mpsa/</link>
+      <pubDate>Sat, 05 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/04/05/parlgov-at-mpsa/</guid>
+      <description>We had the chance to discuss current challenges of data integration in a very nice roundtable discussion at the MPSA conference in Chicago. The roundtable &amp;lsquo;Coordinating Electoral and Institutional Data Assets for Data-Intensive Research: Developing a Vision for the Future&amp;rsquo; was organised by Thomas Mustillo (Purdue University) and included members of CLEA (Ken Kollman, University of Michigan), the EJPR Yearbook (Kevin Robert Deegan-Krause, Wayne State University), PPDB Project (Susan E. Scarrow, University of Houston) and DPEG (Alexander Herzog, LSE).</description>
+    </item>
+    
+    <item>
+      <title>Finland cabinet added</title>
+      <link>/2014/04/01/finland-cabinet-added/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/04/01/finland-cabinet-added/</guid>
+      <description>We have added the second cabinet of PM Katainen that formed after a change in party composition.</description>
+    </item>
+    
+    <item>
+      <title>Estonia cabinet added</title>
+      <link>/2014/03/31/estonia-cabinet-added/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/03/31/estonia-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Roivas.</description>
+    </item>
+    
+    <item>
+      <title>Cyprus cabinet added</title>
+      <link>/2014/03/18/cyprus-cabinet-added/</link>
+      <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/03/18/cyprus-cabinet-added/</guid>
+      <description>We have added the second cabinet of President Anastasiades that formed after a change in party composition.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added</title>
+      <link>/2014/03/11/romania-cabinet-added/</link>
+      <pubDate>Tue, 11 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/03/11/romania-cabinet-added/</guid>
+      <description>We have added the third cabinet of PM Ponta that formed after a change in party composition.</description>
+    </item>
+    
+    <item>
+      <title>Italy cabinet added</title>
+      <link>/2014/02/25/italy-cabinet-added/</link>
+      <pubDate>Tue, 25 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/02/25/italy-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Renzi.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 2014 clean-up</title>
+      <link>/2014/02/08/parlgov-2014-clean-up/</link>
+      <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/02/08/parlgov-2014-clean-up/</guid>
+      <description>We are in the process of cleaning up the data in ParlGov. Our goal is to provide reliable data for parties, elections and cabinets in &amp;ldquo;all EU and OECD democracies&amp;rdquo;. We are almost there with only some OECD countries and a few election results (EU members) of parties that won no seats missing. However, the documentation still leaves room for improvement and there need to be some more routines that check for data consistency.</description>
+    </item>
+    
+    <item>
+      <title>Danish cabinet added</title>
+      <link>/2014/02/07/danish-cabinet-added/</link>
+      <pubDate>Fri, 07 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/02/07/danish-cabinet-added/</guid>
+      <description>We have added the second cabinet of PM Thorning-Schmidt that formed after a change in party composition.</description>
+    </item>
+    
+    <item>
+      <title>Czech Republic cabinet added</title>
+      <link>/2014/01/30/czech-republic-cabinet-added/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/01/30/czech-republic-cabinet-added/</guid>
+      <description>We have added the newly formed cabinet under PM Sobotka.</description>
+    </item>
+    
+    <item>
+      <title>Latvia cabinet added</title>
+      <link>/2014/01/29/latvia-cabinet-added/</link>
+      <pubDate>Wed, 29 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/01/29/latvia-cabinet-added/</guid>
+      <description>We have added the new cabinet under PM Straujuma.</description>
+    </item>
+    
+    <item>
+      <title>Germany election and cabinet added</title>
+      <link>/2013/12/20/germany-election-and-cabinet-added/</link>
+      <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/12/20/germany-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Germany and the third cabinet under PM Merkel.</description>
+    </item>
+    
+    <item>
+      <title>Austria election and cabinet added</title>
+      <link>/2013/12/18/austria-election-and-cabinet-added/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/12/18/austria-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Austria and the second cabinet under PM Faymann.</description>
+    </item>
+    
+    <item>
+      <title>France with votes level data</title>
+      <link>/2013/12/12/france-with-votes-level-data/</link>
+      <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/12/12/france-with-votes-level-data/</guid>
+      <description>We have updated all election results for France from seats to votes level data. Due to the poorly documented information the coding has taken up some time. For the same reason it is based on three sources: Mackie and Rose (1991), Nohlen and Stöver (2010) and Assemblée nationale.</description>
+    </item>
+    
+    <item>
+      <title>Italy cabinet added</title>
+      <link>/2013/12/11/italy-cabinet-added/</link>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/12/11/italy-cabinet-added/</guid>
+      <description>We have added the second cabinet of PM Letta that formed after a change in party composition.</description>
+    </item>
+    
+    <item>
+      <title>Luxembourg election and cabinet added</title>
+      <link>/2013/12/10/luxembourg-election-and-cabinet-added/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/12/10/luxembourg-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Luxembourg and the newly formed cabinet under PM Bettel.</description>
+    </item>
+    
+    <item>
+      <title>Australia election and cabinet added</title>
+      <link>/2013/11/13/australia-election-and-cabinet-added/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/11/13/australia-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Australia and the newly formed cabinet under PM Abbott.</description>
+    </item>
+    
+    <item>
+      <title>Norway election and cabinet added</title>
+      <link>/2013/10/22/norway-election-and-cabinet-added/</link>
+      <pubDate>Tue, 22 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/10/22/norway-election-and-cabinet-added/</guid>
+      <description>We have added the recent election in Norway and the newly formed cabinet under PM Solberg.</description>
+    </item>
+    
+    <item>
+      <title>Slovakia with votes level data</title>
+      <link>/2013/10/16/slovakia-with-votes-level-data/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/10/16/slovakia-with-votes-level-data/</guid>
+      <description>We have updated all election results for Slovakia from seats to votes level data. The coding is based mainly on Statistical Office of the Slovak Republic.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia with votes level data</title>
+      <link>/2013/10/09/slovenia-with-votes-level-data/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/10/09/slovenia-with-votes-level-data/</guid>
+      <description>We have updated all election results for Slovenia from seats to votes level data. The coding is based mainly on National Electoral Commission Slovenia.</description>
+    </item>
+    
+    <item>
+      <title>Lithuania with votes level data</title>
+      <link>/2013/09/30/lithuania-with-votes-level-data/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/09/30/lithuania-with-votes-level-data/</guid>
+      <description>We have updated all election results for Lithuania from seats to votes level data. The coding is based mainly on The Central Electoral Commission of the Republic of Lithuania.</description>
+    </item>
+    
+    <item>
+      <title>Greece with votes level data</title>
+      <link>/2013/09/26/greece-with-votes-level-data/</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/09/26/greece-with-votes-level-data/</guid>
+      <description>We have updated all election results for Greece from seats to votes level data. The coding is based on Nohlen and Stöver (2010) and Helenic Republic - Ministry of Interior.</description>
+    </item>
+    
+    <item>
+      <title>Cyprus cabinet added</title>
+      <link>/2013/09/25/cyprus-cabinet-added/</link>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/09/25/cyprus-cabinet-added/</guid>
+      <description>We have added the current cabinet under President Anastasiades that slipped our attention earlier this year. Thanks to Doru Frantescu from Vote Watch Europe for pointing at the missing information.</description>
+    </item>
+    
+    <item>
+      <title>Spain with votes level data</title>
+      <link>/2013/08/28/spain-with-votes-level-data/</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/08/28/spain-with-votes-level-data/</guid>
+      <description>We have updated all election results for Spain from seats to votes level data. The coding is based on Elecciones y Partidos Políticos.</description>
+    </item>
+    
+    <item>
+      <title>Czech Republic cabinet added</title>
+      <link>/2013/08/16/czech-republic-cabinet-added/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/08/16/czech-republic-cabinet-added/</guid>
+      <description>We have added the short-lived cabinet of PM Rusnok that failed to gain support in a confidence vote earlier this month.</description>
+    </item>
+    
+    <item>
+      <title>EP elections for EU-28 updated</title>
+      <link>/2013/08/07/ep-elections-for-eu-28-updated/</link>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/08/07/ep-elections-for-eu-28-updated/</guid>
+      <description>We have updated all EP election results for EU member states to votes level data. The coding is based on either national sources or [EP election reports](http://dev.parlgov.org/documentation/data_sources/#ep http://dev.parlgov.org/documentation/data_sources/).</description>
+    </item>
+    
+    <item>
+      <title>Czech Republic with votes level data</title>
+      <link>/2013/07/29/czech-republic-with-votes-level-data/</link>
+      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/07/29/czech-republic-with-votes-level-data/</guid>
+      <description>We have updated all election results for Czech Republic since 1990 from seats to votes level data. The coding is based mainly on Czech Statistical Office.</description>
+    </item>
+    
+    <item>
+      <title>Ireland with votes level data</title>
+      <link>/2013/07/15/ireland-with-votes-level-data/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/07/15/ireland-with-votes-level-data/</guid>
+      <description>We have updated all election results for Ireland since 1948 from seats to votes level data. Most of the coding is based on the work by Gallagher (2009) and the Department of Environment Ireland.</description>
+    </item>
+    
+    <item>
+      <title>Recoding party families and imputation of missing party positions</title>
+      <link>/2013/07/01/recoding-party-families-and-imputation-of-missing-party-positions/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/07/01/recoding-party-families-and-imputation-of-missing-party-positions/</guid>
+      <description>We have completed recoding our party families. All parties are now classified into one of the main categories first and additional party families are recorded in the table &amp;lsquo;party_family&amp;rsquo; only. Our main categories are primarily based on a two dimensional perspective (state/market and liberty/authority) of the political space and follow other typologies of party families. These party families are now also used to impute missing party positions by the mean value for the respective party family.</description>
+    </item>
+    
+    <item>
+      <title>Canada with votes level data</title>
+      <link>/2013/06/18/canada-with-votes-level-data/</link>
+      <pubDate>Tue, 18 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/06/18/canada-with-votes-level-data/</guid>
+      <description>We have updated all election results for Canada since 1945 from seats to votes level data. Our coding relies on data provided by Chief Electoral Officer of Canada, Constituency-Level Elections Archive as well as Parliament of Canada.</description>
+    </item>
+    
+    <item>
+      <title>Croatia added to ParlGov</title>
+      <link>/2013/06/12/croatia-added-to-parlgov/</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/06/12/croatia-added-to-parlgov/</guid>
+      <description>ParlGov covers all EU and most OECD countries. Croatia will become a member of the EU on 1 July and we have included all elections and cabinets since 2000 to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Bulgaria election and cabinet added</title>
+      <link>/2013/06/11/bulgaria-election-and-cabinet-added/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/06/11/bulgaria-election-and-cabinet-added/</guid>
+      <description>We have added the recent election and the newly formed cabinet under PM Oresharski.</description>
+    </item>
+    
+    <item>
+      <title>Iceland election and cabinet added</title>
+      <link>/2013/06/10/iceland-election-and-cabinet-added/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/06/10/iceland-election-and-cabinet-added/</guid>
+      <description>We have added the recent election and the newly formed cabinet under PM Gunnlaugsson.</description>
+    </item>
+    
+    <item>
+      <title>Romania with votes level data</title>
+      <link>/2013/05/31/romania-with-votes-level-data/</link>
+      <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/05/31/romania-with-votes-level-data/</guid>
+      <description>We have updated all election results for Romania from seats to votes level data. For most of the coding we used the data provided by the Central Election Bureau Romania or the Essex CEE elections database.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov in Lund</title>
+      <link>/2013/05/22/parlgov-in-lund/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/05/22/parlgov-in-lund/</guid>
+      <description>Last week, we were invited to Lund by Hanna Bäck, Torbjörn Bergman and Johan Hellström for a workshop on coalition governments in established democracies. We presented a research paper on the effects of electoral systems on cabinet formation and gave a presentation on ParlGov, pointing out successes and failures of the project. In Lund, we had many interesting discussions about the current state of research on democratic governments. Thanks to the organisers for welcoming us to Lund.</description>
+    </item>
+    
+    <item>
+      <title>Italy election and cabinet added</title>
+      <link>/2013/05/14/italy-election-and-cabinet-added/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/05/14/italy-election-and-cabinet-added/</guid>
+      <description>We have added the recent election and the newly formed cabinet under PM Letta .</description>
+    </item>
+    
+    <item>
+      <title>ParlGov in Florence</title>
+      <link>/2013/05/08/parlgov-in-florence/</link>
+      <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/05/08/parlgov-in-florence/</guid>
+      <description>Last week, we gave a presentation on &amp;ldquo;Programming in the social sciences&amp;rdquo; at the EUI workshop on Research Skills for the World of Big Data. We presented ParlGov as an application of computing in political science. Thanks to Jonathan Bright and Alexander Trechsel for inviting us.</description>
+    </item>
+    
+    <item>
+      <title>Bulgaria with votes level data</title>
+      <link>/2013/04/30/bulgaria-with-votes-level-data/</link>
+      <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/04/30/bulgaria-with-votes-level-data/</guid>
+      <description>We have updated all election results for Bulgaria from seats to votes level data. We used the data provided by the Bulgarian Central Election Commission or the [Essex CEE elections database](http://www.essex.ac.uk/elections/ https://3c.gmx.net/mail/client/dereferrer?redirectUrl=http%3A%2F%2Fwww.essex.ac.uk%2Felections%2F&amp;amp;selection=tfol11be7d9017e23240).</description>
+    </item>
+    
+    <item>
+      <title>Malta with votes level data</title>
+      <link>/2013/04/16/malta-with-votes-level-data/</link>
+      <pubDate>Tue, 16 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/04/16/malta-with-votes-level-data/</guid>
+      <description>We have updated all election results for Malta from seats to votes level data. For most of the data we used maltadata.com or the official site of the Department of Information.</description>
+    </item>
+    
+    <item>
+      <title>Luxembourg with votes level data</title>
+      <link>/2013/04/02/luxembourg-with-votes-level-data/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/04/02/luxembourg-with-votes-level-data/</guid>
+      <description>We have updated all election results for Luxembourg from seats to votes level data. For most of our information we used the official site of the Ministry of internal affairs and the Statistical Yearbooks of Luxembourg. The voting system is based on multiple votes and therefore the number of votes exceeds the number of eligible voters.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia cabinet added</title>
+      <link>/2013/04/01/slovenia-cabinet-added/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/04/01/slovenia-cabinet-added/</guid>
+      <description>We have added the recently formed cabinet under PM Bratušek .</description>
+    </item>
+    
+    <item>
+      <title>Japan election and cabinet added</title>
+      <link>/2013/02/25/japan-election-and-cabinet-added/</link>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/02/25/japan-election-and-cabinet-added/</guid>
+      <description>We have added the result of the December election in Japan and the new cabinet under PM Abe.</description>
+    </item>
+    
+    <item>
+      <title>Chapel Hill Expert Survey (CHES) parties updated</title>
+      <link>/2013/02/16/chapel-hill-expert-survey-ches-parties-updated/</link>
+      <pubDate>Sat, 16 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/02/16/chapel-hill-expert-survey-ches-parties-updated/</guid>
+      <description>We have updated the parties from the Chapel Hill Expert Survey (CHES) to the 2010 wave. The survey now includes Turkey, Norway and Switzerland.</description>
+    </item>
+    
+    <item>
+      <title>Germany CDU/CSU party group</title>
+      <link>/2013/02/14/germany-cdu/csu-party-group/</link>
+      <pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/02/14/germany-cdu/csu-party-group/</guid>
+      <description>In Germany, CDU and CSU run independently in elections without competing at the state level. Both parties form a joint parliamentary group in the German parliament after the election. This fact has now also been included into ParlGov. CDU and CSU are kept distinct in our election results but the joint party group is recorded in our parliament change data. As a consequence most of the cabinets including the CDU/CSU are no surplus coalitions anymore.</description>
+    </item>
+    
+    <item>
+      <title>Romania election and cabinet added</title>
+      <link>/2013/01/21/romania-election-and-cabinet-added/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/01/21/romania-election-and-cabinet-added/</guid>
+      <description>We have added the results of the December election in Romania and the new Ponta II cabinet. We would like to thank Mihail Chiru (Central European University) for providing important details about the party groups in parliament.</description>
+    </item>
+    
+    <item>
+      <title>EUP article forthcoming</title>
+      <link>/2013/01/07/eup-article-forthcoming/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/01/07/eup-article-forthcoming/</guid>
+      <description>An article introducing ParlGov to students of the EU is now available online at European Union Politics [gated]. In the article, ParlGov is used to map the political space of the EU and the application is available in the download section.</description>
+    </item>
+    
+    <item>
+      <title>Commission appointment Tonio Borg and minor updates</title>
+      <link>/2012/12/18/commission-appointment-tonio-borg-and-minor-updates/</link>
+      <pubDate>Tue, 18 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/12/18/commission-appointment-tonio-borg-and-minor-updates/</guid>
+      <description>We have added the recently appointed new Commissioner from Malta, Tonio Borg. In addition, we have completed the coding of the variable ‘elected’ for all Commissioners and added a minor update to the respective codebook.</description>
+    </item>
+    
+    <item>
+      <title>Lithuania election and cabinet added</title>
+      <link>/2012/11/26/lithuania-election-and-cabinet-added/</link>
+      <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/11/26/lithuania-election-and-cabinet-added/</guid>
+      <description>We have added the results of the 2012 election in the Netherlands and the recently formed new cabinet under PM Butkevicius.</description>
+    </item>
+    
+    <item>
+      <title>Netherlands election and cabinet added</title>
+      <link>/2012/11/07/netherlands-election-and-cabinet-added/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/11/07/netherlands-election-and-cabinet-added/</guid>
+      <description>We have added the results of the September election in the Netherlands and the recently formed new cabinet under PM Rutte.</description>
+    </item>
+    
+    <item>
+      <title>Iceland with votes level data</title>
+      <link>/2012/11/06/iceland-with-votes-level-data/</link>
+      <pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/11/06/iceland-with-votes-level-data/</guid>
+      <description>We have updated all election results in Iceland from seats to votes level data. We coded all parties with more than 1% of the vote share, that won seats in parliament or the largest party winning no seats in an election. In addition, we unified the election date coded to the last date of an election and indicate all early elections.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov at Policy Votes conference</title>
+      <link>/2012/10/28/parlgov-at-policy-votes-conference/</link>
+      <pubDate>Sun, 28 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/10/28/parlgov-at-policy-votes-conference/</guid>
+      <description>We were invited to the workshop &amp;ldquo;Political representation in Europe: Methods and data&amp;rdquo; organized by Christine Arnold (University of Maastrich) and Mark Franklin (European University Institute). The Policy Votes project was presented and discussed at the workshop, an innovative and ambitious project to provide better data for studying representation in Western Europe at the voters, parties and legislative level. The project gathered researchers that presented work on modern data infrastructures for compartative politics: the Manifesto Project (MRG/CMP/MARPOR), PIREDEU, the Comparative Agendas Project (CAP), RTextTools and the Amsterdam Contentanalysis Toolkit (AmCAT) as well as ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 12/10 released</title>
+      <link>/2012/10/15/parlgov-12/10-released/</link>
+      <pubDate>Mon, 15 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/10/15/parlgov-12/10-released/</guid>
+      <description>We have now released ParlGov 12/10, the fourth major stable version of the ParlGov project. There have been only minor changes and updates to the beta version we put online last week. ParlGov 12/10 includes all elections and cabinets until the end of August 2012 for the countries we cover. For the version we have added elections and cabinets in Switzerland from 1919 to 1947, in Australia from 1901 to 1945 and updated Australia and New Zealand from seats to votes level.</description>
+    </item>
+    
+    <item>
+      <title>Beta version ParlGov 12/10 online</title>
+      <link>/2012/10/08/beta-version-parlgov-12/10-online/</link>
+      <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/10/08/beta-version-parlgov-12/10-online/</guid>
+      <description>We are preparing a new stable version, ParlGov 12/10 &amp;ndash; Autumn 2012 and a beta version is now available online. We provide at least one stable version a year, which is a frozen snap shot of our development version. All significant changes since the last stable version are documented in the changelog. We plan to release the stable version at the beginning of next week.</description>
+    </item>
+    
+    <item>
+      <title>Party composition of EU institutions</title>
+      <link>/2012/10/07/party-composition-of-eu-institutions/</link>
+      <pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/10/07/party-composition-of-eu-institutions/</guid>
+      <description>In the download section we have added an application of ParlGov for students of the EU. The file contains scripts to create data about the party composition of the EU with information from the ParlGov project. All scripts are written in the R programing language. In addition, the European political space since 1958 is visualized including all changes in party composition. For the project, we also reintegrated data on the compositon of the College of Commissioners and present it in the data section (eg.</description>
+    </item>
+    
+    <item>
+      <title>Australia with votes level data</title>
+      <link>/2012/10/06/australia-with-votes-level-data/</link>
+      <pubDate>Sat, 06 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/10/06/australia-with-votes-level-data/</guid>
+      <description>We have updated election results for Australia from seats to votes level data and added elections and cabinets from 1901 to 1943. For most of our information we used publications of the Statistics and Mapping Section of the Australian Parliament.</description>
+    </item>
+    
+    <item>
+      <title>Party clean up</title>
+      <link>/2012/10/02/party-clean-up/</link>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/10/02/party-clean-up/</guid>
+      <description>Following the recent update of coding rules for our election results, we have also cleaned up the parties included into ParlGov. Fur this purpose, we removed minor parties without election results according to our new criteria (1.0% vote share or 2 seats). A more detailed summary of coding rules for parties, election results and cabinets will follow over the next month.</description>
+    </item>
+    
+    <item>
+      <title>New Zealand with votes level data</title>
+      <link>/2012/09/05/new-zealand-with-votes-level-data/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/09/05/new-zealand-with-votes-level-data/</guid>
+      <description>We have updated and checked all election results from 1943 for New Zealand and coded all parties according to our new coding rule. We include all parties with more than 1.0% vote share, that won seats in parliament or the largest party winning no seats in an election. For most of our informations we used the Official Yearbooks or the results of the Electoral Commission.</description>
+    </item>
+    
+    <item>
+      <title>Greece elections and cabinets added</title>
+      <link>/2012/09/04/greece-elections-and-cabinets-added/</link>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/09/04/greece-elections-and-cabinets-added/</guid>
+      <description>We have added the results of the May and June legislative election in Greece as well as the new cabinets under Pikramenos and Samaras.</description>
+    </item>
+    
+    <item>
+      <title>France election and cabinets added</title>
+      <link>/2012/08/20/france-election-and-cabinets-added/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/08/20/france-election-and-cabinets-added/</guid>
+      <description>We have added the results of the June legislative election in France and the new cabinet Ayrault II, as well as the short-term post-presidential election cabinet Ayrault I.</description>
+    </item>
+    
+    <item>
+      <title>Updated coding rules election</title>
+      <link>/2012/06/13/updated-coding-rules-election/</link>
+      <pubDate>Wed, 13 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/06/13/updated-coding-rules-election/</guid>
+      <description>ParlGov includes information about the number of seats and the share of votes for all parties in parliament and elections we cover. For some countries and new elections, we also include the number of votes and some of the parties that won no seats. We used to include all parties that won more than 0.5% vote share but have now increased the threshold to 1.0%. We have learned that many of the parties below the 1.</description>
+    </item>
+    
+    <item>
+      <title>Data in country-year format</title>
+      <link>/2012/06/12/data-in-country-year-format/</link>
+      <pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/06/12/data-in-country-year-format/</guid>
+      <description>We are preparing the next stable release. One of the features we have recently introduced is a base table to create data sets in country-year format where each observation covers information about a parliament or cabinet for every year. In the table viewcalc_country_year_share we provide weights for each parliament and cabinet for a given year. You can use this table with aggregated information at the parliament or cabinet level to create data sets in country-year format.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added</title>
+      <link>/2012/05/23/romania-cabinet-added/</link>
+      <pubDate>Wed, 23 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/05/23/romania-cabinet-added/</guid>
+      <description>We have added the fall of the two-month old cabinet under PM Ungureanu and the recently formed cabinet under PM Ponta.</description>
+    </item>
+    
+    <item>
+      <title>Slovakia election and cabinet added</title>
+      <link>/2012/05/17/slovakia-election-and-cabinet-added/</link>
+      <pubDate>Thu, 17 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/05/17/slovakia-election-and-cabinet-added/</guid>
+      <description>We have added the results of the March election in Slovakia and the new cabinet under PM Fico.</description>
+    </item>
+    
+    <item>
+      <title>Czech Republic cabinet added</title>
+      <link>/2012/05/16/czech-republic-cabinet-added/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/05/16/czech-republic-cabinet-added/</guid>
+      <description>In addition to the Dutch cabinet, we have also added the new Czech cabinet under PM Necas following the split of the junior coalition partner Public Affairs.</description>
+    </item>
+    
+    <item>
+      <title>Netherlands cabinet added</title>
+      <link>/2012/05/15/netherlands-cabinet-added/</link>
+      <pubDate>Tue, 15 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/05/15/netherlands-cabinet-added/</guid>
+      <description>Recently, we have added the fall of the Rutte I cabinet at the end of April in the Netherlands. In ParlGov, there is a caretaker cabinet Rutte II because the cabinet is asked to stay in office until elections take place in September.</description>
+    </item>
+    
+    <item>
+      <title>Update calculation party positions</title>
+      <link>/2012/05/01/update-calculation-party-positions/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/05/01/update-calculation-party-positions/</guid>
+      <description>ParlGov party positions are based on various party expert surveys (Castles/Mair 1983, Huber/Inglehart 1995, Ray 1999, Benoit/Laver 2006 and CHESS 2010). These positions are just the mean value of all observations available from these sources in a particular dimension (left_right, state_market, liberty_authority, eu_anti_pro).
+There was a bug in the scripts that converted the data from Benoit/Laver and not all positions from the data set were included into the calculation. We became aware of the issue, when someone pointed out the extremely moderate left/right position of the German far-right NPD in ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Swiss 2011 election and cabinet added</title>
+      <link>/2012/03/27/swiss-2011-election-and-cabinet-added/</link>
+      <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/03/27/swiss-2011-election-and-cabinet-added/</guid>
+      <description>We have added the results of the October 2011 election in Switzerland and the new Bundesrat. Swiss citizens have multiple votes in some cantons and official statistics calculate comparable number of votes (“fiktive Wählende”) for all parties at the federal level. Official election results were provided by the Statistical Office of Switzerland (BFS) and we would like to thank Madeleine Schneider (BFS) and Georg Lutz (University of Lausanne) for providing important details.</description>
+    </item>
+    
+    <item>
+      <title>Romania cabinet added</title>
+      <link>/2012/02/13/romania-cabinet-added/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/02/13/romania-cabinet-added/</guid>
+      <description>We have added the fall of the Boc III government in February 2012 and added the succeeding cabinet under PM Ungureanu. In this context we recoded the Boc II government and split it into Boc II and Boc III due to a change in the cabinet composition in 2010.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia election and cabinet added</title>
+      <link>/2012/02/12/slovenia-election-and-cabinet-added/</link>
+      <pubDate>Sun, 12 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/02/12/slovenia-election-and-cabinet-added/</guid>
+      <description>We have added the results of the December election in Slovenia and the recently formed cabinet under PM Jansa.</description>
+    </item>
+    
+    <item>
+      <title>Belgium new cabinet added</title>
+      <link>/2012/01/31/belgium-new-cabinet-added/</link>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/01/31/belgium-new-cabinet-added/</guid>
+      <description>We have added the Belgium cabinet that formed one and a half year after the election. In ParlGov, there is a caretaker cabinet in between because the formation process took more than three month.</description>
+    </item>
+    
+    <item>
+      <title>Spain election and cabinet added</title>
+      <link>/2012/01/23/spain-election-and-cabinet-added/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/01/23/spain-election-and-cabinet-added/</guid>
+      <description>We have now added the election in Spain in November 2011 and the cabinet under PM Rajoy. To cover more than 99% of the votes we had to add a number of new parties.</description>
+    </item>
+    
+    <item>
+      <title>New Zealand election and cabinet added</title>
+      <link>/2012/01/07/new-zealand-election-and-cabinet-added/</link>
+      <pubDate>Sat, 07 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/01/07/new-zealand-election-and-cabinet-added/</guid>
+      <description>We have also added the election in New Zealand and the second Key cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Poland election and cabinet added</title>
+      <link>/2012/01/06/poland-election-and-cabinet-added/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/2012/01/06/poland-election-and-cabinet-added/</guid>
+      <description>Recently, we added the election in Poland and the second Tusk cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Greece interim cabinet added</title>
+      <link>/2011/12/14/greece-interim-cabinet-added/</link>
+      <pubDate>Wed, 14 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/12/14/greece-interim-cabinet-added/</guid>
+      <description>We have added the recently formed caretaker cabinet in Greece.</description>
+    </item>
+    
+    <item>
+      <title>Italy interim cabinet added</title>
+      <link>/2011/12/13/italy-interim-cabinet-added/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/12/13/italy-interim-cabinet-added/</guid>
+      <description>We have also added the recently formed caretaker cabinet in Italy.</description>
+    </item>
+    
+    <item>
+      <title>Slovakia caretaker government added</title>
+      <link>/2011/11/23/slovakia-caretaker-government-added/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/11/23/slovakia-caretaker-government-added/</guid>
+      <description>We have added the fall of the Radičová I government and added the succeeding caretaker government Radičová II. The cabinet Radičová I lost a confidence vote and became a caretaker government without a formal resignation. Following our coding rules we coded it as an equivalent to a substantively meaningful resignation due to a change into a caretaker cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Latvia election and cabinet added</title>
+      <link>/2011/10/28/latvia-election-and-cabinet-added/</link>
+      <pubDate>Fri, 28 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/10/28/latvia-election-and-cabinet-added/</guid>
+      <description>We have added the results of the September election in Latvia and the new cabinet under PM Dombrovskis. In this context we have updated the previous election in 2010.</description>
+    </item>
+    
+    <item>
+      <title>Denmark election and cabinet added</title>
+      <link>/2011/10/07/denmark-election-and-cabinet-added/</link>
+      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/10/07/denmark-election-and-cabinet-added/</guid>
+      <description>We have added the results of the recent Danish election and the new cabinet under PM Thorning-Schmidt.</description>
+    </item>
+    
+    <item>
+      <title>Canada election results updated</title>
+      <link>/2011/09/25/canada-election-results-updated/</link>
+      <pubDate>Sun, 25 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/09/25/canada-election-results-updated/</guid>
+      <description>We have now updated the results of the May election with an official source. In this context we have also updated the previous election 2008 and the corresponding cabinets Harper II and Harper III.</description>
+    </item>
+    
+    <item>
+      <title>Japan new cabinet added</title>
+      <link>/2011/09/23/japan-new-cabinet-added/</link>
+      <pubDate>Fri, 23 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/09/23/japan-new-cabinet-added/</guid>
+      <description>We have added the new Japanese cabinet under PM Noda. He follows PM Kan who resigned after widespread criticism over his handling of the tsunami and Fukushima power plant crisis.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 11/07 added to EUDO Data Centre</title>
+      <link>/2011/08/31/parlgov-11/07-added-to-eudo-data-centre/</link>
+      <pubDate>Wed, 31 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/08/31/parlgov-11/07-added-to-eudo-data-centre/</guid>
+      <description>We have now added the most recent release of ParlGov to the EUDO Data Centre. In the data centre, you can download the main ParlGov tables (parties, elections, cabinets) and a documentation of these tables. The three main data sets are available in various formats (Stata, SPSS, R), are labelled and can be analysed online in the data centre.
+A short technical note: The data sets offered in the data centre are derived from information that is available in the stable version.</description>
+    </item>
+    
+    <item>
+      <title>Cyprus with new cabinet</title>
+      <link>/2011/08/24/cyprus-with-new-cabinet/</link>
+      <pubDate>Wed, 24 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/08/24/cyprus-with-new-cabinet/</guid>
+      <description>We have added the new cabinet under President Christofias. The reshuffle became necessary after ministers of the junior coalition partner DIKO quit. When updating the previous cabinet, we realized that the termination date of cabinet Christofias I has to be recoded. We split the former cabinet into Christofias I and Christofias II.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 11/07 released</title>
+      <link>/2011/07/31/parlgov-11/07-released/</link>
+      <pubDate>Sun, 31 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/07/31/parlgov-11/07-released/</guid>
+      <description>We have now released ParlGov 11/07 (26 July 2011), the third major stable release of the ParlGov project. There have been no changes to the release candidate we put online a couple of days ago. ParlGov 11/07 includes all elections and cabinets until the mid of July for the countries we cover. In this version we have added elections and cabinets in Japan from 1945 to 1958 and updated Austria, Cyprus, Poland from seats to votes level data.</description>
+    </item>
+    
+    <item>
+      <title>Japan elections and cabinets added (1945 to 1958) – next stable preparations</title>
+      <link>/2011/07/25/japan-elections-and-cabinets-added-1945-to-1958-next-stable-preparations/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/07/25/japan-elections-and-cabinets-added-1945-to-1958-next-stable-preparations/</guid>
+      <description>We have added election results and cabinets from 1945 to 1958 for Japan.
+Furthermore, we are preparing a new stable version, ParlGov 11/07, and plan to release it at the end of this week. Follow ParlGov on Twitter for more detailed updates.</description>
+    </item>
+    
+    <item>
+      <title>Poland with votes level data</title>
+      <link>/2011/07/12/poland-with-votes-level-data/</link>
+      <pubDate>Tue, 12 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/07/12/poland-with-votes-level-data/</guid>
+      <description>We have finally updated and checked all election results for Poland and coded all parties with more than 0.5% of the vote share in national and EP elections. This has led to a significant extension and partial revision of the party codings due to the volatility of the Polish party system over the last two decades. We have tried to include all relevant information about electoral alliances and links between parties.</description>
+    </item>
+    
+    <item>
+      <title>Cyprus with votes level data</title>
+      <link>/2011/07/05/cyprus-with-votes-level-data/</link>
+      <pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/07/05/cyprus-with-votes-level-data/</guid>
+      <description>We have updated all election results for Cyprus and coded all parties with more than 0.5% of the vote share in national and EP elections.</description>
+    </item>
+    
+    <item>
+      <title>Finland election and cabinet added</title>
+      <link>/2011/06/30/finland-election-and-cabinet-added/</link>
+      <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/06/30/finland-election-and-cabinet-added/</guid>
+      <description>We have added the results of the April election in Finland and the new cabinet under PM Katainen.</description>
+    </item>
+    
+    <item>
+      <title>Portugal election and cabinet added</title>
+      <link>/2011/06/29/portugal-election-and-cabinet-added/</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/06/29/portugal-election-and-cabinet-added/</guid>
+      <description>We have added the results of the recent snap election and the resulting new Passos Coelho cabinet in Portugal. The election followed the resignation of PM Socrates on 23 March after parliament rejected an austerity budget.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia - another cabinet composition change</title>
+      <link>/2011/06/28/slovenia-another-cabinet-composition-change/</link>
+      <pubDate>Tue, 28 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/06/28/slovenia-another-cabinet-composition-change/</guid>
+      <description>There has been another change in the party composition of the Slovenian government when Zares ministers resigned on 27 June. We have added this change by recoding the start date of the Pahor II cabinet.
+This particular recoding highlights one of the cabinet coding rules we have developed. Cabinet terminations as defined by political scientists (election, change party or pm, cabinet resignation) are sometimes followed by additional events that would define a new cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Cyprus election added</title>
+      <link>/2011/06/13/cyprus-election-added/</link>
+      <pubDate>Mon, 13 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/06/13/cyprus-election-added/</guid>
+      <description>We have added the results of the recent election in Cyprus. The new cabinet is derived from our coding rules and no new cabinet formation process has taken place.</description>
+    </item>
+    
+    <item>
+      <title>Slovenia change in cabinet composition</title>
+      <link>/2011/06/07/slovenia-change-in-cabinet-composition/</link>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/06/07/slovenia-change-in-cabinet-composition/</guid>
+      <description>We have now added a new Pahor cabinet following a change in the party composition on 19 May when the last DeSUS minister withdrew from the party. The party previously decided to leave the cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Data infrastructures talk in St. Gallen</title>
+      <link>/2011/04/19/data-infrastructures-talk-in-st.-gallen/</link>
+      <pubDate>Tue, 19 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/04/19/data-infrastructures-talk-in-st.-gallen/</guid>
+      <description>We gave a presentation about our ideas of new data infrastructures in comparative politics at the ECPR Joint Session in St. Gallen at the workshop on Ministerial turnover and ministerial career paths in contemporary democracies. The workshop was organised by members of SEDEPE, a network studying and collecting data on political careers. In the presentation we also summarised our experience from setting up the ParlGov project, its successes and its failures.</description>
+    </item>
+    
+    <item>
+      <title>Estonia election and cabinet added</title>
+      <link>/2011/04/10/estonia-election-and-cabinet-added/</link>
+      <pubDate>Sun, 10 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/04/10/estonia-election-and-cabinet-added/</guid>
+      <description>Results of the recent elections in Estonia and the new Ansip government have been added.</description>
+    </item>
+    
+    <item>
+      <title>Irish election and Kenny government</title>
+      <link>/2011/03/18/irish-election-and-kenny-government/</link>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/03/18/irish-election-and-kenny-government/</guid>
+      <description>We added the results of the February elections in Ireland and the new coalition under PM Kenny. We used the data from RTÉ and may update them once the official results are available.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov on Twitter</title>
+      <link>/2011/03/07/parlgov-on-twitter/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/03/07/parlgov-on-twitter/</guid>
+      <description>We have started to be on Twitter &amp;ndash; twitter.com/ParlGov. These tweets will be a more informal supplement to the news section and hopefully help us to better track the political events we include into ParlGov. It shall give all users a better understanding about the events we follow and about changes to the webpage we apply. Hopefully it will also encourage others to make us aware of events that should be included.</description>
+    </item>
+    
+    <item>
+      <title>Austria with votes level data</title>
+      <link>/2011/02/12/austria-with-votes-level-data/</link>
+      <pubDate>Sat, 12 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/2011/02/12/austria-with-votes-level-data/</guid>
+      <description>We have now added the official election results for Austria and coded all parties with more than 0.5% vote share in national or EP elections. The party system has been rather stable over the last decades so that we had to add only a few new parties.</description>
+    </item>
+    
+    <item>
+      <title>France Fillon III cabinet added</title>
+      <link>/2010/12/18/france-fillon-iii-cabinet-added/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/12/18/france-fillon-iii-cabinet-added/</guid>
+      <description>We have also added the recently formed French cabinet that had previously resigned. The cabinet stepped down to allow President Sarkozy to appoint a new reshuffled cabinet.
+Adding this cabinet was a little delayed by the recent stable release. Most of the new observations are added within a week after an event took place or the official information (election statistics) are available.</description>
+    </item>
+    
+    <item>
+      <title>Mannheim presentation</title>
+      <link>/2010/12/15/mannheim-presentation/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/12/15/mannheim-presentation/</guid>
+      <description>Another Tuesday presentation: Yesterday, we gave a presentation about ParlGov and our ideas on the future of collaborative data collection at the conference &amp;ldquo;Quantifying Europe&amp;rdquo; in Mannheim (Collaborative Research Center SFB 884 &amp;lsquo;Political Economy of Reforms&amp;rsquo; and Mannheim Center for European Social Research [MZES]). It was the first talk that focussed almost exclusively on ParlGov and we discussed potential applications of ParlGov to map political actors in the European Union. We have to thank the organisers and conference participants for very insightful discussions.</description>
+    </item>
+    
+    <item>
+      <title>IHS Vienna talk</title>
+      <link>/2010/12/09/ihs-vienna-talk/</link>
+      <pubDate>Thu, 09 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/12/09/ihs-vienna-talk/</guid>
+      <description>On Tuesday, we gave a public lecture about ParlGov and one of the projects that it originated from at the Institute for Advanced Studies (IHS) in Vienna. In the discussion following the presentation, we have received many valuable comments, feedback and encouragement. Many thanks to Johannes Pollak and Guido Tiemann for inviting and welcoming us at the IHS.</description>
+    </item>
+    
+    <item>
+      <title>EUDO conference</title>
+      <link>/2010/11/24/eudo-conference/</link>
+      <pubDate>Wed, 24 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/24/eudo-conference/</guid>
+      <description>We are cooperating with the European Union Democracy Observatory (EUDO). One of the core projects of EUDO is setting up the EUDO Data Centre which will also host the ParlGov data. There are many advantages of making use of the Dataverse software to distribute data sets.
+Over the past months, we have supported the EUDO Data Centre team and last week&amp;rsquo;s EUDO Dissemination Conference in Brussels was the place to present the current state of the data centre.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 10/11 online -- second stable release</title>
+      <link>/2010/11/16/parlgov-10/11-online-second-stable-release/</link>
+      <pubDate>Tue, 16 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/16/parlgov-10/11-online-second-stable-release/</guid>
+      <description>Today, we have put online the second stable release of our project, ParlGov 10/11. There is an earlier news entry that gives a summary of the changes that come with this new version and the changelog provides a very detailed list of all changes. Most significant for users of previous versions is the change of all id variables as well as most table and variable names. Again, these changes turn ParlGov into a significantly cleaner data structure.</description>
+    </item>
+    
+    <item>
+      <title>Latvian election and cabinet added</title>
+      <link>/2010/11/15/latvian-election-and-cabinet-added/</link>
+      <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/15/latvian-election-and-cabinet-added/</guid>
+      <description>Results of the recent election in Latvia and the new Dombrovskis cabinet have been added.</description>
+    </item>
+    
+    <item>
+      <title>EES party ids added</title>
+      <link>/2010/11/14/ees-party-ids-added/</link>
+      <pubDate>Sun, 14 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/14/ees-party-ids-added/</guid>
+      <description>We have added the party codes of the European Parliament Election Study 2009, Voter Study, Advance Release, 30/06/2010. to our main party table. Here is an example of the Swedish parties. The original data set is available at the website of the PIREDEU project.
+Integrating EES party ids allows us to combine this information with all other data sets that are linked through our party table. One of the goals was it to establish an interface between EES and EUProfiler party ids.</description>
+    </item>
+    
+    <item>
+      <title>Beta version ParlGov 10/11 online</title>
+      <link>/2010/11/10/beta-version-parlgov-10/11-online/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/10/beta-version-parlgov-10/11-online/</guid>
+      <description>A beta version of the next stable relase, ParlGov 10/11 – Autumn 2010, is now available online. We will test and may update it over the next days and plan to relase the next stable version at the beginning of next week.</description>
+    </item>
+    
+    <item>
+      <title>New web design and refactored database launched</title>
+      <link>/2010/11/08/new-web-design-and-refactored-database-launched/</link>
+      <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/08/new-web-design-and-refactored-database-launched/</guid>
+      <description>We have just put online the implementation of our new web design and the refactored database schema.
+Implementing the new design, developed by Jens Hoffmeister from underline webdesign, has kept us busy for the last three months. In addition to applying the new layout, we have used the opportunity to significantly clean up the structure of our html templates. The web design has already been very well received by some of our colleagues who gave their views on the new layout.</description>
+    </item>
+    
+    <item>
+      <title>ZeS is ParlGov&#39;s new home institution</title>
+      <link>/2010/11/03/zes-is-parlgovs-new-home-institution/</link>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/11/03/zes-is-parlgovs-new-home-institution/</guid>
+      <description>We have moved to another university and are now based at the Centre for Social Policy Research (ZeS), University of Bremen.
+For ParlGov, our time at the European University Institute (EUI) and the University of Heidelberg has been very productive. It was the academic year when we released the first public version of the projects and both institutions have provided significant support in finding out how ParlGov is received.
+We keep a connection to the EUI through our cooperation with the EUDO Data Centre project.</description>
+    </item>
+    
+    <item>
+      <title>Dutch government added</title>
+      <link>/2010/10/14/dutch-government-added/</link>
+      <pubDate>Thu, 14 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/10/14/dutch-government-added/</guid>
+      <description>The new Dutch minority cabinet was appointed today and we have added it to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Belgium with votes level data</title>
+      <link>/2010/10/12/belgium-with-votes-level-data/</link>
+      <pubDate>Tue, 12 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/10/12/belgium-with-votes-level-data/</guid>
+      <description>Today (12 October), we finished adding all votes level data for Belgium. For the country, there is a good official source with the results of all national and European Parliament elections and most of our updated information is from this source. Nevertheless, coding the Belgium parties is always a challenge especially for the 1970s. We did our best to link all existing parties. Nevertheless some enhancements may be suggested by country experts later on.</description>
+    </item>
+    
+    <item>
+      <title>Australian election results and new government</title>
+      <link>/2010/10/08/australian-election-results-and-new-government/</link>
+      <pubDate>Fri, 08 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/10/08/australian-election-results-and-new-government/</guid>
+      <description>It takes some time until the final result of an election is determined in Australia, due to the complexity of the electoral system. The election took place in August and a dramatic process of government formation followed. Nevertheless, the official election results have only been presented recently.
+We have added the Australian election and the new minority cabinet to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Sweden election results and government added</title>
+      <link>/2010/10/06/sweden-election-results-and-government-added/</link>
+      <pubDate>Wed, 06 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/10/06/sweden-election-results-and-government-added/</guid>
+      <description>Yesterday (5 October) was an interesting day for students of cabinet formation. The Swedish prime minister presented his new minority cabinet after failing to enlarge his coalition. In the Netherlands, the Christian Democrats party group approved the formation of a new and highly controversial minority government supported by Geert Wilders Freedom Party. In Belgium, coalition talks on government formation have collapsed on the same day.
+We have included the results of the recent elections in Sweden and the new cabinet.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov II -- database refactoring</title>
+      <link>/2010/09/28/parlgov-ii-database-refactoring/</link>
+      <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/09/28/parlgov-ii-database-refactoring/</guid>
+      <description>The second major change for the next ParlGov version will be a major refactoring of our database design. The causes for the need to refactor the structure of our database are similar to the previously described plans to relaunch the web design. Some of the fundamental design decisions were made at the early stages of the project and limit its growth now. Over time, our experience and technical expertise has grown and we are convinced that the benefits of a redesign outweigh the (transformation) costs.</description>
+    </item>
+    
+    <item>
+      <title>Latvia with votes level data</title>
+      <link>/2010/09/19/latvia-with-votes-level-data/</link>
+      <pubDate>Sun, 19 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/09/19/latvia-with-votes-level-data/</guid>
+      <description>We have updated, revised and extended all election results for Latvia and code now all parties with more than 0.5% of the national vote share. Previously, we found some mistakes in the Latvian election results and decided to add all official results.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov II -- new web design</title>
+      <link>/2010/09/09/parlgov-ii-new-web-design/</link>
+      <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/09/09/parlgov-ii-new-web-design/</guid>
+      <description>The next version of ParlGov will include a new web design and we have worked with Jens Hoffmeister from underline webdesign over the last months to give our website a fresh look. Here is an example of the new design.
+The old design with the current layout, logo and colors has not changed over the last five years and there were only some improvements to the navigation. Honestly, it was in strong need of a fresh look.</description>
+    </item>
+    
+    <item>
+      <title>Swiss cabinets added</title>
+      <link>/2010/08/31/swiss-cabinets-added/</link>
+      <pubDate>Tue, 31 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/08/31/swiss-cabinets-added/</guid>
+      <description>We have added all Swiss cabinets into ParlGov. Determining a cabinet for Switzerland according to the four criteria defining a cabinet was a little difficult. We decided not to code a prime minister in the case of Switzerland so that we have one cabinet for every legislative term that ends with an election.</description>
+    </item>
+    
+    <item>
+      <title>Resarch paper published</title>
+      <link>/2010/08/11/resarch-paper-published/</link>
+      <pubDate>Wed, 11 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/08/11/resarch-paper-published/</guid>
+      <description>During his year as a Max Weber Fellow, Holger has written a paper about the more general idea behind ParlGov, shortcomings of contemporary data sets and the future of collaborative data collection in political science. The paper was recently published as EUI Working Paper MWP 2010/21.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov II -- release plan</title>
+      <link>/2010/08/02/parlgov-ii-release-plan/</link>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/08/02/parlgov-ii-release-plan/</guid>
+      <description>We have started to push our work on the next stable version of ParlGov and aim to have a beta version by the end of the month. This new version includes two major changes: a new webdesign and a database refactoring. In addition, it includes recent political events and some data revisions. The changelog in the ParlGov Development wiki lists all data updates. We also aim at fixing all tickets that are assigned to &amp;lsquo;milestone 1.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov and EUDO cooperation</title>
+      <link>/2010/07/23/parlgov-and-eudo-cooperation/</link>
+      <pubDate>Fri, 23 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/07/23/parlgov-and-eudo-cooperation/</guid>
+      <description>Recently, we have started a cooperation with the EUI based European Union Democracy Observatory (EUDO) and we will distribute the most recent stable version of ParlGov in the new EUDO Data Centre.</description>
+    </item>
+    
+    <item>
+      <title>Czech cabinet appointed</title>
+      <link>/2010/07/13/czech-cabinet-appointed/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/07/13/czech-cabinet-appointed/</guid>
+      <description>The new Czech cabinet was appointed today.</description>
+    </item>
+    
+    <item>
+      <title>Slovak cabinet appointed</title>
+      <link>/2010/07/12/slovak-cabinet-appointed/</link>
+      <pubDate>Mon, 12 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/07/12/slovak-cabinet-appointed/</guid>
+      <description>A new Slovak cabinet took office last week.</description>
+    </item>
+    
+    <item>
+      <title>Belgian election added</title>
+      <link>/2010/07/04/belgian-election-added/</link>
+      <pubDate>Sun, 04 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/07/04/belgian-election-added/</guid>
+      <description>On June 13 2010 elections took place in Belgium. We have now added the official results of these elections into ParlGov. The new cabinet has yet to be formed or needs to pass an investiture vote. Once the cabinet has been appointed, we add it as well and leave a short note in this news section.</description>
+    </item>
+    
+    <item>
+      <title>Dutch election added</title>
+      <link>/2010/07/04/dutch-election-added/</link>
+      <pubDate>Sun, 04 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/07/04/dutch-election-added/</guid>
+      <description>On June 9 2010 an election took place in the Netherlands. We have now added the official results of this elections into ParlGov. The new cabinet has yet to be formed or needs to pass an investiture vote. Once the cabinet has been appointed, we add it as well and leave a short note in this news section.</description>
+    </item>
+    
+    <item>
+      <title>Slovakian elections added</title>
+      <link>/2010/07/04/slovakian-elections-added/</link>
+      <pubDate>Sun, 04 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/07/04/slovakian-elections-added/</guid>
+      <description>On June 12 2010 an election took place in Slovakia. We have now added the official results of this election into ParlGov. The new cabinet has yet to be formed or needs to pass an investiture vote. Once the cabinet has been appointed, we add it as well and leave a short note in this news section.</description>
+    </item>
+    
+    <item>
+      <title>Australia with a new prime minister</title>
+      <link>/2010/06/24/australia-with-a-new-prime-minister/</link>
+      <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/06/24/australia-with-a-new-prime-minister/</guid>
+      <description>Kevin Rudd was replaced by Julia Gillard today in a surprise move by the Labor party and a new cabinet formed.</description>
+    </item>
+    
+    <item>
+      <title>new Finnish prime minister</title>
+      <link>/2010/06/22/new-finnish-prime-minister/</link>
+      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/06/22/new-finnish-prime-minister/</guid>
+      <description>Today, Mari Kiviniemi was elected in parliament as prime minister of Finland. The new cabinet includes the same coalition partners as the previous cabinet. The former PM Matti Vanhanen announced his resignation last Friday.</description>
+    </item>
+    
+    <item>
+      <title>Czech Republic election results</title>
+      <link>/2010/06/21/czech-republic-election-results/</link>
+      <pubDate>Mon, 21 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/06/21/czech-republic-election-results/</guid>
+      <description>We have added the results of the recent election to the Chamber of Deputies in the Czech Republic. The new centre-right coalition is expected to take office at the beginning of July.</description>
+    </item>
+    
+    <item>
+      <title>Japan with new government</title>
+      <link>/2010/06/10/japan-with-new-government/</link>
+      <pubDate>Thu, 10 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/06/10/japan-with-new-government/</guid>
+      <description>The new Japanese Prime Minister Naoto Kan was elected in both chambers of the parliament last Friday and ministers of the Kan government were appointed on Tuesday. The new cabinet is now included into ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>RSS news feed and Django upgrade</title>
+      <link>/2010/06/06/rss-news-feed-and-django-upgrade/</link>
+      <pubDate>Sun, 06 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/06/06/rss-news-feed-and-django-upgrade/</guid>
+      <description>The ParlGov website is programmed in Django and we have upgraded to the latest version of the framework. With this upgrade, an RSS feed for the news entries is now available.</description>
+    </item>
+    
+    <item>
+      <title>UK election results and Cameron coalition</title>
+      <link>/2010/06/04/uk-election-results-and-cameron-coalition/</link>
+      <pubDate>Fri, 04 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/06/04/uk-election-results-and-cameron-coalition/</guid>
+      <description>The final results of the recent UK election became only available when the results of the delayed election in the district of Thirsk and Malton were announced. We have added the election results and the new Cameron cabinet into ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Hungarian election results and Orban cabinet</title>
+      <link>/2010/06/03/hungarian-election-results-and-orban-cabinet/</link>
+      <pubDate>Thu, 03 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/06/03/hungarian-election-results-and-orban-cabinet/</guid>
+      <description>We have added the results of the Hungarian parliamentary election that took place in April and the new Orban II government that took office last week.</description>
+    </item>
+    
+    <item>
+      <title>Portugal with votes level data</title>
+      <link>/2010/05/23/portugal-with-votes-level-data/</link>
+      <pubDate>Sun, 23 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/05/23/portugal-with-votes-level-data/</guid>
+      <description>We have finished updating the Portugal data in ParlGov and coded all parties with more than 0.5% vote share and their official election results for national and EP elections.</description>
+    </item>
+    
+    <item>
+      <title>EP turnout data completed</title>
+      <link>/2010/05/22/ep-turnout-data-completed/</link>
+      <pubDate>Sat, 22 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/05/22/ep-turnout-data-completed/</guid>
+      <description>We completed the coding of turnout data for all elections to the European Parliament. In ParlGov, some countries are coded at the vote level others at the seat level only. For the former, we have recorded the official election results for all parties with more than 0.5% of the vote share and turnout data is included in the coding of these countries. For seat level data, we collect only the number of seats and the percentage of votes but plan to add vote level data at some later stage.</description>
+    </item>
+    
+    <item>
+      <title>Finnish cabinets revision</title>
+      <link>/2010/03/30/finnish-cabinets-revision/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/03/30/finnish-cabinets-revision/</guid>
+      <description>We coded the list of Finnish cabinets according to the official website following our coding scheme. We keep a more fine grained list of changes in the wiki.</description>
+    </item>
+    
+    <item>
+      <title>Dutch caretaker government and defector parties added</title>
+      <link>/2010/03/14/dutch-caretaker-government-and-defector-parties-added/</link>
+      <pubDate>Sun, 14 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/03/14/dutch-caretaker-government-and-defector-parties-added/</guid>
+      <description>We coded the fall of the Balkenende IV goverment and the succeeding demissionary cabinet due to the change in party composition. In addition, we also went through all previous Dutch cabinets, added links to their Wikipedia entries and coded defector parties.</description>
+    </item>
+    
+    <item>
+      <title>UK with votes level data</title>
+      <link>/2010/03/12/uk-with-votes-level-data/</link>
+      <pubDate>Fri, 12 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/03/12/uk-with-votes-level-data/</guid>
+      <description>We have coded the United Kingdom election results for all parties with more than 0.5% of the vote now and included the number of votes for these parties. These updates were included in the ParlGov 10/02 release already. Nevertheless, we have now also put up a wiki page with open questions and comments about our codings.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 10/02 — Quo vadis?</title>
+      <link>/2010/02/26/parlgov-10/02-quo-vadis/</link>
+      <pubDate>Fri, 26 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/02/26/parlgov-10/02-quo-vadis/</guid>
+      <description>Just some notes about the status and quality of data in the ParlGov 10/02 release. We have been working with the data in ParlGov for many years. First, this was only an internal project. Over the last year, we have made significant efforts to clean up our data and to document tables, variables and data sources in order to provide a first version about our vision of the future of data collection in political science.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov 10/02 online</title>
+      <link>/2010/02/25/parlgov-10/02-online/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/02/25/parlgov-10/02-online/</guid>
+      <description>We put up a first stable release of ParlGov today – www.parlgov.org. Many thanks for more beta comments from Potsdam and Florence. More information to follow.</description>
+    </item>
+    
+    <item>
+      <title>beta-3 uploaded</title>
+      <link>/2010/02/18/beta-3-uploaded/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/02/18/beta-3-uploaded/</guid>
+      <description>This is the last version uploaded for testing purposes. We fixed some issues with broken links and fine tuned the navigation. There should be no changes to the final version. We will keep this version for a couple of days to test if everything is working properly.</description>
+    </item>
+    
+    <item>
+      <title>beta-2 released</title>
+      <link>/2010/02/08/beta-2-released/</link>
+      <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/02/08/beta-2-released/</guid>
+      <description>This is the second of three beta releases. We have received some valuable comments on the first beta version from colleagues in Cologne, Florence, Heidelberg, Konstanz and Vienna.</description>
+    </item>
+    
+    <item>
+      <title>beta-1 released</title>
+      <link>/2010/02/01/beta-1-released/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/02/01/beta-1-released/</guid>
+      <description>This is the first release used for internal testing. Beta 2 will be released within a week from now.</description>
+    </item>
+    
+    <item>
+      <title>release schedule</title>
+      <link>/2010/01/31/release-schedule/</link>
+      <pubDate>Sun, 31 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/01/31/release-schedule/</guid>
+      <description>A first release of ParlGov was scheduled for January. Let us specify how we proceed with the release. Tomorrow, we will provide a first beta version at www.parlgov.org and will ask for some feedback. To this version, we also have to add some very minor corrections. A week later, we will introduce a second version for testing purposes, including recommendations and fixed open issues. The first official version of our data project will be ParlGov 10/02 (February 2010) and we release it in the third week of February.</description>
+    </item>
+    
+    <item>
+      <title>New Belgian cabinet added</title>
+      <link>/2010/01/13/new-belgian-cabinet-added/</link>
+      <pubDate>Wed, 13 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/01/13/new-belgian-cabinet-added/</guid>
+      <description>The recent formation of the Leterme II cabinet in Belgium has been added to ParlGov. Together with the recently added Boc II cabinet in Romania this should complete all political data in ParlGov until the end of 2009.</description>
+    </item>
+    
+    <item>
+      <title>New Romanian Cabinet added</title>
+      <link>/2010/01/13/new-romanian-cabinet-added/</link>
+      <pubDate>Wed, 13 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/01/13/new-romanian-cabinet-added/</guid>
+      <description>The recent formation of the Boc II cabinet in Romania has been added to ParlGov. Together with the recently added Leterme II cabinet in Belgium this should complete all political data in ParlGov until the end of 2009.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov in Siena</title>
+      <link>/2010/01/12/parlgov-in-siena/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/2010/01/12/parlgov-in-siena/</guid>
+      <description>Today, Holger gave a presentation at the Jean Blondel Tuesday Seminar of the Political Science department from the University of Siena. In the presentation he discussed recent innovations in gathering political science data and presented the ParlGov project. Thanks to Nicolò Conti and Luca Verzichelli for the invitation and the warm welcome in Siena.</description>
+    </item>
+    
+    <item>
+      <title>Greek election and new governments added</title>
+      <link>/2009/11/23/greek-election-and-new-governments-added/</link>
+      <pubDate>Mon, 23 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/11/23/greek-election-and-new-governments-added/</guid>
+      <description>Results from the recent September election in Greece were added to ParlGov. In addition we have added the new Papandreou cabinet to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Portuguese election and cabinet added</title>
+      <link>/2009/11/23/portuguese-election-and-cabinet-added/</link>
+      <pubDate>Mon, 23 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/11/23/portuguese-election-and-cabinet-added/</guid>
+      <description>Results from the recent September elections in Portugal were added to ParlGov. In addition we have added the second Socrates cabinet for Portugal.</description>
+    </item>
+    
+    <item>
+      <title>Short paper about ParlGov available</title>
+      <link>/2009/11/12/short-paper-about-parlgov-available/</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/11/12/short-paper-about-parlgov-available/</guid>
+      <description>We have written a short paper about ParlGov and specified the full title of the project: &amp;ldquo;Parliament and government composition database (ParlGov): An infrastructure for empirical information on parties, elections and governments in modern democracies&amp;rdquo;. The paper provides an introduction about the concept and technologies of ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>Ray party expert survey IDs added</title>
+      <link>/2009/11/08/ray-party-expert-survey-ids-added/</link>
+      <pubDate>Sun, 08 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/11/08/ray-party-expert-survey-ids-added/</guid>
+      <description>Updating ParlGov&amp;rsquo;s party table to the most recent CHESS data required to include the party IDs from the Ray expert survey separately. We have now finished linking all party IDs from the Ray data set. Most of the IDs from CHESS and Ray&amp;rsquo;s data are indentical but be aware that some of them are different.</description>
+    </item>
+    
+    <item>
+      <title>Japanese election and government added</title>
+      <link>/2009/11/01/japanese-election-and-government-added/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/11/01/japanese-election-and-government-added/</guid>
+      <description>Election results and government formation in Japan from September 2009 added to ParlGov. You may also want to have a look at the list of Japanese parties in ParlGov to better understand our efforts of paying attention to details by providing original party names.</description>
+    </item>
+    
+    <item>
+      <title>EP elections 2009 — coding finished</title>
+      <link>/2009/10/31/ep-elections-2009-coding-finished/</link>
+      <pubDate>Sat, 31 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/10/31/ep-elections-2009-coding-finished/</guid>
+      <description>This took a while, but we have now finished adding results of the European Parliament Election 2009 from last June. For most countries we were able to make use of official election results. Adding almost thirty elections, with a lot of electoral alliances took some time. As always, we tried to code all parties with more than 0.5% of the national vote. National elections and government formations that took place before the EP election in June are already included.</description>
+    </item>
+    
+    <item>
+      <title>EU Profiler parties added</title>
+      <link>/2009/10/29/eu-profiler-parties-added/</link>
+      <pubDate>Thu, 29 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/10/29/eu-profiler-parties-added/</guid>
+      <description>Here at the European University Institute, Alexander Trechsel has kindly provided a list of the parties from the EU Profiler project with party names and their IDs. We have now linked all these parties to the ParlGov parties and added the new ones. The full EU Profiler data set will be published in 2010.</description>
+    </item>
+    
+    <item>
+      <title>German cabinet added</title>
+      <link>/2009/10/28/german-cabinet-added/</link>
+      <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/10/28/german-cabinet-added/</guid>
+      <description>ParlGov was started at the MPIfG in Colgone in Germany in 2005 and is the home country of the project leaders. Hence, this is the country were we have most expertise and that we keep updated as a reference country for the coding. Therefore, we have added the new cabinet just at the day when Angela Merkel was re-elected as chancellor in the German Bundestag. To better understand the fine grained coding that we have already included into ParlGov for Germany, have a look at the election results for 1969 and see the coding of changes in the party composition of the Bundestag.</description>
+    </item>
+    
+    <item>
+      <title>CHES data added</title>
+      <link>/2009/10/25/ches-data-added/</link>
+      <pubDate>Sun, 25 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/10/25/ches-data-added/</guid>
+      <description>Chapel Hill Expert Survey Series (CHES) data added to ParlGov. Due to the new structure of the CHES data, there is now a seperate link to the Ray data set.</description>
+    </item>
+    
+    <item>
+      <title>German election results added</title>
+      <link>/2009/10/24/german-election-results-added/</link>
+      <pubDate>Sat, 24 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/10/24/german-election-results-added/</guid>
+      <description>Official German election results from the Bundeswahlleiter added.</description>
+    </item>
+    
+    <item>
+      <title>Bulgarian election and government added</title>
+      <link>/2009/10/10/bulgarian-election-and-government-added/</link>
+      <pubDate>Sat, 10 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/10/10/bulgarian-election-and-government-added/</guid>
+      <description>Recent election results and government formation in Bulgaria from July 2009 added to ParlGov.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov in Turin</title>
+      <link>/2009/09/21/parlgov-in-turin/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/09/21/parlgov-in-turin/</guid>
+      <description>Another presentation of ParlGov in Italy. This time in Turin as part of a workshop at the ECPR Carlo Alberto Summer School on Analytical Politics in Europe. Thanks to Fabio Franchino (University of Milan) for inviting.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov in Rome</title>
+      <link>/2009/09/17/parlgov-in-rome/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/09/17/parlgov-in-rome/</guid>
+      <description>Holger gave a talk at the XXIII Annual Conference of the Italian Society of Political Science (SISP) in a sequence of &amp;ldquo;Short courses in web research&amp;rdquo;. Among other topics, ParlGov and its concept were introduced. Many thanks for the interest in the audience and to Francesco Zucchini (University of Milan) for the invitation.</description>
+    </item>
+    
+    <item>
+      <title>ParlGov in Potsdam</title>
+      <link>/2009/09/10/parlgov-in-potsdam/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/09/10/parlgov-in-potsdam/</guid>
+      <description>5th ECPR General Conference 2009, Potsdam</description>
+    </item>
+    
+    <item>
+      <title>ParlGov in Italy</title>
+      <link>/2009/09/01/parlgov-in-italy/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/09/01/parlgov-in-italy/</guid>
+      <description>Holger has moved to Florence in Italy, where he will spend the academic year as a Max Weber Postdoctoral Fellow at the European University Institute (EUI). Hopefully, many local expertise about the countries we cover in ParlGov will even further improve the data quality.</description>
+    </item>
+    
+    <item>
+      <title>Luxembourg election and new government</title>
+      <link>/2009/08/10/luxembourg-election-and-new-government/</link>
+      <pubDate>Mon, 10 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/08/10/luxembourg-election-and-new-government/</guid>
+      <description>We have included official election results for recent national and EP elections, as well as information about the new cabinet.</description>
+    </item>
+    
+    <item>
+      <title>Adding news section to summarize recent changes</title>
+      <link>/2009/08/08/adding-news-section-to-summarize-recent-changes/</link>
+      <pubDate>Sat, 08 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/08/08/adding-news-section-to-summarize-recent-changes/</guid>
+      <description>This page will log the most recent changes to ParlGov. Some of the significant changes from recent weeks will also be included back-dated.</description>
+    </item>
+    
+    <item>
+      <title>Defector parties column for cabinets</title>
+      <link>/2009/08/07/defector-parties-column-for-cabinets/</link>
+      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/08/07/defector-parties-column-for-cabinets/</guid>
+      <description>The table cab_party now includes an additional column to code defector parties. With this observation we indicate if a party left a governing coaliton. Including this variable was inspired by Tavits&#39; 2008 paper The Role of Parties’ Past Behavior in Coalition Formation.</description>
+    </item>
+    
+    <item>
+      <title>Wiki and ticket system online</title>
+      <link>/2009/08/04/wiki-and-ticket-system-online/</link>
+      <pubDate>Tue, 04 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/08/04/wiki-and-ticket-system-online/</guid>
+      <description>A project management system for ParlGov with a wiki and an issue management system is now online (wiki.parlgov.org). We make use of the Trac system. This software uses a different authentication system and you have to login separately. Use guest and ParlGovGuest to login.</description>
+    </item>
+    
+    <item>
+      <title>Italy data revised</title>
+      <link>/2009/08/03/italy-data-revised/</link>
+      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/08/03/italy-data-revised/</guid>
+      <description>Election results and government composition data on Italy has been thoroughly revised. ParlGov now includes the official election results. Working on Italy has also brought a new table parl_alliance into ParlGov to code the membership in electoral alliances. See the 1994 and succeeding parliamentary election for a wide use of this coding scheme.</description>
+    </item>
+    
+    <item>
+      <title>Central- and East European countries double checked</title>
+      <link>/2009/07/31/central-and-east-european-countries-double-checked/</link>
+      <pubDate>Fri, 31 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/2009/07/31/central-and-east-european-countries-double-checked/</guid>
+      <description>We have finished double checking our data on parties, election outcomes and government compositions for the Central- and East European EU member states. Government composition data was compared to information provided by Müller-Rommel ea. (2008) and EJPR Yearbooks.
+Our electoral results on Central- and Eastern Europe still lack a systematic coding of electoral alliances and an inclusion of official election results. Please let us know if you notice any data bugs.</description>
+    </item>
+    
+  </channel>
+</rss>

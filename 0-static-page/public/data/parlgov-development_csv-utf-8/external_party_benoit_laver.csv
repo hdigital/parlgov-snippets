@@ -1,0 +1,388 @@
+id,Country,Party,PartyName
+1,AL,BK,Party of the Albanian National Front
+14,AL,BLSH,Albanian Liberal Union
+38,AL,PAD,Party of the Democratic Alliance
+64,AL,PAS,Agrarian Party of Albania
+66,AL,PBDNJ,Human Rights' Union Party
+92,AL,PD,Democratic Party
+118,AL,PDr,Reformed Democrat Party
+144,AL,PLL,Movement of Legality Party
+170,AL,PR,Republican Party
+196,AL,PS,Socialist Party of Albania
+222,AL,PSD,Social Democratic Party
+248,BY,APB,Agrarian Party Belarusian
+274,BY,BPF,Belarusian People's Front
+300,BY,BSDH,Belarusian Social-Democratic Hramada
+326,BY,BSDP-NH,Belarusian Social-Democratic Party 'Narodnaya Hramada'
+352,BY,CCP,Conservative-Christian Party of Belarusian People's Front
+378,BY,KPB,Communist Party of Belarus
+404,BY,LDP,Liberal-Democratic Party of Belarus
+430,BY,LP,Labour Party
+456,BY,PKB,Party of Communists Belarusian
+482,BY,UCP,United Civic Party
+508,BY,WP,Women's Party
+534,BA,HDZ,Croatian Democratic Community
+560,BA,PDP,Party for Democratic Progress
+585,BA,SBiH,Party for Bosnia and Hercegovina
+611,BA,SDA,Party of Democratic Action
+636,BA,SDP,Social Democratic Party of Bosnia and Hercegovina
+661,BA,SDS,Serbian Democratic Party
+687,BA,SNSD,Party of Independent Social Democrats
+712,BA,SPRS,Socialist Party of Republic of Srpska
+737,BG,BBB,Bulgarian Business Bloc
+763,BG,BKP,Bulgarian Communist Party
+789,BG,BNDP,Bulgarian national democratic party
+815,BG,BSDP,Bulgarian social-democratic party
+841,BG,BSP,Bulgarian Socialist Party
+867,BG,BZNS,Bulgarian Agricultural National Union
+893,BG,CPB,Citizens' Party for Bulgaria
+894,BG,DPS,Movement for Rights and Freedoms
+920,BG,G,St.George Day Movement
+946,BG,NDST,National movement 'Simeon II'
+972,BG,ODS,Union of Democratic Forces
+998,BG,UFD,Union of Free Democrats
+1016,BG,VMRO,VMRO - Bulgarian National Movement
+1042,HR,DC,Democratic Center
+1068,HR,HB,Croatian Block
+1094,HR,HDZ,Croatian Democratic Community
+1120,HR,HNS,Croatian People's Party
+1146,HR,HSLS,Croatian Social Liberal Party
+1172,HR,HSP,Croatian Rights Party
+1198,HR,HSS,Croatian Peasant Party
+1224,HR,IDS,Istrian Democratic Union
+1250,HR,LIBRA,Party of Liberal Democrats (Libra)
+1276,HR,LS,Liberal Party
+1302,HR,SDP,Social Democratic Party of Croatia
+1328,CZ,CSSD,Czech Social Democratic Party
+1354,CZ,KDU,Christian and Democratic Union-Czechoslovak People
+1380,CZ,KSCM,Communist Party of Bohemia and Moravia
+1406,CZ,MDS,Moravian Democratic Party
+1432,CZ,NKL,National Conservative League (Illegal)
+1458,CZ,ODS,Civic Democratic Party
+1484,CZ,RMS,Republicans of Miroslav Sladek
+1510,CZ,SNK,Association of Independents
+1536,CZ,SZ,Green Party
+1562,CZ,SZJ,Party for Security in Life
+1586,CZ,US,Freedom Union-Democratic Union
+1612,EE,EKRP,Eesti Kristlik Rahvapartei
+1638,EE,ESDTP,Eesti Sotsiaaldemokraatlik Tööpartei
+1664,EE,EÜRP,Eestimaa Ühendatud Rahvapartei
+1690,EE,Isam,Erakond Isamaaliit
+1716,EE,Kesk,Eesti Keskerakond
+1742,EE,Mõõd,Rahvaerakond Mõõdukad
+1768,EE,RL,Eestimaa Rahvaliit
+1794,EE,Ref,Eesti Reformierakond
+1820,EE,ResP,Ühendus Vabariigi Eest - Res Publica
+1846,HU,CENTRUM,Center Party
+1872,HU,FIDESZ,Fidesz – Hungarian Civic Party
+1898,HU,FKGP,Independent Smallholders’ Party
+1924,HU,MDF,Hungarian Democratic Forum
+1950,HU,MIÉP,Hungarian Justice and Life Party
+1976,HU,MSZP,Hungarian Socialist Party
+2002,HU,MUNKÁS,Workers’ Party
+2028,HU,SZDSZ,Alliance of Free Democrats
+2054,LV,JL,New Era
+2080,LV,LPP,Latvia's First Party
+2106,LV,PCTVL,For Human Rights in a United Latvia
+2132,LV,TB/LNNK,Alliance Fatherland and Freedom-LNNK
+2158,LV,TP,People's Party
+2184,LV,TSP,People's Harmony Party
+2210,LV,ZZS,Green and Farmers Union
+2236,LT,LDP,Liberal Democratic Party
+2264,LT,LKD,Lithuanian Christian Democrats
+2292,LT,LKDS,Union of Lithuanian Christian Democrats
+2320,LT,LSDP,Lithuanian Social Democratic Party
+2348,LT,LiCS,Union of Liberals and Center
+2376,LT,NS/SL,New Union- Social Liberals
+2404,LT,TS,"Homeland Union (Conservatives, Christian Democrats, Freedom Fighters)"
+2432,LT,VNDPS,Union of Peasant and New Democracy Parties
+2460,MK,DA,Democratic Alternative
+2486,MK,DPA,Democratic Party of the Albanians
+2512,MK,DS,Democratic Union
+2538,MK,DUI,Democratic Union for Integrations
+2564,MK,LDP,Liberal Democratic Party
+2590,MK,LP,Liberal Party
+2616,MK,PDP,Party for Democratic Prosperity
+2642,MK,SDSM,Social Democratic Union of Macedonia
+2668,MK,SPM,Socialist Party of Macedonia
+2694,MK,VMRO-DPMNE,Democratic Party for Macedonian National Unity
+2720,MD,ASLMN,Social Liberal Alliance 'Our Moldova'
+2746,MD,PCRM,Party of the Communists of the Republic of Moldova
+2772,MD,PDAM,Democratic Agrarian Party of Moldova
+2798,MD,PDM,Democratic Party of Moldova
+2824,MD,PPCD,Christian-Democratic People's Party
+2850,MD,PSD-P,Social Democratic Party-Social Liberal Party
+2876,MD,PSDM,Social-Democratic Party of Moldova
+2902,MD,UCM,Centrist Union of Moldova
+2928,PL,AWS,Solidarity Election Action
+2954,PL,LPR,League of Polish Families
+2980,PL,PO,Citizens' Platform
+3006,PL,PSL,Polish Peasant Party
+3032,PL,PiS,Law and Justice
+3058,PL,ROP,Movement for the Reconstruction of Poland
+3076,PL,S,Self Defence of the Polish Republic
+3102,PL,SLD,Alliance of Democratic Left
+3128,PL,UP,Labour Union
+3154,PL,UPR,Union for Real Politics
+3180,PL,UW,Freedom Union
+3206,PL,ZKPP,ZKP/Proletartiat/KPP/PSPR combined
+3226,RO,PD,Democrat Party
+3252,RO,PNL,National Liberal Party
+3278,RO,PNTCD,Christian Democratuc National Peasants's Party
+3304,RO,PRM,Great Romania Party
+3330,RO,PSD,Social Democratic Party
+3356,RO,PUR,Humanist Party of Romania
+3382,RO,UDMR,Romániai Magyar Demokrata Szövetseg
+3408,RU,ER,United Russia
+3434,RU,KPRF,Communist Party of the Russian Federation
+3460,RU,LDPR,Liberal Democratic Party of Russia
+3486,RU,RODINA,People's Patriotic Block 'Motherland'
+3512,RU,SPS,Union of Right Forces
+3538,RU,YABLOKO,Yabloko
+3564,SR,DA,Democratic Alternative
+3590,SR,DHSS,Christian-Democratic Party of Serbia
+3616,SR,DOS,Democratic Opposition of Serbia
+3642,SR,DSS,Democratic Party of Serbia
+3668,SR,GSS,Civic Alliance of Serbia
+3694,SR,SDP,Social Democratic Party of Serbia
+3720,SR,SNS,Socialist People's Party
+3746,SR,SPO,Serbian Renewal Movement
+3772,SR,SPS,Serb Socialist Party
+3798,SR,SRS,Serb Radical Party
+3824,SR,SSJ,Party of Serb Unity
+3850,SK,ANO,New Civic Alliance
+3876,SK,HZDS,Movement for a Democratic Slovakia
+3902,SK,KDH,Christian Democratic Movement
+3928,SK,KSS,Slovak Communist Party
+3954,SK,LU,People's Union
+3977,SK,OKS,Civic Conservative Party
+4001,SK,RPS,RPS
+4027,SK,SDA,Social-Democratic Alternative
+4053,SK,SDL',Party of Democratic Left
+4079,SK,SKDU,Slovak Democratic and Christian Union
+4105,SK,SMK,Party of the Hungarian Coalition
+4131,SK,SNS,Slovak National Party
+4157,SK,Smer,Party Direction - Third Way
+4183,SI,DeSUS,DemokratiÄna Stranka Upokojencev Slovenije
+4209,SI,LDS,Liberalna Demokracija Slovenije
+4235,SI,NSi,Nova Slovenija-KrÅ¡Äanska Ljudska Stranka
+4261,SI,SDS,Socialdemokratska Stranka Slovenije
+4287,SI,SLS,Slovenska Ljudska Stranka
+4313,SI,SMS,Stranka Mladih Slovenije
+4339,SI,SNS,Slovenska Nacionalna Stranka
+4365,SI,ZLSD,ZdruÅ¾ena Lista Socialnih Demokratov
+4391,UA,DPU-DS,Democratic Party of Ukraine/Democratic Union
+4417,UA,JT,Juliya Tymoshenko Election Blok
+4443,UA,KPU,Communist Party of Ukraine
+4469,UA,NU,Viktor Yushchenko Bloc Our Ukraine
+4495,UA,NV,Nataliya Vitrenko Bloc
+4521,UA,PZU,Green Party of Ukraine
+4547,UA,SDPU,United Social-Democratic Party of Ukraine
+4573,UA,SPU,Socialist Party of Ukraine
+4599,UA,YA,Political   Party 'Yabluko'
+4625,UA,YE,Ukrainian   Party 'Unity'
+4651,UA,ZM,All-Ukrainian  Political Union 'Zhinky za Majbutnie' (Women for the Future)
+4677,UA,ZYU,For United Ukraine
+4703,AU,AD,Australian Democrats
+4721,AU,ALP,Australian Labor Party
+4739,AU,GRN,Australian Greens
+4757,AU,LPA,Liberal Party of Australia
+4775,AU,NP,National Party of Australia
+4793,AU,ON,Pauline Hanson's One Nation
+4811,AT,FPO,Freedom Party of Austria
+4829,AT,Gru,The Greens
+4847,AT,OVP,Austrian People's Party
+4865,AT,SPO,Austrian Social Democratic Party
+4883,BE,CD&V,Christian Democratic & Flemish
+4903,BE,CDH,Humanist Democratic Centre
+4923,BE,Eco,Ecolo
+4943,BE,FN,National Front
+4963,BE,Gro!,Groen!
+4983,BE,MR,Reformist Movement
+5003,BE,N-VA,New Flemish Alliance
+5023,BE,PS,Socialist Party
+5043,BE,SPSp,SP.A-Spirit
+5063,BE,VB,Flemish Block
+5083,BE,VLD,Flemish Liberals and Democrats
+5103,UK,Con,Conservative Party
+5125,UK,LD,Liberal Democrats
+5147,UK,Lab,Labour Party
+5169,UK,PCy,Plaid Cymru
+5191,UK,SNP,Scottish National Party
+5213,CA,BQ,Bloc Québécois
+5233,CA,CA,Canadian Alliance
+5253,CA,GPC,Green Party of Canada
+5273,CA,LPC,Liberal Party of Canada
+5293,CA,NDP,New Democratic Party
+5313,CA,PC,Progressive Conservative Party of Canada
+5333,CY,ADIK,Agonistiko Dimokratiko Kinima
+5351,CY,AKEL,Anorthotikon Komma Ergazemenou Laou
+5369,CY,DIKO,Dimokratikon Komma
+5387,CY,DISI,Dimokratikos Sinagermos
+5405,CY,EDEK,Kinima Sosialdimokraton EDEK
+5423,CY,EDI,Enomeni Dimokrates
+5441,CY,KOP,Kinima Oikologon Perivallontiston
+5459,CY,NEO,Neoi Orizontes
+5477,DK,CD,Centrumdemokraterne
+5495,DK,DF,Dansk Folkeparti
+5513,DK,Enh,Enhedslisten
+5531,DK,FrP,Fremskridtspartiet
+5549,DK,KF,Konservative Folkeparti
+5567,DK,KrF,Kristeligt Folkeparti
+5585,DK,RV,Radikale Venstre
+5603,DK,SD,Socialdemokratiet i Danmark
+5621,DK,SF,Socialistisk Folkeparti
+5639,DK,V,"Venstre, Danmarks liberale parti"
+5657,FI,KD,Suomen Kristillisdemokraatit
+5677,FI,KESK,Suomen Keskusta
+5697,FI,KOK,Kansallinen Kokoomus
+5717,FI,PS,Perussuomalaiset
+5737,FI,SDP,Suomen Sosialidemokraattinen Puolue
+5757,FI,SFP,Svenska Folkepartiet i Finland
+5777,FI,VAS,Vasemmistoliitto
+5797,FI,VIHR,Vihreä Liitto
+5817,FR,FN,Front National
+5831,FR,MPF,Mouvement pour la France
+5845,FR,PCF,Parti Communiste Francais
+5859,FR,PS,Parti Socialiste
+5873,FR,RPF,Rassemblement pour la France
+5887,FR,RPR,Rassemblement pour la Republique
+5901,FR,UDF,Union pour la Democratie Francaise
+5915,FR,UEM,Union en Mouvement
+5929,FR,V,Les Verts
+5943,DE,CDU/C,Christian Democratic Union/Christian Social Union
+5961,DE,DKP,German Communist Party
+5979,DE,DVU,German People’s Union
+5997,DE,FDP,Free Democratic Party
+6015,DE,GRÜ,Green Party
+6033,DE,NPD,National Democratic Party
+6051,DE,PDS,Party of Democratic Socialism
+6069,DE,Rep,Republicans
+6087,DE,SPD,Social Democratic Party of Germany
+6105,DE,Schil,Partei Rechtsstaatlicher Offensive
+6123,GR,KKE,Kommunistiko Koma Ellados
+6143,GR,ND,Nea Dimokratia
+6163,GR,PASOK,Panellinio Sosialistiko Kinima
+6183,GR,SYN,Synaspismos
+6203,IS,X-B,Framsóknarflokkurinn
+6217,IS,X-D,Sjálfstæðisflokkurinn
+6231,IS,X-F,Frjáslyndi Flokkurin
+6245,IS,X-N,Nytt afl
+6259,IS,X-S,Samfylkingin (alliance)
+6273,IS,X-U,Vinstrihreyfing - Grænt framboð
+6287,IE,FF,Fianna F&aacute;il
+6307,IE,FG,Fine Gael
+6327,IE,GR,Greens
+6347,IE,LB,Labour
+6367,IE,PD,Progressive Democrats
+6387,IE,SF,Sinn F&eacute;in
+6407,IL,AE,Am Ekhad (One Nation)
+6423,IL,Bala,Al Tahammmy al-Tatani al-Dimiqrati
+6439,IL,Hada,Hazit Democratit le-Shalom ve-Shivayon
+6455,IL,IHUD,IHUD LEUMI (National Unity)
+6471,IL,Lab,Labor
+6488,IL,Lik,Likud
+6505,IL,Merz,Meretz
+6522,IL,NRP,National Religious Party
+6539,IL,Raam,United Arab List
+6555,IL,Shas,Shas
+6572,IL,Shin,Shinui
+6589,IL,YhT,Yahadut HaTorah
+6606,IT,AN,Alleanza Nazionale
+6626,IT,DS,Democratici di Sinistra
+6646,IT,FI,Forza Italia
+6666,IT,Green,Federazione dei Verdi
+6686,IT,It.Val.,Lista di Pietro Italia dei Valori
+6706,IT,LN,Lega Nord
+6726,IT,MSFT,Movimento Sociale Fiamma Tricolore
+6746,IT,Marg,La Margherita
+6766,IT,PDCI,Partito dei Comunisti Italiani
+6786,IT,Pann,Lista Pannella Bonino
+6806,IT,RC,Rifondazione Comunista
+6826,IT,SDI,Socialisti Democratici Italiani
+6846,IT,UDC,Unione di Centro
+6866,LU,ADR,Action Comity for Democracy and Pensions Justice
+6886,LU,CSV,Christian Social People's Party
+6906,LU,DL,The Left
+6926,LU,DP,Democratic Party
+6946,LU,G,The Green
+6966,LU,LSAP,Luxembourg Socialist Workers' Party
+6986,MT,AD,Democratic Alternative
+7004,MT,MLP,Malta Labour Party
+7022,MT,NP,Nationalist Party
+7040,NL,CDA,Christen Democratisch Appe`l
+7060,NL,CU,ChristenUnie
+7080,NL,D66,Democraten 66
+7100,NL,GL,Groen Links
+7120,NL,LPF,Lijst Pim Fortuyn
+7140,NL,PvdA,Partij van de Arbeid
+7160,NL,SGP,Staatkundig Gereformeerde Partij
+7180,NL,SP,Socialistische Partij
+7200,NL,VVD,Volkspartij voor Vrijheid en Democratie
+7220,NZ,ACT,ACT New Zealand
+7236,NZ,Allc,Alliance
+7252,NZ,GPA,Green Party of Aotearoa
+7268,NZ,NP,New Zealand National Party
+7284,NZ,NZFP,New Zealand First Party
+7300,NZ,NZLP,New Zealand Labour Party
+7316,NZ,PC,Jim Anderton's Progressive Coalition
+7332,NZ,UF,United Future New Zealand
+7348,NI,APNI,Alliance Party of Northern Ireland
+7368,NI,DUP,Democratic Unionist Party
+7388,NI,NIWC,Northern Ireland Women's Coalition
+7408,NI,PUP,Progressive Unionist Party
+7428,NI,SDLP,Social Democratic and Labour Party
+7448,NI,SF,Sinn Fein
+7468,NI,UUP,Ulster Unionist Party
+7488,NO,DNA,Det Norske Arbeiderparti
+7506,NO,FrP,Fremskrittspartiet
+7524,NO,H,Høyre
+7542,NO,KrF,Kristelig Folkeparti
+7560,NO,RV,Rød Valgallianse
+7578,NO,SV,Sosialistisk Venstreparti
+7596,NO,Sp,Senterpartiet
+7614,NO,V,Venstre
+7632,PT,BE,Left Block
+7650,PT,CDS/PP,People's Party
+7668,PT,PCP,Portuguese Communist Party
+7686,PT,PEV,Ecology Party- Greens
+7704,PT,PS,Socialist Party
+7722,PT,PSD,Social Democratic Party
+7740,ES,CiU,Convergència i Unió de Catalunya
+7760,ES,IU,Izquerda Unida
+7780,ES,PNV,Partido Nacionalista Vasco
+7800,ES,PP,Partido Popular
+7820,ES,PSOE,Partido Socialista Obrero Español
+7840,SE,C,Centerpartiet
+7860,SE,FP,Folkpartiet Liberalerna
+7880,SE,KD,Kristdemokraterna
+7900,SE,M,Moderata Samlingspartiet
+7920,SE,MP,Miljöpartiet de Gröna
+7940,SE,SAP,Socialdemokratiska Arbetarepartiet
+7960,SE,V,Vänsterpartiet
+7980,CH,CVP,Christlich-Demokratische Volkspartei der Schweiz
+7996,CH,EDU,Eidgenšssische Demokratische Union
+8012,CH,EVP,Evangelische Volkspartei der Schweiz
+8028,CH,FDP,Freisinnig-Demokratische Partei der Schweiz
+8044,CH,GPS,GrŸne Partei der Schweiz
+8060,CH,LPS,Liberale Partei der Schweiz
+8076,CH,PdA,Partei der Arbeit der Schweiz
+8092,CH,SD,Schweizer Demokraten
+8108,CH,SPS,Sozialdemokratische Partei der Schweiz
+8124,CH,SVP,Schweizerische Volkspartei
+8140,TR,AKP,Adalet ve Kalkinma Partisi
+8162,TR,ANAP,Anavatan Partisi
+8184,TR,CHP,Cumhuriyet Halk Partisi
+8206,TR,DEHAP,Demokratik Halk Partisi
+8228,TR,DSP,Demokratik Sol Partisi
+8250,TR,DYP,Dogru Yol Partisi
+8272,TR,GP,Genç Parti
+8294,TR,MHP,Milliyetçi Hareket Partisi
+8316,US,Dem,Democratic Party
+8334,US,Rep,Republican Party
+8352,JP,DP,Democratic Party
+8376,JP,JCP,Japan Communist Party
+8400,JP,Kom.,Komeito
+8424,JP,LDP,Liberal Democratic Party
+8448,JP,NCP,New Conservative Party
+8472,JP,SDP,Social Democratic Party

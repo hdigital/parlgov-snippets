@@ -1,0 +1,212 @@
+id,country,name,name_english
+1040320,AT,SPÖ,Social Democratic Party of Austria
+1040520,AT,ÖVP,Austrian Peoples Party
+1040420,AT,FPÖ,Freedom Party of Austria
+1040600,AT,BZÖ,Alliance for the Future of Austria
+1040110,AT,GRÜNE,The Greens
+1040951,AT,Liste Hans Peter Martin,Hans-Peter Martins List
+1040422,AT,Junge Liberale,Young Liberals
+1040220,AT,KPÖ,Communist Party of Austria
+1056521,BE,CD&V,Christian Democratic and Flemish Party
+1056421,BE,Open VLD,Flemish Liberals and Democrats
+1056327,BE,Socialistische Partij- Anders SP.a,Socialist Party Different
+1056711,BE,Vlaams Belang,Flemish Interest
+1056112,BE,Groen!,Green!
+1056913,BE,N-VA,New Flemish Alliance
+1056600,BE,Lijst Dedecker (LDD),List Dedecker
+1056328,BE,SLP (was Spirit),Social Liberal Party
+1056222,BE,PVDA+ (Partij van de Arbeid plus),Workers Party of Belgium
+1056522,BE,Centre Démocrate Humaniste (CDH),Humanist Democratic Centre
+1056427,BE,Mouvement Réformateur (MR),Reformist Movement
+1056322,BE,Parti Socialiste (PS),Socialist Party
+1056710,BE,Front National (FN),National Front
+1056111,BE,Écologistes (ECOLO),Ecolo
+1100300,BG,Коалиция за България,Coalition for Bulgaria (BSP)
+1100400,BG,НДСВ - Национално движение за стабилност и възход,National Movement for Stability and Progress (NDSV)
+1100900,BG,ДПС - Движение за права и свободи,Movement for Rights and Freedoms (DPS)
+1100700,BG,Национален съюз Атака,National Union Attack (ATAKA)
+1100600,BG,ГЕРБ - Граждани за европейско развитие на България,Citizens for European Development of Bulgaria (GERB)
+1100001,BG,Синята Коалиция,Blue Coalition (SDS-DSB)
+1100002,BG,Движение Напред,NAPRED
+1100601,BG,"Ред, законност и справедливост","Order, Lawfulness, and Justice (RZS)"
+1196321,CY,ΑΚΕΛ,Progressive Party of Working People
+1196711,CY,ΔΗΣΥ,Democratic Rally
+1196422,CY,ΔΗΚΟ,Democratic Party
+1196322,CY,ΕΔΕΚ,Movement for Social Democracy
+1196600,CY,ΕΥΡΩΠΑΪΚΟ ΚΟΜΜΑ (ΕΥΡΩ.ΚΟ.).,European Party
+1196110,CY,ΚΙΝΗΜΑ ΟΙΚΟΛΟΓΩΝ ΠΕΡΙΒΑΛΛΟΝΤΙΣΤΩΝ (Κ.Ο.Π).,Ecological and Environmental Movement
+1203320,CZ,CSSD,Czech Social Democratic Party
+1203523,CZ,KDU-CSL,Christian and Democratic Union-Czechoslovak Peoples Party
+1203220,CZ,KSCM,Communist Party of Bohemia and Moravia
+1203413,CZ,ODS,Civic Democratic Party
+1203110,CZ,SZ (Strana zelených),Green Party
+1276521,DE,CDU/CSU,Christian Democratic Union/Christian Social Union
+1276320,DE,SPD,Social Democratic Party
+1276113,DE,B90/Die Grünen,Alliance 90 + The Greens
+1276321,DE,Linke,The Left
+1276420,DE,FDP,Free Democratic Party
+1208320,DK,Socialdemokraterne,Social Democrats
+1208410,DK,Det Radikale Venstre,Danish Social Liberal Party
+1208620,DK,De Konservative,Conservative Peoples Party
+1208230,DK,Socialistisk Folkeparti,Socialist Peoples Party
+1208720,DK,Dansk Folkeparti,Danish Peoples Party
+1208420,DK,Venstre,Liberal Party
+1208421,DK,Liberal Alliance,Liberal Alliance
+1208955,DK,Junibevægelsen,June Movement
+1208954,DK,Folkebevægelsen mod EU,Peoples Movement against the EU
+1233430,EE,Eesti Reformierakond,Eesti Reformierakond
+1233411,EE,Eesti Keskerakond,Eesti Keskerakond
+1233613,EE,Isamaa ja Res Publica Liit,Isamaa ja Res Publica Liit
+1233410,EE,Sotsiaaldemokraatlik Erakond,Sotsiaaldemokraatlik Erakond
+1233100,EE,Erakond Eestimaa Rohelised,Erakond Eestimaa Rohelised
+1233612,EE,Eestimaa Rahvaliit,Eestimaa Rahvaliit
+1300511,GR,ΝΔ,New Democracy
+1300313,GR,ΠΑΣΟΚ,Panhellenic Socialist Movement
+1300210,GR,ΚΚΕ,Communist Party of Greece
+1300215,GR,ΣΥΡΙΖΑ,Coalition of the Radical Left
+1300703,GR,ΛΑΟΣ,Popular Orthodox Rally
+1300116,GR,ΟΙΚΟΛΟΓΟΙ – ΠΡΑΣΙΝΟΙ,Ecologist Greens
+1724610,ES,PP (Partido Popular),Peoples Party
+1724320,ES,PSOE (Partido Socialista Obrero Español),Spanish Socialist Workers Party
+1724220,ES,IU (Izquierda Unida) - IC-V (Iniciativa per Catalunya - Verds),United Left
+1724010,ES,UPyD (Unión Progreso y Democracia),"Union, Progress, and Democracy"
+1724007,ES,CiU (Convergencia i Unió),Convergence and Union
+1724905,ES,ERC (Esquerra Republicana de Catalunya),Republican Left of Catalonia
+1724902,ES,EAJ-PNV (Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco),Basque Nationalist Party
+1724908,ES,BNG (Bloque Nacionalista Galego),Galician Nationaist Bloc
+1724907,ES,CC-PNC (Coalición Canaria-Partido Nacionalista Canario),Canarian Coalition
+1724923,ES,NA-BAI (Nafarroa Bai),Navarre Yes
+1724903,ES,EA  (Eusko Alkartasuna),Basque Social Democracy
+1724922,ES,UPN (Unión del Pueblo Navarro),Navarrese Peoples Union
+1246320,FI,SDP (Suomen Sosialidemokraattinen Puolue),Social Democratic Party of Finland
+1246810,FI,KESK (Suomen Keskusta),Centre Party
+1246620,FI,KOK (Kansallinen Kokoomus),National Coalition Party
+1246223,FI,VAS (Vasemmistoliitto),Left Alliance
+1246110,FI,VIHR (Vihreä liitto),Green League
+1246901,FI,RKP (Ruotsalainen kansanpuolue),Swedish Peoples Party
+1246520,FI,KD (Suomen Kristillisdemokraatit),Christian Democrats in Finland
+1246820,FI,PS (Perussuomalaiset),True Finns
+1250226,FR,"Extrême gauche (LO/NPA, le parti d’Olivier Besancenot)","Extreme left (New Anticapitalist Party, Workers Struggle)"
+1250220,FR,PCF,French Communist Party
+1250320,FR,PS,Socialist Party
+1250110,FR,Les Verts,The Greens
+1250336,FR,MoDem,Democratic Movement
+1250626,FR,UMP,Union for a Popular Movement
+1250720,FR,FN,National Front
+1250337,FR,Le parti de gauche,Left Party
+1348421,HU,Fidesz-Magyar Polgári Párt,Fidesz-Hungarian Civic Union
+1348700,HU,Jobbik,Movement for a Better Hungary
+1348210,HU,Magyar Kommunista Munkáspárt,Hungarian Communist Workers Party
+1348521,HU,"MDF, Magyar Demokrata Fórum",Hungarian Democratic Forum
+1348220,HU,"MSZP, Magyar Szocialista Párt",Hungarian Socialist Party
+1348422,HU,"SZDSZ, Szabad Demokraták Szövetsége",Alliance of Free Democrats
+1348526,HU,"KDNP, Kereszténydemokrata Néppárt",Christian Democratic Peoples Party
+1372620,IE,Fianna Fail,Fianna Fail
+1372520,IE,Fine Gael,Fine Gael
+1372110,IE,Green Party,Green Party
+1372320,IE,Labour Party,Labour Party
+1372951,IE,Sinn Fein,Sinn Fein
+1372001,IE,Libertas,Libertas
+1372000,IE,an independent candidate,An independent candidate*
+1380630,IT,Popolo della Liberta,The People of Freedom
+1380720,IT,Lega Nord,North League
+1380331,IT,Partido Democratico,Democratic Party
+1380902,IT,Italia dei Valori,Italy of Values
+1380523,IT,Unione di Centro,Union of Christian and Centre Democrats
+1380212,IT,Rifondazione – Comunisti Italiani,Communist Refoundation Party
+1380007,IT,Sinistra e Libertà,Left and Freedom
+1380631,IT,La Destra,The Right
+1440620,LT,Tėvynės sąjunga – Lietuvos krikscionys demokratai,Homeland Union - Lithuanian Christian Democrats
+1440320,LT,Lietuvos socialdemokratų partija,Social Democratic Party of Lithuania
+1440001,LT,Tautos prisikėlimo partija,National Resurrection Party
+1440621,LT,Partija “Tvarka ir teisingumas”,Order and Justice Party
+1440421,LT,Lietuvos Respublikos liberalų sąjūdis,Liberals Movement of the Republic of Lithuania
+1440322,LT,Darbo partija,Labour Party
+1440420,LT,Liberalų ir centro sąjunga,Liberal and Centre Union
+1440952,LT,Lietuvos lenkų rinkimų akcija,Election Action of Lithuanias Poles
+1440524,LT,Lietuvos valstiečių liaudininkų sąjunga,Lithuanian Peasant Popular Union
+1440410,LT,Naujoji sąjunga (socialliberalai),New Union Social Liberals
+1442113,LU,Déi Gréng,The Greens
+1442320,LU,LSAP,Luxembourg Socialist Workers Party
+1442420,LU,DP,Democratic Party
+1442520,LU,CSV,Christian Social Peoples Party
+1442951,LU,ADR,Alternative Democratic Reform Party
+1442222,LU,Déi Lénk,The Left
+1442220,LU,KPL,Communist Party of Luxembourg
+1442009,LU,Bierger Lëscht (BL),Citizens List
+1428610,LV,Tautas partija,Peoples Party
+1428110,LV,Zaļo un Zemnieku savienība,Union of Greens and Farmers
+1428423,LV,Jaunais laiks,New Era Party
+1428317,LV,“Saskaņas Centrs”,Harmony Centre
+1428424,LV,Latvijas Pirmās partijas un partijas “Latvijas Ceļš” vēlēšanu apvienība,Latvias First Party/Latvias Way
+1428723,LV,Apvienība “Tēvzemei un Brīvībai”/LNNK,For Fatherland and Freedom
+1428422,LV,Politisko organizāciju apvienība “Par cilvēka tiesībām vienotā Latvijā”,For Human Rights in United Latvia
+1428611,LV,Pilsoniskā savienība,Civic Union
+1428425,LV,“Sabiedrība citai politikai“,Society for Other Politics
+1470500,MT,Partit Nazzjonalista,Nationalist Party
+1470300,MT,Partit Laburista,Labour Party
+1470100,MT,Alternativa Demokratika,Democratic Alternative
+1470700,MT,Azzjoni Nazzjonali,National Action
+1528320,NL,PvdA,Labour Party
+1528521,NL,CDA,Christian Democratic Appeal
+1528420,NL,VVD,Peoples Party for Freedom and Democracy
+1528330,NL,D66,Democrats 66
+1528110,NL,Groen Links,Green Left
+1528006,NL,Partij voor de Dieren (PvdD),Party for Animals
+1528526,NL,ChristenUnie,Christian Union
+1528527,NL,SGP,Reformed Political Party
+1528220,NL,SP,Socialist Party
+1528600,NL,PVV (Wilders),Party for Freedom
+1528726,NL,Trots op Nederland TON (Verdonk),Proud of the Netherlands
+1616811,PL,Polskie Stronnictwo Ludowe,Polish Peoples Party
+1616010,PL,Libertas,Libertas
+1616011,PL,Koalicyjny Komitet Wyborczy Porozumienie dla Przyszłości - CentroLewica (PD+SDPL+Zieloni 2004),Coalition Agreement for the Future - CenterLeft
+1616210,PL,Sojusz Lewicy Demokratycznej (SLD),Democratic Left Alliance
+1616435,PL,Platforma Obywatelska,Civic Platform
+1616436,PL,Prawo i Sprawiedliwość,Law and Justice
+1620211,PT,Bloco de Esquerda,Left Bloc
+1620314,PT,CDS-PP,Democratic and Social Center - Peoples Party
+1620229,PT,CDU (PCP/PEV),Democratic Union Coalition (Portuguese Communist Party and the Greens)
+1620311,PT,PS,Socialist Party
+1620313,PT,PSD,Social Democratic Party
+1642400,RO,"Partidul Democrat-Liberal, PD-L",Democratic Liberal Party
+1642300,RO,"Partidul Social Democrat, PSD",Social Democratic Party
+1642401,RO,"Partidul Naţional Liberal, PNL",National Liberal Party
+1642900,RO,"Uniunea Democrată Maghiară din România, UDMR",Democratic Union of Hungarians in Romania
+1642600,RO,"Partidul Conservator, PC",Conservative Party
+1642800,RO,"Partidul Naţional Ţărănesc Creştin Democrat, PNŢ-CD",Christian-Democratic National Peasants Party
+1642700,RO,"Partidul România Mare, PRM",Greater Romania Party
+1752220,SE,Vänsterpartiet,Left Party
+1752320,SE,Socialdemokraterna,Social Democrats
+1752810,SE,Centerpartiet,Centre Party
+1752420,SE,Folkpartiet,Liberal Peoples Party
+1752620,SE,Moderaterna,Moderate Party
+1752520,SE,Kristdemokraterna,Christian Democrats
+1752110,SE,Miljöpartiet,Green Party
+1752700,SE,Sverigedemokraterna,Sweden Democrats
+1752000,SE,Piratpartiet,Pirate Party
+1705951,SI,DESUS – Demokratična stranka upokojencev Slovenije,Democratic Party of Pensioners of Slovenia
+1705421,SI,LDS – Liberalna demokracija Slovenije,Liberal Democracy of Slovenia
+1705521,SI,SLS – Slovenska ljudska stranka,Slovenian Peoples Party
+1705710,SI,SNS – Slovenska nacionalna stranka,Slovenian National Party
+1705320,SI,SDS – Slovenska demokratska stranka,Slovenian Democratic Party
+1705323,SI,SD – Socialni demokrati,Social Democrats
+1705324,SI,ZARES – nova politika,For Real
+1705522,SI,NSi – Nova Slovenija – krščanska ljudska stranka,New Slovenia - Christian Peoples Party
+1705952,SI,SMS – Stranka mladih Slovenije,Youth Party
+1703711,SK,L’S-HZDS,Peoples Party - Movement for Democratic Slovakia
+1703423,SK,SMER,Direction - Social Democracy
+1703523,SK,SDKÚ,Slovak Democratic and Christian Union
+1703954,SK,SMK,SMK
+1703521,SK,KDH,Christian Democratic Movement
+1703710,SK,SNS,Slovak National Party
+1703222,SK,KSS,Communist Party of Slovakia
+1703524,SK,Slobodné forum – SF,Free Forum
+1826320,UK,Labour,Labour
+1826620,UK,Conservatives,Conservatives
+1826421,UK,Liberal Democrats,Liberal Democrats
+1826902,UK,Scottish National Party,Scottish National Party
+1826901,UK,Plaid Cymru,Plaid Cymru
+1826951,UK,UK Independence Party,UK Independence Party (UKIP)
+1826720,UK,British National Party,British National Party (BNP)
+1826110,UK,Green Party,Green Party

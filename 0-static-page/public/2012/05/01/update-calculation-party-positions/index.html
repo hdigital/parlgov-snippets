@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.87.0" />
+
+
+<title>Update calculation party positions - ParlGov website</title>
+<meta property="og:title" content="Update calculation party positions - ParlGov website">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="/data-info/">Data</a></li>
+    
+    <li><a href="https://dataverse.harvard.edu/dataverse/parlgov">Dataverse</a></li>
+    
+    <li><a href="https://github.com/rstudio/blogdown">GitHub</a></li>
+    
+    <li><a href="https://twitter.com/parlgov">Twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title">Update calculation party positions</h1>
+
+    
+    <span class="article-date">2012-05-01</span>
+    
+
+    <div class="article-content">
+      <p>ParlGov party positions are based on various party expert surveys (Castles/Mair 1983, Huber/Inglehart 1995, Ray 1999, Benoit/Laver 2006 and CHESS 2010). These positions are just the mean value of all observations available from these sources in a particular dimension (left_right, state_market, liberty_authority, eu_anti_pro).</p>
+<p>There was a bug in the scripts that converted the data from Benoit/Laver and not all positions from the data set were included into the calculation. We became aware of the issue, when someone pointed out the extremely moderate left/right position of the German far-right NPD in ParlGov. We have now solved the issue and include data on all relevant dimensions from Benoit/Laver into the calculation. This also solves the issue of having information in the left/right dimension for some minor parties instead of using the state/market dimension.</p>
+<p>While updating the position data we have also renamed the variables for the EU dimension from ‘eu_pro_contra’ into ‘eu_anti_pro’ since lower values on the scale present eurosceptic positions.</p>
+<p><img src="/images/parliament-germany.jpg" alt=""></p>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+
