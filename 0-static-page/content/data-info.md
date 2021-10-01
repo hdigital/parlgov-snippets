@@ -10,7 +10,7 @@ Data __ParlGov development version__ (15. Sep. 2021)
 + Main tables:
   [parties](/data/parlgov-development_csv-utf-8/view_party.csv) ·
   [elections](/data/parlgov-development_csv-utf-8/view_election.csv) ·
-  [cabinets](/data/parlgov-development_csv-utf-8/view_election.csv)
+  [cabinets](/data/parlgov-development_csv-utf-8/view_cabinet.csv)
 + Spreadsheet: [Excel]() and [Google
   Docs](https://docs.google.com/spreadsheets/d/1U414KqGI5c_ZnSS-_zuWHNPvbze15rNkBcrrIpBwQiw/edit?usp=sharing)
   (public sheet)
