@@ -14,8 +14,8 @@
       
       <guid>/data-info/</guid>
       <description>Note Data ParlGov development version (15. Sep. 2021)
- Main tables: parties · elections · cabinets Spreadsheet: Excel and Google Docs (public sheet) Database: SQLite Codebook: pdf  Links All data available
- previously at http://www.parlgov.org/static/data/* now at https://parlgov.org/static/data/*   </description>
+ Main tables: parties · elections · cabinets Spreadsheet: Excel and Google Docs (public sheet) All tables: zipped csv-file Database: SQLite Codebook: pdf  Links All data available
+ previously at http://www.parlgov.org/static/data/parlgov-development_csv-utf-8/ now at https://parlgov.org/data/parlgov-development_csv-utf-8/   </description>
     </item>
     
     <item>

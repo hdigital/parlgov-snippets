@@ -22,8 +22,8 @@ Data __ParlGov development version__ (15. Sep. 2021)
 
 All data available
 
-+ previously at `http://www.parlgov.org/static/data/parlgov-development_csv-utf-8/*`
-+ now at `https://parlgov.org/data/parlgov-development_csv-utf-8/*`
++ previously at `http://www.parlgov.org/static/data/parlgov-development_csv-utf-8/`
++ now at [`https://parlgov.org/data/parlgov-development_csv-utf-8/`](https://parlgov.org/data/parlgov-development_csv-utf-8/)
 
 ---
 
