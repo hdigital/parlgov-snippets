@@ -5,7 +5,7 @@ title: Data
 
 ## Note
 
-Data __ParlGov development version__ (15. Sep. 2021)
+Data __ParlGov development version__ (29. April. 2022)
 
 + Main tables:
   [parties](/data/parlgov-development_csv-utf-8/view_party.csv) ·
