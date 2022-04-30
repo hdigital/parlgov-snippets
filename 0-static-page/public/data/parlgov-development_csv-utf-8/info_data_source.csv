@@ -157,7 +157,6 @@ Klingemann, Hans-Dieter, Andrea Volkens, Judith Bara, Ian Budge, and Michael McD
 151,pol-hu,Politics.hu,Politics.hu,http://www.politics.hu/
 152,leta,LETA,Nacionālā ziņu aģentūra LETA (National News Agency LETA),http://www.leta.lv/eng/index.php
 153,tom,Times of Malta,Times of Malta,http://www.timesofmalta.com/
-154,agerpres,National News Agency - AGERPRES,National News Agency - AGERPRES (Romania),http://www.agerpres.ro/english/index.php/english.html
 155,ec-nz,Electoral Commission,Electoral Commission (New Zealand) ,http://www.electionresults.govt.nz/
 156,boe,Boletín Oficial del Estado (BOE),Boletín Oficial del Estado (Official Bulletin of the State),http://www.boe.es/
 157,sw-in,Swissinfo,Swissinfo – Swiss Broadcasting Corporation,http://www.swissinfo.ch/eng/index.html
@@ -279,8 +278,7 @@ McHale, Vincent E., ed. 1983b. Political Parties of Europe: Poland -- Yugoslavia
 264,rnz,RNZ,Radio New Zealand,http://www.radionz.co.nz/
 265,local,The Local,The Local (various countries),https://www.thelocal.com/
 266,dn,Dutch News,Dutch News,https://www.dutchnews.nl/
-267,vs14,Schröder (2014),"Schröder, Valentin. 2014. “Is Negative Parliamentarism Sometimes No Parliamentarism after All? Evidence on Tiered Systems of Power Separation from the Weimar Republic, 1920–1933.” In Salamanca, Spain.
-",
+267,vs14,Schröder (2014),"Schröder, Valentin and Philip Manow. 2014. Is negative parliamentarism sometimes no parliamentarism after all? Evidence on tiered systems of power separation from the Weimar Republic, 1920–1933. 42nd ECPR Joint Sessions of Workshops, University of Salamanca, Spain, 13.04.2014.",
 268,chisols,CHISOLS dataset,"Mattes, Michaela, Brett Ashley Leeds, and Naoko Matsumura. 2016. “Measuring Change in Source of Leader Support: The CHISOLS Dataset.” Journal of Peace Research 53(2): 259–67.",http://www.chisols.org/
 269,onb,Österreichische Nationalbibliothek,Österreichische Nationalbibliothek (Austrian National Library),https://www.onb.ac.at/
 270,tcd,Trinity College Dublin,"Trinity College Dublin, The University of Dublin",https://www.tcd.ie/
@@ -299,3 +297,6 @@ McHale, Vincent E., ed. 1983b. Political Parties of Europe: Poland -- Yugoslavia
 282,xna,XNA,Xinhua News Agency,http://www.xinhuanet.com/english/
 283,emw,EMW,EmergingMarketWatch,https://emergingmarketwatch.com/
 284,bbe-21,Bergman ea. 2021,"Bergman, Torbjörn, Hanna Back, and Johan Hellström, eds. 2021. Coalition Governance in Western Europe. Oxford, New York: Oxford University Press.",
+285,belga,Belga,Agence Belga,
+286,riksdagen,Riksdagen,Riksdagen,
+287,psp,Parliament Czechia ,Parliament of the Czech Republic — Chamber of Deputies,https://www.psp.cz/

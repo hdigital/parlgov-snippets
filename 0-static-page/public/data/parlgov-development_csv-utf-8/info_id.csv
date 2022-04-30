@@ -82,8 +82,6 @@ id,table_variable,order,short,name,description,wikipedia,old_id
 101,party_family,502,one-seat,one seat,Parties that won one seat in a single election and less than one percent vote share.,,
 102,party_family,513,no-party,no party,used for entries that are no parties and were this proporty does not follow from the party family classification ('no family'),,
 103,party_family,301,mio,Millionaire,party created by business person with significant private funding,,
-104,news_group,1,recent,recent election/cabinet,,,
-106,news_group,10,change,change data,,,
 107,news_type,1,recent,recent event,,,
 108,news_type,90,votes,votes level,,,
 109,news_type,9,change,change data,,,
@@ -99,3 +97,4 @@ id,table_variable,order,short,name,description,wikipedia,old_id
 120,news_type,12,snippets,snippets,ParlGov snippets on Github -- https://github.com/hdigital/parlgov-snippets,,
 121,cabinet_support,1,parliamentary-group,minister and parliamentary group,minister and member of cabinet parliamentary group,,
 122,cabinet_support,99,arab-list,Arab lists,Arab satellite lists (Israel only),https://en.wikipedia.org/wiki/Arab_satellite_lists,
+123,party_family,222,a-cor,Anti-corruption,,,

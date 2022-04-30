@@ -3,14 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>/2022/01/14/agenda-2022/</loc>
-    <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+    <loc>/2022/04/29/parlgov-2022-released/</loc>
+    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2022/01/28/validation-of-cabinets-in-western-europe/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2022/01/14/our-plans-for-2022/</loc>
     <lastmod>2022-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2021/11/12/validation-of-cabinets-in-central-eastern-europe/</loc>
+    <lastmod>2021-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/data-info/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
@@ -852,7 +861,7 @@
     <loc>/2010/11/24/eudo-conference/</loc>
     <lastmod>2010-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2010/11/16/parlgov-10/11-online-second-stable-release/</loc>
+    <loc>/2010/11/16/parlgov-10/11-online--second-stable-release/</loc>
     <lastmod>2010-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2010/11/15/latvian-election-and-cabinet-added/</loc>
@@ -882,13 +891,13 @@
     <loc>/2010/10/06/sweden-election-results-and-government-added/</loc>
     <lastmod>2010-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2010/09/28/parlgov-ii-database-refactoring/</loc>
+    <loc>/2010/09/28/parlgov-ii--database-refactoring/</loc>
     <lastmod>2010-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2010/09/19/latvia-with-votes-level-data/</loc>
     <lastmod>2010-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2010/09/09/parlgov-ii-new-web-design/</loc>
+    <loc>/2010/09/09/parlgov-ii--new-web-design/</loc>
     <lastmod>2010-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2010/08/31/swiss-cabinets-added/</loc>
@@ -897,7 +906,7 @@
     <loc>/2010/08/11/resarch-paper-published/</loc>
     <lastmod>2010-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2010/08/02/parlgov-ii-release-plan/</loc>
+    <loc>/2010/08/02/parlgov-ii--release-plan/</loc>
     <lastmod>2010-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2010/07/23/parlgov-and-eudo-cooperation/</loc>

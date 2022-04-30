@@ -6,17 +6,45 @@
     <description>Recent content on ParlGov website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agenda 2022</title>
-      <link>/2022/01/14/agenda-2022/</link>
+      <title>ParlGov 2022 released</title>
+      <link>/2022/04/29/parlgov-2022-released/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/04/29/parlgov-2022-released/</guid>
+      <description>We have added the 2022 stable version of the ParlGov data. An archived version is also available in the ParlGov Dataverse. The 2022 version includes all elections and cabinets until December 2021.</description>
+    </item>
+    
+    <item>
+      <title>Validation of cabinets in Western Europe</title>
+      <link>/2022/01/28/validation-of-cabinets-in-western-europe/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/01/28/validation-of-cabinets-in-western-europe/</guid>
+      <description>We validated the Western European cabinets with the recently published “Coalition Governance in Western Europe” (Bergman ea. 2021). No major changes or updates were added. All minor corrections are documented in the change log.
+In ParlGov, we record investiture votes mainly for recent cabinets (see codebook). Nevertheless, we have added some historical investiture votes for cabinets in Western Europe if we found a primary news source such as Reuters, AFP or AP.</description>
+    </item>
+    
+    <item>
+      <title>Our plans for 2022</title>
+      <link>/2022/01/14/our-plans-for-2022/</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/2022/01/14/agenda-2022/</guid>
-      <description>Our plans for 2022:
-We are currently completing the coding of elections and cabinets for 2021.
+      <guid>/2022/01/14/our-plans-for-2022/</guid>
+      <description>We are currently completing the coding of elections and cabinets for 2021.
 We plan to publish the next stable release in March.
-In 2022 we also want to move into a schedule where we publish a development version every six month at the currently used static page at parlgov.org.</description>
+In 2022, we also want to move into a schedule where we publish a development version every six month at the currently used static page at parlgov.org.</description>
+    </item>
+    
+    <item>
+      <title>Validation of cabinets in Central Eastern Europe</title>
+      <link>/2021/11/12/validation-of-cabinets-in-central-eastern-europe/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/11/12/validation-of-cabinets-in-central-eastern-europe/</guid>
+      <description>We validated the Central Eastern European cabinets with the recently published “Coalition Governance in Central Eastern Europe” (Bergman ea. 2019). No major changes or updates were added. All minor corrections are documented in the change log.
+In ParlGov, we record investiture votes mainly for recent cabinets (see codebook). Nevertheless, we have added some historical investiture votes for cabinets in Central Eastern Europe if we found a primary news source such as Reuters, AFP or AP.</description>
     </item>
     
     <item>
@@ -25,7 +53,8 @@ In 2022 we also want to move into a schedule where we publish a development vers
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/data-info/</guid>
-      <description>Note Data ParlGov development version (15. Sep. 2021)
+      <description>Note Data ParlGov development version (29. April. 2022)
+Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version.
  Main tables: parties · elections · cabinets Spreadsheet: Excel and Google Docs (public sheet) All tables: zipped csv-file Database: SQLite Codebook: pdf  Links All data available
  previously at http://www.parlgov.org/static/data/parlgov-development_csv-utf-8/ now at https://parlgov.org/data/parlgov-development_csv-utf-8/   </description>
     </item>
@@ -38,7 +67,7 @@ In 2022 we also want to move into a schedule where we publish a development vers
       <guid>/about/</guid>
       <description>Project description ParlGov is a data infrastructure for political science and contains information for all EU and most OECD democracies (37 countries). The database combines approximately 1700 parties, 1000 elections (9400 results), and 1600 cabinets (3900 parties).
 See the Dashboard by Lukas Warode to visualize the ParlGov data.
-Reference  ParlGov database (Döring and Manow 2021) Döring, Holger and Philip Manow. 2021. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in modern democracies.</description>
+Reference  ParlGov database (Döring ea. 2022) Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies.</description>
     </item>
     
     <item>
@@ -47,7 +76,8 @@ Reference  ParlGov database (Döring and Manow 2021) Döring, Holger and Philip 
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/2021/09/15/static-parlgov-web-page/</guid>
-      <description>Status This static page is a gateway to recent additions to the ParlGov data (development version).
+      <description>Status
+The new static page at parlgov.org is a gateway to recent additions to the ParlGov data (development version).
 The ParlGov project is active and alive. Currently, we are adding the data for the first half of 2021.
 Here, we will provide project news and updates of the data.
 In September 2021, our long term hosting of the dynamic web page ended. Unfortunately, we were not able to migrate the page — see details below.</description>
@@ -2569,10 +2599,10 @@ Over the past months, we have supported the EUDO Data Centre team and last week&
     
     <item>
       <title>ParlGov 10/11 online -- second stable release</title>
-      <link>/2010/11/16/parlgov-10/11-online-second-stable-release/</link>
+      <link>/2010/11/16/parlgov-10/11-online--second-stable-release/</link>
       <pubDate>Tue, 16 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/11/16/parlgov-10/11-online-second-stable-release/</guid>
+      <guid>/2010/11/16/parlgov-10/11-online--second-stable-release/</guid>
       <description>Today, we have put online the second stable release of our project, ParlGov 10/11. There is an earlier news entry that gives a summary of the changes that come with this new version and the changelog provides a very detailed list of all changes. Most significant for users of previous versions is the change of all id variables as well as most table and variable names. Again, these changes turn ParlGov into a significantly cleaner data structure.</description>
     </item>
     
@@ -2665,10 +2695,10 @@ We have included the results of the recent elections in Sweden and the new cabin
     
     <item>
       <title>ParlGov II -- database refactoring</title>
-      <link>/2010/09/28/parlgov-ii-database-refactoring/</link>
+      <link>/2010/09/28/parlgov-ii--database-refactoring/</link>
       <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/09/28/parlgov-ii-database-refactoring/</guid>
+      <guid>/2010/09/28/parlgov-ii--database-refactoring/</guid>
       <description>The second major change for the next ParlGov version will be a major refactoring of our database design. The causes for the need to refactor the structure of our database are similar to the previously described plans to relaunch the web design. Some of the fundamental design decisions were made at the early stages of the project and limit its growth now. Over time, our experience and technical expertise has grown and we are convinced that the benefits of a redesign outweigh the (transformation) costs.</description>
     </item>
     
@@ -2683,10 +2713,10 @@ We have included the results of the recent elections in Sweden and the new cabin
     
     <item>
       <title>ParlGov II -- new web design</title>
-      <link>/2010/09/09/parlgov-ii-new-web-design/</link>
+      <link>/2010/09/09/parlgov-ii--new-web-design/</link>
       <pubDate>Thu, 09 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/09/09/parlgov-ii-new-web-design/</guid>
+      <guid>/2010/09/09/parlgov-ii--new-web-design/</guid>
       <description>The next version of ParlGov will include a new web design and we have worked with Jens Hoffmeister from underline webdesign over the last months to give our website a fresh look. Here is an example of the new design.
 The old design with the current layout, logo and colors has not changed over the last five years and there were only some improvements to the navigation. Honestly, it was in strong need of a fresh look.</description>
     </item>
@@ -2711,10 +2741,10 @@ The old design with the current layout, logo and colors has not changed over the
     
     <item>
       <title>ParlGov II -- release plan</title>
-      <link>/2010/08/02/parlgov-ii-release-plan/</link>
+      <link>/2010/08/02/parlgov-ii--release-plan/</link>
       <pubDate>Mon, 02 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>/2010/08/02/parlgov-ii-release-plan/</guid>
+      <guid>/2010/08/02/parlgov-ii--release-plan/</guid>
       <description>We have started to push our work on the next stable version of ParlGov and aim to have a beta version by the end of the month. This new version includes two major changes: a new webdesign and a database refactoring. In addition, it includes recent political events and some data revisions. The changelog in the ParlGov Development wiki lists all data updates. We also aim at fixing all tickets that are assigned to &amp;lsquo;milestone 1.</description>
     </item>
     
@@ -3120,7 +3150,7 @@ The old design with the current layout, logo and colors has not changed over the
       <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>/2009/08/07/defector-parties-column-for-cabinets/</guid>
-      <description>The table cab_party now includes an additional column to code defector parties. With this observation we indicate if a party left a governing coaliton. Including this variable was inspired by Tavits&#39; 2008 paper The Role of Parties’ Past Behavior in Coalition Formation.</description>
+      <description>The table cab_party now includes an additional column to code defector parties. With this observation we indicate if a party left a governing coaliton. Including this variable was inspired by Tavits&amp;rsquo; 2008 paper The Role of Parties’ Past Behavior in Coalition Formation.</description>
     </item>
     
     <item>
