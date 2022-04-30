@@ -7,6 +7,4 @@ Yesterday (5 October) was an interesting day for students of cabinet formation. 
 
 We have included the results of the recent elections in Sweden and the new cabinet. We will add the new Dutch government as soon as it is appointed.
 
-
-
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-netherlands.jpg)

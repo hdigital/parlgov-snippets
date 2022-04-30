@@ -9,5 +9,4 @@ We have yet to validate the coding by a second coder and to finally decide about
 
 As previously, further information will be provided in another news entry.
 
-
 ![](/images/parliament-germany.jpg)

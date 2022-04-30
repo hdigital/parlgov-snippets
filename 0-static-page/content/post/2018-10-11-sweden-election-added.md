@@ -5,4 +5,4 @@ title: Sweden election added
 
 We added the recent election in [Sweden](http://www.parlgov.org/explore/SWE/election/2018-09-09/).
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-sweden.jpg)

@@ -9,5 +9,4 @@ seats to votes level data and added elections and [cabinets](http://dev.parlgov.
 [Statistics and Mapping Section of the Australian Parliament]( 
 http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/).
 
-
-![](/images/parliament-scotland.jpg)
+![](/images/parliament-germany.jpg)

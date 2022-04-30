@@ -13,5 +13,4 @@ We will provide news entries once we have completed  the respective clean-ups.
 
 Again, none of this should effect information in the development version of ParlGov but only additional data in the experimental version (guest login required).
 
-
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-germany.jpg)

@@ -6,4 +6,4 @@ title: Luxembourg party names updated
 We changed the names of Luxembourgish parties to their Luxembourgish indication.
 French and German party names are from now on coded as json.
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-netherlands.jpg)

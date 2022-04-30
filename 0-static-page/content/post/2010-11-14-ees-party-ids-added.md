@@ -9,4 +9,4 @@ Integrating EES party ids allows us to combine this information with all other d
 
 This information will also be part of the next stable release.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-netherlands.jpg)

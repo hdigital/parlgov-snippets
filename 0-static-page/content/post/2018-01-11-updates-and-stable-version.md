@@ -7,4 +7,4 @@ We are a little behind with updating elections and cabinets from the second half
 
 In addition, we will publish a stable version ones we have updated all 2017 information.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-scotland.jpg)

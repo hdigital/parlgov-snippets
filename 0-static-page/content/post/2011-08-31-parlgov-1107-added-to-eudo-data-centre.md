@@ -7,4 +7,4 @@ We have now added the most recent release of ParlGov to the [EUDO Data Centre](h
 
 A short technical note: The data sets offered in the data centre are derived from information that is available in the stable version. We automatically generate a couple of scripts to label the three main data tables with information from the documentation tables.
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-germany.jpg)

@@ -7,4 +7,4 @@ ParlGov provides links of party IDs to some of the main data sets with informati
 
 Döring, Holger, and Sven Regel. 2019. “Party Facts: A Database of Political Parties Worldwide.” Party Politics 25(2): 97–109. [doi:10.1177/1354068818820671](https://doi.org/10.1177/1354068818820671)
 
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-germany.jpg)

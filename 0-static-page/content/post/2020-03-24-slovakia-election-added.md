@@ -5,4 +5,4 @@ title: Slovakia election added
 
 We added the recent election in [Slovakia](http://www.parlgov.org/explore/svk/election/2020-02-29/).
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-germany.jpg)

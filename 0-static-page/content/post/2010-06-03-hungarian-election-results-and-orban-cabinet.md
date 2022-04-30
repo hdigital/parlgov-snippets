@@ -5,4 +5,4 @@ title: Hungarian election results and Orban cabinet
 
 We have added the results of the Hungarian parliamentary election that took place in April and the new Orban II government that took office last week.
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-european-union.jpg)

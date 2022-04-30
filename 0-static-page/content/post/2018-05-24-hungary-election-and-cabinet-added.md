@@ -7,4 +7,4 @@ We have added the election in [Hungary 2018](http://www.parlgov.org/explore/hun/
 
 We also added the cabinet [Rutte V](http://www.parlgov.org/explore/nld/cabinet/2017-10-26/), which we forgot to include in the stable version
 
-![](/images/parliament-scotland.jpg)
+![](/images/parliament-netherlands.jpg)

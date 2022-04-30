@@ -5,4 +5,4 @@ title: Finland election added
 
 We added the recent election in [Finland](http://www.parlgov.org/explore/fin/election/2019-04-14/).
 
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-netherlands.jpg)

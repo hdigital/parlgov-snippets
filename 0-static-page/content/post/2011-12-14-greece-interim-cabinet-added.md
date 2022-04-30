@@ -5,4 +5,4 @@ title: Greece interim cabinet added
 
 We have added the recently formed caretaker cabinet in [Greece](http://dev.parlgov.org/data/grc/cabinet-party/2011-11-11/).
 
-![](/images/parliament-scotland.jpg)
+![](/images/parliament-european-union.jpg)

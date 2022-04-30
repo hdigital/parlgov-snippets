@@ -9,4 +9,4 @@ Over the past months, we have supported the EUDO Data Centre team and last week'
 
 We will post a separate news entry about the promises of distributing ParlGov data through the EUDO Data Centre later on.
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-germany.jpg)

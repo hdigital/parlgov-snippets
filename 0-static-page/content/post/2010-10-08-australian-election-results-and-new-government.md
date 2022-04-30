@@ -7,4 +7,4 @@ It takes some time until the final result of an election is determined in Austra
 
 We have added the Australian election and the new minority cabinet to ParlGov.
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-sweden.jpg)

@@ -5,4 +5,4 @@ title: Czech cabinet appointed
 
 The new Czech cabinet was appointed today.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-scotland.jpg)

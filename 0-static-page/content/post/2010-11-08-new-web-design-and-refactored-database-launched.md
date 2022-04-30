@@ -11,5 +11,4 @@ Converting the old **database** structure into the new schema has been an even b
 
 The **next release, ParlGov 10/11,** will follow shortly. The plan is to have a beta version out tomorrow or the day after. We will test the beta version and the new development version for some days and plan to have a release of the new version at the beginning of next week.
 
-
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-netherlands.jpg)

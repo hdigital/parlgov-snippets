@@ -8,4 +8,4 @@ An article discussing the methodological design of the ParlGov database was rece
 [“Mapping established democracies: Integrated data on parties, elections and cabinets”](http://dx.doi.org/10.1016/j.electstud.2016.07.002)
 Electoral Studies, 2016, Advance online publication. doi:10.1016/j.electstud.2016.07.002
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-scotland.jpg)

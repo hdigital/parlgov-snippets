@@ -9,5 +9,4 @@ The automatic classification and curation was based on some older Python scripts
 
 We may reestablish the news tracker in a future version of the project.
 
-
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-germany.jpg)

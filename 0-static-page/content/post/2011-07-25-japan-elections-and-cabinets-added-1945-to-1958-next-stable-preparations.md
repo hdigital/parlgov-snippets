@@ -7,5 +7,4 @@ We have added [election results](http://dev.parlgov.org/data/jpn/election-parlia
 
 Furthermore, we are preparing a new stable version, ParlGov 11/07, and plan to release it at the end of this week. Follow [ParlGov on Twitter](http://twitter.com/#!/ParlGov) for more detailed updates.
 
-
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-netherlands.jpg)

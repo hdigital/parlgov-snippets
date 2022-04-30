@@ -5,5 +5,4 @@ title: Snippet · Vanhanen Index
 
 Lukas Warode added a [ParlGov snippet](https://github.com/hdigital/parlgov-snippets/tree/master/election-vanhanen) visualizing the Vanhanen Index of Democratization.
 
-
-![](/images/parliament-germany.jpg)
+![](/images/parliament-netherlands.jpg)

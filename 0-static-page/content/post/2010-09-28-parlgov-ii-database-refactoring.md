@@ -11,5 +11,4 @@ There will also be a clean-up for some table and variable names and the new name
 
 These modifications require users of ParlGov to  update the scripts they have written to work with ParlGov data. We are convinced that it will be for the better. The new database design is easier to understand and allows us to integrate innovative aspects into future versions more easily.
 
-
-![](/images/parliament-germany.jpg)
+![](/images/parliament-sweden.jpg)
