@@ -11,8 +11,8 @@ See the [__Dashboard__](https://lukas-warode.shinyapps.io/ParlGov_Dashboard/) by
 
 ## Reference
 
-+ ParlGov database (Döring and Manow 2021)
-+ Döring, Holger and Philip Manow. 2021. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in modern democracies. Development version.
++ ParlGov database (Döring ea. 2022)
++ Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version.
 
 ## Note
 
