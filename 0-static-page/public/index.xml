@@ -6,7 +6,16 @@
     <description>Recent content on ParlGov website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Party Facts linking updated</title>
+      <link>/2022/05/27/party-facts-linking-updated/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/05/27/party-facts-linking-updated/</guid>
+      <description>We have updated and linked all ParlGov parties from the 2022 release in Party Facts.</description>
+    </item>
+    
     <item>
       <title>ParlGov 2022 released</title>
       <link>/2022/04/29/parlgov-2022-released/</link>
