@@ -7,4 +7,4 @@ For users of ParlGov, it is often not straightforward to understand how to creat
 
 We have started to review and update some of these scripts that we have worked with regularly and will make them available in a new __[ParlGov Snippets Github](https://github.com/hdigital/parlgov-snippets)__ repository. We'll post brief news entries here and introduce the respective scripts we add to the repository.
 
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-scotland.jpg)

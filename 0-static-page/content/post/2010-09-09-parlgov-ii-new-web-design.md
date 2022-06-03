@@ -9,4 +9,4 @@ The old design with the current layout, logo and colors has not changed over the
 
 Ones we have put up online a first beta version of the next release you will see how fresh and modern the new design is.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-netherlands.jpg)

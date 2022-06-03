@@ -5,4 +5,4 @@ title: Sweden election added
 
 We have added the recent election in [Sweden](http://dev.parlgov.org/data/swe/election-parliament/2014-09-14/).
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-germany.jpg)

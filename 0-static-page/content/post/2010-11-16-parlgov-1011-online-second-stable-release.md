@@ -7,4 +7,4 @@ Today, we have put online the second stable release of our project, [ParlGov 10/
 
 More information about the plans and schedule for the next version will follow in a separate news post.
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-scotland.jpg)

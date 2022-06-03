@@ -5,4 +5,4 @@ title: Australia cabinet added
 
 We have added the cabinet under the new PM [Turnball](http://www.parlgov.org/explore/aus/cabinet/2015-09-15/).
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-scotland.jpg)

@@ -10,4 +10,4 @@ Two facts were striking in yesterdays election in the Netherlands.
 
 A [ParlGov analysis in R](http://holgerdoering.net/documents/nld-election-2017.html) presents a broader picture. It does also demonstrate how the R [tidyverse](http://tidyverse.org/) and [knitr](https://yihui.name/knitr/) make analysing ParlGov data more easy.
 
-![](/images/parliament-scotland.jpg)
+![](/images/parliament-netherlands.jpg)

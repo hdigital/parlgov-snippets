@@ -7,4 +7,4 @@ We added a new [script](https://github.com/hdigital/parlgov-snippets/tree/master
 
 We also added a nice [map](https://github.com/hdigital/parlgov-snippets/tree/master/cabinet-party-family) to the party family snippet.
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-sweden.jpg)

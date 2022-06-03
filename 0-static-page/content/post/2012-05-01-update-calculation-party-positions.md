@@ -9,4 +9,4 @@ There was a bug in the scripts that converted the data from Benoit/Laver and not
 
 While updating the position data we have also renamed the variables for the EU dimension from ‘eu_pro_contra’ into ‘eu_anti_pro’ since lower values on the scale present eurosceptic positions.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-scotland.jpg)

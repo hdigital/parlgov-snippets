@@ -7,4 +7,4 @@ We have added the [2020 stable version](http://www.parlgov.org/documentation/cha
 
 This has been an a challenging year. We will post updates about our future plans with ParlGov at some later stage.
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-sweden.jpg)

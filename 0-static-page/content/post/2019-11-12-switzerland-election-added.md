@@ -5,4 +5,4 @@ title: Switzerland election added
 
 We added the recent election in [Switzerland](http://www.parlgov.org/explore/che/election/2019-10-20/).
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-scotland.jpg)

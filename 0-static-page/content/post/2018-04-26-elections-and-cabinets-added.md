@@ -15,4 +15,4 @@ and cabinet changes in
 [Romania](http://www.parlgov.org/explore/rou/cabinet/) and 
 [Slovakia](http://www.parlgov.org/explore/svk/cabinet/).
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-sweden.jpg)

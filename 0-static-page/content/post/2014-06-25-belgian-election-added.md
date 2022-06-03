@@ -5,4 +5,4 @@ title: Belgian election added
 
 We have added the recent election in [Belgium](http://dev.parlgov.org/data/bel/election-parliament/2014-05-25//).
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-netherlands.jpg)

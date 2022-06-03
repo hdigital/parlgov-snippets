@@ -7,4 +7,4 @@ We have also added the recently formed [French cabinet](http://dev.parlgov.org/d
 
 Adding this cabinet was a little delayed by the recent stable release. Most of the new observations are added within a week after an event took place or the official information (election statistics) are available.
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-germany.jpg)

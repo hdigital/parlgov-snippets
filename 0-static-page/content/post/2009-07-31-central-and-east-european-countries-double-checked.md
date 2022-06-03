@@ -7,4 +7,4 @@ We have finished double checking our data on parties, election outcomes and gove
 
 Our electoral results on Central- and Eastern Europe still lack a systematic coding of electoral alliances and an inclusion of official election results. Please let us know if you notice any data bugs.
 
-![](/images/parliament-scotland.jpg)
+![](/images/parliament-sweden.jpg)

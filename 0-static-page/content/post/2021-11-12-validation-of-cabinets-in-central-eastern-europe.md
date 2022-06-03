@@ -7,4 +7,4 @@ We validated the Central Eastern European cabinets with the recently published â
 
 In ParlGov, we record investiture votes mainly  for recent cabinets ([see codebook](/documentation/codebook/#cabinet)). Nevertheless, we have added some historical investiture votes for cabinets in Central Eastern Europe if we found a primary news source such as Reuters, AFP or AP.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-sweden.jpg)

@@ -25,4 +25,4 @@ So when the service at Webfaction ended, we had to decide about the future of th
 
 We have an internal workflow to work with the old implementation of the page to update the database. However, the Web, Python and Django have evolved. The codebase of the ParlGov dynamic page has not and that's why we have made this difficult decision.
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-sweden.jpg)

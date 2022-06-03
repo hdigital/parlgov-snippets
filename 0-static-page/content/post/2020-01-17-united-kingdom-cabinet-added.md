@@ -5,4 +5,4 @@ title: United Kingdom cabinet added
 
 We added the new cabinet under [PM Johnson](http://www.parlgov.org/explore/gbr/cabinet/2019-12-13/).
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-scotland.jpg)

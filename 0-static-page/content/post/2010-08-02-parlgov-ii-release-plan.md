@@ -7,4 +7,4 @@ We have started to push our work on the next stable version of ParlGov and aim t
 
 The final release of the second stable version of ParlGov is scheduled for the end of September. We will post a second news entry to describe the new webdesign and the causes for the database refactoring.
 
-![](/images/parliament-netherlands.jpg)
+![](/images/parliament-germany.jpg)

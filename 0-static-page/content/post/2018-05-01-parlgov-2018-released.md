@@ -7,4 +7,4 @@ We have added the [2018 stable version](http://www.parlgov.org/documentation/cha
 
 The version name is now based on the year of the stable release. The 2018 version includes all elections and cabinets until March 2018.
 
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-european-union.jpg)

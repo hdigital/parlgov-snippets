@@ -9,4 +9,4 @@ For ParlGov, our time at the [European University Institute (EUI)](http://www.eu
 
 We keep a connection to the [EUI](http://www.eui.eu/) through our cooperation with the [EUDO Data Centre](http://dvn.eudo.eu/) project.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-scotland.jpg)

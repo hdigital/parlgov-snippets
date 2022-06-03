@@ -5,4 +5,4 @@ title: Bulgaria interim cabinet added
 
 We have added the new caretaker cabinet under [PM Bliznashki](http://dev.parlgov.org/data/bgr/cabinet-party/2014-08-05/).
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-european-union.jpg)

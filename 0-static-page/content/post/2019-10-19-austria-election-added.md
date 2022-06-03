@@ -5,4 +5,4 @@ title: Austria election added
 
 We added the recent election in [Austria](http://www.parlgov.org/explore/aut/election/2019-09-29/).
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-scotland.jpg)

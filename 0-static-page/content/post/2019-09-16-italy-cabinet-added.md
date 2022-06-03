@@ -5,4 +5,4 @@ title: Italy cabinet added
 
 We added the new cabinet under [PM Conte](http://www.parlgov.org/explore/ita/cabinet/2019-09-05/).
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-netherlands.jpg)

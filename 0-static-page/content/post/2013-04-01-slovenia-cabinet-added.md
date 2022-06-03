@@ -5,4 +5,4 @@ title:  Slovenia cabinet added
 
 We have added the recently formed cabinet under [PM Bratušek]( http://dev.parlgov.org/data/svn/cabinet-party/2013-03-20/) .
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-sweden.jpg)

@@ -5,4 +5,4 @@ title: pre 1945 cabinets (experimental)
 
 We have added cabinet information for the pre 1945 elections we cover. This information is experimental and will not be included in the next stable version.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-scotland.jpg)

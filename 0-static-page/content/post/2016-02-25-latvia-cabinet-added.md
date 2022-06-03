@@ -5,4 +5,4 @@ title: Latvia cabinet added
 
 We have added the  cabinet under the new [PM Kucinskis](http://www.parlgov.org/explore/LVA/cabinet/2016-02-11/).
 
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-european-union.jpg)

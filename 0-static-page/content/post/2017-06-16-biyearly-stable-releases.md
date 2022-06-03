@@ -7,4 +7,4 @@ We decided to move to a biyearly relase of the stable version. ParlGov is a stab
 
 Please make use of the [development version](http://www.parlgov.org/#data) if you need recent elections. We aim to include new information within three months. Updates are announced in the [news section](http://www.parlgov.org/documentation/news/) and bug fixes in the [changelog](http://www.parlgov.org/documentation/changelog/).
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-sweden.jpg)

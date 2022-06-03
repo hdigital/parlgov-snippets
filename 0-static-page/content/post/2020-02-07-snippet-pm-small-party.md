@@ -7,4 +7,4 @@ We added a [ParlGov snippet](https://github.com/hdigital/parlgov-snippets/tree/m
 
 The analysis was inspired by a [Fruits and Votes discussion](https://fruitsandvotes.wordpress.com/2020/02/05/thuringia-leader-of-smallest-party-in-state-parliament-elected-premier-with-afd-support/) about a controversial PM election in the German state of Thuringia — “How common it is for a party as small as the sixth largest in parliament to lead the government?”
 
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-netherlands.jpg)

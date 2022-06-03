@@ -7,4 +7,4 @@ We have finally updated and checked all [election results](http://dev.parlgov.or
 
 Upgrading the Polish election results would not have been possible without the expertise and diligent work of Paweł Szczerbak (University of Heidelberg).
 
-![](/images/parliament-european-union.jpg)
+![](/images/parliament-sweden.jpg)

@@ -5,4 +5,4 @@ title: beta-1 released
 
 This is the first release used for internal testing. Beta 2 will be released within a week from now.
 
-![](/images/parliament-germany.jpg)
+![](/images/parliament-european-union.jpg)

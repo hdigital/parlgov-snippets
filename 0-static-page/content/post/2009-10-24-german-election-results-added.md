@@ -5,4 +5,4 @@ title: German election results added
 
 Official German election results from the [Bundeswahlleiter](http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_09/ergebnisse/bundesergebnisse/index.html) added.
 
-![](/images/parliament-sweden.jpg)
+![](/images/parliament-netherlands.jpg)
