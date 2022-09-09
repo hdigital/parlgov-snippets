@@ -55,7 +55,7 @@ Klingemann, Hans-Dieter, Andrea Volkens, Judith Bara, Ian Budge, and Michael McD
 51,ukeu,UK Office of the European Parliament,The United Kingdom Office of the European Parliament.,http://www.europarl.org.uk/section/european-elections/european-elections
 52,pica,ParlInfo Canada,ParlInfo – Parliament of Canada,http://www2.parl.gc.ca/parlinfo
 54,cevipol,CEVIPOL,CEVIPOL Ressources –  Electoral results,http://dev.ulb.ac.be/cevipol/en/elections.html
-55,parlgov,ParlGov database (Döring and Manow 2021),"Döring, Holger and Philip Manow. 2021. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in modern democracies.",http://www.parlgov.org/
+55,parlgov,ParlGov database (Döring ea. 2022),"Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies.",http://www.parlgov.org/
 56,pkw,Państwowa Komisja Wyborcza ,"Państwowa Komisja Wyborcza (National Election Commission, Poland)",http://www.pkw.gov.pl/
 58,keesings,Keesing's,Keesing's record of world events,http://www.keesings.com/
 59,nyt,New York Times (NYT),New York Times Article Archive,http://query.nytimes.com/search/
@@ -300,3 +300,6 @@ McHale, Vincent E., ed. 1983b. Political Parties of Europe: Poland -- Yugoslavia
 285,belga,Belga,Agence Belga,
 286,riksdagen,Riksdagen,Riksdagen,
 287,psp,Parliament Czechia ,Parliament of the Czech Republic — Chamber of Deputies,https://www.psp.cz/
+288,erakonnad,erakonnad.info,Eesti Erakondade Ajalugu (History of Estonian Political Parties),https://www.erakonnad.info/
+289,parlament-hu,parlament-hu,Országgyűlés (Hungarian National Assembly),https://www.parlament.hu/en/web/house-of-the-national-assembly
+290,parlamento-pt,parlamento-pt,Assembleia da República (Portuguese Parliament),https://www.parlamento.pt/sites/en/

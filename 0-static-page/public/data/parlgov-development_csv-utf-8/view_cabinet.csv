@@ -344,6 +344,15 @@ AUS,Australia,2019-05-18,2019-05-29,Morrison II,0,1,1,44,151,LPA,Liberal Party o
 AUS,Australia,2019-05-18,2019-05-29,Morrison II,0,1,0,10,151,NCP|NPA,National (Country) Party | National Party of Australia,National (Country) Party | National Party of Australia,7.8222,33,1087,1616,1585,184
 AUS,Australia,2019-05-18,2019-05-29,Morrison II,0,0,0,1,151,NXT,Nick Xenophon Team,Nick Xenophon Team,6.0,33,1087,1616,1585,2630
 AUS,Australia,2019-05-18,2019-05-29,Morrison II,0,0,0,3,151,none,no party affiliation,no party affiliation,,33,1087,1616,1585,1396
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,4,151,AG,Australian Greens,Australian Greens,1.5439,33,1111,1672,1616,751
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,1,1,77,151,ALP,Australian Labor Party,Australian Labor Party,3.8833,33,1111,1672,1616,1253
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,58,151,C,Coalition,Coalition,7.4,33,1111,1672,1616,1428
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,1,151,Katter,Katter's Australian Party,Katter's Australian Party,3.3,33,1111,1672,1616,2258
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,21,151,LNPQ,Liberal National Party of Queensland,Liberal National Party of Queensland,6.0,33,1111,1672,1616,154
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,27,151,LPA,Liberal Party of Australia,Liberal Party of Australia,7.3903,33,1111,1672,1616,1411
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,10,151,NCP|NPA,National (Country) Party | National Party of Australia,National (Country) Party | National Party of Australia,7.8222,33,1111,1672,1616,184
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,1,151,NXT,Nick Xenophon Team,Nick Xenophon Team,6.0,33,1111,1672,1616,2630
+AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,10,151,none,no party affiliation,no party affiliation,,33,1111,1672,1616,1396
 AUT,Austria,1919-02-16,1919-03-15,Renner II,0,0,0,1,170,BD,Bürgerliche Demokraten,Centrist Democrats,6.0,59,1030,1535,,2688
 AUT,Austria,1919-02-16,1919-03-15,Renner II,0,0,0,3,170,DD,Deutschdemokraten,German-Democrats,6.0,59,1030,1535,,2675
 AUT,Austria,1919-02-16,1919-03-15,Renner II,0,0,0,8,170,DNP,Deutschnationale,German-Nationals,7.4,59,1030,1535,,2672
@@ -1649,7 +1658,7 @@ CAN,Canada,2021-09-20,2021-10-26,Trudeau J III,0,0,0,119,338,CPC,Conservative Pa
 CAN,Canada,2021-09-20,2021-10-26,Trudeau J III,0,0,0,2,338,GPC,Green Party of Canada,Green Party of Canada,1.9018,29,1103,1656,1620,1259
 CAN,Canada,2021-09-20,2021-10-26,Trudeau J III,0,1,1,160,338,LP,Liberal Party of Canada,Liberal Party of Canada,5.0552,29,1103,1656,1620,368
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,0,0,4,167,DG,Gruppe der Demokraten – Groupe des democrates,Democratic Group,3.3,40,982,1456,,886
-CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,1,0,100,167,FDP-PRD,Freisinnig-Demokratische Partei der Schweiz – Parti Radical-Democratique Suisse,Radical Democratic Party,6.3249,40,982,1456,,26
+CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,1,1,100,167,FDP-PRD,Freisinnig-Demokratische Partei der Schweiz – Parti Radical-Democratique Suisse,Radical Democratic Party,6.3249,40,982,1456,,26
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,1,0,36,167,KK/CVP,Katholische Konservative / Christlichdemokratische Volkspartei – Conservateurs catholiques  /  Parti démocrate-chrétien,Catholic Conservative / Christian Democratic Peoples Party,4.7288,40,982,1456,,531
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,0,0,20,167,LPS,Liberale Partei der Schweiz – Parti liberal suisse,Liberal Party of Switzerland,7.2961,40,982,1456,,458
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,0,0,7,167,SP-PS,Sozialdemokratische Partei der Schweiz – Parti Socialiste Suisse,Social Democratic Party of Switzerland,1.8319,40,982,1456,,35
@@ -3592,6 +3601,7 @@ ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,13,350,ERC,Esquerra Republican
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,2,350,Equo,Equo,Equo,2.5,27,1085,1605,1601,2804
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,2,350,NA+,Navarra Suma,Sum Navarre,7.4,27,1085,1605,1601,2723
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,0,26,350,P,Podemos,We Can,1.3,27,1085,1605,1601,2376
+ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,0,0,350,PCE|IU,Partido Communista | Izquierda Unida,Communist Party | United Left,2.0183,27,1085,1605,1601,118
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,6,350,PNV,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,Basque Nationalist Party,6.2144,27,1085,1605,1601,1361
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,1,120,350,PSOE,Partido Socialista Obrero Español,Spanish Socialist Workers Party,3.7377,27,1085,1605,1601,902
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,0,0,350,UP,Unidas Podemos,United We Can,1.3,27,1085,1605,1601,2724
@@ -5275,26 +5285,26 @@ FRA,France,1981-06-21,1984-07-17,Fabius,0,1,1,285,474,PS,Parti socialiste,Social
 FRA,France,1981-06-21,1984-07-17,Fabius,0,0,0,88,474,RPR,Rassemblement pour la république,Rally for the Republic,7.4997,43,20,843,428,138
 FRA,France,1981-06-21,1984-07-17,Fabius,0,0,0,62,474,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,20,843,428,509
 FRA,France,1981-06-21,1984-07-17,Fabius,0,0,0,12,474,none,sans étiquette,no party affiliation,,43,20,843,428,947
-FRA,France,1986-03-16,1986-03-20,Chirac II,0,0,0,35,556,FN,Front national,National Front,9.6854,43,623,290,843,270
+FRA,France,1986-03-16,1986-03-20,Chirac II,0,0,0,35,556,FN,Rassemblement National ,National Rally,9.6854,43,623,290,843,270
 FRA,France,1986-03-16,1986-03-20,Chirac II,0,0,0,32,556,PCF,Parti communiste française,French Communist Party,1.3741,43,623,290,843,686
 FRA,France,1986-03-16,1986-03-20,Chirac II,0,0,0,13,556,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,623,290,843,1492
 FRA,France,1986-03-16,1986-03-20,Chirac II,0,0,0,198,556,PS,Parti socialiste,Socialist Party,3.2493,43,623,290,843,1539
 FRA,France,1986-03-16,1986-03-20,Chirac II,0,1,1,146,556,RPR,Rassemblement pour la république,Rally for the Republic,7.4997,43,623,290,843,138
 FRA,France,1986-03-16,1986-03-20,Chirac II,0,1,0,128,556,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,623,290,843,509
-FRA,France,1986-03-16,1986-03-20,Chirac II,0,0,0,4,556,droite,divers droite,other right,7.6583,43,623,290,843,285
-FRA,France,1986-03-16,1988-05-10,Rocard I,0,0,0,35,556,FN,Front national,National Front,9.6854,43,623,1150,290,270
+FRA,France,1986-03-16,1986-03-20,Chirac II,0,0,0,4,556,d-droite,divers droite,other right,7.6583,43,623,290,843,285
+FRA,France,1986-03-16,1988-05-10,Rocard I,0,0,0,35,556,FN,Rassemblement National ,National Rally,9.6854,43,623,1150,290,270
 FRA,France,1986-03-16,1988-05-10,Rocard I,0,0,0,35,556,PCF,Parti communiste française,French Communist Party,1.3741,43,623,1150,290,686
 FRA,France,1986-03-16,1988-05-10,Rocard I,0,1,1,212,556,PS,Parti socialiste,Socialist Party,3.2493,43,623,1150,290,1539
 FRA,France,1986-03-16,1988-05-10,Rocard I,0,0,0,155,556,RPR,Rassemblement pour la république,Rally for the Republic,7.4997,43,623,1150,290,138
 FRA,France,1986-03-16,1988-05-10,Rocard I,0,0,0,131,556,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,623,1150,290,509
 FRA,France,1986-03-16,1988-05-10,Rocard I,0,0,0,9,556,none,sans étiquette,no party affiliation,,43,623,1150,290,947
-FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,1,555,FN,Front national,National Front,9.6854,43,643,712,1150,270
+FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,1,555,FN,Rassemblement National ,National Rally,9.6854,43,643,712,1150,270
 FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,24,555,PCF,Parti communiste française,French Communist Party,1.3741,43,643,712,1150,686
 FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,9,555,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,643,712,1150,1492
 FRA,France,1988-06-12,1988-06-23,Rocard II,0,1,1,260,555,PS,Parti socialiste,Socialist Party,3.2493,43,643,712,1150,1539
 FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,123,555,RPR,Rassemblement pour la république,Rally for the Republic,7.4997,43,643,712,1150,138
 FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,130,555,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,643,712,1150,509
-FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,8,555,droite,divers droite,other right,7.6583,43,643,712,1150,285
+FRA,France,1988-06-12,1988-06-23,Rocard II,0,0,0,8,555,d-droite,divers droite,other right,7.6583,43,643,712,1150,285
 FRA,France,1988-06-12,1991-05-16,Cresson,0,0,0,41,555,CDS,Centre des démocrates sociaux,Centre of Social Democrats,6.2,43,643,229,712,2265
 FRA,France,1988-06-12,1991-05-16,Cresson,0,0,0,25,555,PCF,Parti communiste française,French Communist Party,1.3741,43,643,229,712,686
 FRA,France,1988-06-12,1991-05-16,Cresson,0,1,1,275,555,PS,Parti socialiste,Socialist Party,3.2493,43,643,229,712,1539
@@ -5313,7 +5323,7 @@ FRA,France,1993-03-28,1993-03-29,Balladur,0,0,0,6,577,PRG,Parti radical de gauch
 FRA,France,1993-03-28,1993-03-29,Balladur,0,0,0,55,577,PS,Parti socialiste,Socialist Party,3.2493,43,664,318,199,1539
 FRA,France,1993-03-28,1993-03-29,Balladur,0,1,1,248,577,RPR,Rassemblement pour la république,Rally for the Republic,7.4997,43,664,318,199,138
 FRA,France,1993-03-28,1993-03-29,Balladur,0,1,0,215,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,664,318,199,509
-FRA,France,1993-03-28,1993-03-29,Balladur,0,0,0,22,577,droite,divers droite,other right,7.6583,43,664,318,199,285
+FRA,France,1993-03-28,1993-03-29,Balladur,0,0,0,22,577,d-droite,divers droite,other right,7.6583,43,664,318,199,285
 FRA,France,1993-03-28,1993-03-29,Balladur,0,0,0,1,577,etc,divers,others,,43,664,318,199,1328
 FRA,France,1993-03-28,1995-05-17,Juppe I,0,0,0,23,577,PCF,Parti communiste française,French Communist Party,1.3741,43,664,244,318,686
 FRA,France,1993-03-28,1995-05-17,Juppe I,0,0,0,57,577,PS,Parti socialiste,Socialist Party,3.2493,43,664,244,318,1539
@@ -5325,7 +5335,7 @@ FRA,France,1993-03-28,1995-11-07,Juppe II,0,0,0,57,577,PS,Parti socialiste,Socia
 FRA,France,1993-03-28,1995-11-07,Juppe II,0,1,1,257,577,RPR,Rassemblement pour la république,Rally for the Republic,7.4997,43,664,422,244,138
 FRA,France,1993-03-28,1995-11-07,Juppe II,0,1,0,215,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,664,422,244,509
 FRA,France,1993-03-28,1995-11-07,Juppe II,0,0,0,25,577,none,sans étiquette,no party affiliation,,43,664,422,244,947
-FRA,France,1997-06-01,1997-06-02,Jospin,0,0,0,1,577,FN,Front national,National Front,9.6854,43,479,481,422,270
+FRA,France,1997-06-01,1997-06-02,Jospin,0,0,0,1,577,FN,Rassemblement National ,National Rally,9.6854,43,479,481,422,270
 FRA,France,1997-06-01,1997-06-02,Jospin,0,1,0,7,577,MDC,Mouvement des citoyens,Citizens' Movement,1.3,43,479,481,422,2143
 FRA,France,1997-06-01,1997-06-02,Jospin,0,1,0,39,577,PCF,Parti communiste française,French Communist Party,1.3741,43,479,481,422,686
 FRA,France,1997-06-01,1997-06-02,Jospin,0,1,0,13,577,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,479,481,422,1492
@@ -5333,7 +5343,7 @@ FRA,France,1997-06-01,1997-06-02,Jospin,0,1,1,252,577,PS,Parti socialiste,Social
 FRA,France,1997-06-01,1997-06-02,Jospin,0,0,0,139,577,RPR,Rassemblement pour la république,Rally for the Republic,7.4997,43,479,481,422,138
 FRA,France,1997-06-01,1997-06-02,Jospin,0,0,0,111,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,479,481,422,509
 FRA,France,1997-06-01,1997-06-02,Jospin,0,1,0,8,577,V,Les Verts,Greens,3.155,43,479,481,422,873
-FRA,France,1997-06-01,1997-06-02,Jospin,0,0,0,6,577,droite,divers droite,other right,7.6583,43,479,481,422,285
+FRA,France,1997-06-01,1997-06-02,Jospin,0,0,0,6,577,d-droite,divers droite,other right,7.6583,43,479,481,422,285
 FRA,France,1997-06-01,1997-06-02,Jospin,0,0,0,1,577,etc,divers,others,,43,479,481,422,1328
 FRA,France,1997-06-01,2002-05-07,Raffarin I,0,0,0,30,577,IR|DL,Independants républicains | Démocratie libérale,Independent Republicans | Liberal Democracy,7.0577,43,479,711,481,59
 FRA,France,1997-06-01,2002-05-07,Raffarin I,0,0,0,36,577,PCF,Parti communiste française,French Communist Party,1.3741,43,479,711,481,686
@@ -5351,8 +5361,8 @@ FRA,France,2002-06-16,2002-06-17,Raffarin II,0,0,0,5,577,RPF,Rassemblement pour 
 FRA,France,2002-06-16,2002-06-17,Raffarin II,0,1,0,28,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,403,820,711,509
 FRA,France,2002-06-16,2002-06-17,Raffarin II,0,1,1,356,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,403,820,711,658
 FRA,France,2002-06-16,2002-06-17,Raffarin II,0,0,0,3,577,V,Les Verts,Greens,3.155,43,403,820,711,873
-FRA,France,2002-06-16,2002-06-17,Raffarin II,0,0,0,7,577,droite,divers droite,other right,7.6583,43,403,820,711,285
-FRA,France,2002-06-16,2002-06-17,Raffarin II,0,0,0,3,577,gauche,divers gauche,other left,3.3,43,403,820,711,177
+FRA,France,2002-06-16,2002-06-17,Raffarin II,0,0,0,7,577,d-droite,divers droite,other right,7.6583,43,403,820,711,285
+FRA,France,2002-06-16,2002-06-17,Raffarin II,0,0,0,3,577,d-gauche,divers gauche,other left,3.3,43,403,820,711,177
 FRA,France,2002-06-16,2004-03-30,Raffarin III,0,0,0,21,577,PCF,Parti communiste française,French Communist Party,1.3741,43,403,802,820,686
 FRA,France,2002-06-16,2004-03-30,Raffarin III,0,0,0,141,577,PS,Parti socialiste,Socialist Party,3.2493,43,403,802,820,1539
 FRA,France,2002-06-16,2004-03-30,Raffarin III,0,1,0,29,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,403,802,820,509
@@ -5378,8 +5388,8 @@ FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,186,577,PS,Parti socialiste,Soc
 FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,3,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,171,306,807,509
 FRA,France,2007-06-17,2007-06-18,Fillon II,0,1,1,313,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,171,306,807,658
 FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,4,577,V,Les Verts,Greens,3.155,43,171,306,807,873
-FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,9,577,droite,divers droite,other right,7.6583,43,171,306,807,285
-FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,15,577,gauche,divers gauche,other left,3.3,43,171,306,807,177
+FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,9,577,d-droite,divers droite,other right,7.6583,43,171,306,807,285
+FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,15,577,d-gauche,divers gauche,other left,3.3,43,171,306,807,177
 FRA,France,2007-06-17,2007-06-18,Fillon II,0,0,0,1,577,none,sans étiquette,no party affiliation,,43,171,306,807,947
 FRA,France,2007-06-17,2010-11-14,Fillon III,0,0,0,24,577,GDR,Gauche démocrate et républicaine,Democratic and Republican Left,1.3,43,171,883,306,2272
 FRA,France,2007-06-17,2010-11-14,Fillon III,0,1,0,23,577,NC,Nouveau centre,New Centre,6.0,43,171,883,306,1058
@@ -5394,7 +5404,7 @@ FRA,France,2007-06-17,2012-05-15,Ayrault I,0,0,0,320,577,UMP|LR,Union pour un mo
 FRA,France,2007-06-17,2012-05-15,Ayrault I,0,1,0,0,577,V,Les Verts,Greens,3.155,43,171,1037,883,873
 FRA,France,2007-06-17,2012-05-15,Ayrault I,0,0,0,6,577,none,sans étiquette,no party affiliation,,43,171,1037,883,947
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,2,577,AC,Alliance centriste,Centrist Alliance,6.0,43,782,1038,1037,2078
-FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,2,577,FN,Front national,National Front,9.6854,43,782,1038,1037,270
+FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,2,577,FN,Rassemblement National ,National Rally,9.6854,43,782,1038,1037,270
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,2,577,MIM,Mouvement independantiste martiniquais,Martinican Independence Movement,,43,782,1038,1037,2077
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,12,577,NC,Nouveau centre,New Centre,6.0,43,782,1038,1037,1058
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,10,577,PCF,Parti communiste française,French Communist Party,1.3741,43,782,1038,1037,686
@@ -5404,9 +5414,9 @@ FRA,France,2012-06-17,2012-06-18,Ayrault II,0,1,1,280,577,PS,Parti socialiste,So
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,2,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,782,1038,1037,509
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,194,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,782,1038,1037,658
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,1,0,17,577,V,Les Verts,Greens,3.155,43,782,1038,1037,873
-FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,15,577,droite,divers droite,other right,7.6583,43,782,1038,1037,285
+FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,15,577,d-droite,divers droite,other right,7.6583,43,782,1038,1037,285
+FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,22,577,d-gauche,divers gauche,other left,3.3,43,782,1038,1037,177
 FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,1,577,ex-dro,extrême droite,other far-right,8.8,43,782,1038,1037,2079
-FRA,France,2012-06-17,2012-06-18,Ayrault II,0,0,0,22,577,gauche,divers gauche,other left,3.3,43,782,1038,1037,177
 FRA,France,2012-06-17,2014-03-31,Valls I,0,0,0,15,577,GDR,Gauche démocrate et républicaine,Democratic and Republican Left,1.3,43,782,1103,1038,2272
 FRA,France,2012-06-17,2014-03-31,Valls I,0,1,0,16,577,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,782,1103,1038,1492
 FRA,France,2012-06-17,2014-03-31,Valls I,0,1,1,292,577,PS,Parti socialiste,Socialist Party,3.2493,43,782,1103,1038,1539
@@ -5440,7 +5450,7 @@ FRA,France,2012-06-17,2016-12-06,Cazeneuve,1,0,0,8,577,none,sans étiquette,no p
 FRA,France,2012-06-17,2017-06-14,Philippe I,0,0,0,15,577,GDR,Gauche démocrate et républicaine,Democratic and Republican Left,1.3,43,782,1508,1498,2272
 FRA,France,2012-06-17,2017-06-14,Philippe I,0,1,0,16,577,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,782,1508,1498,1492
 FRA,France,2012-06-17,2017-06-14,Philippe I,0,0,0,292,577,PS,Parti socialiste,Socialist Party,3.2493,43,782,1508,1498,1539
-FRA,France,2012-06-17,2017-06-14,Philippe I,0,1,0,0,577,REM,La République En Marche!,The Republic Onwards!,6.0,43,782,1508,1498,2643
+FRA,France,2012-06-17,2017-06-14,Philippe I,0,1,0,0,577,REM|R,La République En Marche! | Renaissance,The Republic Onwards! | Renaissance,6.0,43,782,1508,1498,2643
 FRA,France,2012-06-17,2017-06-14,Philippe I,0,1,0,0,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,782,1508,1498,509
 FRA,France,2012-06-17,2017-06-14,Philippe I,0,0,0,30,577,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,7.4,43,782,1508,1498,2273
 FRA,France,2012-06-17,2017-06-14,Philippe I,0,1,1,199,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,782,1508,1498,658
@@ -5448,36 +5458,68 @@ FRA,France,2012-06-17,2017-06-14,Philippe I,0,0,0,17,577,V,Les Verts,Greens,3.15
 FRA,France,2012-06-17,2017-06-14,Philippe I,0,0,0,8,577,none,sans étiquette,no party affiliation,,43,782,1508,1498,947
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,1,577,DLR|DLF,Debout la république | Debout la France,Republic Arise | France Arise,7.4,43,1014,1509,1508,2399
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,17,577,FI,La France Insoumise,Unbowed France,1.3,43,1014,1509,1508,2644
-FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,8,577,FN,Front national,National Front,9.6854,43,1014,1509,1508,270
+FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,8,577,FN,Rassemblement National ,National Rally,9.6854,43,1014,1509,1508,270
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,10,577,PCF,Parti communiste française,French Communist Party,1.3741,43,1014,1509,1508,686
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,1,0,3,577,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,1014,1509,1508,1492
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,30,577,PS,Parti socialiste,Socialist Party,3.2493,43,1014,1509,1508,1539
-FRA,France,2017-06-18,2017-06-21,Philippe II,0,1,0,308,577,REM,La République En Marche!,The Republic Onwards!,6.0,43,1014,1509,1508,2643
+FRA,France,2017-06-18,2017-06-21,Philippe II,0,1,0,308,577,REM|R,La République En Marche! | Renaissance,The Republic Onwards! | Renaissance,6.0,43,1014,1509,1508,2643
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,1,0,42,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,1014,1509,1508,509
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,18,577,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,7.4,43,1014,1509,1508,2273
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,1,1,112,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,1014,1509,1508,658
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,1,577,V,Les Verts,Greens,3.155,43,1014,1509,1508,873
-FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,6,577,droite,divers droite,other right,7.6583,43,1014,1509,1508,285
+FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,6,577,d-droite,divers droite,other right,7.6583,43,1014,1509,1508,285
+FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,12,577,d-gauche,divers gauche,other left,3.3,43,1014,1509,1508,177
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,3,577,etc,divers,others,,43,1014,1509,1508,1328
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,1,577,ex-dro,extrême droite,other far-right,8.8,43,1014,1509,1508,2079
-FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,12,577,gauche,divers gauche,other left,3.3,43,1014,1509,1508,177
 FRA,France,2017-06-18,2017-06-21,Philippe II,0,0,0,5,577,none,sans étiquette,no party affiliation,,43,1014,1509,1508,947
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,1,577,DLR|DLF,Debout la république | Debout la France,Republic Arise | France Arise,7.4,43,1014,1640,1509,2399
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,17,577,FI,La France Insoumise,Unbowed France,1.3,43,1014,1640,1509,2644
-FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,8,577,FN,Front national,National Front,9.6854,43,1014,1640,1509,270
+FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,8,577,FN,Rassemblement National ,National Rally,9.6854,43,1014,1640,1509,270
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,10,577,PCF,Parti communiste française,French Communist Party,1.3741,43,1014,1640,1509,686
 FRA,France,2017-06-18,2020-07-03,Castex,0,1,0,3,577,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,1014,1640,1509,1492
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,30,577,PS,Parti socialiste,Socialist Party,3.2493,43,1014,1640,1509,1539
-FRA,France,2017-06-18,2020-07-03,Castex,0,1,1,308,577,REM,La République En Marche!,The Republic Onwards!,6.0,43,1014,1640,1509,2643
+FRA,France,2017-06-18,2020-07-03,Castex,0,1,1,308,577,REM|R,La République En Marche! | Renaissance,The Republic Onwards! | Renaissance,6.0,43,1014,1640,1509,2643
 FRA,France,2017-06-18,2020-07-03,Castex,0,1,0,42,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,1014,1640,1509,509
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,18,577,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,7.4,43,1014,1640,1509,2273
 FRA,France,2017-06-18,2020-07-03,Castex,0,1,0,112,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,1014,1640,1509,658
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,1,577,V,Les Verts,Greens,3.155,43,1014,1640,1509,873
-FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,6,577,droite,divers droite,other right,7.6583,43,1014,1640,1509,285
+FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,6,577,d-droite,divers droite,other right,7.6583,43,1014,1640,1509,285
+FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,12,577,d-gauche,divers gauche,other left,3.3,43,1014,1640,1509,177
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,3,577,etc,divers,others,,43,1014,1640,1509,1328
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,1,577,ex-dro,extrême droite,other far-right,8.8,43,1014,1640,1509,2079
-FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,12,577,gauche,divers gauche,other left,3.3,43,1014,1640,1509,177
 FRA,France,2017-06-18,2020-07-03,Castex,0,0,0,5,577,none,sans étiquette,no party affiliation,,43,1014,1640,1509,947
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,1,577,DLR|DLF,Debout la république | Debout la France,Republic Arise | France Arise,7.4,43,1014,1673,1640,2399
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,17,577,FI,La France Insoumise,Unbowed France,1.3,43,1014,1673,1640,2644
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,8,577,FN,Rassemblement National ,National Rally,9.6854,43,1014,1673,1640,270
+FRA,France,2017-06-18,2022-05-20,Borne I,0,1,0,0,577,H,Horizons,Horizons,6.0,43,1014,1673,1640,2857
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,10,577,PCF,Parti communiste française,French Communist Party,1.3741,43,1014,1673,1640,686
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,3,577,PRG,Parti radical de gauche,Radical Party of the Left,4.0813,43,1014,1673,1640,1492
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,30,577,PS,Parti socialiste,Socialist Party,3.2493,43,1014,1673,1640,1539
+FRA,France,2017-06-18,2022-05-20,Borne I,0,1,1,308,577,REM|R,La République En Marche! | Renaissance,The Republic Onwards! | Renaissance,6.0,43,1014,1673,1640,2643
+FRA,France,2017-06-18,2022-05-20,Borne I,0,1,0,42,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,1014,1673,1640,509
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,18,577,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,7.4,43,1014,1673,1640,2273
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,112,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,1014,1673,1640,658
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,1,577,V,Les Verts,Greens,3.155,43,1014,1673,1640,873
+FRA,France,2017-06-18,2022-05-20,Borne I,0,1,0,0,577,agir,"Agir, la droite constructive","Act, the constructive right",7.4,43,1014,1673,1640,2862
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,6,577,d-droite,divers droite,other right,7.6583,43,1014,1673,1640,285
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,12,577,d-gauche,divers gauche,other left,3.3,43,1014,1673,1640,177
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,3,577,etc,divers,others,,43,1014,1673,1640,1328
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,1,577,ex-dro,extrême droite,other far-right,8.8,43,1014,1673,1640,2079
+FRA,France,2017-06-18,2022-05-20,Borne I,0,0,0,5,577,none,sans étiquette,no party affiliation,,43,1014,1673,1640,947
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,131,577,FI,La France Insoumise,Unbowed France,1.3,43,1110,1675,1673,2644
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,89,577,FN,Rassemblement National ,National Rally,9.6854,43,1110,1675,1673,270
+FRA,France,2022-06-19,2022-06-19,Borne II,0,1,0,0,577,H,Horizons,Horizons,6.0,43,1110,1675,1673,2857
+FRA,France,2022-06-19,2022-06-19,Borne II,0,1,1,245,577,REM|R,La République En Marche! | Renaissance,The Republic Onwards! | Renaissance,6.0,43,1110,1675,1673,2643
+FRA,France,2022-06-19,2022-06-19,Borne II,0,1,0,0,577,UDF|MD,Union pour la démocratie française | Mouvement démocrate,Union for French Democracy | Democratic Movement,6.1017,43,1110,1675,1673,509
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,3,577,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,7.4,43,1110,1675,1673,2273
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,61,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,1110,1675,1673,658
+FRA,France,2022-06-19,2022-06-19,Borne II,0,1,0,0,577,agir,"Agir, la droite constructive","Act, the constructive right",7.4,43,1110,1675,1673,2862
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,4,577,d-center,divers centre,other centre,6.0,43,1110,1675,1673,2858
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,10,577,d-droite,divers droite,other right,7.6583,43,1110,1675,1673,285
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,22,577,d-gauche,divers gauche,other left,3.3,43,1110,1675,1673,177
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,1,577,etc,divers,others,,43,1110,1675,1673,1328
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,10,577,none,sans étiquette,no party affiliation,,43,1110,1675,1673,947
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,1,577,one-seat,one seat,one seat,,43,1110,1675,1673,2859
 GBR,United Kingdom,1918-12-14,1919-01-10,Lloyd George I,0,1,0,4,707,CoLab,Coalition Labour,Coalition Labour,3.3,44,905,1295,,2508
 GBR,United Kingdom,1918-12-14,1919-01-10,Lloyd George I,0,1,1,127,707,CoLib,Coalition Liberal,Coalition Liberal,6.0,44,905,1295,,2501
 GBR,United Kingdom,1918-12-14,1919-01-10,Lloyd George I,0,1,0,382,707,Con,Conservatives,Conservatives,7.4261,44,905,1295,,773
@@ -6241,6 +6283,18 @@ HUN,Hungary,2018-04-08,2018-05-10,Orban IV,0,1,0,16,199,KDNP,Kereszténydemokrat
 HUN,Hungary,2018-04-08,2018-05-10,Orban IV,0,0,0,8,199,LMP,Lehet Más a Politika,Politics Can Be Different,2.5,39,1023,1531,1104,403
 HUN,Hungary,2018-04-08,2018-05-10,Orban IV,0,0,0,20,199,MSZP,Magyar Szocialista Párt,Hungarian Socialist Party,2.8743,39,1023,1531,1104,1591
 HUN,Hungary,2018-04-08,2018-05-10,Orban IV,0,0,0,1,199,one-seat,one seat,one seat,,39,1023,1531,1104,952
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,15,199,DK,Demokratikus Koalíció,Democratic Coalition,3.3,39,1107,1670,1531,1970
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,1,1,0,199,Fi+KDNP,Fidesz – Magyar Polgári Szövetség / Kereszténydemokrata Néppárt,Fidesz -- Hungarian Civic Party / Christian Democratic People's Party,6.5432,39,1107,1670,1531,437
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,117,199,Fi-MPSz,Fidesz – Magyar Polgári Szövetség,Fidesz -- Hungarian Civic Union,6.5432,39,1107,1670,1531,921
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,10,199,Jobbik,Jobbik Magyarországért Mozgalom,Jobbik Movement for a Better Hungary,8.8,39,1107,1670,1531,600
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,1,0,18,199,KDNP,Kereszténydemokrata Néppárt,Christian Democratic People's Party,7.4,39,1107,1670,1531,434
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,5,199,LMP,Lehet Más a Politika,Politics Can Be Different,2.5,39,1107,1670,1531,403
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,6,199,MHM,Mi Hazánk Mozgalom,Our Homeland Movement,8.8,39,1107,1670,1531,2745
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,10,199,MM,Momentum Mozgalom,Momentum Movement,7.4,39,1107,1670,1531,2659
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,10,199,MSZP,Magyar Szocialista Párt,Hungarian Socialist Party,2.8743,39,1107,1670,1531,1591
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,6,199,PM,Párbeszéd Magyarországért,Dialogue for Hungary,2.5,39,1107,1670,1531,2349
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,1,199,none,független,no party affiliation,,39,1107,1670,1531,1617
+HUN,Hungary,2022-04-03,2022-05-16,Orban V,0,0,0,1,199,one-seat,one seat,one seat,,39,1107,1670,1531,952
 IRL,Ireland,1922-06-22,1922-08-30,Cosgrave I,0,0,0,1,128,BP,Business and Professional Group,Business and Professional Group,6.0,37,912,1446,,2523
 IRL,Ireland,1922-06-22,1922-08-30,Cosgrave I,0,1,1,58,128,CG,Cumann na nGaedheal,Society of the Gaels,7.4,37,912,1446,,2447
 IRL,Ireland,1922-06-22,1922-08-30,Cosgrave I,0,0,0,36,128,FF,Fianna Fáil,Fianna Fail,6.0713,37,912,1446,,280
@@ -9937,7 +9991,7 @@ NLD,Netherlands,1946-05-17,1946-07-03,Beel I,0,0,0,10,100,CPN,Communistische Par
 NLD,Netherlands,1946-05-17,1946-07-03,Beel I,0,1,1,32,100,KVP,Katholieke Volkspartij,Catholic Peoples Party,5.9473,8,182,96,767,451
 NLD,Netherlands,1946-05-17,1946-07-03,Beel I,0,1,0,29,100,PvdA,Partij van de Arbeid,Labour Party,3.6118,8,182,96,767,742
 NLD,Netherlands,1946-05-17,1946-07-03,Beel I,0,0,0,2,100,SGP,Staatkundig Gereformeerde Partij,Political Reformed Party,8.7531,8,182,96,767,1251
-NLD,Netherlands,1946-05-17,1946-07-03,Beel I,0,1,0,6,100,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democracy,7.3482,8,182,96,767,1409
+NLD,Netherlands,1946-05-17,1946-07-03,Beel I,0,0,0,6,100,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democracy,7.3482,8,182,96,767,1409
 NLD,Netherlands,1948-07-07,1948-08-07,Drees I,0,0,0,13,100,ARP,Anti-Revolutionaire Partij,Anti-Revolutionary Party,5.8067,8,497,128,96,300
 NLD,Netherlands,1948-07-07,1948-08-07,Drees I,0,1,0,9,100,CHU,Christelijk-Historische Unie,Christian Historical Union,5.8067,8,497,128,96,405
 NLD,Netherlands,1948-07-07,1948-08-07,Drees I,0,0,0,8,100,CPN,Communistische Partij Nederland,Communist Party of the Netherlands,0.8,8,497,128,96,1194
@@ -10291,6 +10345,23 @@ NLD,Netherlands,2017-03-15,2021-01-15,Rutte VI,1,0,0,5,150,PvdD,Partij voor de D
 NLD,Netherlands,2017-03-15,2021-01-15,Rutte VI,1,0,0,3,150,SGP,Staatkundig Gereformeerde Partij,Political Reformed Party,8.7531,8,1012,1648,1530,1251
 NLD,Netherlands,2017-03-15,2021-01-15,Rutte VI,1,0,0,14,150,SP,Socialistiese Partij,Socialist Party,1.3682,8,1012,1648,1530,357
 NLD,Netherlands,2017-03-15,2021-01-15,Rutte VI,1,1,1,33,150,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democracy,7.3482,8,1012,1648,1530,1409
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,1,150,50+,50PLUS,50PLUS,,8,1097,1669,1648,2109
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,1,150,BBB,BoerBurgerBeweging,Farmer-Citizen Movement,5.3,8,1097,1669,1648,2824
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,1,0,15,150,CDA,Christen Democratisch Appèl,Christian Democratic Appeal,5.9376,8,1097,1669,1648,235
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,1,0,5,150,CU,ChristenUnie,ChristianUnion,6.1732,8,1097,1669,1648,1206
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,1,0,24,150,D66,Democraten 66,Democrats 66,4.5066,8,1097,1669,1648,345
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,3,150,DENK,Beweging DENK,Think,3.3,8,1097,1669,1648,2641
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,8,150,FvD,Forum voor Democratie,Forum for Democracy,8.8,8,1097,1669,1648,2642
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,8,150,GL,GroenLinks,GreenLeft,2.0454,8,1097,1669,1648,756
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,3,150,JA21,Juiste Antwoord21,Right Answer 2021,8.8,8,1097,1669,1648,2823
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,17,150,PVV,Partij voor de Vrijheid,Party for Freedom,8.8,8,1097,1669,1648,1501
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,9,150,PvdA,Partij van de Arbeid,Labour Party,3.6118,8,1097,1669,1648,742
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,6,150,PvdD,Partij voor de Dieren,Party for the Animals,,8,1097,1669,1648,990
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,3,150,SGP,Staatkundig Gereformeerde Partij,Political Reformed Party,8.7531,8,1097,1669,1648,1251
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,9,150,SP,Socialistiese Partij,Socialist Party,1.3682,8,1097,1669,1648,357
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,3,150,VN,Volt Nederland,Volt Netherlands,,8,1097,1669,1648,2735
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,1,1,34,150,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democracy,7.3482,8,1097,1669,1648,1409
+NLD,Netherlands,2021-03-17,2022-01-10,Rutte VII ,0,0,0,1,150,one-seat,one seat,one seat,,8,1097,1669,1648,2288
 NOR,Norway,1900-07-01,1900-07-01,Steens,0,0,0,31,114,H,Høyre,Conservative Party,7.8994,9,943,1476,,1435
 NOR,Norway,1900-07-01,1900-07-01,Steens,0,0,0,6,114,MV,Moderate Venstre,Moderate Liberal Party,6.0,9,943,1476,,2473
 NOR,Norway,1900-07-01,1900-07-01,Steens,0,1,1,77,114,V,Venstre,Liberal Party of Norway,5.1467,9,943,1476,,647
@@ -11350,6 +11421,16 @@ PRT,Portugal,2019-10-06,2019-10-26,Costa II,0,0,0,1,230,L,"Livre – Liberdade, 
 PRT,Portugal,2019-10-06,2019-10-26,Costa II,0,0,0,4,230,PAN,Partido pelos Animais e pela Natureza,Party for Animals and Nature,2.5,63,1081,1610,1198,1781
 PRT,Portugal,2019-10-06,2019-10-26,Costa II,0,1,1,108,230,PS,Partido Socialista,Socialist Party,4.0492,63,1081,1610,1198,725
 PRT,Portugal,2019-10-06,2019-10-26,Costa II,0,0,0,79,230,PSD,Partido Social Democrata,Social Democratic Party,6.2949,63,1081,1610,1198,1273
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,5,230,BE,Bloco de Esquerda,Bloc of the Left,1.6425,63,1109,1671,1610,557
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,3,230,CDS-PP,Centro Democrático e Social – Partido Popular,Democratic and Social Centre -- People's Party,8.0222,63,1109,1671,1610,251
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,12,230,CH,Chega,Enough,8.8,63,1109,1671,1610,2789
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,8,230,IL,Iniciativa Liberal,Liberal Initiative,6.0,63,1109,1671,1610,2788
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,1,230,L,"Livre – Liberdade, Esquerda, Europa e Ecologia",Livre,3.3,63,1109,1671,1610,2374
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,1,230,PAN,Partido pelos Animais e pela Natureza,Party for Animals and Nature,2.5,63,1109,1671,1610,1781
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,6,230,PCP,Partido Comunista Português,Portuguese Communist Party,2.1754,63,1109,1671,1610,514
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,2,230,PPM,Partido Popular Monárquico,Popular Monarchist Party,7.4,63,1109,1671,1610,107
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,1,1,120,230,PS,Partido Socialista,Socialist Party,4.0492,63,1109,1671,1610,725
+PRT,Portugal,2022-01-30,2022-03-30,Costa III,0,0,0,72,230,PSD,Partido Social Democrata,Social Democratic Party,6.2949,63,1109,1671,1610,1273
 ROU,Romania,1990-05-20,1990-07-04,Roman II,0,0,0,2,396,GDC,Grupul Democrat de Centru,Democratic Group of the Centre,,23,633,715,1604,152
 ROU,Romania,1990-05-20,1990-07-04,Roman II,0,0,0,12,396,MER,Miscarea Ecologista din Romania,Romanian Ecological Movement,2.5,23,633,715,1604,1639
 ROU,Romania,1990-05-20,1990-07-04,Roman II,0,1,1,263,396,PD,Partidul Democrat,Democratic Party,5.3875,23,633,715,1604,419
@@ -11926,6 +12007,13 @@ SVN,Slovenia,2018-06-03,2020-12-18,Jansa IV,0,1,0,10,90,SMC,Stranka modernega,Mo
 SVN,Slovenia,2018-06-03,2020-12-18,Jansa IV,0,0,0,4,90,SNS,Slovenska nacionalna stranka,Slovenian National Party,4.7941,60,1025,1668,1624,981
 SVN,Slovenia,2018-06-03,2020-12-18,Jansa IV,0,0,0,10,90,ZL-SD,Združena lista – Socialni demokrati,United List -- Social Democrats,3.0637,60,1025,1668,1624,706
 SVN,Slovenia,2018-06-03,2020-12-18,Jansa IV,0,0,0,5,90,ZaAB,Zavezništvo Alenke Bratušek,Alliance of Alenka Bratusek,3.3,60,1025,1668,1624,2337
+SVN,Slovenia,2022-04-22,2022-06-01,Golob,0,1,1,41,90,GS,Gibanje Svoboda,Freedom Movement,3.3,60,1108,1674,1668,2856
+SVN,Slovenia,2022-04-22,2022-06-01,Golob,0,0,0,1,90,Ita,Italijanska narodna skupnost,Italian national community,,60,1108,1674,1668,199
+SVN,Slovenia,2022-04-22,2022-06-01,Golob,0,1,0,5,90,L,Levica,The Left,1.3,60,1108,1674,1668,2670
+SVN,Slovenia,2022-04-22,2022-06-01,Golob,0,0,0,1,90,Mad,Madžarska narodna skupnost,Hungarian national community,,60,1108,1674,1668,65
+SVN,Slovenia,2022-04-22,2022-06-01,Golob,0,0,0,8,90,NSI,Nova Slovenija – Krščanska ljudska stranka,New Slovenia -- Christian People's Party,7.9345,60,1108,1674,1668,1047
+SVN,Slovenia,2022-04-22,2022-06-01,Golob,0,0,0,27,90,SDS,Slovenska demokratska stranka,Slovenian Democratic Party,6.9996,60,1108,1674,1668,179
+SVN,Slovenia,2022-04-22,2022-06-01,Golob,0,1,0,7,90,ZL-SD,Združena lista – Socialni demokrati,United List -- Social Democrats,3.0637,60,1108,1674,1668,706
 SWE,Sweden,1911-09-24,1911-10-07,Staaff,0,1,1,102,230,FP,Folkpartiet,People's Party,6.2906,35,961,1370,,892
 SWE,Sweden,1911-09-24,1911-10-07,Staaff,0,0,0,64,230,M,Moderaterna,Moderate Party,7.8907,35,961,1370,,657
 SWE,Sweden,1911-09-24,1911-10-07,Staaff,0,0,0,64,230,SAP,Socialdemokraterna,Social Democrats,3.4447,35,961,1370,,904

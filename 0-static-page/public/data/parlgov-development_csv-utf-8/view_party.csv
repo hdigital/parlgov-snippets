@@ -569,11 +569,12 @@ FRA,France,CeD,Centre Right,Centre-droit,Centre-droit,con,Conservative,7.4,6.4,6
 FRA,France,CeG,Centre Left,Centre-gauche,Centre-gauche,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,43,2251,11
 FRA,France,DLR|DLF,Republic Arise | France Arise,Debout la république | Debout la France,Debout la republique | Debout la France,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,43,2399,26
 FRA,France,FI,Unbowed France,La France Insoumise,La France Insoumise,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,43,2644,14
-FRA,France,FN,National Front,Front national,Front national,right,Right-wing,9.6854,7.4011,9.2889,0.2157,31720,113,1250720,708,1412,610,5817,610,43,270,40
+FRA,France,FN,National Rally,Rassemblement National ,Rassemblement National ,right,Right-wing,9.6854,7.4011,9.2889,0.2157,31720,113,1250720,708,1412,610,5817,610,43,270,40
 FRA,France,G,Gaullists,Gaulliste,Gaulliste,con,Conservative,8.2,6.4,6.9,7.9,31621,,,706,,,,,43,1094,26
 FRA,France,GDR,Democratic and Republican Left,Gauche démocrate et républicaine,Gauche democrate et republicaine,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,43,2272,14
 FRA,France,GE,Ecology Generation,Generation écologie,Generation ecologie,eco,Green/Ecologist,3.6389,2.5,1.8,7.6167,31111,,,703,1405,611,,,43,650,19
 FRA,France,Gs,"Generation.s, the movement","Génération.s, le mouvement","Generation.s, le mouvement",soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,43,2732,11
+FRA,France,H,Horizons,Horizons,Horizons,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,43,2857,6
 FRA,France,IOM,Overseas Independents,Indépendants d'outre-mer,Independants d'outre-mer,spec,Special issue,,,,,,,,,,,,,43,2277,16
 FRA,France,IR|DL,Independent Republicans | Liberal Democracy,Independants républicains | Démocratie libérale,Independants republicains | Democratie liberale,con,Conservative,7.0577,7.7993,6.1743,8.246,,,,,1410,606,,615,43,59,26
 FRA,France,LCR,Revolutionary Communist League,Ligue communiste révolutionnaire,Ligue communiste revolutionnaire,com,Communist/Socialist,0.0714,0.2143,6.0,0.4762,,,,,1401,,,614,43,442,14
@@ -599,8 +600,9 @@ FRA,France,PSF,French Socialist Party,Parti socialiste français,Parti socialist
 FRA,France,PSU,Unified Socialist Party,Parti socialiste unifie,Parti socialiste unifie,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,604,,,43,516,14
 FRA,France,PSdF,Socialist Party of France -- Jean Jaures Union,Parti socialiste de France – Union Jean Jaurès,Parti socialiste de France -- Union Jean Jaures,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,43,2618,11
 FRA,France,PUP, Proletarian Unity Party,Parti de l'Unité Prolétarienne,Parti de l'Unite Proletarienne,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,43,2584,14
+FRA,France,R!,Reconquest,Reconquête,Reconquete,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,43,2860,40
 FRA,France,RDA,African Democratic Rally,Rassemblement démocratique Africain,Rassemblement democratique Africain,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,43,2276,14
-FRA,France,REM,The Republic Onwards!,La République En Marche!,La Republique En Marche!,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,43,2643,6
+FRA,France,REM|R,The Republic Onwards! | Renaissance,La République En Marche! | Renaissance,La Republique En Marche! | Renaissance,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,43,2643,6
 FRA,France,RGR,Rally of Republican Lefts,Rassemblement des gauches républicaines,Rassemblement des gauches republicaines,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,43,890,26
 FRA,France,RI,Independent Radicals,Radicaux indépendants,Radicaux independants,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,43,2585,26
 FRA,France,RP,Progressive Republicans,Républicains progressistes,Republicains progressistes,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,43,2586,26
@@ -622,14 +624,17 @@ FRA,France,UMP|LR,Union for a Popular Movement | The Republicans,Union pour un m
 FRA,France,UPR,Popular Republican Union,Union Populaire Républicaine,Union Populaire Republicaine,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,43,2734,26
 FRA,France,UR,Republican Union,Union républicaine,Union republicaine,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,43,2581,40
 FRA,France,V,Greens,Les Verts,Les Verts,eco,Green/Ecologist,3.155,2.8774,1.4772,6.4585,31110,103,1250110,703,1406,605,5929,605,43,873,19
-FRA,France,droite,other right,divers droite,divers droite,con,Conservative,7.6583,9.0,9.0,5.8333,,,,,,,,618,43,285,26
-FRA,France,eco,other ecologists,divers ecologistes,divers ecologistes,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,43,2249,19
+FRA,France,agir,"Act, the constructive right","Agir, la droite constructive","Agir, la droite constructive",con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,43,2862,26
+FRA,France,d-center,other centre,divers centre,divers centre,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,43,2858,6
+FRA,France,d-droite,other right,divers droite,divers droite,con,Conservative,7.6583,9.0,9.0,5.8333,,,,,,,,618,43,285,26
+FRA,France,d-eco,other ecologists,divers ecologistes,divers ecologistes,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,43,2249,19
+FRA,France,d-gauche,other left,divers gauche,divers gauche,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,43,177,11
 FRA,France,etc,others,divers,divers,none,no family,,,,,,,,,,,,,43,1328,12
 FRA,France,ex-dro,other far-right,extrême droite,extreme droite,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,43,2079,40
 FRA,France,ex-gau,other far-left,extrême gauche,extreme gauche,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,1250226,,,,,,43,2083,14
-FRA,France,gauche,other left,divers gauche,divers gauche,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,43,177,11
 FRA,France,no-seat,no seat,no seat,no seat,none,no family,,,,,,,,,,,,,43,2080,12
 FRA,France,none,no party affiliation,sans étiquette,sans etiquette,none,no family,,,,,,,,,,,,,43,947,12
+FRA,France,one-seat,one seat,one seat,one seat,none,no family,,,,,,,,,,,,,43,2859,12
 GBR,United Kingdom,APoNI,Alliance Party of Northern Ireland,Alliance Party of Northern Ireland,Alliance Party of Northern Ireland,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,44,2731,6
 GBR,United Kingdom,BNP,British National Party,British National Party,British National Party,right,Right-wing,8.8,5.9,8.5,2.3,,417,1826720,,,,,1109,44,1250,40
 GBR,United Kingdom,BP,Brexit Party,Brexit Party,Brexit Party,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,44,2729,40
@@ -781,6 +786,7 @@ HUN,Hungary,KDNP,Christian Democratic People's Party,Kereszténydemokrata Népp�
 HUN,Hungary,KP,Republican Party,Köztársaság Párt,Koztarsasag Part,code,to be coded,,,,,,,,,,,,,39,2588,28
 HUN,Hungary,LMP,Politics Can Be Different,Lehet Más a Politika,Lehet Mas a Politika,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,166,,,,,,2309,39,403,19
 HUN,Hungary,MDF,Hungarian Democratic Forum,Magyar Demokrata Fórum,Magyar Demokrata Forum,con,Conservative,6.4826,5.0761,6.8263,8.4922,86521,159,1348521,,1605,,1924,2303,39,546,26
+HUN,Hungary,MEMO,Solution Movement ,Megoldás Mozgalom ,Megoldas Mozgalom,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,39,2855,6
 HUN,Hungary,MHM,Our Homeland Movement,Mi Hazánk Mozgalom,Mi Hazank Mozgalom,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,39,2745,40
 HUN,Hungary,MIEP,Hungarian Justice and Life Party,Magyar Igazság és Élet Pártja,Magyar Igazsag es Elet Partja,right,Right-wing,9.6065,3.807,9.5894,0.9358,86620,,,,,,1950,2305,39,95,40
 HUN,Hungary,MKKP,Hungarian Two-tailed Dog Party,Magyar Kétfarkú Kutya Párt,Magyar Ketfarku Kutya Part,spec,Special issue,,,,,,,,,,,,,39,2660,16
@@ -1002,6 +1008,7 @@ ITA,Italy,FiD,Stop the Decline,Fermare il Declino,Fermare il Declino,lib,Liberal
 ITA,Italy,ID,Democracy,I Democratici,I Democratici,chr,Christian democracy,4.0844,4.3378,4.41,9.6944,,,,,,,,819,26,961,3
 ITA,Italy,IV,Italy Alive,Italia Viva,Italia Viva,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,26,2794,6
 ITA,Italy,IdV,Italy of Values,Italia dei Valori,Italia dei Valori,lib,Liberal,4.8712,4.5664,5.5255,7.1295,32902,176,1380902,,,,6686,828,26,693,6
+ITA,Italy,IpF,Together for the Future,Insieme per il Futuro,Insieme per il Futuro,none,no family,,,,,,,,,,,,,26,2861,12
 ITA,Italy,LAM,Southern Action League,Lega d'Azione Meridionale,Lega d'Azione Meridionale,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,26,436,40
 ITA,Italy,LD,Liberal Democrats,Liberal Democratici,Liberal Democratici,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,26,906,6
 ITA,Italy,LL,Lombard League,Liga Lombarda,Liga Lombarda,spec,Special issue,,,,,,,,,,,,,26,1560,16
@@ -1465,6 +1472,7 @@ PRT,Portugal,PSR,Revolutionary Socialist Party,Partido Socialista Revolucionári
 PRT,Portugal,Ref,Reformists,Reformadores,Reformadores,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,63,1772,14
 PRT,Portugal,UDP,Popular Democratic Union,União Democrática Popular,Uniao Democratica Popular,com,Communist/Socialist,1.3,1.4,3.0,1.95,35210,,,,,1211,,,63,260,14
 PRT,Portugal,UEDS,Leftwing Union for the Socialist Democracy,União da Esquerda para a Democracia Socialista,Uniao de Esquerda para a Democracia Socialista,soc,Social democracy,3.3,3.5,3.5,8.1,35317,,,,,,,,63,565,11
+PRT,Portugal,no-seat,no seat,no seat,no seat,none,no family,,,,,,,,,,,,,63,2864,12
 PRT,Portugal,none,no party affiliation,no party affiliation,no party affiliation,none,no family,,,,,,,,,,,,,63,729,12
 PRT,Portugal,one-seat,one seat,one seat,one seat,none,no family,,,,,,,,,,,,,63,2291,12
 ROU,Romania,AUR,Alliance for the Unity of Romanians,Alianța pentru Unirea Românilor,Alianta pentru Unirea Romanilor,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,23,2807,40
@@ -1582,6 +1590,7 @@ SVN,Slovenia,DOM,Homeland League,Domovinska liga,Domovinska liga,right,Right-win
 SVN,Slovenia,DS,Democratic Party,Demokratska stranka,Demokratska stranka,soc,Social democracy,3.3,3.5,3.5,8.1,97430,,,,,,,,60,143,11
 SVN,Slovenia,DZL,Civic Green List,Driavljanska zelena lista,Driavljanska zelena lista,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,60,2570,19
 SVN,Slovenia,DeSUS,Democratic Party of Pensioners of Slovenia,Demokratična stranka upokojencev Slovenije,Demokraticna stranka upokojencev Slovenije,spec,Special issue,3.2292,3.225,5.0708,7.0936,97951,260,1705951,,,,4183,2906,60,1587,16
+SVN,Slovenia,GS,Freedom Movement,Gibanje Svoboda,Gibanje Svoboda,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,2856,11
 SVN,Slovenia,GZS,Voice of Slovenian women,Glas žensk Slovenije,Glas zensk Slovenije,spec,Special issue,,,,,,,,,,,,,60,2022,16
 SVN,Slovenia,I-JK,Independent -- Jelko Kacin,Independent – Jelko Kacin,Independent -- Jelko Kacin,none,no family,,,,,,,,,,,,,60,2383,12
 SVN,Slovenia,IDS,Initiative for Democratic Socialism,Iniciativa za demokratični socializem,Iniciativa za demokraticni socializem,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,60,2335,14

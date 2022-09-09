@@ -94,7 +94,7 @@ DSB formed an electoral alliance Democratic Bulgaria (DB) on 12 April 2018 with 
 170,5,26,NLC,New Liberal Club,Shin-jiyū-kurabu,Shin jiyu karuba,新自由クラブ,http://en.wikipedia.org/wiki/New_Liberal_Club,,,,71621,,,,,,,,,392,32
 171,64,40,FN,National Front,Front National,Front National,,http://en.wikipedia.org/wiki/Front_national_(Belgium),,New party formed in 1895.,,,,1056710,,,,,4943,115,56,38
 176,26,40,MSFT,Fiamma Tricolore,Fiamma Tricolore,Fiamma Tricolore,,http://en.wikipedia.org/wiki/Fiamma_Tricolore,,,,,175,,,,,,6726,821,380,64
-177,43,11,gauche,other left,divers gauche,divers gauche,,,,,Formally no party but group of independ left MPs.,,,,,,,,,,250,48
+177,43,11,d-gauche,other left,divers gauche,divers gauche,,,,,Formally no party but group of independ left MPs.,,,,,,,,,,250,48
 179,60,3,SDS,Slovenian Democratic Party,Slovenska demokratska stranka,Slovenska demokratska stranka,,http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Slovenia,,,Difficult to classify party family due to a change from an originally Centre-Left to a Centre-Right to a Right-Wing party.,97320,263,1705320,,,,,4261,2902,705,36
 180,74,11,LiD,Left and Democrats,Lewica i Demokraci,Lewica i Demokraci,,http://en.wikipedia.org/wiki/Left_and_Democrats,,,,,,,,,,,3102,,616,31
 181,74,40,X,Party X,Partia X,Partia X,,http://pl.wikipedia.org/wiki/Partia_X,,New party formed on 10 December 1991. ,,92712,,,,,,,,,616,26
@@ -149,7 +149,7 @@ The party was dissolved at a party congress on 18/19 May 1957 and joining the SP
 260,63,14,UDP,Popular Democratic Union,União Democrática Popular,Uniao Democratica Popular,,http://en.wikipedia.org/wiki/People%27s_Democratic_Union_(Portugal),,,,35210,,,,,,1211,,,620,24
 265,34,16,AY,Union of Israel,Agudat Yisrael,Agudat Yisrael,אגודת ישראל‎,http://en.wikipedia.org/wiki/Agudat_Yisrael,,New party formed in 1912.,,72531,,,159,,,,,,376,71
 267,55,40,TKL-ZP,People's Movement for Latvia -- Siegerist Party,Tautas Kustība Latvijai – Zīgerista Partija,Tautas Kustiba Latvijai -- Zigerista Partija,,http://lv.wikipedia.org/wiki/Tautas_Kust%C4%ABba_Latvijai_%28Z%C4%ABgerista_partija%29,,,,87722,,,,,,,,,428,22
-270,43,40,FN,National Front,Front national,Front national,,http://en.wikipedia.org/wiki/Front_National_(France),,New party formed on 5 October 1972.,,31720,113,1250720,,708,1412,610,5817,610,250,29
+270,43,40,FN,National Rally,Rassemblement National ,Rassemblement National ,,http://en.wikipedia.org/wiki/Front_National_(France),,New party formed on 5 October 1972.,,31720,113,1250720,,708,1412,610,5817,610,250,29
 272,59,12,none,no party affiliation,Parteilose,Parteilose,,,,,,,,,,,,,,,40,990
 275,8,40,CP,Centre Party,Centrumpartij,Centrumpartij,,http://en.wikipedia.org/wiki/Centrumpartij,,New party formed on 11 March 1980.,,,,,,,,,,,528,44
 276,62,3,HDZ,Croatian Democratic Union,Hrvatska demokratska zajednica,Hrvatska demokratska zajednica,,http://en.wikipedia.org/wiki/Croatian_Democratic_Community,,,,81711,,,,,,,1094,3101,191,23
@@ -159,7 +159,7 @@ The party was dissolved at a party congress on 18/19 May 1957 and joining the SP
 280,37,26,FF,Fianna Fail,Fianna Fáil,Fianna Fail,,http://en.wikipedia.org/wiki/Fianna_F%C3%A1il,,,,53620,167,1372620,,903,1903,701,6287,701,372,20
 281,63,14,PCTP/MRPP,Communist Party of the Portuguese Workers / Reorganizative Movement of the Party of the Proletariat,Comunista dos Trabalhadores Portugueses / Movimento Reorganizativo do Partido do Proletariado,Comunista dos Trabalhadores Portugueses / Movimento Reorganizativo do Partido do Proletariado,,http://en.wikipedia.org/wiki/Communist_Party_of_the_Portuguese_Workers_/_Reorganizative_Movement_of_the_Party_of_the_Proletariat,,,,,237,,,,,,,,620,32
 282,35,3,KD,Christian Democrats,Kristdemokraterna,Kristdemokraterna,,http://en.wikipedia.org/wiki/Christian_Democrats_%28Sweden%29,,New party formed on 20 March 1964.,,11520,283,1752520,,,3706,1606,7880,1606,752,13
-285,43,26,droite,other right,divers droite,divers droite,,,,,,,,,,,,,,618,250,37
+285,43,26,d-droite,other right,divers droite,divers droite,,,,,,,,,,,,,,618,250,37
 288,55,12,none,no party affiliation,no party affiliation,no party affiliation,,,,,,,,,,,,,,,428,990
 290,64,40,VU,People's Union,Volksunie,Volksunie,,http://en.wikipedia.org/wiki/People%27s_Union_%28Belgium%29,,New party formed in 1946. ,,21913,,,97,309,407,110,5003,110,56,67
 292,54,16,Grau,The Grays -- Gray Panthers,Die Grauen – Graue Panther,Die Grauen -- Graue Panther,,http://en.wikipedia.org/wiki/The_Grays_%E2%80%93_Gray_Panthers,,New party formed on 12 July 1989. ,,,,,,,,,,,276,35
@@ -219,7 +219,7 @@ Party was dissolved on 9 March 2012.",,64422,,,,,,,7316,,554,23
 383,15,40,JL,Young Lithuania,Jaunoji Lietuva,Jaunoji Lietuva,,https://en.wikipedia.org/wiki/Young_Lithuania,,New party formed on 17 September 1994.,"Union of LKDS and LTJS ""Young Lithuania"" For United Lithuania (LKDS ir LTJS ""Jaunoji Lietuva"" susivienijimas uz vieninga Lietuva)",,,,,,,,,2513,440,41
 384,55,6,DCP,Democratic Centre Party,Demokrātiskā Centra Partija,Demokratiska Centra Partija,,http://en.wikipedia.org/wiki/Democratic_Center_Party_of_Latvia,,New party formed in 1992.,,87430,,,,,,,,,428,47
 385,27,16,Bai,Yes,Bai,Bai,,http://en.wikipedia.org/wiki/Nafarroa_Bai,,,,,,1724923,,,,,,,724,41
-386,33,40,ONP,One Nation Party,One Nation Party,One Nation Party,,http://en.wikipedia.org/wiki/Pauline_Hanson%27s_One_Nation,,Party formed on 11 April 1997. ,,,,,,,,,4793,,36,16
+386,33,40,ONP,One Nation Party,One Nation Party,One Nation Party,,http://en.wikipedia.org/wiki/Pauline_Hanson%27s_One_Nation,,Party formed on 11 April 1997 by Pauline Hanson after being disendorsed as a federal candidate for the Liberal Party of Australia. ,,,,,,,,,4793,,36,16
 387,34,14,MiKo|Mo|Sh,Communist Party | Moked | Sheli,HaMiflega HaKomunistit | Moked | Sheli,HaMiflega HaKomunistit | Moked | Sheli,,http://en.wikipedia.org/wiki/Maki_%28historical_political_party%29,,,,72220,,,140,,,,,,376,10
 390,34,14,ReMiSh,Progressive List for Peace,HaReshima HaMitkademet LeShalom,HaReshima HaMitkademet LeShalom,הרשימה המתקדמת לשלום‎,http://en.wikipedia.org/wiki/Progressive_List_for_Peace,,"New party formed in 1984.
 Party ceased in the 1990s.",,72222,,,,,,,,,376,29
@@ -472,7 +472,7 @@ Party was officially dissolved on 5 November 1994 but reformed on 7 November 199
 861,23,6,PAC,Party of the Civic Alliance,Partidul Alianţa Civică,Partidul Alianta Civica,,http://ro.wikipedia.org/wiki/Partidul_Alian%C5%A3a_Civic%C4%83,,,,,,,,,3203,,,,642,69
 863,15,16,LRS,Lithuanian Russian Union,Lietuvos rusų sąjunga,Lietuvos rusu sajunga,,http://en.wikipedia.org/wiki/Lithuanian_Union_of_Russians,,New party formed in 1995.,,,204,1440524,,,,,,2503,440,52
 865,54,16,Pi,German Pirate Party,Piratenpartei Deutschland,Piratenpartei Deutschland,,http://en.wikipedia.org/wiki/German_Pirate_Party,,New party formed 10 September 2006.,,,,,,,,,,,276,66
-870,39,26,FKgP,Independent Small Holders Party,Független Kisgazda Párt,Fuggetlen Kisgazda Part,,"http://en.wikipedia.org/wiki/Independent_Smallholders,_Agrarian_Workers_and_Civic_Party",,New party formed on 1 July 1930 (refoundet 18 November 1988).,,86810,,,,,1606,,1898,,348,13
+870,39,26,FKgP,Independent Small Holders Party,Független Kisgazda Párt,Fuggetlen Kisgazda Part,,"http://en.wikipedia.org/wiki/Independent_Smallholders,_Agrarian_Workers_and_Civic_Party",,New party formed on 1 July 1930. Refounded on18 November 1988.,,86810,,,,,1606,,1898,,348,13
 872,68,40,SPR-RSC,Rally for the Republic -- Republican Party of Czechoslovakia,Sdruzení pro republiku – Republikánská strana Ceskoslovenska,Sdruzeni pro republiku -- Republikanska strana Ceskoslovenska,,http://en.wikipedia.org/wiki/Republicans_of_Miroslav_Sl%C3%A1dek,,"New party formed in 26 October 1989 (Bugajski 2002, 258).
 Party was dissolved on 15 May 2013.",,82710,,,,,1009,,,,203,27
 873,43,19,V,Greens,Les Verts,Les Verts,,http://en.wikipedia.org/wiki/The_Greens_%28France%29,,New party formed on 20 January 1984.,,31110,103,1250110,,703,1406,605,5929,605,250,49
@@ -1040,7 +1040,8 @@ The Grütli Society was originally a Workers Association, founded in 1838 and me
 1967,40,12,KHM,Committee Herbert Maeder,Komitee Herbert Maeder,Komitee Herbert Maeder,,http://de.wikipedia.org/wiki/Herbert_M%C3%A4der,,Single candidate announced in 1983.,,,,,,,,,,,,
 1968,11,14,DLP,Democratic Labour Party,Democratic Labour Party,Democratic Labour Party,,http://en.wikipedia.org/wiki/Democratic_Labour_Party_%28New_Zealand%29,"aimer (1985), nyt","John A. Lee, an undersecretary, was expelled from the Labour party on 25 March 1940 (NYT) and formed Democratic Labour party (Aimer 1985, 850).",,,,,,,,,,,,
 1969,34,40,Kach,Thus,Kach,Kach,"כ""ך",http://en.wikipedia.org/wiki/Kach_and_Kahane_Chai,,New party formed in 1971.,,,,,,,,,,,,
-1970,39,11,DK,Democratic Coalition,Demokratikus Koalíció,Demokratikus Koalicio,,http://en.wikipedia.org/wiki/Democratic_Coalition_%28Hungary%29,pol-hu,Democratic Coalition (DK) was formed on 22 October 2011 by former PM Gyurcsány and 10 MPs from the Hungarian Socialist Party (MZSP) formed a new party group in parliament.,,,,,,,,,,,,
+1970,39,11,DK,Democratic Coalition,Demokratikus Koalíció,Demokratikus Koalicio,,http://en.wikipedia.org/wiki/Democratic_Coalition_%28Hungary%29,pol-hu,"Democratic Coalition (DK) was formed on 22 October 2011 by former PM Gyurcsány.
+10 MPs from the Hungarian Socialist Party (MZSP) formed a new party group in parliament.",,,,,,,,,,,,
 1972,11,16,Mana,Mana Party,Mana Party,Mana Party,,http://en.wikipedia.org/wiki/Mana_Party_%28New_Zealand%29,"ec-nz, nz-parl",MP Harawira left the Māori Party on 23 February 2011 and later formed the Mana Party on 7 May (New Zealand Parliament). It was registred on 24 June (Electoral Commission).,,,,,,,,,,,,
 1973,11,26,CP,Conservatice Party of New Zealand,Conservative Party of New Zealand,Conservative Party of New Zealand,,http://en.wikipedia.org/wiki/Conservative_Party_of_New_Zealand,"ec-nz, nzhe",New party announced by Colin Craig on 3 August 2011 (The New Zealand Herald) and registered on 6 October (Electoral Commission).,,,,,,,,,,,,
 1987,60,11,LZJ-PS,Zoran Jankovic's List -- Positive Slovenia,Lista Zorana Jankovića – Pozitivna Slovenija,Lista Zorana Jankovica -- Pozitivna Slovenija,,http://en.wikipedia.org/wiki/Positive_Slovenia,,New party formed on 22 October 2011.,,,,,,,,,,,,
@@ -1232,7 +1233,7 @@ Party split on 27 December 2012 into People's Life Party (Seikatsu no Tō · 生
 2246,1,6,MOS,Hungarian Civic Party,Maďarská občianska strana – Magyar polgári párt,Madarska obcianska strana -- Magyar polgari part,,http://sk.wikipedia.org/wiki/Ma%C4%8Farsk%C3%A1_ob%C4%8Dianska_strana,buga,New party formed on 1 January 1992. ,,,,,,,,,,,,
 2247,1,3,MKDM,Hungarian Christian Democratic Movement,Maďarské kresťanskodemokratické hnutie – Magyar kereszténydemokrata mozgalom,Madarske krestanskodemokraticke hnutie -- Magyar keresztenydemokrata mozgalom,,http://en.wikipedia.org/wiki/Hungarian_Christian_Democratic_Movement,buga,,,,,,,,3407,,,,,
 2248,1,26,S-E,Coexistence,Spolužitie – Együttélés,Spoluzitie -- Egyutteles,,http://en.wikipedia.org/wiki/Coexistence_%28political_party%29,buga,,,,,,,,,,,,,
-2249,43,19,eco,other ecologists,divers ecologistes,divers ecologistes,,"http://en.wikipedia.org/wiki/French_legislative_election,_2002",,,,,,,,,,,,,,
+2249,43,19,d-eco,other ecologists,divers ecologistes,divers ecologistes,,"http://en.wikipedia.org/wiki/French_legislative_election,_2002",,,,,,,,,,,,,,
 2250,43,26,CeD,Centre Right,Centre-droit,Centre-droit,,,,,Proxy party for centre right alliances that formed for nearly all post-war elections. Short name (CeD) remains the same over all observations to simplify recognition of the alliance.,,,,,,,,,,,
 2251,43,11,CeG,Centre Left,Centre-gauche,Centre-gauche,,,,,Proxy party for centre left alliances that formed for nearly all post-war elections. Short name (CeG) remains the same over all observations to simplify recognition of the alliance.,,,,,,,,,,,
 2252,43,26,RPF,Rally for France,Rassemblement pour la France,Rassemblement pour la France,,http://en.wikipedia.org/wiki/Rally_for_France,,,,,,,,,,,5873,,,
@@ -1374,8 +1375,10 @@ DTP was banned on 11 December 2009. ",Proxy party to avoid multiple observations
 2398,74,40,RN,National Movement ,Ruch Narodowy,Ruch Narodowy,,http://en.wikipedia.org/wiki/National_Movement_%28Poland%29,,New party formed on 11 November 2012. ,,,,,,,,,,,,
 2399,43,26,DLR|DLF,Republic Arise | France Arise,Debout la république | Debout la France,Debout la republique | Debout la France,,https://en.wikipedia.org/wiki/Debout_la_France,frpo,,,,,,,,,,,,,
 2400,43,14,AO,Alliance of the Overseas,Alliances des outre-mers,Alliances des outre-mers,,http://en.wikipedia.org/wiki/Alliance_of_the_Overseas,frpo,New party formed in 2004.,,,,,,,,,,,,
-2402,75,2,EPPE,Estonian Party of Pensioners and Families,Eesti Pensionäride ja Perede Erakond,Eesti Pensionaride ja Perede Erakond,,http://en.wikipedia.org/wiki/List_of_political_parties_in_Estonia,,,,,,,,,,,,,,
-2403,75,2,EM,Estonian Country Union,Eesti Maaliit,Eesti Maaliit,,https://et.wikipedia.org/wiki/Eesti_Maaliit,,New party formed in 1991. ,inclusion rule: two times a member of an electoral alliance winning seats,,,,,,,,,,,
+2402,75,2,EPPE,Estonian Party of Pensioners and Families,Eesti Pensionäride ja Perede Erakond,Eesti Pensionaride ja Perede Erakond,,https://et.wikipedia.org/wiki/Eesti_Pension%C3%A4ride_ja_Perede_Erakond,erakonnad,"New party formed on 7 December 1991.
+EM joins People's Union of Estonia (ER) on 10. June 2000.",,,,,,,,,,,,
+2403,75,2,EM,Estonian Country Union,Eesti Maaliit,Eesti Maaliit,,https://et.wikipedia.org/wiki/Eesti_Maaliit,erakonnad,"New party formed on 3 March 1991.
+EM joins People's Union of Estonia (ER) on 10. June 2000.",inclusion rule: two times a member of an electoral alliance winning seats,,,,,,,,,,,
 2404,5,40,PFG,Party for Future Generations,Jisedai No Tou,Jisedai No Tou,次世代の党,https://en.wikipedia.org/wiki/Party_for_Japanese_Kokoro,,,,,,,,,,,,,,
 2405,35,12,no-seat,no seat,no seat,no seat,,,,,,,,,,,,,,,,
 2406,35,11,VSP,Left Socialist Party,Vänstersocialistiska Partiet,Vanstersocialistiska Partiet,,http://en.wikipedia.org/wiki/Left_Socialist_Party_%28Sweden%29,,,inclusion rule: several election results as largest party no seats (first loser),,,,,,,,,,,
@@ -1542,7 +1545,7 @@ Greens formed an electoral alliance with Independent Royalist Party (Sõltumatud
 2640,10,40,R,Revival,Vazrazhdane,Vazrazhdane,Възраждане,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party),,New party formed on 2 August 2014.,,,,,,,,,,,,
 2641,8,11,DENK,Think,Beweging DENK,Beweging DENK,,https://en.wikipedia.org/wiki/Denk_(political_party),,Party formed on 02 September 2015 by Tunahan Kuzu and Selçuk Öztürk after leaving the Labour Party (PvdA).,,,,,,,,,,,,
 2642,8,40,FvD,Forum for Democracy,Forum voor Democratie,Forum voor Democratie,,https://en.wikipedia.org/wiki/Forum_for_Democracy_(Netherlands),,New party formed on 22 September 2016.,,,,,,,,,,,,
-2643,43,6,REM,The Republic Onwards!,La République En Marche!,La Republique En Marche!,,https://en.wikipedia.org/wiki/En_Marche!,,,,,,,,,,,,,,
+2643,43,6,REM|R,The Republic Onwards! | Renaissance,La République En Marche! | Renaissance,La Republique En Marche! | Renaissance,,https://en.wikipedia.org/wiki/En_Marche!,,New party formed on 6 April 2016 by former minister Emmanuel Macron.,,,,,,,,,,,,
 2644,43,14,FI,Unbowed France,La France Insoumise,La France Insoumise,,https://en.wikipedia.org/wiki/La_France_Insoumise,,,,,,,,,,,,,,
 2645,67,40,UV|SIN,New Alternative | Blue Reform,Uusi vaihtoehto | Sininen tulevaisuus,Uusi vaihtoehto | Sininen tulevaisuus,,https://en.wikipedia.org/wiki/New_Alternative,,"The party started as a parliamentary group named New Alternative, which was a secession from the Finns Party faction on 13 June 2017. The group, initially composed only of parliamentarians, formed Blue Reform party on 15 November 2017.",,,,,,,,,,,,
 2646,23,6,USR|PLUS,"Save Romania Union | Party of Liberty, Unity and Solidarity","Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate","Uniunea Salvati Romania | Partidul Libertate, Unitate si Solidaritate",,https://en.wikipedia.org/wiki/Save_Romania_Union,,New party formed on 1 July 2015.,,,,,,,,,,,,
@@ -1726,3 +1729,12 @@ BN officially run in 11 July 2021 election.
 ",,,,,,,,,,,,
 2853,5,16,NHK,The party that protects those who do not pay the NHK license fee,NHK jushinryō o shiharawanai kokumin o mamoru tō,NHK jushinryo o shiharawanai kokumin o mamoru to,NHK受信料を支払わない国民を守る党,https://en.wikipedia.org/wiki/The_party_that_protects_those_who_do_not_pay_the_NHK_license_fee,,New party formed on 17 June 2013.,,,,,,,,,,,,
 2854,68,40,VB,Free Bloc,Volný blok,Volny blok,,https://en.wikipedia.org/wiki/Free_Bloc,,Party formed on 21 January 2011 as a successor of the dissolved Suverenita – blok Jany Bobošíkové (S-JB).,,,,,,,,,,,,
+2855,39,6,MEMO,Solution Movement ,Megoldás Mozgalom ,Megoldas Mozgalom,,https://en.wikipedia.org/wiki/Solution_Movement,,New party formed on 24 December 2021.,,,,,,,,,,,,
+2856,60,11,GS,Freedom Movement,Gibanje Svoboda,Gibanje Svoboda,,https://sl.wikipedia.org/wiki/Gibanje_Svoboda#Z.DEJ_(2021%E2%80%932022)_2,,Party formed on 26 January 2022 by Robert Dove.,"The party was founded as a successor of the Party of Green actions (Z.Dej), founded in 2021 but this party does not fill the criteria to be coded in ParlGov. Further, the predecessor was founded by the politician Lure and taken over later by Robert Dove in the wake of redefining the party. Thus, not coded as a genuine new party and Dove as the founder.",,,,,,,,,,,
+2857,43,6,H,Horizons,Horizons,Horizons,,https://en.wikipedia.org/wiki/Horizons_(political_party),,Party formed on 9 October 2021 as a split from Renaissance (R) by Éduard Charles Philippe.,,,,,,,,,,,,
+2858,43,6,d-center,other centre,divers centre,divers centre,,https://en.wikipedia.org/wiki/Miscellaneous_centre,,,,,,,,,,,,,,
+2859,43,12,one-seat,one seat,one seat,one seat,,,,Parties that won one seat in a single election and less than one percent vote share.,,,,,,,,,,,,
+2860,43,40,R!,Reconquest,Reconquête,Reconquete,,https://en.wikipedia.org/wiki/Reconqu%C3%AAte,,New party formed on 5 December 2021 by Éric Zemmour.,,,,,,,,,,,,
+2861,26,12,IpF,Together for the Future,Insieme per il Futuro,Insieme per il Futuro,,https://en.wikipedia.org/wiki/Together_for_the_Future,,Party formed on 21 June 2021 as split from Five Star Movement by Luigi Di Maio.,,,,,,,,,,,,
+2862,43,26,agir,"Act, the constructive right","Agir, la droite constructive","Agir, la droite constructive",,https://en.wikipedia.org/wiki/Agir_(France),,Party formed on 26 November 2017 as a split from Les Républicains,,,,,,,,,,,,
+2864,63,12,no-seat,no seat,no seat,no seat,,,,Largest party that won no seats in an election and less than one percent vote share.,Only coded if there are no other observations for the party. Party name included in 'description' of election result.,,,,,,,,,,,

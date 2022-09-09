@@ -5,7 +5,7 @@ title: Data
 
 ## Note
 
-Data __ParlGov development version__ (29. April. 2022)
+Data __ParlGov development version__ (9. September 2022)
 
 Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version.
 
