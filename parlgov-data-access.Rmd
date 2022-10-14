@@ -1,0 +1,100 @@
+---
+title: "ParlGov data"
+author: "Holger Doering --- holger.doering@gesis.org"
+date: "`r format(Sys.time(), '%d %B %Y, %H:%M')`"
+output:
+  html_notebook:
+    # code_folding: hide
+    toc: yes
+    toc_float: yes
+---
+<style type="text/css"> <!-- .table { width: auto } ---> </style>
+
+
+Document created: `r format(Sys.Date(), "%d %b %Y")`
+
+__Examples to access ParlGov data with Tidyverse-R__
+
+
+## One table
+
+Download (if not available) and read main ParlGov table (parties, elections, cabinets)
+
+```{r single-table, message=FALSE}
+library(tidyverse)
+
+tbl <- "view_cabinet.csv"  # view_party.csv -- view_election.csv -- view_cabinet.csv
+if( ! tbl %in% list.files()) {
+  download.file(paste0("https://parlgov.org/data/parlgov-development_csv-utf-8/", tbl),  tbl)
+}
+dt_raw <- read_csv(tbl)
+```
+
+
+## Multiple tables
+
+Read and assign ParlGov tables — _Note:_ chunk not run (`eval=False`) to suppress output
+
+```{r tables, eval=FALSE}
+library(tidyverse)
+
+get_parlgov_data <- function(tbl_name, obj_name = "dt") {
+  url <- "https://parlgov.org/data/parlgov-development_csv-utf-8/"
+  if( ! tbl_name %in% list.files()) {
+    download.file(paste0(url, tbl_name),  tbl_name)
+  }
+  assign(obj_name, read_csv(tbl_name), envir = .GlobalEnv)
+}
+
+# get_parlgov_data("view_party.csv", "party")
+
+pg_tbls <- c(
+  party = "view_party.csv",
+  elec = "view_election.csv",
+  cab = "view_cabinet.csv"
+  )
+
+map2(pg_tbls, names(pg_tbls), get_parlgov_data)
+```
+
+
+## Database
+
+Access data in ParlGov database
+
+```{r database, message=FALSE}
+library(tidyverse)
+
+## Get and read cabinet and party data from ParlGov database
+
+db_file <- "parlgov-development.db"
+url <- "https://parlgov.org/data/"
+
+# download ParlGov database if not in local folder
+if( ! db_file %in% list.files()) {
+  download.file(paste0(url, db_file), db_file, mode = "wb")
+}
+
+# retrieve data from ParlGov database tables
+# http://www.parlgov.org/data/table/
+parlgov_db <- DBI::dbConnect(RSQLite::SQLite(), db_file)
+get_parlgov_table <- function(table_name) tbl(parlgov_db, table_name) |> collect()
+
+party_raw <- get_parlgov_table("view_party")
+elec_raw <- get_parlgov_table("view_election")
+cab_raw <- get_parlgov_table("view_cabinet")
+
+DBI::dbDisconnect(parlgov_db)
+```
+
+
+## Explore
+
+See chunk "database" for reading data
+
+```{r explore, message=FALSE}
+library(skimr)
+
+skim(party_raw, left_right:eu_anti_pro) |> 
+  knitr::knit_print()
+```

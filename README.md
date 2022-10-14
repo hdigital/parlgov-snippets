@@ -2,16 +2,18 @@
 
 Snippets for dataset generation and analysis with ParlGov – [parlgov.org](http://www.parlgov.org)
 
++ see [parlgov-data-access.Rmd](parlgov-data-access.Rmd) examples
+
 [R](https://www.r-project.org/) snippets using  [tidyverse](https://www.tidyverse.org/) packages
 
-* __cabinet-map__ -- map of cabinets left/right positions in Europe
-* __cabinet-party-family__ -- country-year data on cabinets party family share
-* __cabinet-type__ -- determine cabinet type: minority, minimal winning, surplus (grand coalition)
-* __country-year__ -- country-year format party family share elections and cabinets
-* __deu-election__ -- visualizations of German party system using election data (Authors: Lukas Warode & Philip Manow)
-* __election-vanhanen__ -- visualizing Vanhanen Index of Democratization using election data (Author: Lukas Warode)
-* __eu-cabinets__ -- party composition of EU cabinets on left/right and pro/contra EU dimension
-* __isr-cabinet-support__ -- structure and patterns of Israeli cabinet support parties (Author: Lukas Warode)
++ __cabinet-map__ -- map of cabinets left/right positions in Europe
++ __cabinet-party-family__ -- country-year data on cabinets party family share
++ __cabinet-type__ -- determine cabinet type: minority, minimal winning, surplus (grand coalition)
++ __country-year__ -- country-year format party family share elections and cabinets
++ __deu-election__ -- visualizations of German party system using election data (Authors: Lukas Warode & Philip Manow)
++ __election-vanhanen__ -- visualizing Vanhanen Index of Democratization using election data (Author: Lukas Warode)
++ __eu-cabinets__ -- party composition of EU cabinets on left/right and pro/contra EU dimension
++ __isr-cabinet-support__ -- structure and patterns of Israeli cabinet support parties (Author: Lukas Warode)
 
 ---
 
