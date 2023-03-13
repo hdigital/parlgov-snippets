@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>/2022/09/09/development-version-09/22/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <loc>/2023/03/13/development-version-03/23/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2023/02/16/snippet-cabinet-types-updated/</loc>
+    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2022/09/09/development-version-09/22/</loc>
     <lastmod>2022-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2022/05/27/party-facts-linking-updated/</loc>

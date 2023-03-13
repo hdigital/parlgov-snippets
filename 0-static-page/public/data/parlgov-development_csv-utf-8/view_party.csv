@@ -146,6 +146,7 @@ BGR,Bulgaria,BNO|BN,Bulgarian National Unification | Bulgarian Summer,Bŭlgarsko
 BGR,Bulgaria,BNRP,Bulgarian National Radical Party,Balgarska Natsionalnoradikalna Partiya,Balgarska Natsionalnoradikalna Partiya,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,10,364,40
 BGR,Bulgaria,BNS,Bulgarian People's Union,Balgarski Naroden Suyuz,Balgarski Naroden Suyuz,con,Conservative,5.8,6.0,5.44,8.3333,80811,,,,,,,2009,10,1375,26
 BGR,Bulgaria,BSP,Bulgarian Socialist Party,Balgarska Sotsialisticheska Partiya,Balgarska Potsialisticheska Partiya,soc,Social democracy,3.0064,2.9187,4.5029,8.1871,80220,26,1100300,,702,,841,,10,982,11
+BGR,Bulgaria,BV,Bulgarian Rise,Balgarski vazhod,Balgarski vazhod,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,10,2871,26
 BGR,Bulgaria,BZNS-NP,"Bulgarian Agrarian National Union -- ""Nikola Petkov""","Balgarski Zemedelski Naroden Suyuz – ""Nikola Petkov""","Balgarski Zemedelski Naroden Suyuz -- ""Nikola Petkov""",agr,Agrarian,5.3,4.9,6.5,5.4,,,,,,,,,10,2173,2
 BGR,Bulgaria,CSD,Centre -- Freedom and Dignity,Tsentŭr – Svoboda i dostoĭnstvo,Center -- Svoboda i dostojnstvo,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,10,2595,6
 BGR,Bulgaria,D21,Movement 21,Dvizhenie 21,Dvizhenie 21,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,10,2379,11
@@ -184,8 +185,10 @@ BGR,Bulgaria,RzB,Republicans for Bulgaria,Republikantsi za Balgariya,Republikant
 BGR,Bulgaria,SDS,Union of Democratic Forces,Suyuz na Demokratichnite Sili,Suyuz na Demokratichnite Sili,chr,Christian democracy,6.1111,5.7,7.1,8.3,80410,33,,,707,,,,10,423,3
 BGR,Bulgaria,SDS-l,Union of Democratic Forces -- Liberal,Suyuz na Demokratichnite Sili – Liberali,Suyuz na Demokratichnite Sili -- Liberali,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,10,2175,6
 BGR,Bulgaria,SDS-ts,Union of Democratic Forces -- Centre,Suyuz na Demokratichnite Sili – Tsentur,Suyuz na Demokratichnite Sili -- Tsentur,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,10,2174,11
+BGR,Bulgaria,SEK,Middle European Class,Sredna evropeĭska klasa,Sredna evropeiska klasa,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,10,2870,6
 BGR,Bulgaria,SK,Blue Coalition,Sinyata Koalitsiya,Sinyata Koalitsiya,con,Conservative,7.4,6.4,6.9,7.9,,,1100001,,,,,,10,1254,26
 BGR,Bulgaria,SNI,"""New Choice"" Union","Suyuz ""Nov izbor""","Suyuz ""Nov izbor""",lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,10,2176,6
+BGR,Bulgaria,VB,Volt Bulgaria,Volt Bulgaria,Volt Bulgaria,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,10,2869,6
 BGR,Bulgaria,VMRO,IMRO -- Bulgarian National Movement,VMRO – Balgarsko Natsionalno Dvizhenie,VMRO -- Balgarsko Natsionalno Dvizhenie,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,10,2212,26
 BGR,Bulgaria,Volya,Will,Volya,Volya,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,10,2637,40
 BGR,Bulgaria,ZNS,Agrarian People's Union,Zemedelski Naroden Suyuz,Zemedelski Naroden Suyuz,agr,Agrarian,5.5263,5.7895,5.9398,8.9474,80810,,,,704,,867,,10,353,2
@@ -387,6 +390,7 @@ DEU,Germany,no-seat,no seat,no seat,no seat,none,no family,,,,,,,,,,,,,54,2034,1
 DEU,Germany,none,no party affiliation,parteilos,parteilos,none,no family,,,,,,,,,,,,,54,610,12
 DEU,Germany,one-seat,one seat,one seat,one seat,none,no family,,,,,,,,,,,,,54,2289,12
 DNK,Denmark,A,The Alternative,Alternativet,Alternativet,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,21,2567,19
+DNK,Denmark,AE,Denmark Demokrats,Danmarksdemokraterne,Danmarksdemokraterne,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,21,2888,40
 DNK,Denmark,At,Solidarity (Greenland),Atassut,Atassut,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,21,2575,6
 DNK,Denmark,Bo,Farmers' Party ,Bondepartiet,Bondepartiet,agr,Agrarian,5.3,4.9,6.5,5.4,,,,,,,,,21,2428,2
 DNK,Denmark,CD,Centre Democrats,Centrumdemokraterne,Centrumdemokraterne,con,Conservative,5.5609,4.8029,4.9307,9.1468,13330,,,506,1105,204,5477,204,21,1324,26
@@ -409,6 +413,7 @@ DNK,Denmark,JuBe,June Movement,JuniBevægelsen,JuniBevaegelsen,spec,Special issu
 DNK,Denmark,KF,Conservatives,Konservative,Konservative,con,Conservative,7.2186,7.2931,6.5055,7.7791,13620,66,1208620,509,1107,203,5549,203,21,590,26
 DNK,Denmark,KrF,Christian People's Party,Kristeligt Folkeparti,Kristeligt Folkeparti,chr,Christian democracy,5.6982,5.0887,7.0474,5.8301,13520,,,507,1106,211,5567,210,21,1331,3
 DNK,Denmark,LC,Liberal Centre,Liberalt Centrum,Liberalt Centrum,lib,Liberal,6.0,6.7,3.6,8.7,13422,,,,,,,,21,1478,6
+DNK,Denmark,M,Moderates,Moderaterne,Moderaterne,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,21,2887,6
 DNK,Denmark,MV,Moderate Liberals ,Moderate Venstre,Moderate Venstre,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,21,2430,6
 DNK,Denmark,NB,The New Right,Nye Borgerlige,Nye Borgerlige,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,21,2781,40
 DNK,Denmark,NLA,New-Liberal Alliance,Ny-Liberal Alliance,Ny-Liberal Alliance,lib,Liberal,6.0,6.7,3.6,8.7,,72,1208421,,,,,218,21,376,6
@@ -901,7 +906,7 @@ ISR,Israel,HDT,Religious Torah Front,Hazit Datit Toratit,Hazit Datit Toratit,spe
 ISR,Israel,HHT,Yemenite Association,Hitahdut HaTeimanim,Hitahdut HaTeimanim,spec,Special issue,,,,,,,,,,,,,34,1827,16
 ISR,Israel,HLY,Israel Resilience Party,Hosen L'Yisrael,Hosen L'Yisrael,lib,Liberal,6.0,6.7,3.6,,,,,,,,,,34,2799,6
 ISR,Israel,HU,Agriculture and Development,Hakla'ut Ufituah,Hakla'ut Ufituah,spec,Special issue,,,,,,,,,,,,,34,1835,16
-ISR,Israel,HaLe-T,National Union--Tkuma,HaIhud HaLeumi–Tkuma,HaIhud HaLeumi--Tkuma,right,Right-wing,9.5906,5.7895,8.1474,,72624,,,,,,6455,,34,1357,40
+ISR,Israel,HaLe-T|RZP,National Union--Tkuma  | Religious Zionist Party,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,HaIhud HaLeumi--Tkuma | HaTzionut HaDatit,right,Right-wing,9.5906,5.7895,8.1474,,72624,,,,,,6455,,34,1357,40
 ISR,Israel,HaMi,Mizrachi Workers,Hapoel HaMizrachi,Hapoel HaMizrachi,spec,Special issue,,,,,,,,,,,,,34,1828,16
 ISR,Israel,Haatz,Sia'at Ha'Atzma'ut,Sia'at Ha'Atzma'ut,Independence,soc,Social democracy,3.3,3.5,3.5,,,,,,,,,,34,2043,11
 ISR,Israel,Hat,The Movement,Hatnuah,Hatnuah,lib,Liberal,6.0,6.7,3.6,,,,,,,,,,34,2320,6
@@ -931,6 +936,7 @@ ISR,Israel,MiKo|Mo|Sh,Communist Party | Moked | Sheli,HaMiflega HaKomunistit | M
 ISR,Israel,Mizrahi,Spiritual Centre,HaMizrahi – Merkaz Ruhani,HaMizrahi -- Merkaz Ruhani,spec,Special issue,,,,,,,,,,,,,34,1833,16
 ISR,Israel,Mo,Heritage,Morasha,Morasha,spec,Special issue,,,,,72534,,,,,,,,34,31,16
 ISR,Israel,NH,New Hope,Tikva Hadasha,Tikva Hadasha,right,Right-wing,8.8,5.9,8.5,,,,,,,,,,34,2835,40
+ISR,Israel,Noam,Pleasentness,Lazuz,Lazuz,right,Right-wing,8.8,5.9,8.5,,,,,,,,,,34,2889,40
 ISR,Israel,O,Courage,Ometz,Ometz,lib,Liberal,6.0,6.7,3.6,,72425,,,,,,,,34,61,6
 ISR,Israel,OL,Jewish Power,Otzma Leyisrael,Otzma Leyisrael,spec,Special issue,,,,,,,,,,,,,34,2322,16
 ISR,Israel,OZ-KH,This World -- New Force,HaOlam HaZeh – Koah Hadash,HaOlam HaZeh -- Koah Hadash,com,Communist/Socialist,1.3,1.4,3.0,,72610,,,,,,,,34,938,14
@@ -1006,9 +1012,11 @@ ITA,Italy,FdV,Federation of the Greens,Federazione dei Verdi,Federazione dei Ver
 ITA,Italy,Fed,Federalism,Federalismo – Europa dei Popoli,Federalismo -- Europa dei Popoli,spec,Special issue,,,,,,,,,,,,,26,473,16
 ITA,Italy,FiD,Stop the Decline,Fermare il Declino,Fermare il Declino,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,26,2158,6
 ITA,Italy,ID,Democracy,I Democratici,I Democratici,chr,Christian democracy,4.0844,4.3378,4.41,9.6944,,,,,,,,819,26,961,3
+ITA,Italy,ISP,Sovereign and Popular Italy,Italia sovrana e Popolare ,Italia Sovrana e Popolare,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,26,2874,40
 ITA,Italy,IV,Italy Alive,Italia Viva,Italia Viva,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,26,2794,6
 ITA,Italy,IdV,Italy of Values,Italia dei Valori,Italia dei Valori,lib,Liberal,4.8712,4.5664,5.5255,7.1295,32902,176,1380902,,,,6686,828,26,693,6
 ITA,Italy,IpF,Together for the Future,Insieme per il Futuro,Insieme per il Futuro,none,no family,,,,,,,,,,,,,26,2861,12
+ITA,Italy,Italexit,Italexit for Italy,Italext per l'Italia,Italexit per l'Italia,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,26,2873,26
 ITA,Italy,LAM,Southern Action League,Lega d'Azione Meridionale,Lega d'Azione Meridionale,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,26,436,40
 ITA,Italy,LD,Liberal Democrats,Liberal Democratici,Liberal Democratici,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,26,906,6
 ITA,Italy,LL,Lombard League,Liga Lombarda,Liga Lombarda,spec,Special issue,,,,,,,,,,,,,26,1560,16
@@ -1190,7 +1198,7 @@ LUX,Luxembourg,PDPN,Progressive Democratic Party of the North,Fortschrëttlech-d
 LUX,Luxembourg,PICM,Independent Party of the Middle Class 	,Parti Indépendant des Classes Moyennes,Parti Independant des Classes Moyennes,lib,Liberal,6.0,6.7,3.6,,,,,,,,,,7,2139,6
 LUX,Luxembourg,PID,Party for Full Democracy,Partei fir Integral Demokratie,Partei fir Integral Demokratie,con,Conservative,7.4,6.4,6.9,,,,,,,,,,7,2257,26
 LUX,Luxembourg,PIE,Independents of the East,Parti des Indépendants de l'Est,Parti des Indpendants de l'Est,none,no family,,,,,,,,,,,,,7,2452,12
-LUX,Luxembourg,PL ,Liberal Party,Parti Libéral,Parti Liberal,lib,Liberal,6.0,6.7,3.6,,,,,,,,,,7,2140,6
+LUX,Luxembourg,PL,Liberal Party,Parti Libéral,Parti Liberal,lib,Liberal,6.0,6.7,3.6,,,,,,,,,,7,2140,6
 LUX,Luxembourg,PRL,Radical Liberal Party ,Radikal-Liberal Partei,Radikal-Liberal Partei,lib,Liberal,6.0,6.7,3.6,,,,,,,,,,7,2455,6
 LUX,Luxembourg,Pi,Pirate Party Luxembourg,Piratepartei Lëtzebuerg,Piratepartei Letzebuerg,spec,Special issue,,,,,,,,,,,,,7,2256,16
 LUX,Luxembourg,RP,Radical Left / Radical Party,Gauche radicale / Parti radical,Gauche radicale / Parti radical,lib,Liberal,6.0,6.7,3.6,,,,,,,,,,7,2533,6
@@ -1203,6 +1211,7 @@ LUX,Luxembourg,Z-EF,Coerced Conscripts,Zwangsrekrutéierten,Zwangsrekruteierten,
 LUX,Luxembourg,no-seat,no seat,no seat,no seat,none,no family,,,,,,,,,,,,,7,2149,12
 LUX,Luxembourg,none,no party affiliation,no party affiliation,no party affiliation,none,no family,,,,,,,,,,,,,7,1002,12
 LUX,Luxembourg,one-seat,one seat,one seat,one seat,none,no family,,,,,,,,,,,,,7,2290,12
+LVA,Latvia,AP!,Development/For!,Attīstībai/Par!,Attistibai/Par!,spec,Special issue,,,,,,,,,,,,,55,2878,16
 LVA,Latvia,DCP,Democratic Centre Party,Demokrātiskā Centra Partija,Demokratiska Centra Partija,lib,Liberal,6.0,6.7,3.6,8.7,87430,,,,,,,,55,384,6
 LVA,Latvia,DPS,Democratic Party Saimnieks,"Demokrātiskā partija ""Saimnieks""","Demokratiska partija ""Saimnieks""",lib,Liberal,6.0,6.7,3.6,8.7,87411,,,,,,,,55,759,6
 LVA,Latvia,JD,New Democrats,Jaunie Demokrāti,Jaunie Demokrati,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,55,1294,26
@@ -1213,6 +1222,7 @@ LVA,Latvia,K,Conservative Party,Konservatīvā partija,Konservativa partija,con,
 LVA,Latvia,KDS,Christian Democratic Union,Kristīgi demokrātiskā savienība,Kristigi demokratiska savieniba,chr,Christian democracy,6.2,5.7,7.1,8.3,87520,,,,,,,,55,239,3
 LVA,Latvia,KP,Movement For!,Kustība Par!,Kustiba Par!,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,55,2808,6
 LVA,Latvia,KPV-LV,Who owns the state?,Kam pieder valsts?,Kam pieder valsts?,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,55,2715,40
+LVA,Latvia,KuK,For Each and Every One,Katram un katrai,Katram un katrai,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,55,2880,40
 LVA,Latvia,L,Equal Rights,Līdztiesība,Lidztiesiba,soc,Social democracy,1.25,2.1093,5.5837,4.8684,87951,,,,,,2106,2402,55,928,11
 LVA,Latvia,LA,For Latvia's Development, Latvijas attīstībai, Latvijas attistibai,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,55,2392,6
 LVA,Latvia,LC,Latvian Way,Latvijas Ceļš,Latvijas cels,lib,Liberal,6.125,7.165,4.835,10.0,87410,,,,,,,2407,55,526,6
@@ -1220,8 +1230,10 @@ LVA,Latvia,LG,Light of Latgale,Latgales Gaisma,Latgales Gaisma,spec,Special issu
 LVA,Latvia,LKP,Communist Party of Latvia,Latvijas Komunistiskā partija,Latvijas Komunistiska partija,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,55,1260,14
 LVA,Latvia,LKPP,Latvias Party of Russian Citizens,Latvijas Krievu pilsoņu partija,Latvijas Krievu pilsonu partija,spec,Special issue,,,,,,,,,,,,,55,1083,16
 LVA,Latvia,LNNK,Latvian National Independence Movement,Latvijas Nacionālās Neatkarības Kustība,Latvijas Nacionalas Neatkaribas Kustiba,right,Right-wing,8.375,6.54,7.585,6.6667,87710,,,,,,,2406,55,1557,40
+LVA,Latvia,LP,Liepaja Party ,Liepājas Partija,Liepajas Partija ,spec,Special issue,,,,,,,,,,,,,55,2891,16
 LVA,Latvia,LPP,Latvia's First Party,Latvijas Pirmā partija,Latvijas Pirma partija,con,Conservative,6.3377,6.8461,8.4916,8.1287,87521,,,,,,2080,2404,55,1043,26
 LVA,Latvia,LPP/LC,Latvian First Party / Latvian Way Party,Latvijas Pirmā partija / Latvijas Ceļš,Latvijas Pirma partija / Latvijas Cels,con,Conservative,7.4,6.4,6.9,7.9,,191,1428424,,,,,,55,662,26
+LVA,Latvia,LPV,Latvia First,Latvija pirmajā vietā,Latvija pirmaja vieta,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,55,2876,40
 LVA,Latvia,LRa,Latvian Association of Regions,Latvijas Reģionu apvienība,Latvijas Regionu apvieniba,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,55,2366,26
 LVA,Latvia,LSDSP,Latvian Social Democratic Workers' Party,Latvijas Sociāldemokrātiskā Strādnieku Partija,Latvijas Socialdemokratu Stradnieku Partija,soc,Social democracy,2.5,2.625,6.835,6.875,87311,,,,,,,2408,55,1656,11
 LVA,Latvia,LSP,Socialist Party of Latvia,Latvijas Sociālistiskā partija,Latvijas Socialistiska partija,com,Communist/Socialist,1.25,2.1093,5.5837,4.8684,87310,,,,,,2106,2402,55,309,14
@@ -1231,20 +1243,26 @@ LVA,Latvia,LZ,Union of Latvian Farmers ,Latviesu Zemnieku Savieniba,Latviesu Zem
 LVA,Latvia,LZP,Latvian Green Party,Latvijas Zaļā partija,Latvijas Zala partija,eco,Green/Ecologist,4.6711,5.0216,6.0661,6.5643,,,,,,,2210,2405,55,1001,19
 LVA,Latvia,LZS,Farmers Union of Latvia,Latvijas Zemnieku Savienība,Latvijas Zemnieku Savieniba,agr,Agrarian,4.375,4.835,6.04,6.4583,87810,,,,,,,2405,55,1368,2
 LVA,Latvia,Lib,Libertas.lv,Libertas.lv,Libertas.lv,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,55,500,26
+LVA,Latvia,LuV,For Latvia and Ventspils ,Latvijai un Ventspilij,Latvijai un Ventspilij,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,55,2890,40
 LVA,Latvia,MPA-LNP,Political Association of the Underprivileged and Latvian Independence Party,Maznodrošināto politiskā apvienība un Latviešu neatkarības partija,Maznodrosinato politiska apvieniba un Latviesu neatkaribas partija,code,to be coded,,,,,,,,,,,,,55,1163,28
 LVA,Latvia,NA/TB/LNNK,National Alliance / For Fatherland and Freedom / LNNK,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,Nacionala apvieniba / Tevzemei un Brivibai / LNNK,right,Right-wing,8.2588,6.4433,7.4251,7.0102,87723,197,1428723,,,,2132,2406,55,521,40
 LVA,Latvia,NsL,For Latvia from the Heart,No sirds Latvijai,No sirds Latvijai,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,55,2365,26
 LVA,Latvia,P,The Progressive,Progresīvie,Progresivie,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,55,2716,11
 LVA,Latvia,PCTVL,For Human Rights in a United Latvia,Par cilvēka tiesībām vienotā Latvijā,Par cilveka tiesibam vienota Latvija,soc,Social democracy,1.25,2.1093,5.5837,4.8684,87422,192,1428422,,,,2106,2402,55,1520,11
 LVA,Latvia,PLL,For a Good Latvia,Par Labu Latviju!,Par Labu Latviju!,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,55,1667,26
+LVA,Latvia,PP,Power of the People,Tautas varas spēks,Tautas varas speks,code,to be coded,,,,,,,,,,,,,55,2883,28
 LVA,Latvia,PPA,"Political Party ""Alternative""","Politiskā Partija ""Alternative""","Politiska Partija ""Alternative""",soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,55,2393,11
 LVA,Latvia,PS,Civic Union,Pilsoniskā savienība,Pilsoniska savieniba,con,Conservative,7.4,6.4,6.9,7.9,,193,1428611,,,,,,55,445,26
+LVA,Latvia,R,Republic,Republika,Republika,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,55,2877,11
 LVA,Latvia,RP,Reform Party,Reformu partija,Reformu partija,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,2411,55,1942,26
 LVA,Latvia,S,Harmony,Saskaņas,Saskanas,soc,Social democracy,3.0,3.25,4.25,7.5,,195,1428317,,,,,2410,55,1100,11
+LVA,Latvia,S!,For Stability!,Stabilitātei!,Stabilitatei,spec,Special issue,,,,,,,,,,,,,55,2875,16
 LVA,Latvia,SCP,Society for Other Politics,Sabiedrība citai politikai,Sabiedriba citai politikai,lib,Liberal,6.0,6.7,3.6,8.7,,194,1428425,,,,,,55,962,6
 LVA,Latvia,SDLP,Social Democratic Welfare Party,Sociāldemokrātiskā Labklājības partija,Socialdemokratiska Labklajibas partija,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,55,257,11
 LVA,Latvia,SDP,Social Democratic Party,Sociāldemokrātiskā partija,Socialdemokratiska partija,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,55,1608,11
+LVA,Latvia,SV,Sovereign Power,Suverēnā vara,Suverena vara,spec,Special issue,,,,,,,,,,,,,55,2882,16
 LVA,Latvia,TB,For Fatherland and Freedom,Tēvzemei un Brīvībai,Tevzemei un Brivibai,right,Right-wing,8.8,5.9,8.5,2.3,87721,,,,,,,,55,203,40
+LVA,Latvia,TKL,People's Servants for Latvia,Tautas kalpi Latvijai,Tautas kalpi Latvijai,spec,Special issue,,,,,,,,,,,,,55,2881,16
 LVA,Latvia,TKL-ZP,People's Movement for Latvia -- Siegerist Party,Tautas Kustība Latvijai – Zīgerista Partija,Tautas Kustiba Latvijai -- Zigerista Partija,right,Right-wing,8.8,5.9,8.5,2.3,87722,,,,,,,,55,267,40
 LVA,Latvia,TP,People's Party,Tautas Partija,Tautas partija,con,Conservative,7.7544,7.7942,6.1316,9.0205,87610,196,1428610,,,,2158,2403,55,811,26
 LVA,Latvia,TPA,Political Union of Economists,Tautsaimnieku politiskā apvienība,Tautsaimnieku politiska apvieniba,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,55,278,6
@@ -1254,6 +1272,7 @@ LVA,Latvia,VL,All For Latvia!,Visu Latvijai!,Visu Latvijai!,con,Conservative,7.4
 LVA,Latvia,ViLa,United for Latvia,Vienoti Latvijai,Vienoti Latvijai,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,55,2367,6
 LVA,Latvia,ZZS,Green and Farmers' Union,Zaļo un Zemnieku savienība,Zalo un Zemnieku savieniba,agr,Agrarian,5.2632,5.3947,6.1184,6.7763,87110,198,1428110,,,,2210,,55,466,2
 LVA,Latvia,none,no party affiliation,no party affiliation,no party affiliation,none,no family,,,,,,,,,,,,,55,288,12
+LVA,Latvia,one-seat,one seat,one seat,one seat,none,no family,,,,,,,,,,,,,55,2879,12
 MLT,Malta,AD,Democratic Alternative,Alternattiva Demokratika,Alternattiva Demokratika,eco,Green/Ecologist,3.7895,3.2632,4.6316,,,224,1470100,,,,6986,,72,360,19
 MLT,Malta,DAP,Democratic Action Party,Democratic Action Party,Democratic Action Party,con,Conservative,7.4,6.4,6.9,,,,,,,,,,72,816,26
 MLT,Malta,GP,Gozo Party,Gozo Party,Gozo Party,spec,Special issue,,,,,,,,,,,,,72,1298,16
@@ -1400,7 +1419,7 @@ POL,Poland,LR,Left Together,Lewica Razem,Lewica Razem,soc,Social democracy,3.3,3
 POL,Poland,LiD,Left and Democrats,Lewica i Demokraci,Lewica i Demokraci,soc,Social democracy,2.6486,2.6316,2.1902,9.1283,,,,,,,3102,,74,180,11
 POL,Poland,MN,German minority,Mniejszość niemiecka w Polsce,Mniejszosc niemiecka,spec,Special issue,,,,,92953,,,,,,,,74,900,16
 POL,Poland,N,Modern,Nowoczesna,Nowoczesna,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,74,2601,6
-POL,Poland,NCD -BdP,National Christian Democratic -- Block for Poland,Narodowo Chrześcijańsko Demokratyczny – Blok dla Polski,Narodowo Chrzescijansko Demokratyczny -- Blok dla Polski,chr,Christian democracy,6.2,5.7,7.1,8.3,,,,,,,,,74,1712,3
+POL,Poland,NCD-BdP,National Christian Democratic -- Block for Poland,Narodowo Chrześcijańsko Demokratyczny – Blok dla Polski,Narodowo Chrzescijansko Demokratyczny -- Blok dla Polski,chr,Christian democracy,6.2,5.7,7.1,8.3,,,,,,,,,74,1712,3
 POL,Poland,NKWW,National Voters Committee,Narodowy Komitet Wyborczy Wyborców,Narodowy Komitet Wyborczy Wyborcow,chr,Christian democracy,6.2,5.7,7.1,8.3,,,,,,,,,74,1678,3
 POL,Poland,PC,Centre Agreement,Porozumienie Centrum,Porozumienie Centrum,chr,Christian democracy,5.5556,5.7,7.1,8.3,92521,,,,3005,,,,74,369,3
 POL,Poland,PCD,Party of Christian Democrats,Partia Chrześcijańskich Demokratów,Partia Chrzescijanskich Demokratow,chr,Christian democracy,6.2,5.7,7.1,8.3,92522,,,,,,,,74,696,3
@@ -1523,7 +1542,6 @@ ROU,Romania,USR|PLUS,"Save Romania Union | Party of Liberty, Unity and Solidarit
 ROU,Romania,etnice,Romanian ethnic minorities parties,Partidele minorităţilor etnice din România,Partidele minoritatilor etnice din Romania,none,no family,,,,,,,,,,,,,23,425,12
 ROU,Romania,none,no party affiliation,no party affiliation,no party affiliation,none,no family,,,,,,,,,,,,,23,761,12
 ROU,Romania,one-seat,one seat,one seat,one seat,none,no family,,,,,,,,,,,,,23,441,12
-SVK,Slovakia, KDZP, Christian Democracy -- Life and Prosperity,Kresťanská demokracia – Život a prosperita,Krestanska demokracia -- Zivot a prosperita,chr,Christian democracy,6.2,5.7,7.1,8.3,,,,,,,,,1,2783,3
 SVK,Slovakia,99%,99 Percent -- Civic Voice,99% – občiansky hlas,99% -- obciansky hlas,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,1,2015,14
 SVK,Slovakia,ADS,Alliance of Democrats,Aliancia demokratov Slovenska,Aliancia demokratov Slovenska,lib,Liberal,6.0,6.7,3.6,8.7,96431,,,,,,,,1,1624,6
 SVK,Slovakia,ANO,Alliance of the New Citizen,Aliancia nového občana,Aliancia noveho obcana,lib,Liberal,7.2404,7.945,1.9712,9.4714,96424,,,,,,3850,2806,1,1200,6
@@ -1534,6 +1552,7 @@ SVK,Slovakia,HZD,Movement for Democracy,Hnutie za demokraciu,Hnutie za demokraci
 SVK,Slovakia,HZDS,Movement for a Democratic Slovakia,Hnutie za demokratické Slovensko,Hnutie za demokraticke Slovensko,con,Conservative,4.8914,4.8199,5.9161,7.2855,96711,255,1703711,,3403,,3876,2801,1,1142,26
 SVK,Slovakia,HZPCS,Movement for a Prosperous Czechia and Slovakia,Hnutie za prosperujúce Cesko a Slovensko,Hnutie za prosperujuce Cesko a Slovensko,code,to be coded,,,,,,,,,,,,,1,2239,28
 SVK,Slovakia,KDH,Christian Democratic Movement,Kresťanskodemokratické hnutie,Krest'anskodemokraticke hnutie,chr,Christian democracy,7.1082,6.9698,8.8217,6.6998,96521,254,1703521,,3405,,3902,2805,1,1432,3
+SVK,Slovakia,KDZP, Christian Democracy -- Life and Prosperity,Kresťanská demokracia – Život a prosperita,Krestanska demokracia -- Zivot a prosperita,chr,Christian democracy,6.2,5.7,7.1,8.3,,,,,,,,,1,2783,3
 SVK,Slovakia,KSS,Communist Party of Slovakia,Komunistická strana Slovenska,Komunisticka strana Slovenska,com,Communist/Socialist,0.5275,0.937,4.5302,3.5075,96222,,1703222,,,,3928,2807,1,44,14
 SVK,Slovakia,KSU,Christian Social Union,Krest’anská sociálna únia Slovenska,Krestanska socialna unia Slovenska,chr,Christian democracy,6.6667,5.7,7.1,8.3,,,,,3406,,,,1,936,3
 SVK,Slovakia,KU,Christian Union,Kresťanská únia,Krestanska unia,chr,Christian democracy,6.2,5.7,7.1,8.3,,,,,,,,,1,2750,3
@@ -1591,6 +1610,7 @@ SVN,Slovenia,DS,Democratic Party,Demokratska stranka,Demokratska stranka,soc,Soc
 SVN,Slovenia,DZL,Civic Green List,Driavljanska zelena lista,Driavljanska zelena lista,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,60,2570,19
 SVN,Slovenia,DeSUS,Democratic Party of Pensioners of Slovenia,Demokratična stranka upokojencev Slovenije,Demokraticna stranka upokojencev Slovenije,spec,Special issue,3.2292,3.225,5.0708,7.0936,97951,260,1705951,,,,4183,2906,60,1587,16
 SVN,Slovenia,GS,Freedom Movement,Gibanje Svoboda,Gibanje Svoboda,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,2856,11
+SVN,Slovenia,GZD,Healthy Society Movement,Gibanje Zdrava Družba,Gibanje Zdrava Druzba,spec,Special issue,,,,,,,,,,,,,60,2886,16
 SVN,Slovenia,GZS,Voice of Slovenian women,Glas žensk Slovenije,Glas zensk Slovenije,spec,Special issue,,,,,,,,,,,,,60,2022,16
 SVN,Slovenia,I-JK,Independent -- Jelko Kacin,Independent – Jelko Kacin,Independent -- Jelko Kacin,none,no family,,,,,,,,,,,,,60,2383,12
 SVN,Slovenia,IDS,Initiative for Democratic Socialism,Iniciativa za demokratični socializem,Iniciativa za demokraticni socializem,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,60,2335,14
@@ -1603,10 +1623,13 @@ SVN,Slovenia,LIPA,Party Lime Tree,Stranka Lipa,Stranka Lipa,right,Right-wing,8.8
 SVN,Slovenia,LMS,List of Marjan Sarec,Lista Marjana Šarca,Lista Marjana Sarca,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,2668,11
 SVN,Slovenia,LZJ-PS,Zoran Jankovic's List -- Positive Slovenia,Lista Zorana Jankovića – Pozitivna Slovenija,Lista Zorana Jankovica -- Pozitivna Slovenija,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,1987,11
 SVN,Slovenia,Mad,Hungarian national community,Madžarska narodna skupnost,Madzarska narodna skupnost,spec,Special issue,,,,,,,,,,,,,60,65,16
+SVN,Slovenia,ND,Our Country,Naša dežela,Nasa dezela,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,60,2866,19
 SVN,Slovenia,NDS,National Democratic Party,Narodno demokratska stranka,Narodno demokratska stranka,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,60,2573,26
 SVN,Slovenia,NSI,New Slovenia -- Christian People's Party,Nova Slovenija – Krščanska ljudska stranka,Nova Slovenija -- Krscanska ljudska stranka,chr,Christian democracy,7.9345,5.9719,8.3998,8.4866,97522,262,1705522,,,,4235,2905,60,1047,3
 SVN,Slovenia,PSS,Slovenian Pirate Party, Piratska stranka Slovenije, Piratska stranka Slovenije,spec,Special issue,,,,,,,,,,,,,60,2338,16
+SVN,Slovenia,PoS,Let's Connect Slovenia ,Povežimo Slovenijo,Povezimo Slovenijo,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,60,2884,26
 SVN,Slovenia,Pose,Let's Unite,Povežimo se,Povezimo se,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,60,2755,19
+SVN,Slovenia,Resni.ca,Resni.ca,Resni.ca,Resni ca,spec,Special issue,,,,,,,,,,,,,60,2885,16
 SVN,Slovenia,S,Solidarity,Solidarnost ,Solidarnost ,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,2386,11
 SVN,Slovenia,SDS,Slovenian Democratic Party,Slovenska demokratska stranka,Slovenska demokratska stranka,chr,Christian democracy,6.9996,5.6339,6.7947,8.804,97320,263,1705320,,,,4261,2902,60,179,3
 SVN,Slovenia,SDZ,Slovenian Democratic Union,Slovenska demokratična zveza,Slovenska demokraticna zveza,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,60,1371,6
@@ -1623,6 +1646,7 @@ SVN,Slovenia,SS,Dream Job,Sanjska služba,Sanjska sluzba,eco,Green/Ecologist,2.5
 SVN,Slovenia,SSS,Socialist Party of Slovenia,Socialistična stranka Slovenije,Socialisticna stranka Slovenije,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,60,317,14
 SVN,Slovenia,TRS,Party for Sustainable Development of Slovenia,Stranka za trajnostni razvoj Slovenije,Stranka za trajnostni razvoj Slovenije,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,1989,11
 SVN,Slovenia,V,I Believe ,Verjamem,Verjamem,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,2384,11
+SVN,Slovenia,VESNA,Vesna -- the Green Party,VESNA – zelena stranka,VESNA -- zelena stranka,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,60,2865,19
 SVN,Slovenia,ZEO,League for Citizens' Equality,Zveza za enakopravnost obCanov,Zveza za enakopravnost obCanov,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,60,2571,11
 SVN,Slovenia,ZL-SD,United List -- Social Democrats,Združena lista – Socialni demokrati,Zdruzena lista -- Socialni demokrati,soc,Social democracy,3.0637,3.8001,2.9642,8.1513,97321,266,1705323,,,,4365,2903,60,706,11
 SVN,Slovenia,ZS,Greens of Slovenia,Zeleni Slovenije,Zeleni Slovenije,eco,Green/Ecologist,2.5,2.5,1.8,6.5,97110,,,,,,,,60,1619,19

@@ -1426,9 +1426,8 @@ BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,11,240,Ataka,Ataka,Attack,5.
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,15,240,BBZ,Balgarija bes Zensura,Bulgaria Without Censorship,7.4,10,840,1503,1153,2362
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,1,0,0,240,BSP,Balgarska Sotsialisticheska Partiya,Bulgarian Socialist Party,3.0064,10,840,1503,1153,982
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,38,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,840,1503,1153,1286
-BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,84,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,840,1503,1153,1541
+BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,1,0,84,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,840,1503,1153,1541
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,39,240,KzB|DL,Koalitsiya za Balgariya | Demokratichna Levitsa,Coalition for Bulgaria | Democratic Left,2.8982,10,840,1503,1153,1160
-BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,1,1,0,240,NDSV,Natsionalno Dvizhenie Simeon Vtori,National Movement Simeon II,5.7567,10,840,1503,1153,544
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,19,240,NFSB,Natsionalen Front za Spasenie na Balgariya,National Front for the Salvation of Bulgaria,8.8,10,840,1503,1153,2211
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,23,240,RB,Reformatorski Blok,Reformist Bloc,7.4,10,840,1503,1153,2363
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,1,0,0,240,SDS,Suyuz na Demokratichnite Sili,Union of Democratic Forces,6.1111,10,840,1503,1153,423
@@ -1458,6 +1457,14 @@ BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,1,0,25,240,ITN,Ima takav narod,There
 BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,1,0,26,240,KzB|DL,Koalitsiya za Balgariya | Demokratichna Levitsa,Coalition for Bulgaria | Democratic Left,2.8982,10,1106,1660,1658,1160
 BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,1,1,67,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1106,1660,1658,2847
 BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,0,0,13,240,R,Vazrazhdane,Revival,8.8,10,1106,1660,1658,2640
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,34,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,1106,1678,1660,1286
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,16,240,DSB|DB,Demokrati za Silna Balgariya | Demokratichna Balgariya,Democrats for a Strong Bulgaria | Democratic Bulgaria,7.85,10,1106,1678,1660,57
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,59,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,1106,1678,1660,1541
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,25,240,ITN,Ima takav narod,There Is Such a People,7.4,10,1106,1678,1660,2836
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,26,240,KzB|DL,Koalitsiya za Balgariya | Demokratichna Levitsa,Coalition for Bulgaria | Democratic Left,2.8982,10,1106,1678,1660,1160
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,67,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1106,1678,1660,2847
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,13,240,R,Vazrazhdane,Revival,8.8,10,1106,1678,1660,2640
+BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,1,1,0,240,none,no party affiliation,no party affiliation,,10,1106,1678,1660,133
 CAN,Canada,1900-11-07,1900-11-07,Laurier I,0,1,1,133,213,LP,Liberal Party of Canada,Liberal Party of Canada,5.0552,29,883,1466,,368
 CAN,Canada,1900-11-07,1900-11-07,Laurier I,0,0,0,80,213,PCP,Progressive Conservative Party of Canada,Progressive Conservative Party of Canada,6.7112,29,883,1466,,794
 CAN,Canada,1904-11-03,1904-11-03,Laurier II,0,1,1,138,214,LP,Liberal Party of Canada,Liberal Party of Canada,5.0552,29,884,1467,1466,368
@@ -1658,7 +1665,7 @@ CAN,Canada,2021-09-20,2021-10-26,Trudeau J III,0,0,0,119,338,CPC,Conservative Pa
 CAN,Canada,2021-09-20,2021-10-26,Trudeau J III,0,0,0,2,338,GPC,Green Party of Canada,Green Party of Canada,1.9018,29,1103,1656,1620,1259
 CAN,Canada,2021-09-20,2021-10-26,Trudeau J III,0,1,1,160,338,LP,Liberal Party of Canada,Liberal Party of Canada,5.0552,29,1103,1656,1620,368
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,0,0,4,167,DG,Gruppe der Demokraten – Groupe des democrates,Democratic Group,3.3,40,982,1456,,886
-CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,1,1,100,167,FDP-PRD,Freisinnig-Demokratische Partei der Schweiz – Parti Radical-Democratique Suisse,Radical Democratic Party,6.3249,40,982,1456,,26
+CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,1,0,100,167,FDP-PRD,Freisinnig-Demokratische Partei der Schweiz – Parti Radical-Democratique Suisse,Radical Democratic Party,6.3249,40,982,1456,,26
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,1,0,36,167,KK/CVP,Katholische Konservative / Christlichdemokratische Volkspartei – Conservateurs catholiques  /  Parti démocrate-chrétien,Catholic Conservative / Christian Democratic Peoples Party,4.7288,40,982,1456,,531
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,0,0,20,167,LPS,Liberale Partei der Schweiz – Parti liberal suisse,Liberal Party of Switzerland,7.2961,40,982,1456,,458
 CHE,Switzerland,1902-10-26,1902-12-11,Bundesrat 1902,0,0,0,7,167,SP-PS,Sozialdemokratische Partei der Schweiz – Parti Socialiste Suisse,Social Democratic Party of Switzerland,1.8319,40,982,1456,,35
@@ -2038,8 +2045,7 @@ CHE,Switzerland,2019-10-20,2019-12-11,Bundesrat 2019,0,1,0,53,200,SVP-UDC,Schwei
 CYP,Cyprus,1976-09-05,1976-09-05,Mouskos,0,0,0,9,35,AKEL,Anorthotikó Kómma Ergazómenou Laoú,Progressive Party of Working People,1.0526,51,528,1478,,572
 CYP,Cyprus,1976-09-05,1976-09-05,Mouskos,0,0,0,21,35,DIKO,Dimokratikó Kómma,Democratic Party,5.1316,51,528,1478,,851
 CYP,Cyprus,1976-09-05,1976-09-05,Mouskos,0,0,0,4,35,EDEK,Kinima Sosialdimokraton EDEK,Movement for Social Democracy EDEK,3.2895,51,528,1478,,945
-CYP,Cyprus,1976-09-05,1976-09-05,Mouskos,0,0,0,1,35,none,no party affiliation,no party affiliation,,51,528,1478,,534
-CYP,Cyprus,1976-09-05,1976-09-05,Mouskos,0,1,1,0,35,none,no party affiliation,no party affiliation,,51,528,1478,,729
+CYP,Cyprus,1976-09-05,1976-09-05,Mouskos,0,1,1,1,35,none,no party affiliation,no party affiliation,,51,528,1478,,534
 CYP,Cyprus,1976-09-05,1977-08-31,Kyprianou I,1,0,0,9,35,AKEL,Anorthotikó Kómma Ergazómenou Laoú,Progressive Party of Working People,1.0526,51,528,166,1478,572
 CYP,Cyprus,1976-09-05,1977-08-31,Kyprianou I,1,1,1,21,35,DIKO,Dimokratikó Kómma,Democratic Party,5.1316,51,528,166,1478,851
 CYP,Cyprus,1976-09-05,1977-08-31,Kyprianou I,1,0,0,4,35,EDEK,Kinima Sosialdimokraton EDEK,Movement for Social Democracy EDEK,3.2895,51,528,166,1478,945
@@ -3370,20 +3376,36 @@ DNK,Denmark,2015-06-18,2016-11-28,Rasmussen L III,0,0,0,47,179,Sd,Socialdemokrat
 DNK,Denmark,2015-06-18,2016-11-28,Rasmussen L III,0,0,0,1,179,Si,Siumut,Forward (Greenland),3.3,21,976,1497,1172,74
 DNK,Denmark,2015-06-18,2016-11-28,Rasmussen L III,0,0,0,1,179,T,Tjóðveldi,Republic (Faroe Islands),1.3,21,976,1497,1172,2568
 DNK,Denmark,2015-06-18,2016-11-28,Rasmussen L III,0,1,1,34,179,V,Venstre,Liberal Party,7.292,21,976,1497,1172,1605
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,5,179,A,Alternativet,The Alternative,2.5,21,1077,1598,1497,2567
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,16,179,DF,Dansk Folkeparti,Danish Peoples Party,8.2269,21,1077,1598,1497,1418
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,13,179,En-O,Enhedslisten – De Rød-Grønne,Red-Green Alliance,0.8912,21,1077,1598,1497,306
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,1,179,IA,Inuit Ataqatigiit,Community of the People,1.3,21,1077,1598,1497,1891
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,1,179,Jf,Javnaðarflokkurin,Social Democratic Party (Faroe Islands),3.3,21,1077,1598,1497,1894
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,12,179,KF,Konservative,Conservatives,7.2186,21,1077,1598,1497,590
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,4,179,NB,Nye Borgerlige,The New Right,8.8,21,1077,1598,1497,2781
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,4,179,NLA,Ny-Liberal Alliance,New-Liberal Alliance,6.0,21,1077,1598,1497,376
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,16,179,RV,Det Radikale Venstre,Danish Social Liberal Party,4.8736,21,1077,1598,1497,211
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,14,179,SF,Socialistisk Folkeparti,Socialist Peoples Party,2.1347,21,1077,1598,1497,1644
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,1,179,Sbf,Sambandsflokkurin,Union Party (Faroe Islands),7.4,21,1077,1598,1497,1892
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,1,1,48,179,Sd,Socialdemokraterne,Social Democrats,3.8011,21,1077,1598,1497,1629
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,1,179,Si,Siumut,Forward (Greenland),3.3,21,1077,1598,1497,74
-DNK,Denmark,2019-06-05,2019-06-27,Frederiksen,0,0,0,43,179,V,Venstre,Liberal Party,7.292,21,1077,1598,1497,1605
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,5,179,A,Alternativet,The Alternative,2.5,21,1077,1598,1497,2567
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,16,179,DF,Dansk Folkeparti,Danish Peoples Party,8.2269,21,1077,1598,1497,1418
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,13,179,En-O,Enhedslisten – De Rød-Grønne,Red-Green Alliance,0.8912,21,1077,1598,1497,306
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,1,179,IA,Inuit Ataqatigiit,Community of the People,1.3,21,1077,1598,1497,1891
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,1,179,Jf,Javnaðarflokkurin,Social Democratic Party (Faroe Islands),3.3,21,1077,1598,1497,1894
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,12,179,KF,Konservative,Conservatives,7.2186,21,1077,1598,1497,590
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,4,179,NB,Nye Borgerlige,The New Right,8.8,21,1077,1598,1497,2781
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,4,179,NLA,Ny-Liberal Alliance,New-Liberal Alliance,6.0,21,1077,1598,1497,376
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,16,179,RV,Det Radikale Venstre,Danish Social Liberal Party,4.8736,21,1077,1598,1497,211
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,14,179,SF,Socialistisk Folkeparti,Socialist Peoples Party,2.1347,21,1077,1598,1497,1644
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,1,179,Sbf,Sambandsflokkurin,Union Party (Faroe Islands),7.4,21,1077,1598,1497,1892
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,1,1,48,179,Sd,Socialdemokraterne,Social Democrats,3.8011,21,1077,1598,1497,1629
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,1,179,Si,Siumut,Forward (Greenland),3.3,21,1077,1598,1497,74
+DNK,Denmark,2019-06-05,2019-06-27,Frederiksen I,0,0,0,43,179,V,Venstre,Liberal Party,7.292,21,1077,1598,1497,1605
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,6,179,A,Alternativet,The Alternative,2.5,21,1116,1684,1598,2567
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,14,179,AE,Danmarksdemokraterne,Denmark Demokrats,8.8,21,1116,1684,1598,2888
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,5,179,DF,Dansk Folkeparti,Danish Peoples Party,8.2269,21,1116,1684,1598,1418
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,9,179,En-O,Enhedslisten – De Rød-Grønne,Red-Green Alliance,0.8912,21,1116,1684,1598,306
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,1,179,IA,Inuit Ataqatigiit,Community of the People,1.3,21,1116,1684,1598,1891
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,1,179,Jf,Javnaðarflokkurin,Social Democratic Party (Faroe Islands),3.3,21,1116,1684,1598,1894
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,10,179,KF,Konservative,Conservatives,7.2186,21,1116,1684,1598,590
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,1,0,16,179,M,Moderaterne,Moderates,6.0,21,1116,1684,1598,2887
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,6,179,NB,Nye Borgerlige,The New Right,8.8,21,1116,1684,1598,2781
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,14,179,NLA,Ny-Liberal Alliance,New-Liberal Alliance,6.0,21,1116,1684,1598,376
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,7,179,RV,Det Radikale Venstre,Danish Social Liberal Party,4.8736,21,1116,1684,1598,211
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,15,179,SF,Socialistisk Folkeparti,Socialist Peoples Party,2.1347,21,1116,1684,1598,1644
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,1,179,Sbf,Sambandsflokkurin,Union Party (Faroe Islands),7.4,21,1116,1684,1598,1892
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,1,1,50,179,Sd,Socialdemokraterne,Social Democrats,3.8011,21,1116,1684,1598,1629
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,0,0,1,179,Si,Siumut,Forward (Greenland),3.3,21,1116,1684,1598,74
+DNK,Denmark,2022-11-01,2022-12-15,Frederiksen II,0,1,0,23,179,V,Venstre,Liberal Party,7.292,21,1116,1684,1598,1605
 ESP,Spain,1977-06-15,1977-07-04,Suarez I,0,0,0,16,350,AP-P,Alianza-Partido Popular,People's Alliance-Party,7.5969,27,42,205,,645
 ESP,Spain,1977-06-15,1977-07-04,Suarez I,0,0,0,11,350,CiU,Convergència i Unió,Convergence and Union,6.2564,27,42,205,,894
 ESP,Spain,1977-06-15,1977-07-04,Suarez I,0,0,0,1,350,EE,Euzkadiko Ezkerra,Basque Left,2.4,27,42,205,,1026
@@ -3600,7 +3622,7 @@ ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,0,2,350,EM|GCE,En Marea | Grupo 
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,13,350,ERC,Esquerra Republicana de Catalunya,Republican Left of Catalonia,3.1072,27,1085,1605,1601,757
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,2,350,Equo,Equo,Equo,2.5,27,1085,1605,1601,2804
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,2,350,NA+,Navarra Suma,Sum Navarre,7.4,27,1085,1605,1601,2723
-ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,0,26,350,P,Podemos,We Can,1.3,27,1085,1605,1601,2376
+ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,26,350,P,Podemos,We Can,1.3,27,1085,1605,1601,2376
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,0,0,350,PCE|IU,Partido Communista | Izquierda Unida,Communist Party | United Left,2.0183,27,1085,1605,1601,118
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,0,0,6,350,PNV,Partido Nacionalista Vasco – Euzko Alderdi Jeltzalea,Basque Nationalist Party,6.2144,27,1085,1605,1601,1361
 ESP,Spain,2019-11-10,2020-01-07,Sanchez III,0,1,1,120,350,PSOE,Partido Socialista Obrero Español,Spanish Socialist Workers Party,3.7377,27,1085,1605,1601,902
@@ -5878,6 +5900,26 @@ GBR,United Kingdom,2019-12-12,2019-12-13,Johnson II,0,0,0,4,650,Plaid,Plaid Cymr
 GBR,United Kingdom,2019-12-12,2019-12-13,Johnson II,0,0,0,2,650,SDLP,Social Democratic and Labour Party,Social Democratic and Labour Party,3.3,44,1086,1606,1599,1023
 GBR,United Kingdom,2019-12-12,2019-12-13,Johnson II,0,0,0,7,650,SF,Sinn Féin,Sinn Fein,1.3,44,1086,1606,1599,689
 GBR,United Kingdom,2019-12-12,2019-12-13,Johnson II,0,0,0,48,650,SNP,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,Scottish National Party,3.5871,44,1086,1606,1599,1284
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,1,650,APoNI,Alliance Party of Northern Ireland,Alliance Party of Northern Ireland,6.0,44,1086,1676,1606,2731
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,1,1,365,650,Con,Conservatives,Conservatives,7.4261,44,1086,1676,1606,773
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,8,650,DUP,Democratic Unionist Party,Democratic Unionist Party,7.4,44,1086,1676,1606,319
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,1,650,GP,Green Party,Green Party,2.57,44,1086,1676,1606,467
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,203,650,Lab,Labour Party,Labour,4.3562,44,1086,1676,1606,1556
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,11,650,Lib,Liberals,Liberals,4.2875,44,1086,1676,1606,659
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,4,650,Plaid,Plaid Cymru,Plaid Cymru,3.1183,44,1086,1676,1606,311
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,2,650,SDLP,Social Democratic and Labour Party,Social Democratic and Labour Party,3.3,44,1086,1676,1606,1023
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,7,650,SF,Sinn Féin,Sinn Fein,1.3,44,1086,1676,1606,689
+GBR,United Kingdom,2019-12-12,2022-09-06,Truss,0,0,0,48,650,SNP,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,Scottish National Party,3.5871,44,1086,1676,1606,1284
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,1,650,APoNI,Alliance Party of Northern Ireland,Alliance Party of Northern Ireland,6.0,44,1086,1683,1676,2731
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,1,1,365,650,Con,Conservatives,Conservatives,7.4261,44,1086,1683,1676,773
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,8,650,DUP,Democratic Unionist Party,Democratic Unionist Party,7.4,44,1086,1683,1676,319
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,1,650,GP,Green Party,Green Party,2.57,44,1086,1683,1676,467
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,203,650,Lab,Labour Party,Labour,4.3562,44,1086,1683,1676,1556
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,11,650,Lib,Liberals,Liberals,4.2875,44,1086,1683,1676,659
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,4,650,Plaid,Plaid Cymru,Plaid Cymru,3.1183,44,1086,1683,1676,311
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,2,650,SDLP,Social Democratic and Labour Party,Social Democratic and Labour Party,3.3,44,1086,1683,1676,1023
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,7,650,SF,Sinn Féin,Sinn Fein,1.3,44,1086,1683,1676,689
+GBR,United Kingdom,2019-12-12,2022-10-25,Sunak,0,0,0,48,650,SNP,Scottish National Party – Pàrtaidh Nàiseanta na h-Alba,Scottish National Party,3.5871,44,1086,1683,1676,1284
 GRC,Greece,1974-11-17,1974-11-21,Karamanlis Kon I,0,0,0,60,300,EDIK,Enosi Dimokratikou Kentrou,Union of the Democratic Centre,6.0,41,653,609,,489
 GRC,Greece,1974-11-17,1974-11-21,Karamanlis Kon I,0,0,0,8,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,653,609,,614
 GRC,Greece,1974-11-17,1974-11-21,Karamanlis Kon I,0,1,1,220,300,ND,Néa Đimokratía,New Democracy,6.7365,41,653,609,,47
@@ -7438,7 +7480,7 @@ ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,1,0,7,120,YBA,Yisrael Ba-Aliya,
 ISR,Israel,1996-05-29,1998-12-21,Netanyahu III,1,0,0,4,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,717,1159,1158,1303
 ISR,Israel,1999-05-17,1999-07-06,Barak I,0,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,1121,1159,615
 ISR,Israel,1999-05-17,1999-07-06,Barak I,0,0,0,2,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,1121,1159,805
-ISR,Israel,1999-05-17,1999-07-06,Barak I,0,0,0,4,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,1121,1159,1357
+ISR,Israel,1999-05-17,1999-07-06,Barak I,0,0,0,4,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,1121,1159,1357
 ISR,Israel,1999-05-17,1999-07-06,Barak I,0,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,1121,1159,2361
 ISR,Israel,1999-05-17,1999-07-06,Barak I,0,0,0,19,120,L,Likud,The Consolidation,6.6788,34,718,1121,1159,678
 ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,1121,1159,214
@@ -7454,7 +7496,7 @@ ISR,Israel,1999-05-17,1999-07-06,Barak I,0,1,0,6,120,YBA,Yisrael Ba-Aliya,Israel
 ISR,Israel,1999-05-17,1999-07-06,Barak I,0,0,0,5,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,718,1121,1159,1303
 ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,962,1121,615
 ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,1,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,962,1121,805
-ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,962,1121,1357
+ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,8,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,962,1121,1357
 ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,962,1121,2361
 ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,19,120,L,Likud,The Consolidation,6.6788,34,718,962,1121,678
 ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,962,1121,214
@@ -7471,7 +7513,7 @@ ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,5,120,YaToMe,Yahadut HaTora HaMe
 ISR,Israel,1999-05-17,2000-07-11,Barak II,0,0,0,3,120,none,no party affiliation,no party affiliation,,34,718,962,1121,123
 ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,1138,962,615
 ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,1,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,1138,962,805
-ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,1138,962,1357
+ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,8,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,1138,962,1357
 ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,1138,962,2361
 ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,19,120,L,Likud,The Consolidation,6.6788,34,718,1138,962,678
 ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,1138,962,214
@@ -7489,7 +7531,7 @@ ISR,Israel,1999-05-17,2000-12-10,Barak III,1,0,0,3,120,none,no party affiliation
 ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,965,1138,615
 ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,0,0,1,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,965,1138,805
 ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,0,0,3,120,G-96,Gesher – 1996,Bridge -- 1996,7.4,34,718,965,1138,1862
-ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,965,1138,1357
+ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,0,8,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,965,1138,1357
 ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,965,1138,2361
 ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,1,1,19,120,L,Likud,The Consolidation,6.6788,34,718,965,1138,678
 ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,0,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,965,1138,214
@@ -7507,7 +7549,7 @@ ISR,Israel,1999-05-17,2001-03-07,Sharon I,0,0,0,5,120,none,no party affiliation,
 ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,966,965,615
 ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,0,0,1,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,966,965,805
 ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,0,0,3,120,G-96,Gesher – 1996,Bridge -- 1996,7.4,34,718,966,965,1862
-ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,966,965,1357
+ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,0,8,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,966,965,1357
 ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,966,965,2361
 ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,1,1,19,120,L,Likud,The Consolidation,6.6788,34,718,966,965,678
 ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,0,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,966,965,214
@@ -7525,7 +7567,7 @@ ISR,Israel,1999-05-17,2001-08-29,Sharon II,0,0,0,2,120,none,no party affiliation
 ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,1122,966,615
 ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,1,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,1122,966,805
 ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,0,3,120,G-96,Gesher – 1996,Bridge -- 1996,7.4,34,718,1122,966,1862
-ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,1122,966,1357
+ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,8,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,1122,966,1357
 ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,1122,966,2361
 ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,1,1,19,120,L,Likud,The Consolidation,6.6788,34,718,1122,966,678
 ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,1122,966,214
@@ -7543,7 +7585,7 @@ ISR,Israel,1999-05-17,2002-04-08,Sharon III,0,0,0,2,120,none,no party affiliatio
 ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,1123,1122,615
 ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,1,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,1123,1122,805
 ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,3,120,G-96,Gesher – 1996,Bridge -- 1996,7.4,34,718,1123,1122,1862
-ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,1123,1122,1357
+ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,8,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,1123,1122,1357
 ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,1123,1122,2361
 ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,1,1,19,120,L,Likud,The Consolidation,6.6788,34,718,1123,1122,678
 ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,1123,1122,214
@@ -7561,7 +7603,7 @@ ISR,Israel,1999-05-17,2002-07-30,Sharon IV,0,0,0,2,120,none,no party affiliation
 ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,2,120,AE,Am Ehad,One Nation,2.9825,34,718,1124,1123,615
 ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,1,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,718,1124,1123,805
 ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,3,120,G-96,Gesher – 1996,Bridge -- 1996,7.4,34,718,1124,1123,1862
-ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,8,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,718,1124,1123,1357
+ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,8,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,718,1124,1123,1357
 ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,1,120,He-TnLe,Herut – HaTnu'a HaLeumit,Herut -- The National Movement,8.8,34,718,1124,1123,2361
 ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,1,1,19,120,L,Likud,The Consolidation,6.6788,34,718,1124,1123,678
 ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,5,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,718,1124,1123,214
@@ -7578,7 +7620,7 @@ ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,5,120,YaToMe,Yahadut HaTora HaMe
 ISR,Israel,1999-05-17,2002-11-02,Sharon V,0,0,0,2,120,none,no party affiliation,no party affiliation,,34,718,1124,1123,123
 ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,0,0,3,120,AE,Am Ehad,One Nation,2.9825,34,719,1125,1124,615
 ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,719,1125,1124,805
-ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,0,7,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,719,1125,1124,1357
+ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,0,7,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,719,1125,1124,1357
 ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,1,38,120,L,Likud,The Consolidation,6.6788,34,719,1125,1124,678
 ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,1,0,6,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,719,1125,1124,214
 ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,0,0,19,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,719,1125,1124,244
@@ -7591,7 +7633,7 @@ ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,0,0,2,120,YBA,Yisrael Ba-Aliya,Isra
 ISR,Israel,2003-01-28,2003-03-03,Sharon VI,0,0,0,5,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,719,1125,1124,1303
 ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,0,0,3,120,AE,Am Ehad,One Nation,2.9825,34,719,1126,1125,615
 ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,719,1126,1125,805
-ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,0,0,7,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,719,1126,1125,1357
+ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,0,0,7,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,719,1126,1125,1357
 ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,1,1,40,120,L,Likud,The Consolidation,6.6788,34,719,1126,1125,678
 ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,1,0,6,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,719,1126,1125,214
 ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,0,0,19,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,719,1126,1125,244
@@ -7603,7 +7645,7 @@ ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,1,0,15,120,Shinui,Shinui,Change,5.
 ISR,Israel,2003-01-28,2004-06-06,Sharon VII,0,0,0,5,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,719,1126,1125,1303
 ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,0,0,3,120,AE,Am Ehad,One Nation,2.9825,34,719,1128,1126,615
 ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,719,1128,1126,805
-ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,0,0,7,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,719,1128,1126,1357
+ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,0,0,7,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,719,1128,1126,1357
 ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,1,1,40,120,L,Likud,The Consolidation,6.6788,34,719,1128,1126,678
 ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,0,0,6,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,719,1128,1126,214
 ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,1,0,19,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,719,1128,1126,244
@@ -7616,7 +7658,7 @@ ISR,Israel,2003-01-28,2005-01-10,Sharon VIII,0,0,0,5,120,YaToMe,Yahadut HaTora H
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,3,120,AY,Agudat Yisrael,Union of Israel,,34,719,1129,1128,265
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,719,1129,1128,805
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,2,120,DeTo,Degel HaTorah,Banner of the Torah,7.4,34,719,1129,1128,249
-ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,7,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,719,1129,1128,1357
+ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,7,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,719,1129,1128,1357
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,1,0,15,120,Kadima,Kadima,Forward,6.0,34,719,1129,1128,1870
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,1,1,26,120,L,Likud,The Consolidation,6.6788,34,719,1129,1128,678
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,4,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,719,1129,1128,214
@@ -7630,7 +7672,7 @@ ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,14,120,Shinui,Shinui,Change,5.4
 ISR,Israel,2003-01-28,2006-01-18,Sharon IX,0,0,0,3,120,none,no party affiliation,no party affiliation,,34,719,1129,1128,123
 ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,720,1131,1129,805
 ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1,0,7,120,Gil,Gimla'ey Israel,Pensioners of Israel,,34,720,1131,1129,1873
-ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,0,0,9,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,720,1131,1129,1357
+ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,0,0,9,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,720,1131,1129,1357
 ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1,1,29,120,Kadima,Kadima,Forward,6.0,34,720,1131,1129,1870
 ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,0,0,12,120,L,Likud,The Consolidation,6.6788,34,720,1131,1129,678
 ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,1,0,19,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,720,1131,1129,244
@@ -7642,7 +7684,7 @@ ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,0,0,11,120,YB,Yisrael Beiteinu,Israe
 ISR,Israel,2006-03-28,2006-05-04,Olmert I,0,0,0,6,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,720,1131,1129,1303
 ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,720,1132,1131,805
 ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,0,7,120,Gil,Gimla'ey Israel,Pensioners of Israel,,34,720,1132,1131,1873
-ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,0,0,9,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,720,1132,1131,1357
+ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,0,0,9,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,720,1132,1131,1357
 ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,1,29,120,Kadima,Kadima,Forward,6.0,34,720,1132,1131,1870
 ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,0,0,12,120,L,Likud,The Consolidation,6.6788,34,720,1132,1131,678
 ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,0,19,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,720,1132,1131,244
@@ -7654,7 +7696,7 @@ ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,1,0,11,120,YB,Yisrael Beiteinu,Isra
 ISR,Israel,2006-03-28,2006-10-30,Olmert II,0,0,0,6,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,720,1132,1131,1303
 ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,720,1133,1132,805
 ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1,0,7,120,Gil,Gimla'ey Israel,Pensioners of Israel,,34,720,1133,1132,1873
-ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,0,0,9,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,720,1133,1132,1357
+ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,0,0,9,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,720,1133,1132,1357
 ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1,1,29,120,Kadima,Kadima,Forward,6.0,34,720,1133,1132,1870
 ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,0,0,12,120,L,Likud,The Consolidation,6.6788,34,720,1133,1132,678
 ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,1,0,19,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,720,1133,1132,244
@@ -7666,7 +7708,7 @@ ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,0,0,11,120,YB,Yisrael Beiteinu,Isr
 ISR,Israel,2006-03-28,2008-01-18,Olmert III,0,0,0,6,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,720,1133,1132,1303
 ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,720,1135,1133,805
 ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1,0,4,120,Gil,Gimla'ey Israel,Pensioners of Israel,,34,720,1135,1133,1873
-ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,0,0,9,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,720,1135,1133,1357
+ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,0,0,9,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,720,1135,1133,1357
 ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1,1,29,120,Kadima,Kadima,Forward,6.0,34,720,1135,1133,1870
 ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,0,0,12,120,L,Likud,The Consolidation,6.6788,34,720,1135,1133,678
 ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,1,0,19,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,720,1135,1133,244
@@ -7678,7 +7720,7 @@ ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,0,0,11,120,YB,Yisrael Beiteinu,Isra
 ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,0,0,6,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,720,1135,1133,1303
 ISR,Israel,2006-03-28,2008-09-21,Olmert IV,1,0,0,3,120,none,no party affiliation,no party affiliation,,34,720,1135,1133,123
 ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,721,1031,1135,805
-ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,0,0,4,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,721,1031,1135,1357
+ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,0,0,4,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,721,1031,1135,1357
 ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,0,0,28,120,Kadima,Kadima,Forward,6.0,34,721,1031,1135,1870
 ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,1,27,120,L,Likud,The Consolidation,6.6788,34,721,1031,1135,678
 ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,0,3,120,MDL|HH,Miflaga Datit Leumit (Mafdal) | Habayit Hayehudi,National Religious Party | The Jewish Home,8.6207,34,721,1031,1135,214
@@ -7690,7 +7732,7 @@ ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,0,11,120,Shas,Shomrei Sfarad,S
 ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,1,0,15,120,YB,Yisrael Beiteinu,Israel Our Home,8.8,34,721,1031,1135,1816
 ISR,Israel,2009-02-10,2009-03-31,Netanyahu IV,0,0,0,5,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,721,1031,1135,1303
 ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,721,1032,1031,805
-ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,0,0,4,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,721,1032,1031,1357
+ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,0,0,4,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,721,1032,1031,1357
 ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,0,5,120,Haatz,Sia'at Ha'Atzma'ut,Sia'at Ha'Atzma'ut,3.3,34,721,1032,1031,2043
 ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,0,0,28,120,Kadima,Kadima,Forward,6.0,34,721,1032,1031,1870
 ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,1,27,120,L,Likud,The Consolidation,6.6788,34,721,1032,1031,678
@@ -7703,7 +7745,7 @@ ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,0,11,120,Shas,Shomrei Sfarad,Se
 ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,1,0,15,120,YB,Yisrael Beiteinu,Israel Our Home,8.8,34,721,1032,1031,1816
 ISR,Israel,2009-02-10,2011-01-17,Netanyahu V,0,0,0,5,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,721,1032,1031,1303
 ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,0,0,3,120,Balad,Brit Le'umit Demokratit,National Democratic Assembly,0.7407,34,721,1107,1032,805
-ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,0,0,4,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,721,1107,1032,1357
+ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,0,0,4,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,721,1107,1032,1357
 ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,0,5,120,Haatz,Sia'at Ha'Atzma'ut,Sia'at Ha'Atzma'ut,3.3,34,721,1107,1032,2043
 ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,0,28,120,Kadima,Kadima,Forward,6.0,34,721,1107,1032,1870
 ISR,Israel,2009-02-10,2012-05-08,Netanyahu VI,0,1,1,27,120,L,Likud,The Consolidation,6.6788,34,721,1107,1032,678
@@ -7805,7 +7847,7 @@ ISR,Israel,2020-03-02,2020-05-17,Netanyahu XIV,0,1,0,9,120,Shas,Shomrei Sfarad,S
 ISR,Israel,2020-03-02,2020-05-17,Netanyahu XIV,0,0,0,6,120,Y,Yamina,Rightwards,8.8,34,1090,1645,1613,2726
 ISR,Israel,2020-03-02,2020-05-17,Netanyahu XIV,0,0,0,7,120,YB,Yisrael Beiteinu,Israel Our Home,8.8,34,1090,1645,1613,1816
 ISR,Israel,2020-03-02,2020-05-17,Netanyahu XIV,0,1,0,7,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,1090,1645,1613,1303
-ISR,Israel,2021-03-23,2021-06-13,Bennett,0,0,0,6,120,HaLe-T,HaIhud HaLeumi–Tkuma,National Union--Tkuma,9.5906,34,1100,1650,1645,1357
+ISR,Israel,2021-03-23,2021-06-13,Bennett,0,0,0,6,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,1100,1650,1645,1357
 ISR,Israel,2021-03-23,2021-06-13,Bennett,0,1,0,8,120,KL,Kahol Lavan,Blue and White,6.0,34,1100,1650,1645,2725
 ISR,Israel,2021-03-23,2021-06-13,Bennett,0,0,0,30,120,L,Likud,The Consolidation,6.6788,34,1100,1650,1645,678
 ISR,Israel,2021-03-23,2021-06-13,Bennett,0,1,0,7,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,1100,1650,1645,244
@@ -7818,6 +7860,33 @@ ISR,Israel,2021-03-23,2021-06-13,Bennett,0,1,1,7,120,Y,Yamina,Rightwards,8.8,34,
 ISR,Israel,2021-03-23,2021-06-13,Bennett,0,1,0,17,120,YA,Yesh Atid,There is a Future,6.0,34,1100,1650,1645,2321
 ISR,Israel,2021-03-23,2021-06-13,Bennett,0,1,0,7,120,YB,Yisrael Beiteinu,Israel Our Home,8.8,34,1100,1650,1645,1816
 ISR,Israel,2021-03-23,2021-06-13,Bennett,0,0,0,7,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,1100,1650,1645,1303
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,0,0,6,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,1100,1677,1650,1357
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,1,0,8,120,KL,Kahol Lavan,Blue and White,6.0,34,1100,1677,1650,2725
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,0,0,30,120,L,Likud,The Consolidation,6.6788,34,1100,1677,1650,678
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,1,0,7,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,1100,1677,1650,244
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,1,0,6,120,Meretz,Meretz,Energy,1.7786,34,1100,1677,1650,1419
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,1,0,6,120,NH,Tikva Hadasha,New Hope,8.8,34,1100,1677,1650,2835
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,0,0,4,120,Raam,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,United Arab List,,34,1100,1677,1650,1846
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,0,0,6,120,R|H,Rakah | Hadash,New Communist List | Democratic Front,1.3,34,1100,1677,1650,732
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,0,0,9,120,Shas,Shomrei Sfarad,Sephardi Guardians,7.0417,34,1100,1677,1650,788
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,1,1,7,120,Y,Yamina,Rightwards,8.8,34,1100,1677,1650,2726
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,1,0,17,120,YA,Yesh Atid,There is a Future,6.0,34,1100,1677,1650,2321
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,1,0,7,120,YB,Yisrael Beiteinu,Israel Our Home,8.8,34,1100,1677,1650,1816
+ISR,Israel,2021-03-23,2022-07-01,Lapid,1,0,0,7,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,1100,1677,1650,1303
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,0,0,120,AY,Agudat Yisrael,Union of Israel,,34,1117,1686,1677,265
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,0,0,120,DeTo,Degel HaTorah,Banner of the Torah,7.4,34,1117,1686,1677,249
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,0,14,120,HaLe-T|RZP,HaIhud HaLeumi–Tkuma  | HaTzionut HaDatit,National Union--Tkuma  | Religious Zionist Party,9.5906,34,1117,1686,1677,1357
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,0,0,12,120,KL,Kahol Lavan,Blue and White,6.0,34,1117,1686,1677,2725
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,1,32,120,L,Likud,The Consolidation,6.6788,34,1117,1686,1677,678
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,0,0,4,120,Ma|Av,HaMa'arakh | HaAvoda,Alignment | Labor,3.3,34,1117,1686,1677,244
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,0,0,120,Noam,Lazuz,Pleasentness,8.8,34,1117,1686,1677,2889
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,0,0,120,OL,Otzma Leyisrael,Jewish Power,,34,1117,1686,1677,2322
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,0,0,5,120,Raam,al-Qā'ima al-'Arabiyya al-Muwaḥḥada,United Arab List,,34,1117,1686,1677,1846
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,0,0,5,120,R|H,Rakah | Hadash,New Communist List | Democratic Front,1.3,34,1117,1686,1677,732
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,0,11,120,Shas,Shomrei Sfarad,Sephardi Guardians,7.0417,34,1117,1686,1677,788
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,0,0,24,120,YA,Yesh Atid,There is a Future,6.0,34,1117,1686,1677,2321
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,0,0,6,120,YB,Yisrael Beiteinu,Israel Our Home,8.8,34,1117,1686,1677,1816
+ISR,Israel,2022-11-01,2022-12-29,Netanjahu XV,0,1,0,7,120,YaToMe,Yahadut HaTora HaMeuhedet,United Torah Judaism,6.9396,34,1117,1686,1677,1303
 ITA,Italy,1946-06-02,1946-07-13,De Gasperi I,0,0,0,2,556,CDR,Concentrazione Democratica Repubblicana,Republican Democratic Concentration,6.0,26,503,416,,2044
 ITA,Italy,1946-06-02,1946-07-13,De Gasperi I,0,1,1,207,556,DC,Democrazia Cristiana,Christian Democrats,5.6611,26,503,416,,1633
 ITA,Italy,1946-06-02,1946-07-13,De Gasperi I,0,0,0,30,556,FUQ,Fronte dell'Uomo Qualunque,Front of the Ordinary Man,7.4,26,503,416,,409
@@ -8653,22 +8722,52 @@ ITA,Italy,2018-03-04,2019-09-05,Conte II,0,0,0,4,630,SVP,Südtiroler Volkspartei
 ITA,Italy,2018-03-04,2019-09-05,Conte II,0,0,0,4,630,UC,Unione / Centro,Union / Centre,6.1092,26,1024,1603,1532,226
 ITA,Italy,2018-03-04,2019-09-05,Conte II,0,0,0,1,630,USEI,Unione Sudamericana Emigrati Italiani,South American Union Italian Emigrants,7.4,26,1024,1603,1532,2671
 ITA,Italy,2018-03-04,2019-09-05,Conte II,0,0,0,1,630,one-seat,one seat,one seat,,26,1024,1603,1532,2302
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,2,630,+EU,+Europa,More Europe,6.0,26,1024,1667,1603,2737
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,1,630,AIE,Associativo Italiani all'Estero,Associative Italians Abroad,,26,1024,1667,1603,927
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,1,630,CD,Centro Democratico, Democratic Centre,6.0,26,1024,1667,1603,2153
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,1,0,106,630,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,1024,1667,1603,596
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,31,630,FdI,Fratelli d'Italia,Brothers of Italy,8.8,26,1024,1667,1603,2154
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,1,0,25,630,IV,Italia Viva,Italy Alive,6.0,26,1024,1667,1603,2794
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,2,630,IdV,Italia dei Valori,Italy of Values,4.8712,26,1024,1667,1603,693
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,1,0,124,630,LN,Lega Nord,North League,7.8007,26,1024,1667,1603,1436
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,1,0,227,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,1024,1667,1603,2155
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,1,1,0,630,PC,Presidente del Consiglio dei ministri,Prime minister,,26,1024,1667,1603,2001
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,1,0,87,630,PD,Partito Democratico,Democratic Party,2.6216,26,1024,1667,1603,382
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,1,0,14,630,S,Sinistra,Left,1.3,26,1024,1667,1603,465
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,4,630,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,5.4,26,1024,1667,1603,1030
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,4,630,UC,Unione / Centro,Union / Centre,6.1092,26,1024,1667,1603,226
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,1,630,USEI,Unione Sudamericana Emigrati Italiani,South American Union Italian Emigrants,7.4,26,1024,1667,1603,2671
-ITA,Italy,2018-03-04,2021-02-13,Draghi,0,0,0,1,630,one-seat,one seat,one seat,,26,1024,1667,1603,2302
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,2,630,+EU,+Europa,More Europe,6.0,26,1024,1667,1603,2737
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,1,630,AIE,Associativo Italiani all'Estero,Associative Italians Abroad,,26,1024,1667,1603,927
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,1,630,CD,Centro Democratico, Democratic Centre,6.0,26,1024,1667,1603,2153
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,1,0,106,630,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,1024,1667,1603,596
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,31,630,FdI,Fratelli d'Italia,Brothers of Italy,8.8,26,1024,1667,1603,2154
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,1,0,25,630,IV,Italia Viva,Italy Alive,6.0,26,1024,1667,1603,2794
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,2,630,IdV,Italia dei Valori,Italy of Values,4.8712,26,1024,1667,1603,693
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,1,0,124,630,LN,Lega Nord,North League,7.8007,26,1024,1667,1603,1436
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,1,0,227,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,1024,1667,1603,2155
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,1,1,0,630,PC,Presidente del Consiglio dei ministri,Prime minister,,26,1024,1667,1603,2001
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,1,0,87,630,PD,Partito Democratico,Democratic Party,2.6216,26,1024,1667,1603,382
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,1,0,14,630,S,Sinistra,Left,1.3,26,1024,1667,1603,465
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,4,630,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,5.4,26,1024,1667,1603,1030
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,4,630,UC,Unione / Centro,Union / Centre,6.1092,26,1024,1667,1603,226
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,1,630,USEI,Unione Sudamericana Emigrati Italiani,South American Union Italian Emigrants,7.4,26,1024,1667,1603,2671
+ITA,Italy,2018-03-04,2021-02-13,Draghi I,1,0,0,1,630,one-seat,one seat,one seat,,26,1024,1667,1603,2302
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,2,630,+EU,+Europa,More Europe,6.0,26,1024,1681,1667,2737
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,1,630,AIE,Associativo Italiani all'Estero,Associative Italians Abroad,,26,1024,1681,1667,927
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,1,630,CD,Centro Democratico, Democratic Centre,6.0,26,1024,1681,1667,2153
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,106,630,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,1024,1681,1667,596
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,31,630,FdI,Fratelli d'Italia,Brothers of Italy,8.8,26,1024,1681,1667,2154
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,1,0,25,630,IV,Italia Viva,Italy Alive,6.0,26,1024,1681,1667,2794
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,2,630,IdV,Italia dei Valori,Italy of Values,4.8712,26,1024,1681,1667,693
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,50,630,IpF,Insieme per il Futuro,Together for the Future,,26,1024,1681,1667,2861
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,124,630,LN,Lega Nord,North League,7.8007,26,1024,1681,1667,1436
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,1,0,177,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,1024,1681,1667,2155
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,1,1,0,630,PC,Presidente del Consiglio dei ministri,Prime minister,,26,1024,1681,1667,2001
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,1,0,87,630,PD,Partito Democratico,Democratic Party,2.6216,26,1024,1681,1667,382
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,1,0,14,630,S,Sinistra,Left,1.3,26,1024,1681,1667,465
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,4,630,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,5.4,26,1024,1681,1667,1030
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,4,630,UC,Unione / Centro,Union / Centre,6.1092,26,1024,1681,1667,226
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,1,630,USEI,Unione Sudamericana Emigrati Italiani,South American Union Italian Emigrants,7.4,26,1024,1681,1667,2671
+ITA,Italy,2018-03-04,2022-07-21,Draghi II,1,0,0,1,630,one-seat,one seat,one seat,,26,1024,1681,1667,2302
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,3,400,+EU,+Europa,More Europe,6.0,26,1113,1682,1681,2737
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,1,0,44,400,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,1113,1682,1681,596
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,1,1,118,400,FdI,Fratelli d'Italia,Brothers of Italy,8.8,26,1113,1682,1681,2154
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,21,400,IV,Italia Viva,Italy Alive,6.0,26,1113,1682,1681,2794
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,1,0,66,400,LN,Lega Nord,North League,7.8007,26,1113,1682,1681,1436
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,52,400,M5S,Movimento 5 Stelle,Five Star Movement,,26,1113,1682,1681,2155
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,69,400,PD,Partito Democratico,Democratic Party,2.6216,26,1113,1682,1681,382
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,11,400,P|SDI,Partito | Socialisti Democratici Italiani,Italian Democratic Socialists | Party,3.9895,26,1113,1682,1681,1278
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,3,400,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,5.4,26,1113,1682,1681,1030
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,9,400,UC,Unione / Centro,Union / Centre,6.1092,26,1113,1682,1681,226
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,3,400,etc,diversi,others,,26,1113,1682,1681,825
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,1,0,0,400,none,senzo partito,no party affiliation,,26,1113,1682,1681,1552
+ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,1,400,one-seat,one seat,one seat,,26,1113,1682,1681,2302
 JPN,Japan,1946-04-10,1946-05-22,Yoshida I,0,1,0,110,464,DP,Minshutō,Democratic Party,7.4,5,697,891,,1734
 JPN,Japan,1946-04-10,1946-05-22,Yoshida I,0,0,0,6,464,JCP,Nihon Kyōsan-tō,Japan Communist Party,1.148,5,697,891,,1540
 JPN,Japan,1946-04-10,1946-05-22,Yoshida I,0,1,1,148,464,JLP,Nihon Jiyūtō,Japan Liberal Party,7.4,5,697,891,,1726
@@ -9469,7 +9568,7 @@ LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,0,0,2,54,ONV,Onofhängeg National
 LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,1,1,26,54,PD,Rietspartei,Party of the Right,7.4,7,934,1451,1450,2527
 LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,0,0,1,54,PDPN,Fortschrëttlech-demokratesch Partei,Progressive Democratic Party of the North,6.0,7,934,1451,1450,2538
 LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,0,0,2,54,PIE,Parti des Indépendants de l'Est,Independents of the East,,7,934,1451,1450,2452
-LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,1,0,0,54,PL ,Parti Libéral,Liberal Party,6.0,7,934,1451,1450,2140
+LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,1,0,0,54,PL,Parti Libéral,Liberal Party,6.0,7,934,1451,1450,2140
 LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,0,0,2,54,RPMC,Radikal Partei (Marcel Cahen),Radical Party (Marcel Cahen),6.0,7,934,1451,1450,2535
 LUX,Luxembourg,1931-06-07,1932-04-11,Bech II,0,0,0,4,54,RSP,Radikal-Sozialistesch Partei,Radical Socialist Party ,6.0,7,934,1451,1450,2456
 LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,0,0,2,55,DeLe,Demokratesch Lëscht,Democratic List ,6.0,7,936,1452,1451,2448
@@ -9477,28 +9576,28 @@ LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,0,0,18,55,LSAP,Lëtzebuerger Soz
 LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,0,0,1,55,PBMA,"Partei vun de Baueren, dem Mëttelstand an den Aarbechter","Free List of Peasants, Middle Classes and Workers",,7,936,1452,1451,2449
 LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,1,1,25,55,PD,Rietspartei,Party of the Right,7.4,7,936,1452,1451,2527
 LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,0,0,3,55,PIE,Parti des Indépendants de l'Est,Independents of the East,,7,936,1452,1451,2452
-LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,1,0,1,55,PL ,Parti Libéral,Liberal Party,6.0,7,936,1452,1451,2140
+LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,1,0,1,55,PL,Parti Libéral,Liberal Party,6.0,7,936,1452,1451,2140
 LUX,Luxembourg,1937-06-06,1937-06-06,Bech III,1,0,0,5,55,PRL,Radikal-Liberal Partei,Radical Liberal Party ,6.0,7,936,1452,1451,2455
 LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,0,0,2,55,DeLe,Demokratesch Lëscht,Democratic List ,6.0,7,936,1453,1452,2448
 LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,1,0,18,55,LSAP,Lëtzebuerger Sozialistesch Aarbechterpartei,Luxembourg Socialist Workers' Party,3.2895,7,936,1453,1452,701
 LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,0,0,1,55,PBMA,"Partei vun de Baueren, dem Mëttelstand an den Aarbechter","Free List of Peasants, Middle Classes and Workers",,7,936,1453,1452,2449
 LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,1,1,25,55,PD,Rietspartei,Party of the Right,7.4,7,936,1453,1452,2527
 LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,0,0,3,55,PIE,Parti des Indépendants de l'Est,Independents of the East,,7,936,1453,1452,2452
-LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,0,0,1,55,PL ,Parti Libéral,Liberal Party,6.0,7,936,1453,1452,2140
+LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,0,0,1,55,PL,Parti Libéral,Liberal Party,6.0,7,936,1453,1452,2140
 LUX,Luxembourg,1937-06-06,1937-11-05,Dupong-Krier I,0,1,0,5,55,PRL,Radikal-Liberal Partei,Radical Liberal Party ,6.0,7,936,1453,1452,2455
 LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,0,0,2,55,DeLe,Demokratesch Lëscht,Democratic List ,6.0,7,936,1454,1453,2448
 LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,1,0,18,55,LSAP,Lëtzebuerger Sozialistesch Aarbechterpartei,Luxembourg Socialist Workers' Party,3.2895,7,936,1454,1453,701
 LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,0,0,1,55,PBMA,"Partei vun de Baueren, dem Mëttelstand an den Aarbechter","Free List of Peasants, Middle Classes and Workers",,7,936,1454,1453,2449
 LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,1,1,25,55,PD,Rietspartei,Party of the Right,7.4,7,936,1454,1453,2527
 LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,0,0,3,55,PIE,Parti des Indépendants de l'Est,Independents of the East,,7,936,1454,1453,2452
-LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,0,0,1,55,PL ,Parti Libéral,Liberal Party,6.0,7,936,1454,1453,2140
+LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,0,0,1,55,PL,Parti Libéral,Liberal Party,6.0,7,936,1454,1453,2140
 LUX,Luxembourg,1937-06-06,1938-02-07,Dupong-Krier II,0,0,0,5,55,PRL,Radikal-Liberal Partei,Radical Liberal Party ,6.0,7,936,1454,1453,2455
 LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,0,0,2,55,DeLe,Demokratesch Lëscht,Democratic List ,6.0,7,936,1455,1454,2448
 LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,1,0,18,55,LSAP,Lëtzebuerger Sozialistesch Aarbechterpartei,Luxembourg Socialist Workers' Party,3.2895,7,936,1455,1454,701
 LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,0,0,1,55,PBMA,"Partei vun de Baueren, dem Mëttelstand an den Aarbechter","Free List of Peasants, Middle Classes and Workers",,7,936,1455,1454,2449
 LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,1,1,25,55,PD,Rietspartei,Party of the Right,7.4,7,936,1455,1454,2527
 LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,0,0,3,55,PIE,Parti des Indépendants de l'Est,Independents of the East,,7,936,1455,1454,2452
-LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,0,0,1,55,PL ,Parti Libéral,Liberal Party,6.0,7,936,1455,1454,2140
+LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,0,0,1,55,PL,Parti Libéral,Liberal Party,6.0,7,936,1455,1454,2140
 LUX,Luxembourg,1937-06-06,1940-05-10,Dupong I,0,0,0,5,55,PRL,Radikal-Liberal Partei,Radical Liberal Party ,6.0,7,936,1455,1454,2455
 LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,1,1,0,55,CSV,Chrëschtlech Sozial Vollekspartei,Christian Social People's Party,6.4474,7,936,340,1455,1234
 LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,0,0,2,55,DeLe,Demokratesch Lëscht,Democratic List ,6.0,7,936,340,1455,2448
@@ -9506,7 +9605,7 @@ LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,1,0,18,55,LSAP,Lëtzebuerger So
 LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,0,0,1,55,PBMA,"Partei vun de Baueren, dem Mëttelstand an den Aarbechter","Free List of Peasants, Middle Classes and Workers",,7,936,340,1455,2449
 LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,0,0,25,55,PD,Rietspartei,Party of the Right,7.4,7,936,340,1455,2527
 LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,0,0,3,55,PIE,Parti des Indépendants de l'Est,Independents of the East,,7,936,340,1455,2452
-LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,0,0,1,55,PL ,Parti Libéral,Liberal Party,6.0,7,936,340,1455,2140
+LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,0,0,1,55,PL,Parti Libéral,Liberal Party,6.0,7,936,340,1455,2140
 LUX,Luxembourg,1937-06-06,1944-11-23,Dupong II,1,0,0,5,55,PRL,Radikal-Liberal Partei,Radical Liberal Party ,6.0,7,936,340,1455,2455
 LUX,Luxembourg,1945-10-21,1945-11-14,Dupong III,1,1,1,25,51,CSV,Chrëschtlech Sozial Vollekspartei,Christian Social People's Party,6.4474,7,144,174,340,1234
 LUX,Luxembourg,1945-10-21,1945-11-14,Dupong III,1,1,0,9,51,DP,Demokratesch Partei,Democratic Party,6.5789,7,144,174,340,967
@@ -9792,20 +9891,29 @@ LVA,Latvia,2014-10-04,2016-02-11,Kucinskis I,0,0,0,7,100,NsL,No sirds Latvijai,F
 LVA,Latvia,2014-10-04,2016-02-11,Kucinskis I,0,0,0,24,100,S,Saskaņas,Harmony,3.0,55,831,1407,1152,1100
 LVA,Latvia,2014-10-04,2016-02-11,Kucinskis I,0,1,0,23,100,V,Vienotība,Unity,7.4,55,831,1407,1152,1666
 LVA,Latvia,2014-10-04,2016-02-11,Kucinskis I,0,1,1,21,100,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,5.2632,55,831,1407,1152,466
+LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,0,0,13,100,AP!,Attīstībai/Par!,Development/For!,,55,1042,1591,1407,2878
 LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,0,0,16,100,JKP,Jaunā konservatīvā partija,New Conservative Party,7.4,55,1042,1591,1407,2717
 LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,0,0,16,100,KPV-LV,Kam pieder valsts?,Who owns the state?,8.8,55,1042,1591,1407,2715
-LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,0,0,13,100,LA, Latvijas attīstībai,For Latvia's Development,6.0,55,1042,1591,1407,2392
 LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,1,0,13,100,NA/TB/LNNK,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,National Alliance / For Fatherland and Freedom / LNNK,8.2588,55,1042,1591,1407,521
 LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,0,0,23,100,S,Saskaņas,Harmony,3.0,55,1042,1591,1407,1100
 LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,1,0,8,100,V,Vienotība,Unity,7.4,55,1042,1591,1407,1666
 LVA,Latvia,2018-10-06,2018-10-06,Kucinskis II,1,1,1,11,100,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,5.2632,55,1042,1591,1407,466
-LVA,Latvia,2018-10-06,2019-01-23,Karins,0,1,0,16,100,JKP,Jaunā konservatīvā partija,New Conservative Party,7.4,55,1042,1592,1591,2717
-LVA,Latvia,2018-10-06,2019-01-23,Karins,0,1,0,16,100,KPV-LV,Kam pieder valsts?,Who owns the state?,8.8,55,1042,1592,1591,2715
-LVA,Latvia,2018-10-06,2019-01-23,Karins,0,1,0,13,100,LA, Latvijas attīstībai,For Latvia's Development,6.0,55,1042,1592,1591,2392
-LVA,Latvia,2018-10-06,2019-01-23,Karins,0,1,0,13,100,NA/TB/LNNK,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,National Alliance / For Fatherland and Freedom / LNNK,8.2588,55,1042,1592,1591,521
-LVA,Latvia,2018-10-06,2019-01-23,Karins,0,0,0,23,100,S,Saskaņas,Harmony,3.0,55,1042,1592,1591,1100
-LVA,Latvia,2018-10-06,2019-01-23,Karins,0,1,1,8,100,V,Vienotība,Unity,7.4,55,1042,1592,1591,1666
-LVA,Latvia,2018-10-06,2019-01-23,Karins,0,0,0,11,100,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,5.2632,55,1042,1592,1591,466
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,0,0,13,100,AP!,Attīstībai/Par!,Development/For!,,55,1042,1592,1591,2878
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,1,0,16,100,JKP,Jaunā konservatīvā partija,New Conservative Party,7.4,55,1042,1592,1591,2717
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,1,0,16,100,KPV-LV,Kam pieder valsts?,Who owns the state?,8.8,55,1042,1592,1591,2715
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,1,0,0,100,LA, Latvijas attīstībai,For Latvia's Development,6.0,55,1042,1592,1591,2392
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,1,0,13,100,NA/TB/LNNK,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,National Alliance / For Fatherland and Freedom / LNNK,8.2588,55,1042,1592,1591,521
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,0,0,23,100,S,Saskaņas,Harmony,3.0,55,1042,1592,1591,1100
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,1,1,8,100,V,Vienotība,Unity,7.4,55,1042,1592,1591,1666
+LVA,Latvia,2018-10-06,2019-01-23,Karins I,0,0,0,11,100,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,5.2632,55,1042,1592,1591,466
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,0,0,9,100,LPV,Latvija pirmajā vietā,Latvia First,8.8,55,1115,1685,1592,2876
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,1,0,0,100,LRa,Latvijas Reģionu apvienība,Latvian Association of Regions,7.4,55,1115,1685,1592,2366
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,1,0,15,100,LZP,Latvijas Zaļā partija,Latvian Green Party,4.6711,55,1115,1685,1592,1001
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,1,0,13,100,NA/TB/LNNK,Nacionālā apvienība / Tēvzemei un Brīvībai / LNNK,National Alliance / For Fatherland and Freedom / LNNK,8.2588,55,1115,1685,1592,521
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,0,0,10,100,P,Progresīvie,The Progressive,3.3,55,1115,1685,1592,2716
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,0,0,11,100,S!,Stabilitātei!,For Stability!,,55,1115,1685,1592,2875
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,1,1,26,100,V,Vienotība,Unity,7.4,55,1115,1685,1592,1666
+LVA,Latvia,2022-10-01,2022-12-14,Karins II,0,0,0,16,100,ZZS,Zaļo un Zemnieku savienība,Green and Farmers' Union,5.2632,55,1115,1685,1592,466
 MLT,Malta,1947-10-27,1947-10-27,Boffa,0,0,0,4,40,DAP,Democratic Action Party,Democratic Action Party,7.4,72,550,1470,,816
 MLT,Malta,1947-10-27,1947-10-27,Boffa,0,0,0,3,40,GP,Gozo Party,Gozo Party,,72,550,1470,,1298
 MLT,Malta,1947-10-27,1947-10-27,Boffa,0,0,0,2,40,JP,Jones Party,Jones Party,,72,550,1470,,248
@@ -10804,7 +10912,7 @@ NOR,Norway,2017-09-11,2020-01-24,Solberg V,0,0,0,1,169,RV,Rød Valgallianse,Red 
 NOR,Norway,2017-09-11,2020-01-24,Solberg V,0,0,0,11,169,SV,Sosialistisk Venstreparti,Socialist Left Party,1.5839,9,1017,1617,1594,81
 NOR,Norway,2017-09-11,2020-01-24,Solberg V,0,0,0,19,169,Sp,Senterpartiet,Centre Party,4.6565,9,1017,1617,1594,702
 NOR,Norway,2017-09-11,2020-01-24,Solberg V,0,1,0,8,169,V,Venstre,Liberal Party of Norway,5.1467,9,1017,1617,1594,647
-NOR,Norway,2021-09-13,2021-10-14,Store,0,1,0,48,169,DNA,Det norske Arbeiderparti,Norwegian Labour Party,3.3706,9,1104,1653,1617,104
+NOR,Norway,2021-09-13,2021-10-14,Store,0,1,1,48,169,DNA,Det norske Arbeiderparti,Norwegian Labour Party,3.3706,9,1104,1653,1617,104
 NOR,Norway,2021-09-13,2021-10-14,Store,0,0,0,21,169,Fr,Fremskrittspartiet,Progress Party,8.7595,9,1104,1653,1617,351
 NOR,Norway,2021-09-13,2021-10-14,Store,0,0,0,36,169,H,Høyre,Conservative Party,7.8994,9,1104,1653,1617,1435
 NOR,Norway,2021-09-13,2021-10-14,Store,0,0,0,3,169,KrF,Kristelig Folkeparti,Christian Democratic Party,5.8516,9,1104,1653,1617,1538
@@ -11812,12 +11920,19 @@ SVK,Slovakia,2020-02-29,2020-03-21,Matovic,0,1,0,17,150,SR,Sme Rodina – Boris 
 SVK,Slovakia,2020-02-29,2020-03-21,Matovic,0,1,0,13,150,SaS,Sloboda a solidarita,Freedom and Solidarity,6.0,1,1089,1625,1529,1460
 SVK,Slovakia,2020-02-29,2020-03-21,Matovic,0,0,0,38,150,Smer,Smer – sociálna demokracia,Direction -- Social Democracy,3.3799,1,1089,1625,1529,220
 SVK,Slovakia,2020-02-29,2020-03-21,Matovic,0,1,0,12,150,ZAL,Za ľudí,For the People,6.0,1,1089,1625,1529,2796
-SVK,Slovakia,2020-02-29,2021-04-01,Heger,0,0,0,17,150,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,8.8,1,1089,1666,1625,586
-SVK,Slovakia,2020-02-29,2021-04-01,Heger,0,1,1,53,150,OLaNO,Obyčajní ľudia a nezávislé osobnosti,Ordinary People and Independent,7.4,1,1089,1666,1625,1759
-SVK,Slovakia,2020-02-29,2021-04-01,Heger,0,1,0,17,150,SR,Sme Rodina – Boris Kollár,We are family -- Boris Kollar,8.8,1,1089,1666,1625,2623
-SVK,Slovakia,2020-02-29,2021-04-01,Heger,0,1,0,13,150,SaS,Sloboda a solidarita,Freedom and Solidarity,6.0,1,1089,1666,1625,1460
-SVK,Slovakia,2020-02-29,2021-04-01,Heger,0,0,0,38,150,Smer,Smer – sociálna demokracia,Direction -- Social Democracy,3.3799,1,1089,1666,1625,220
-SVK,Slovakia,2020-02-29,2021-04-01,Heger,0,1,0,12,150,ZAL,Za ľudí,For the People,6.0,1,1089,1666,1625,2796
+SVK,Slovakia,2020-02-29,2021-04-01,Heger I,0,0,0,17,150,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,8.8,1,1089,1666,1625,586
+SVK,Slovakia,2020-02-29,2021-04-01,Heger I,0,1,1,53,150,OLaNO,Obyčajní ľudia a nezávislé osobnosti,Ordinary People and Independent,7.4,1,1089,1666,1625,1759
+SVK,Slovakia,2020-02-29,2021-04-01,Heger I,0,1,0,17,150,SR,Sme Rodina – Boris Kollár,We are family -- Boris Kollar,8.8,1,1089,1666,1625,2623
+SVK,Slovakia,2020-02-29,2021-04-01,Heger I,0,1,0,13,150,SaS,Sloboda a solidarita,Freedom and Solidarity,6.0,1,1089,1666,1625,1460
+SVK,Slovakia,2020-02-29,2021-04-01,Heger I,0,0,0,38,150,Smer,Smer – sociálna demokracia,Direction -- Social Democracy,3.3799,1,1089,1666,1625,220
+SVK,Slovakia,2020-02-29,2021-04-01,Heger I,0,1,0,12,150,ZAL,Za ľudí,For the People,6.0,1,1089,1666,1625,2796
+SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,0,0,17,150,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,8.8,1,1089,1679,1666,586
+SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,1,1,53,150,OLaNO,Obyčajní ľudia a nezávislé osobnosti,Ordinary People and Independent,7.4,1,1089,1679,1666,1759
+SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,1,0,17,150,SR,Sme Rodina – Boris Kollár,We are family -- Boris Kollar,8.8,1,1089,1679,1666,2623
+SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,0,0,13,150,SaS,Sloboda a solidarita,Freedom and Solidarity,6.0,1,1089,1679,1666,1460
+SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,0,0,38,150,Smer,Smer – sociálna demokracia,Direction -- Social Democracy,3.3799,1,1089,1679,1666,220
+SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,1,0,12,150,ZAL,Za ľudí,For the People,6.0,1,1089,1679,1666,2796
+SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,1,0,0,150,none,no party affiliation,no party affiliation,,1,1089,1679,1666,1359
 SVN,Slovenia,1990-04-12,1990-05-16,Peterle,0,0,0,1,80,Ita,Italijanska narodna skupnost,Italian national community,,60,129,527,,199
 SVN,Slovenia,1990-04-12,1990-05-16,Peterle,0,0,0,12,80,LDS,Liberalna demokracija Slovenije,Liberal Democracy of Slovenia,3.7351,60,129,527,,1252
 SVN,Slovenia,1990-04-12,1990-05-16,Peterle,0,0,0,1,80,Mad,Madžarska narodna skupnost,Hungarian national community,,60,129,527,,65
@@ -12347,6 +12462,14 @@ SWE,Sweden,2018-09-09,2021-11-30,Andersson,0,0,0,16,349,MP,Miljöpartiet de Grö
 SWE,Sweden,2018-09-09,2021-11-30,Andersson,0,1,1,100,349,SAP,Socialdemokraterna,Social Democrats,3.4447,35,1041,1652,1651,904
 SWE,Sweden,2018-09-09,2021-11-30,Andersson,0,0,0,62,349,SD,Sverigedemokraterna,Sweden Democrats,8.8,35,1041,1652,1651,1546
 SWE,Sweden,2018-09-09,2021-11-30,Andersson,0,0,0,28,349,V,Vänsterpartiet (kommunisterna),Left Party (Communists),1.5464,35,1041,1652,1651,882
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,0,0,24,349,C,Centerpartiet,Centre Party,5.8084,35,1112,1680,1652,1461
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,1,0,16,349,FP,Folkpartiet,People's Party,6.2906,35,1112,1680,1652,892
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,1,0,19,349,KD,Kristdemokraterna,Christian Democrats,7.195,35,1112,1680,1652,282
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,1,1,68,349,M,Moderaterna,Moderate Party,7.8907,35,1112,1680,1652,657
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,0,0,18,349,MP,Miljöpartiet de Gröna,Greens,3.3789,35,1112,1680,1652,1154
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,0,0,107,349,SAP,Socialdemokraterna,Social Democrats,3.4447,35,1112,1680,1652,904
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,0,0,73,349,SD,Sverigedemokraterna,Sweden Democrats,8.8,35,1112,1680,1652,1546
+SWE,Sweden,2022-09-11,2022-10-17,Kristersson,0,0,0,24,349,V,Vänsterpartiet (kommunisterna),Left Party (Communists),1.5464,35,1112,1680,1652,882
 TUR,Turkey,1983-11-06,1983-12-13,Ozal I,0,1,1,211,399,ANAP,Anavatan Partisi,Motherland Party,6.213,20,813,1087,,1334
 TUR,Turkey,1983-11-06,1983-12-13,Ozal I,0,0,0,71,399,MDP,Milliyetçi Demokrasi Partisi,Nationalist Democratic Party,8.8,20,813,1087,,110
 TUR,Turkey,1983-11-06,1983-12-13,Ozal I,0,0,0,117,399,SHP|CHP,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,Social Democratic Populist Party | Republican People's Party,3.2661,20,813,1087,,507

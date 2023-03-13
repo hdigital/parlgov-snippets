@@ -43,7 +43,7 @@ id,table_variable,order,short,name,description,wikipedia,old_id
 55,cabinet_support,5,promise,support promise,,,
 56,cabinet_support,3,agreement,formal agreement,,,
 57,cabinet_support,11,regular,informal regular support,,,
-60,party_family,290,tax,Taxation,,,
+60,party_family,289,tax,Taxation,,,
 62,party_change_type,6,politician,single politician,formed by single (prominent) politician,,
 63,party_family,250,rel,Religious,,,
 64,cabinet_support,13,irregular,irregular support,,,
@@ -98,3 +98,4 @@ id,table_variable,order,short,name,description,wikipedia,old_id
 121,cabinet_support,1,parliamentary-group,minister and parliamentary group,minister and member of cabinet parliamentary group,,
 122,cabinet_support,99,arab-list,Arab lists,Arab satellite lists (Israel only),https://en.wikipedia.org/wiki/Arab_satellite_lists,
 123,party_family,222,a-cor,Anti-corruption,,,
+124,party_family,290,finance,Financial,financial topics of single issue parties,,

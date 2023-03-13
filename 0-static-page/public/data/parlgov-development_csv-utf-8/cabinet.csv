@@ -222,7 +222,7 @@ Cabinet ended on 23 January 2011 when the Green party withdrew.",There is a chan
 182,29,1997-06-11,Chretien II,0,,,,,785,650,,124,19970
 183,26,1968-06-24,Leone II,0,http://it.wikipedia.org/wiki/Governo_Leone_II,mueller,,,433,261,,380,19680
 184,44,1955-05-26,Eden II,0,http://en.wikipedia.org/wiki/Conservative_Government_1955%E2%80%931957,,,,729,678,,826,19551
-185,1,2006-02-08,Dzurinda III,1,http://en.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Dzurinda,ejpr,Caretaker cabinet remained in office after calling early elections on 7 February 2006.,Replacement of KDK ministers on 8 February 2006 used as starting date (see EJPR-PDY).,547,218,124,703,20060
+185,1,2006-02-08,Dzurinda III,1,https://en.wikipedia.org/wiki/Dzurinda%27s_Second_Cabinet,ejpr,Caretaker cabinet remained in office after calling early elections on 7 February 2006.,Replacement of KDK ministers on 8 February 2006 used as starting date (see EJPR-PDY).,547,218,124,703,20060
 187,60,2002-12-19,Rop I,0,http://en.wikipedia.org/wiki/Anton_Rop,"ejpr, mue-rom","Cabinet won an investiture vote (yes: 54, no: 25, abstain: 11) on 19 December 2002.
 ",,505,525,,705,20020
 188,39,2004-09-29,Gyurcsany I,0,http://en.wikipedia.org/wiki/Ferenc_Gyurcs%C3%A1ny,mue-rom,"PM Gyurcsany won an investiture vote (yes: 197, no: 12, abstain: 175) on 29 September 2004.
@@ -493,7 +493,7 @@ Cabinet resigned on 26 February 2003, a constitutional requirement after a presi
 409,74,1995-03-06,Oleksy,0,http://en.wikipedia.org/wiki/J%C3%B3zef_Oleksy,mue-rom,"Cabinet won an investiture vote (yes: 272, no: 99, abstain: 13) on 04 March 1995.",,226,268,,616,19950
 410,11,1954-11-26,Holland III,0,,,,,66,321,,554,19540
 411,43,1945-11-21,de Gaulle II,1,http://fr.wikipedia.org/wiki/Gouvernement_Charles_de_Gaulle_(2),be-70,,,329,471,,250,19450
-412,59,1997-01-28,Klima I,0,http://de.wikipedia.org/wiki/Bundesregierung_Klima,afp. aufo,"Cabinet was appointed on 28 January 1997.
+412,59,1997-01-28,Klima I,0,http://de.wikipedia.org/wiki/Bundesregierung_Klima,"afp, aufo","Cabinet was appointed on 28 January 1997.
 Cabinet ended with election on 3 October 1999 and resigned two days later.",,323,162,22,40,19970
 413,11,1974-09-06,Rowling,0,,,,,97,1,,554,19740
 414,43,1954-06-19,Mendes-France,0,http://fr.wikipedia.org/wiki/Gouvernement_Pierre_Mend%C3%A8s_France,pa-84,,,400,293,,250,19540
@@ -663,7 +663,7 @@ PM Videnov presented his resignation on 21 December 1996 and it was approved (ye
 Cabinet resigned on 10 December 1958 after the LSAP left the coalition.",,500,153,,442,19580
 545,9,1953-10-12,Torp II,0,http://en.wikipedia.org/wiki/Oscar_Torp,mueller,,,487,167,,578,19530
 546,15,1991-01-13,Vagnorius I,0,https://en.wikipedia.org/wiki/Vagnorius_Cabinet_I,,,,267,462,,440,19911
-547,1,2002-10-16,Dzurinda II,0,http://en.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Dzurinda,"ejpr, rferl","Cabinet lost majority support on 8 December 2003 following the formation of a breakaway group by coalition party MPs.
+547,1,2002-10-16,Dzurinda II,0,https://en.wikipedia.org/wiki/Dzurinda%27s_Second_Cabinet,"ejpr, rferl","Cabinet lost majority support on 8 December 2003 following the formation of a breakaway group by coalition party MPs.
 Cabinet ended on 6 February 2006 after Christian Democrats (KDH) withdrew and PM Dzurinda announced early elections a day later. ",,699,218,,703,20020
 548,26,1969-08-05,Rumor II,0,http://it.wikipedia.org/wiki/Governo_Rumor_II,mueller,,,554,261,,380,19690
 549,63,1980-01-03,Carneiro I,0,,,,,384,248,,620,19800
@@ -801,7 +801,7 @@ Party ""Payson"" could not be identified. ",32,293,,250,19521
 On 28 February 1956, coalition parties agreed to call an early election after a conflict over former German properties.
 Cabinet ended with an early election on 13 May 1956 and resigned one day later.",,560,11,,40,19530
 660,21,1964-09-26,Krag II,0,http://da.wikipedia.org/wiki/Regeringen_Jens_Otto_Krag_II,folketing,Cabinet resigned on 2 November 1966 over taxation policy and called an early election.,,841,288,,208,19640
-661,55,2002-11-07,Repse,0,http://en.wikipedia.org/wiki/Einars_Repse,rferl,,,23,260,,428,20020
+661,55,2002-11-07,Repse,0,https://en.wikipedia.org/wiki/Rep%C5%A1e_cabinet,rferl,,,23,260,,428,20020
 662,43,1967-04-08,Pompidou IV,0,http://fr.wikipedia.org/wiki/Gouvernement_Georges_Pompidou_%284%29,pa-84,,,349,291,,250,19670
 663,67,2002-05-31,Lipponen III,0,http://en.wikipedia.org/wiki/Paavo_Lipponen's_second_cabinet,valt,"Cabinet started on 31 May 2002 with a replacement of the Green (VIHR) environment minister.
 Cabinet ended with election on 16 March 2003 and resigned on 17 April.",,352,15,334,246,20020
@@ -1063,7 +1063,7 @@ Cabinet resigned on 29 October 1971 over disputes on agricultural prices.",,115,
 873,59,1987-01-21,Vranitzky II,0,http://de.wikipedia.org/wiki/Bundesregierung_Vranitzky_II,mueller,"Cabinet was appointed on 21 January 1987.
 Cabinet ended with election on 7 October 1990 and resigned two days later.
 ",,828,235,,40,19870
-874,44,2010-05-11,Cameron I,0,http://en.wikipedia.org/wiki/Cameron_ministry,bpf,"Cabinet started on 11 May 2010.
+874,44,2010-05-11,Cameron I,0,http://en.wikipedia.org/wiki/Cameron_ministry,bpf,"Cabinet was appointed on 11 May 2010.
 Cabinet ended with election on 7 May 2015.",,119,582,410,826,20100
 875,33,1987-07-24,Hawke III,0,http://en.wikipedia.org/wiki/Third_Hawke_Ministry,aph-11,,,401,732,,36,19870
 876,41,2004-03-10,Karamanlis Kos I,0,http://en.wikipedia.org/wiki/Kostas_Karamanlis,,"Cabinet won an investiture vote (yes: 165, no: 135) on 23 March 2004.
@@ -1888,7 +1888,7 @@ Cabinet ended on 18 November 2018 after Israel is Our Home (YB) withdrew.","""(.
 1487,20,2016-05-24,Yildirim,0,https://en.wikipedia.org/wiki/Y%C4%B1ld%C4%B1r%C4%B1m_Cabinet,"afp, reuters","Cabinet was appointed on 24 May 2016 and won an investiture vote (yes: 315, no: 138) on 30 May.
 Cabinet ended on 9 July 2018 with presidential election and the change to a presidential system.",,1195,997,,,
 1488,64,1924-03-11,Theunis II,0,https://nl.wikipedia.org/wiki/Regering-Theunis_I,,,,1278,877,,,
-1489,44,2016-07-13,May I,0,https://en.wikipedia.org/wiki/First_May_ministry,reuters,"Cabinet started on 13 July 2016 after the resignation of PM Cameron over the Brexit referendum.
+1489,44,2016-07-13,May I,0,https://en.wikipedia.org/wiki/First_May_ministry,reuters,"Cabinet was appointed on 13 July 2016 after the resignation of PM Cameron over the Brexit referendum.
 PM May called a snap election to strengthen her mandate for Brexit. Cabinet ended with a snap election on 8 May 2017.",,1162,856,845,,
 1490,33,2016-07-19,Turnbull II,0,https://en.wikipedia.org/wiki/Second_Turnbull_Ministry,aap,"Cabinet was appointed on 19 July 2016.
 Cabinet ended on 23 August 2017 after PM Turnbull lost a party confidence vote.",,1174,1006,,,
@@ -1918,12 +1918,12 @@ Cabinet ended with election on 4 March 2018.
 1502,56,2017-01-10,Benediktsson B,0,https://en.wikipedia.org/wiki/Cabinet_of_Bjarni_Benediktsson_(2017),reuters,"Cabinet was appointed on 11 January 2017.
 Cabinet ended on 15 September 2017 after Bright Future (BF) withdrew.","Bjarni Benediktsson (born 1970), see also PM Bjarni Benediktsson (born 1908)",1482,1008,,,
 1503,10,2017-01-25,Gerdzhikov,1,https://en.wikipedia.org/wiki/Gerdzhikov_Government,"ap, reuters","Caretaker cabinet was appointed on 25 January 2017. 
-Cabinet ended with the appointment of PM Borisov and his cabinet on 4 May 2017.",,1153,840,830,,
+Cabinet ended with the appointment of PM Borisov and his cabinet on 4 May 2017.",President of caretaker cabinet Rumen Radev is independent. ,1153,840,830,,
 1504,72,2017-06-06,Muscat II,0,https://en.wikipedia.org/wiki/Maltese_Government_2017%E2%80%932022,"reuters, tom","Cabinet continued after election on 6 June 2017.
 Cabinet ended with resignation of PM Muscat on 13 January 2020.",,1046,1010,836,,
 1505,10,2017-05-04,Borisov III,0,https://en.wikipedia.org/wiki/Third_Borisov_Government,ap,"PM Borisov and his cabinet won an investiture votes (yes: 133, no: 101) on 4 May 2017.",,1503,1011,830,,
 1506,8,2017-03-15,Rutte IV,1,,,Continuation caretaker cabinet remained in office after election on 15 March 2015.,,1041,1012,846,,
-1507,44,2017-06-11,May II,0,https://en.wikipedia.org/wiki/Second_May_ministry,reuters,"Cabinet started on 11 June 2017.
+1507,44,2017-06-11,May II,0,https://en.wikipedia.org/wiki/Second_May_ministry,reuters,"Cabinet was appointed on 11 June 2017.
 Minority cabinet was supported by Democratic Unionist Party (DUP).
 Cabinet ended with the resignation of PM May on 24 July 2019.
 ",,1489,1013,845,,
@@ -2085,7 +2085,7 @@ Müller resigned on  27 March 1930, because the SPD was unwilling to accept a co
 Cabinet resigned on 28 January 1933.",,1580,1039,,,
 1578,54,1933-01-31,Hitler,0,https://en.wikipedia.org/wiki/Hitler_Cabinet,vs14,"Cabinet took office on 31 January 1933.
 All non-NSDAP members were later removed from the government.
-With the Enabling Act of 24  March 1933, the government obtains the opportunity to pass laws without the Reichstag, which meant the end of the Weimar Republic.",,1577,1039,,,
+With the Enabling Act of 24  March 1933, the government was able to pass laws without the Reichstag, which meant the end of the Weimar Republic.",,1577,1039,,,
 1579,54,1932-06-02,Papen I,0,https://de.wikipedia.org/wiki/Kabinett_Papen,vs14,"Cabinet took office on 2 June 1932.
 Cabinet endet with the dissolution of the Reichstag on 12 September 1932.",Snap election on 6 November 1932.,1584,1037,,,
 1580,54,1932-09-12,Papen II,0,https://de.wikipedia.org/wiki/Kabinett_Papen,vs14,"Cabinet took office on 12 September 1932.
@@ -2114,7 +2114,8 @@ Cabinet ended with election on 9 April 2019.", coded as caretaker cabinet becaus
 Cabinet lost a confidence vote (yes: 109, no: 181) on 21 June 2021 and resigned on 28 June 2021.	",negative parliamentarism with no absolute majority against cabinet ,1587,1041,843,,
 1591,55,2018-10-06,Kucinskis II,1,https://en.wikipedia.org/wiki/Ku%C4%8Dinskis_cabinet,reuters,"Continuation caretaker cabinet remained in office on 6 October 2018.
 Cabinet ended with new cabinet starting on 23 January 2019.",,1407,1042,848,,
-1592,55,2019-01-23,Karins,0,https://en.wikipedia.org/wiki/Kari%C5%86%C5%A1_cabinet,bbcm,"Cabinet won an investiture vote (yes: 61, no: 39) on 23 January 2019.",,1591,1042,848,,
+1592,55,2019-01-23,Karins I,0,https://en.wikipedia.org/wiki/Kari%C5%86%C5%A1_cabinet,bbcm,"Cabinet won an investiture vote (yes: 61, no: 39) on 23 January 2019.
+Cabinet ended with election on 1 October 2022.",,1591,1042,848,,
 1593,41,2019-01-13,Tsipras III,0,https://en.wikipedia.org/wiki/Second_Cabinet_of_Alexis_Tsipras,reuters,"Cabinet continued on 13 January 2019 after a change in party composition and won a confidence vote on 16 January (yes: 151, no: 148).
 Minority cabinet was supported by independent MPs.
 Cabinet ended with election on 7 July 2019.",,1175,992,826,,
@@ -2126,9 +2127,11 @@ Cabinet ended with resignation of PM Ratas on 13 January 2021 ""over an inquiry 
 Cabinet ended on 3 December 2019 after PM Rinne resigned due to coalition partner's loss of confidence.",,1510,1045,1050,,
 1597,41,2019-07-08,Mitsotakis Kyr,0,https://en.wikipedia.org/wiki/Cabinet_of_Kyriakos_Mitsotakis,"kath, reuters","PM Mitsotakis was appointed on 8 July 2019. The cabinet won a confidence vote (yes: 158, no: 142) on 22 July 2019.","Christos Stylianides has been a minister for Climate Crisis and Civil protection since 6 September 2021. He belongs to the party ""Democratic Rally"" in Cyprus and received an ""honorary Greek citizenship"" (Kathimerini). We do not code his party as a government party.
 ",1593,1078,1060,,
-1598,21,2019-06-27,Frederiksen,0,https://en.wikipedia.org/wiki/Frederiksen_Cabinet,"local, reuters","PM Frederiksen was appointed on 27 June 2019.
-Minority cabinet was supported by Danish Social Liberal Party (RV), Socialist Peoples Party (SF) and Red-Green Alliance (En-O). ",,1497,1077,1049,,
-1599,44,2019-07-24,Johnson I,0,https://en.wikipedia.org/wiki/First_Johnson_ministry,reuters,"Cabinet started on 24 July 2019 after the resignation of PM May. 
+1598,21,2019-06-27,Frederiksen I,0,https://en.wikipedia.org/wiki/Frederiksen_Cabinet,"local, reuters","PM Frederiksen was appointed on 27 June 2019.
+Minority cabinet was supported by Danish Social Liberal Party (RV), Socialist Peoples Party (SF) and Red-Green Alliance (En-O).
+PM Frederiksen called an early election on 5 October 2022 after Danish Social Liberal Party (RV) threatened with a no-confidence vote. 
+Cabinet ended with early election on 1 November 2022.",,1497,1077,1049,,
+1599,44,2019-07-24,Johnson I,0,https://en.wikipedia.org/wiki/First_Johnson_ministry,reuters,"Cabinet was appointed on 24 July 2019 after the resignation of PM May. 
 Minority cabinet was supported by Democratic Unionist Party (DUP). 
 Cabinet ended with a snap election on 12 December 2019.",,1507,1013,1051,,
 1600,59,2019-06-03,Bierlein I,1,https://en.wikipedia.org/wiki/Bierlein_government,bka,"PM Bierlein was sworn in as the leader of a caretaker cabinet on 3 June 2019.
@@ -2143,6 +2146,7 @@ PM Netanyahu failed to form a government until the deadline of 29 May 2019 and p
 1605,27,2020-01-07,Sanchez III,0,https://en.wikipedia.org/wiki/S%C3%A1nchez_II_Government,reuters,"Cabinet lost an investiture vote on 5 January 2020 (yes: 166, no: 165, abstain: 18, absolute majority required) and won a vote with a simple majority two days later (yes: 167, no: 165, abstain: 18). PM Sánchez was appointed on 8 January 2020.",,1601,1085,1072,,
 1606,44,2019-12-13,Johnson II,0,https://en.wikipedia.org/wiki/Second_Johnson_ministry,reuters,"Cabinet continued on 13 December 2019 a day after the election.
 PM Johnson won a confidence vote (yes: 211, no: 148) on 6 June 2022.
+PM Johnson resigned on 7 July 2022 after several resignations of cabinet members and remained in office until a new cabinet was formed on 6 September 2022.
 ",,1599,1086,1051,,
 1607,67,2019-12-10,Marin,0,https://en.wikipedia.org/wiki/Marin_Cabinet,"reuters, yle","PM Marin won an investiture vote (yes: 99, no: 70, absent: 30) on 10 December 2019 and cabinet was appointed the same day.",,1596,1045,1050,,
 1608,59,2019-09-29,Bierlein II,1,https://en.wikipedia.org/wiki/Bierlein_government,bka,Continuation caretaker cabinet remained in office on 29 September 2019 until PM Kurz formed a new cabinet on 7 January 2020.,,1600,1080,1074,,
@@ -2230,10 +2234,12 @@ Cabinet ended with new cabinet coming into office on 10 January 2022.",,1530,101
 1649,68,2021-12-17,Fiala,0,https://en.wikipedia.org/wiki/Petr_Fiala%27s_Cabinet,"afp, reuters","Cabinet was appointed on 17 December 2021.
 Cabinet won an investiture vote (yes: 106, no: 87, absent: 7) on 13 January 2022.
 ",,1534,1099,1057,,
-1650,34,2021-06-13,Bennett,0,https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel,"knesset, reuters",Cabinet won an investiture vote (yes: 60 no: 59) on 13 June 2021.,,1645,1100,,,
-1651,35,2021-07-09,Lofven IV ,0,https://en.wikipedia.org/wiki/L%C3%B6fven_III_Cabinet,"afp, dpa, reuters","PM Loefven won an investiture vote (no: 173) on 09 July 2021.
-PM Loefven resigned on 10 November 2021.",negative parliamentarism with no absolute majority against cabinet ,1590,1041,1073,,
+1650,34,2021-06-13,Bennett,0,https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel,"knesset, reuters","Cabinet won an investiture vote (yes: 60 no: 59) on 13 June 2021.
+PM Benett resigned on 30 June 2022.",,1645,1100,,,
+1651,35,2021-07-09,Lofven IV ,0,https://en.wikipedia.org/wiki/L%C3%B6fven_III_Cabinet,"afp, dpa, reuters","PM Loefven won an investiture vote (no: 173) on 9 July 2021.
+PM Loefven resigned on 10 November 2021 to make place for a new PM.",negative parliamentarism with no absolute majority against cabinet,1590,1041,1073,,
 1652,35,2021-11-30,Andersson,0,https://en.wikipedia.org/wiki/Andersson_Cabinet,"afp, reuters, riksdagen","PM Andersson won an investiture vote (yes: 101, no: 173, abstain: 75) on 29 November 2021 and was appointed a day later (see details cabinet formation in ""comment"").
+Cabinet ended with election on 11 September 2022 and PM Andersson resigned on 15 September.
 ","A coalition of Social Democrats and Greens was planned and Andersson won an investiture vote (yes: 117, no: 174, abstain: 57) on 24 November 2021 (AFP).
 
 A budget proposal by the new government failed on the same day when the Centre Party withdrew support over a government agreement with the Left Party (AFP).
@@ -2252,7 +2258,7 @@ Minority cabinet without support parties.",,1617,1104,,,
 Cabinet ended with new cabinet coming into office on 13 December 2021.",,1657,1102,1059,,
 1659,51,2021-05-30,Anastasiades V,0,https://en.wikipedia.org/wiki/Second_Anastasiades_government,reuters,Cabinet continued after election on 30 May 2021.,,1628,1095,1075,,
 1660,10,2021-12-13,Petkov,0,https://en.wikipedia.org/wiki/Petkov_Government,bta,"Cabinet won an investiture vote (yes: 134, no: 104, abstain: 0) on 13 December 2021.
-Cabinet lost a confidence vote (yes: 116, no: 123) on 22 June 2022.
+Cabinet lost a confidence vote (yes: 116, no: 123) on 22 June 2022 over ""fiscal and economic policies"" (Reuters).
 Cabinet ended with the resignation of PM Petkov on 27 June 2022.",,1658,1106,1059,,
 1661,54,2021-12-08,Scholz,0,https://en.wikipedia.org/wiki/Scholz_cabinet,"dpa, reuters","PM Scholz won an investiture vote (yes: 395, no: 312, abstain: 29) on 08 December 2021.",,1528,1096,1055,,
 1662,59,2021-10-11,Schallenberg,0,https://en.wikipedia.org/wiki/Schallenberg_government,reuters,"PM Schallenberg was appointed on 11 October 2021.
@@ -2261,20 +2267,37 @@ Cabinet ended on 6 December 2021 after PM Schallenberg resigned on 2 December fo
 1664,75,2021-01-26,Kallas K,0,https://en.wikipedia.org/wiki/Kaja_Kallas%27_cabinet,"bns, reuters","PM Kallas won an investiture vote (yes: 70, no: 30, abstain: 1) on 25 January 2021 and was appointed a day later.
 Cabinet ended on 3 June 2022 when PM Kallas dismissed the coalition partner Estonian Centre Party (EK).",,1595,1044,1056,,
 1665,23,2021-11-25,Ciuca ,0,https://en.wikipedia.org/wiki/Ciuc%C4%83_Cabinet,reuters,"Cabinet won an investiture vote (yes: 318, no: 126) on 25 November 2021 and was appointed the same day.",,1636,1093,1069,,
-1666,1,2021-04-01,Heger,0,https://en.wikipedia.org/wiki/Heger%27s_Cabinet,reuters,"Cabinet was appointed on 1 April 2021 and won an investiture vote (yes: 89, no: 55, abstain: 0) on 4 May 2021.
-","Matovic and Heger swapped postions. Heger became PM while Matovic became finance minister.
+1666,1,2021-04-01,Heger I,0,https://en.wikipedia.org/wiki/Heger%27s_Cabinet,"dpa, reuters","Cabinet was appointed on 1 April 2021 and won an investiture vote (yes: 89, no: 55, abstain: 0) on 4 May 2021.
+Cabinet ended on 13 September 2022 after the withdrawal of the Freedom and Solidarity party (SaS) due to internal cabinet conflicts.","Matovic and Heger swapped postions. Heger became PM while Matovic became finance minister.
 ""The swap is aimed at quelling coalition disputes sparked by Matovic's surprise purchase of Russian coronavirus vaccine Sputnik V in March"" (Reuters).",1625,1089,1070,,
-1667,26,2021-02-13,Draghi,0,https://en.wikipedia.org/wiki/Draghi_Cabinet,"reuters, afp","PM Draghi was appointed on 13 February 2021 and cabinet won confidence votes on 17/18 February (yes: 535, no: 56, abstain: 5 [lower house]; yes: 262, no: 40, abstain: 2 [upper house]).",,1603,1024,1053,,
+1667,26,2021-02-13,Draghi I,1,https://en.wikipedia.org/wiki/Draghi_Cabinet,"afp, reuters","PM Draghi was appointed on 13 February 2021 and cabinet won confidence votes on 17/18 February (yes: 535, no: 56, abstain: 5 [lower house]; yes: 262, no: 40, abstain: 2 [upper house]).
+PM Draghi resigned on 21 July 2022 after LN and FI refused to participate in a confidence vote.
+",,1603,1024,1053,,
 1668,60,2020-12-18,Jansa IV,0,https://en.wikipedia.org/wiki/14th_Government_of_Slovenia,sta,"Cabinet continued on 18 December 2020 after a change in party composition and won a no-confidence vote (yes: 7, no: 40) on 15 February 2021.
 Cabinet ended with election on 22 April 2022.",,1624,1025,1071,,
 1669,8,2022-01-10,Rutte VII ,0,https://en.wikipedia.org/wiki/Fourth_Rutte_cabinet,afp,Cabinet was appointed on 10 January 2022.,,1648,1097,1052,,
 1670,39,2022-05-16,Orban V,0,https://en.wikipedia.org/wiki/Fifth_Orb%C3%A1n_Government,"afp, mti-eco","PM Orban won an investiture vote (yes: 133, no: 27) on 16 May 2022 and cabinet was appointed on 24 May.",,1531,1107,1076,,
 1671,63,2022-03-30,Costa III,0,https://en.wikipedia.org/wiki/XXII_Constitutional_Government_of_Portugal,reuters,Cabinet was appointed on 30 March 2022.,,1610,1109,1068,,
 1672,33,2022-05-23,Albanese,0,https://en.wikipedia.org/wiki/Albanese_ministry,reuters,PM Albanese was appointed on 23 May 2022.,,1616,1111,,,
-1673,43,2022-05-20,Borne I,0,https://en.wikipedia.org/wiki/Borne_government,reuters,"PM Borne was appointed on 16 May 2022.
-Cabinet was appointed on 20 May 2022.
+1673,43,2022-05-20,Borne I,0,https://en.wikipedia.org/wiki/Borne_government,reuters,"PM Borne was appointed on 16 May 2022 and cabinet on 20 May.
 Cabinet ended with election on 19 June 2022.",,1640,1014,1054,,
 1674,60,2022-06-01,Golob,0,https://en.wikipedia.org/wiki/15th_Government_of_Slovenia,reuters,"PM won an investiture vote on 26 May 2022 (yes: 54, no: 30).
 Cabinet was appointed and won an investiture vote (yes: 53, no: 28) on 01 June 2022.",,1668,1108,1071,,
 1675,43,2022-06-19,Borne II,0,https://en.wikipedia.org/wiki/Borne_government,reuters,"Cabinet continued after election on 19 June 2022.
 PM Borne won a confidence vote (no: 146) on 11 July 2022.",,1673,1110,1054,,
+1676,44,2022-09-06,Truss,0,https://en.wikipedia.org/wiki/Truss_ministry,"ap, reuters","Cabinet was appointed on 6 September 2022.
+PM Truss resigned on 20 October 2022 over economic policy differences and conflicts in her party.
+Cabinet ended on 25 October 2022.",,1606,1086,1051,,
+1677,34,2022-07-01,Lapid,1,https://en.wikipedia.org/wiki/Thirty-sixth_government_of_Israel,"knesset, reuters","PM Lapid was appointed on 1 July 2022.
+Cabinet ended with election on 1 November 2022.",,1650,1100,,,
+1678,10,2022-08-01,Donev,1,https://en.wikipedia.org/wiki/Donev_government,"bne, reuters",Caretaker cabinet was appointed on 1 August 2022.,,1660,1106,1059,,
+1679,1,2022-09-13,Heger II,0,https://en.wikipedia.org/wiki/Heger%27s_Cabinet,"dpa, reuters",Cabinet continued on 13 September 2022 after a change in party composition.,,1666,1089,1070,,
+1680,35,2022-10-17,Kristersson,0,https://en.wikipedia.org/wiki/Kristersson_Cabinet,"afp, reuters","PM Kristersson won an investiture vote (yes: 176, no: 173) on 17 October 2022 and cabinet was appointed a day later.",,1652,1112,1073,,
+1681,26,2022-07-21,Draghi II,1,https://en.wikipedia.org/wiki/Draghi_Cabinet,"afp, reuters","Cabinet continued on 21 July 2022 after a change in party composition.
+Cabinet ended with election on 25 September 2022.",,1667,1024,1053,,
+1682,26,2022-10-22,Meloni,0,https://en.wikipedia.org/wiki/Meloni_Cabinet,reuters,"PM Meloni was appointed on 22 October 2022 and cabinet won confidence votes on 25/26 October (yes: 235, no: 154, abstain: 5 [lower house]; yes: 115, no: 79, abstain: 5 [upper house]).",,1681,1113,1053,,
+1683,44,2022-10-25,Sunak,0,https://en.wikipedia.org/wiki/Sunak_ministry,"afp, reuters","Cabinet was appointed on 25 October 2022.
+",,1676,1086,1051,,
+1684,21,2022-12-15,Frederiksen II,0,https://en.wikipedia.org/wiki/Frederiksen_II_Cabinet,reuters,PM Frederiksen was appointed on 15 December 2022.,,1598,1116,1049,,
+1685,55,2022-12-14,Karins II,0,https://en.wikipedia.org/wiki/Second_Kariņš_cabinet,leta,"Cabinet won an investiture vote (yes: 54, no: 37) on 14 December 2022.",,1592,1115,1063,,
+1686,34,2022-12-29,Netanjahu XV,0,https://en.wikipedia.org/wiki/Thirty-seventh_government_of_Israel,tmisra,Cabinet was appointed on 29 December 2022.,,1677,1117,,,
