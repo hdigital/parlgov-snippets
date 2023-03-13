@@ -2,7 +2,7 @@ id,key,short,full,url
 1,benoit,Benoit and Laver (2006),"Benoit, Kenneth, and Michael Laver. 2006. Party policy in modern democracies. Routledge.",http://www.politics.tcd.ie/ppmd/
 2,castles,Castles and Mair (1984),"Castles, Francis G. and Peter Mair. 1984. “Left-right political scales: Some ‘expert’ judgements.” European Journal of Political Research 12(1):73–88.",
 3,huber,Huber and Inglehart (1995),"Huber, John, and Roland Inglehart. 1995. “Expert Interpretations of Party Space and Party Locations in 42 Societies.” Party Politics 1(1):73–111.",
-4,chess,Chapel Hill expert survey series,"Chapel Hill expert survey series (CHESS):
+4,ches,Chapel Hill expert survey series,"Chapel Hill expert survey series (CHES):
 Hooghe, Liesbet et al. 2010. “Reliability and validity of the 2002 and 2006 Chapel Hill expert surveys on party positioning.” European Journal of Political Research 49(5):687–703.
 Steenbergen, Marco, and Gary Marks. 2007. “Evaluating expert judgments.” European Journal of Political Research 46(3):347–366.
 Ryan Bakker, Catherine de Vries, Erica Edwards, Liesbet Hooghe, Seth Jolly, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Vachudova. 2012. ""Measuring Party Positions in Europe: The Chapel Hill Expert Survey Trend File, 1999-2010.” Party Politics (forthcoming).",https://www.chesdata.eu/
@@ -55,7 +55,7 @@ Klingemann, Hans-Dieter, Andrea Volkens, Judith Bara, Ian Budge, and Michael McD
 51,ukeu,UK Office of the European Parliament,The United Kingdom Office of the European Parliament.,http://www.europarl.org.uk/section/european-elections/european-elections
 52,pica,ParlInfo Canada,ParlInfo – Parliament of Canada,http://www2.parl.gc.ca/parlinfo
 54,cevipol,CEVIPOL,CEVIPOL Ressources –  Electoral results,http://dev.ulb.ac.be/cevipol/en/elections.html
-55,parlgov,ParlGov database (Döring ea. 2022),"Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies.",http://www.parlgov.org/
+55,parlgov,ParlGov database (Döring ea. 2023),"Döring, Holger, Constantin Huber, Philip Manow, Maike Hesse and Alexandra Quaas. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies.",http://www.parlgov.org/
 56,pkw,Państwowa Komisja Wyborcza ,"Państwowa Komisja Wyborcza (National Election Commission, Poland)",http://www.pkw.gov.pl/
 58,keesings,Keesing's,Keesing's record of world events,http://www.keesings.com/
 59,nyt,New York Times (NYT),New York Times Article Archive,http://query.nytimes.com/search/
@@ -303,3 +303,11 @@ McHale, Vincent E., ed. 1983b. Political Parties of Europe: Poland -- Yugoslavia
 288,erakonnad,erakonnad.info,Eesti Erakondade Ajalugu (History of Estonian Political Parties),https://www.erakonnad.info/
 289,parlament-hu,parlament-hu,Országgyűlés (Hungarian National Assembly),https://www.parlament.hu/en/web/house-of-the-national-assembly
 290,parlamento-pt,parlamento-pt,Assembleia da República (Portuguese Parliament),https://www.parlamento.pt/sites/en/
+291,dnse,Dagens Nyheter,Dagens Nyheter,https://www.dn.se/
+292,tmisra,tmisra,Times of Israel ,https://www.timesofisrael.com/
+293,sr,Radio Sweden,Sveriges Radio – Radio Sweden,https://sverigesradio.se/radiosweden
+294,ho-86,Hobday (1986),"Hobday, Charles. 1986. Communist and Marxist Parties of the World. Harlow, Essex, UK: Longman.
+",
+295,dw-05,Druckman and Warwick (2005),"Druckman, James N., and Paul V. Warwick. 2005. “The Missing Piece: Measuring Portfolio Salience in Western European Parliamentary Democracies.” European Journal of Political Research 44(1): 17–42.",
+296,dr-08,Druckman and Roberts (2005),"Druckman, James N., and Andrew Roberts. 2008. “Measuring Portfolio Salience in Eastern European Parliamentary Democracies.” European Journal of Political Research 47(1): 101–34.
+",
