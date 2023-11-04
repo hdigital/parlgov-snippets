@@ -55,7 +55,7 @@ Klingemann, Hans-Dieter, Andrea Volkens, Judith Bara, Ian Budge, and Michael McD
 51,ukeu,UK Office of the European Parliament,The United Kingdom Office of the European Parliament.,http://www.europarl.org.uk/section/european-elections/european-elections
 52,pica,ParlInfo Canada,ParlInfo – Parliament of Canada,http://www2.parl.gc.ca/parlinfo
 54,cevipol,CEVIPOL,CEVIPOL Ressources –  Electoral results,http://dev.ulb.ac.be/cevipol/en/elections.html
-55,parlgov,ParlGov database (Döring ea. 2023),"Döring, Holger, Constantin Huber, Philip Manow, Maike Hesse and Alexandra Quaas. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies.",http://www.parlgov.org/
+55,parlgov,ParlGov database (Döring ea. 2023),"Döring, Holger, Alexandra Quaas, Maike Hesse, and Philip Manow. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies.",https://parlgov.org/
 56,pkw,Państwowa Komisja Wyborcza ,"Państwowa Komisja Wyborcza (National Election Commission, Poland)",http://www.pkw.gov.pl/
 58,keesings,Keesing's,Keesing's record of world events,http://www.keesings.com/
 59,nyt,New York Times (NYT),New York Times Article Archive,http://query.nytimes.com/search/
@@ -210,7 +210,9 @@ McHale, Vincent E., ed. 1983b. Political Parties of Europe: Poland -- Yugoslavia
 198,papo,Parlement & Politiek,Parlement & Politiek,http://www.parlement.com/
 199,fragov,Portail du Government,Portail du Government -- (French Government),http://www.gouvernement./
 200,insse,Institutul National de Statistica,Institutul National de Statistica (National Institute of Statistics Romania),http://www.insse.ro/cms/rw/pages/index.en.do
-201,mig,Ministry of Interior (Greece),Hellenic Republic - Ministry of Interior,http://www.ypes.gr/en/Elections/
+201,mig,Ministry of Interior (Greece),"Hellenic Republic - Ministry of Interior
+
+Comment: see also: https://ekloges.ypes.gr/en/ if the other link does not show the results.",http://www.ypes.gr/en/Elections/
 202,kath,Kathimerini,Kathimerini (Η Καθημερινή),http://www.ekathimerini.com/
 203,wilson,Wilson (1985),"Wilson, J. O. 1985. New Zealand parliamentary record 1840-1984. Wellington: V.R. Ward, Government Printer.",
 204,ansa,ANSA,ANSA (Agenzia Nazionale Stampa Associata),http://www.ansa.it/

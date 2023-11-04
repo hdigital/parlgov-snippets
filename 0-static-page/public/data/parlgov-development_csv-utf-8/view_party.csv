@@ -503,10 +503,11 @@ EST,Estonia,ERP,Res Publica Party,Erakond Res Publica,Erakond Res Publica,con,Co
 EST,Estonia,ERSP,Estonian National Independence Party,Eesti Rahvusliku Sõltumatuse Partei,Eesti Rahvusliku Soltumatuse Partei,con,Conservative,7.7778,6.4,6.9,7.9,83711,,,,1210,,,,75,552,26
 EST,Estonia,ERa/EKR,People's Union of Estonia / Conservative People's Party,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,con,Conservative,4.5812,4.8509,6.9474,6.0627,83612,78,1233612,,,,1768,2206,75,417,26
 EST,Estonia,ERe,Estonian Reform Party,Eesti Reformierakond,Eesti Reformierakond,lib,Liberal,7.8969,8.6246,5.2737,8.5715,83430,82,1233430,,1208,,1794,2203,75,113,6
+EST,Estonia,ESDTP|EVP,Estonian [Social] Democratic Labour Party | Estonian Left Party,Eesti [Sotsiaal] Demokraatlikuks Tööparteiks | Eesti Vasakpartei,Eesti [Sotsiaal] Demokraatlikuks Tooparteiks | Eesti Vasakpartei,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,75,2416,14
 EST,Estonia,ESE-D,Estonian Blue Party -- Democrats,Eesti Sinine Erakond – Demokraadid,Eesti Sinine Erakond -- Demokraadid,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,75,2267,6
 EST,Estonia,ETE,Estonian Farmers Party,Eesti Talurahva Erakond,Eesti Talurahva Erakond,agr,Agrarian,5.3,4.9,6.5,5.4,,,,,,,,,75,1796,2
+EST,Estonia,EUV,Estonian United Left Party,Eestimaa Ühendatud Vasakpartei,Eestimaa Uehendatud Vasakpartei,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,75,2892,14
 EST,Estonia,EV,Free Party,Eesti Vabaerakond,Eesti Vabaerakond,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,75,2409,26
-EST,Estonia,EVP,Estonian Left Party,Eesti Vasakpartei,Eesti Vasakpartei,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,75,2416,14
 EST,Estonia,I,Pro Patria Union,Isamaaliit,Isamaaliit,con,Conservative,7.6169,6.414,7.3789,8.5189,83710,,,,1212,,1690,2201,75,846,26
 EST,Estonia,I-DK,Independent -- Dimitri Klenski,Independent – Dimitri Klenski,Independent -- Dimitri Klenski,none,no family,,,,,,,,,,,,,75,2031,12
 EST,Estonia,I-IT,Independent -- Indrek Tarand,Independent – Indrek Tarand,Independent -- Indrek Tarand,none,no family,,,,,,,,,,,,,75,2029,12
@@ -514,8 +515,9 @@ EST,Estonia,I-MH,Independent -- Martin Helme,Independent – Martin Helme,Indepe
 EST,Estonia,I-RK,Independent -- Raimond Kaljulaid,Independent – Raimond Kaljulaid,Independent -- Raimond Kaljulaid,none,no family,,,,,,,,,,,,,75,2738,12
 EST,Estonia,I-SM,Independent -- Silver Meikar,Independent – Silver Meikar,Independent -- Silver Meikar,none,no family,,,,,,,,,,,,,75,2345,12
 EST,Estonia,I-TT,Independent -- Tanel Talve,Independent – Tanel Talve,Independent -- Tanel Talve,none,no family,,,,,,,,,,,,,75,2344,12
-EST,Estonia,IRL,Union of Pro Patria and Res Publica,Erakond Isamaa ja Res Publica Liit,Erakond Isamaa ja Res Publica Liit,con,Conservative,8.4962,8.2456,6.1053,9.2632,83611,80,1233613,,,,1820,,75,1597,26
+EST,Estonia,IRL,Pro Patria and Res Publica Union,Erakond Isamaa ja Res Publica Liit,Erakond Isamaa ja Res Publica Liit,con,Conservative,8.4962,8.2456,6.1053,9.2632,83611,80,1233613,,,,1820,,75,1597,26
 EST,Estonia,K-EUR,Constitution Party -- Estonian United People's Party,Konstitutsioonierakond – Eestimaa Ühendatud Rahvapartei,Konstitutsioonierakond -- Eestimaa Uehendatud Rahvapartei,soc,Social democracy,2.0282,2.9413,6.3158,4.9241,83952,,,,1201,,1664,2205,75,1590,11
+EST,Estonia,P,the Right,Parempoolsed,Parempoolsed,con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,75,2893,26
 EST,Estonia,PK,Union of Farmers,Põllumeeste Kogu,Pollumeeste Kogu,agr,Agrarian,2.2222,4.9,6.5,5.4,,,,,1203,,,,75,1553,2
 EST,Estonia,R,Popular Front,Rahvarinne,Rahvarinne,soc,Social democracy,3.3333,3.5,3.5,8.1,83421,,,,1204,,,,75,450,11
 EST,Estonia,RKI,"National Coalition Party ""Pro Patria""","Rahvuslik Koonderakond ""Isamaa""","Rahvuslik Koonderakond ""Isamaa""",con,Conservative,7.4,6.4,6.9,7.9,83710,,,,,,,,75,243,26
@@ -630,7 +632,7 @@ FRA,France,UPR,Popular Republican Union,Union Populaire Républicaine,Union Popu
 FRA,France,UR,Republican Union,Union républicaine,Union republicaine,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,43,2581,40
 FRA,France,V,Greens,Les Verts,Les Verts,eco,Green/Ecologist,3.155,2.8774,1.4772,6.4585,31110,103,1250110,703,1406,605,5929,605,43,873,19
 FRA,France,agir,"Act, the constructive right","Agir, la droite constructive","Agir, la droite constructive",con,Conservative,7.4,6.4,6.9,7.9,,,,,,,,,43,2862,26
-FRA,France,d-center,other centre,divers centre,divers centre,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,43,2858,6
+FRA,France,d-centre,other centre,divers centre,divers centre,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,43,2858,6
 FRA,France,d-droite,other right,divers droite,divers droite,con,Conservative,7.6583,9.0,9.0,5.8333,,,,,,,,618,43,285,26
 FRA,France,d-eco,other ecologists,divers ecologistes,divers ecologistes,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,43,2249,19
 FRA,France,d-gauche,other left,divers gauche,divers gauche,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,43,177,11
@@ -722,6 +724,7 @@ GRC,Greece,LE|PE,Popular Unity | Course of Freedom,Laïkí Enótita | Plefsi Ele
 GRC,Greece,LS-CA,Peoples Association -- Golden Dawn,Laikos Syndesmos – Chrysi Avg,Laikos Syndesmos -- Chrysi Avg,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,41,2092,40
 GRC,Greece,MeRA25,European Realistic Disobedience Front,Métopo Evropaikís Realistikís Anypakoís,Metopo Evropaikis Realistikis Anypakois,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,41,2742,14
 GRC,Greece,ND,New Democracy,Néa Đimokratía,Nea Dimokratia,chr,Christian democracy,6.7365,6.9754,6.6712,8.9869,34511,153,1300511,,,402,6143,402,41,47,3
+GRC,Greece,NIKH,Victory,Δημοκρατικό Πατριωτικό Κίνημα,Dimokratiko Patriotiko Kinima,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,41,2901,40
 GRC,Greece,OE,Alternative Ecologists,Oikolόgoi Enallaktikoί,Oikologoi Enallaktikoi,eco,Green/Ecologist,2.5,2.5,1.8,3.3333,,,,,,406,,,41,2163,19
 GRC,Greece,OF,The Liberals,Oi Fileleftheroi,Oi Fileleftheroi,lib,Liberal,6.0,6.7,3.6,8.7,,,,,,,,,41,2166,6
 GRC,Greece,OP,Ecologist Greens,Oikologoi Prasinoi,Oikologoi Prasinoi,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,154,1300116,,,,,411,41,1280,19
@@ -730,6 +733,7 @@ GRC,Greece,PMM,Panhellenic Macedonian Front,Panellήnio Makedonikό Metwpo,Panel
 GRC,Greece,POLAN,Political Spring,Politiki Anixi,Politiki Anixi,con,Conservative,7.5714,6.7143,7.0,7.9488,34512,,,,,408,,408,41,1412,26
 GRC,Greece,SYN,Coalition of the Left,Synaspismós tīs Aristerás,Synaspismos tis Aristeras,com,Communist/Socialist,2.7683,2.6259,2.0238,6.8943,34211,,,,,403,6183,403,41,1441,14
 GRC,Greece,SYRIZA,Coalition of the Radical Left,Synaspismós Rizospastikís Aristerás,Synaspismos Rizospastikis Aristeras,com,Communist/Socialist,2.8947,2.9123,2.0066,7.1382,,156,1300215,,,,6183,,41,1592,14
+GRC,Greece,Sp,Spartans,Spartiátes,Spartiates,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,41,2902,40
 GRC,Greece,TP,The River,To Potami,To Potami,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,41,2346,11
 GRC,Greece,Tel,Dot -- Apostolos Gkletsos,Teleia – Apostolos Gkletsos,Teleia -- Apostolos Gkletsos,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,41,2408,11
 GRC,Greece,no-seat,no seat,no seat,no seat,none,no family,,,,,,,,,,,,,41,2168,12
@@ -1695,6 +1699,10 @@ TUR,Turkey,MHP,National Action Party,Milliyetçi Hareket Partisi,Milliyetci Hare
 TUR,Turkey,RP,Welfare (Virtue) Party,Refah (Fazilet) Partisi,Refah (Fazilet) Partisi,spec,Special issue,8.3333,,,,74715,,,,4008,,,,20,1122,16
 TUR,Turkey,SHP|CHP,Social Democratic Populist Party | Republican People's Party,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,Sosyal Demokrat Halci Parti | Cumhuriyet Halk Partisi,soc,Social democracy,3.2661,2.8138,4.6154,7.3887,74321,307,,,4004,,8184,3402,20,507,11
 TUR,Turkey,SP,Felicity Party,Saadet Partisi,Saadet Partisi,con,Conservative,7.4,6.4,6.9,7.9,,316,,,,,,,20,1315,26
+TUR,Turkey,TIP,Worker's Party of Turkey,Türkiye İşçi Partisi,Turkiye Isci Partisi ,com,Communist/Socialist,1.3,1.4,3.0,3.3,,,,,,,,,20,2896,14
+TUR,Turkey,YRP,New Welfare Party,Yeniden Refah Partisi,Yeniden Refah Partisi,spec,Special issue,,,,,,,,,,,,,20,2897,16
+TUR,Turkey,YSPG,Party of Greens and the Left Future,Yeşiller ve Sol Gelecek Partisi,Yesiller ve Sol Gelecek Partisi ,eco,Green/Ecologist,2.5,2.5,1.8,6.5,,,,,,,,,20,2895,19
 TUR,Turkey,YTP,New Turkey Party,Yeni Türkiye Partisi,Yeni Turkiye Partisi,soc,Social democracy,3.3,3.5,3.5,8.1,,,,,,,,,20,2304,11
+TUR,Turkey,ZP,Victory Party,Zafer Partisi,Zafer Partisi,right,Right-wing,8.8,5.9,8.5,2.3,,,,,,,,,20,2898,40
 TUR,Turkey,no-seat,no seat,no seat,no seat,none,no family,,,,,,,,,,,,,20,2316,12
 TUR,Turkey,none,no party affiliation,bağımsız,bagimsiz,none,no family,,,,,,,,,,,,,20,1399,12

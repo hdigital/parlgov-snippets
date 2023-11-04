@@ -284,7 +284,6 @@ AUS,Australia,parliament,2019-05-18,0.33,1,151,NXT,Nick Xenophon Team,Nick Xenop
 AUS,Australia,parliament,2019-05-18,3.43,0,151,PUP,Palmer United Party,Palmer United Party,6.0,33,1087,1006,1585,2259
 AUS,Australia,parliament,2019-05-18,3.08,0,151,ONP,One Nation Party,One Nation Party,8.1579,33,1087,1006,1585,386
 AUS,Australia,parliament,2022-05-21,32.58,77,151,ALP,Australian Labor Party,Australian Labor Party,3.8833,33,1111,1087,1616,1253
-AUS,Australia,parliament,2022-05-21,,58,151,C,Coalition,Coalition,7.4,33,1111,1087,1616,1428
 AUS,Australia,parliament,2022-05-21,23.89,27,151,LPA,Liberal Party of Australia,Liberal Party of Australia,7.3903,33,1111,1087,1616,1411
 AUS,Australia,parliament,2022-05-21,8.0,21,151,LNPQ,Liberal National Party of Queensland,Liberal National Party of Queensland,6.0,33,1111,1087,1616,154
 AUS,Australia,parliament,2022-05-21,3.6,10,151,NCP|NPA,National (Country) Party | National Party of Australia,National (Country) Party | National Party of Australia,7.8222,33,1111,1087,1616,184
@@ -1106,6 +1105,14 @@ BGR,Bulgaria,parliament,2022-10-02,7.45,20,240,DaB,Da Bulgaria!,"Yes, Bulgaria!"
 BGR,Bulgaria,parliament,2022-10-02,4.63,12,240,BV,Balgarski vazhod,Bulgarian Rise,7.4,10,1114,1106,1678,2871
 BGR,Bulgaria,parliament,2022-10-02,3.83,0,240,ITN,Ima takav narod,There Is Such a People,7.4,10,1114,1106,1678,2836
 BGR,Bulgaria,parliament,2022-10-02,1.01,0,240,IS,Izpravi se!,Stand up!,3.3,10,1114,1106,1678,2838
+BGR,Bulgaria,parliament,2023-04-02,25.39,69,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,1120,1114,1691,1541
+BGR,Bulgaria,parliament,2023-04-02,23.54,64,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1120,1114,1691,2847
+BGR,Bulgaria,parliament,2023-04-02,13.58,37,240,R,Vazrazhdane,Revival,8.8,10,1120,1114,1691,2640
+BGR,Bulgaria,parliament,2023-04-02,13.18,36,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,1120,1114,1691,1286
+BGR,Bulgaria,parliament,2023-04-02,8.56,23,240,BSP,Balgarska Sotsialisticheska Partiya,Bulgarian Socialist Party,3.0064,10,1120,1114,1691,982
+BGR,Bulgaria,parliament,2023-04-02,3.94,11,240,ITN,Ima takav narod,There Is Such a People,7.4,10,1120,1114,1691,2836
+BGR,Bulgaria,parliament,2023-04-02,2.93,0,240,BV,Balgarski vazhod,Bulgarian Rise,7.4,10,1120,1114,1691,2871
+BGR,Bulgaria,parliament,2023-04-02,2.14,0,240,IS,Izpravi se!,Stand up!,3.3,10,1120,1114,1691,2838
 CAN,Canada,parliament,1900-11-07,51.24,133,213,LP,Liberal Party of Canada,Liberal Party of Canada,5.0552,29,883,,,368
 CAN,Canada,parliament,1900-11-07,47.41,80,213,PCP,Progressive Conservative Party of Canada,Progressive Conservative Party of Canada,6.7112,29,883,,,794
 CAN,Canada,parliament,1900-11-07,0.28,0,213,none,no party affiliation,no party affiliation,,29,883,,,1189
@@ -3121,7 +3128,7 @@ EST,Estonia,parliament,1992-09-20,2.39,1,101,EEE,Eesti Ettevõtjate Erakond,Esto
 EST,Estonia,parliament,1992-09-20,2.62,1,101,EER-91,Eesti Rohelised – 1991,Estonian Greens -- 1991,5.5556,75,670,,,2631
 EST,Estonia,parliament,1992-09-20,2.91,0,101,PK,Põllumeeste Kogu,Union of Farmers,2.2222,75,670,,,1553
 EST,Estonia,parliament,1992-09-20,3.71,0,101,EPL,Eesti Pensionaride Liit,Estonian Pensioners' Union,,75,670,,,1792
-EST,Estonia,parliament,1992-09-20,1.61,0,101,EVP,Eesti Vasakpartei,Estonian Left Party,1.3,75,670,,,2416
+EST,Estonia,parliament,1992-09-20,1.61,0,101,ESDTP|EVP,Eesti [Sotsiaal] Demokraatlikuks Tööparteiks | Eesti Vasakpartei,Estonian [Social] Democratic Labour Party | Estonian Left Party,1.3,75,670,,,2416
 EST,Estonia,parliament,1995-03-05,32.23,41,101,EKK,Eesti Koonderakond,Estonian Coalition Party,7.2222,75,600,670,4,486
 EST,Estonia,parliament,1995-03-05,16.19,19,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,600,670,4,113
 EST,Estonia,parliament,1995-03-05,14.17,16,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,600,670,4,1137
@@ -3132,7 +3139,7 @@ EST,Estonia,parliament,1995-03-05,5.0,5,101,VKR,Vabariiklaste ja Konservatiivide
 EST,Estonia,parliament,1995-03-05,3.61,0,101,EKo,Eesti Kodanik,Estonian Citizens,8.8,75,600,670,4,1064
 EST,Estonia,parliament,1995-03-05,2.57,0,101,TEE,Tuleviku Eesti | Iseseisvuspartei,Future Estonia | Independence,8.8,75,600,670,4,1794
 EST,Estonia,parliament,1995-03-05,1.51,0,101,ETE,Eesti Talurahva Erakond,Estonian Farmers Party,5.3,75,600,670,4,1796
-EST,Estonia,parliament,1995-03-05,2.27,0,101,EVP,Eesti Vasakpartei,Estonian Left Party,1.3,75,600,670,4,2416
+EST,Estonia,parliament,1995-03-05,2.27,0,101,ESDTP|EVP,Eesti [Sotsiaal] Demokraatlikuks Tööparteiks | Eesti Vasakpartei,Estonian [Social] Democratic Labour Party | Estonian Left Party,1.3,75,600,670,4,2416
 EST,Estonia,parliament,1999-03-07,23.41,28,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,239,600,303,1137
 EST,Estonia,parliament,1999-03-07,15.92,18,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,239,600,303,113
 EST,Estonia,parliament,1999-03-07,16.09,18,101,I,Isamaaliit,Pro Patria Union,7.6169,75,239,600,303,846
@@ -3160,7 +3167,7 @@ EST,Estonia,ep,2004-06-13,6.7,0,6,ERP,Erakond Res Publica,Res Publica Party,8.49
 EST,Estonia,ep,2004-06-13,1.2,0,6,ESE-D,Eesti Sinine Erakond – Demokraadid,Estonian Blue Party -- Democrats,6.0,75,130,423,138,2267
 EST,Estonia,parliament,2007-03-04,27.8,31,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,83,423,274,113
 EST,Estonia,parliament,2007-03-04,26.1,29,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,83,423,274,1137
-EST,Estonia,parliament,2007-03-04,17.9,19,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,83,423,274,1597
+EST,Estonia,parliament,2007-03-04,17.9,19,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,83,423,274,1597
 EST,Estonia,parliament,2007-03-04,10.6,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,83,423,274,1448
 EST,Estonia,parliament,2007-03-04,7.1,6,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,83,423,274,417
 EST,Estonia,parliament,2007-03-04,7.1,6,101,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,83,423,274,219
@@ -3170,20 +3177,20 @@ EST,Estonia,ep,2009-06-07,26.1,2,6,EK,Eesti Keskerakond,Estonian Centre Party,3.
 EST,Estonia,ep,2009-06-07,15.3,1,6,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,395,83,902,113
 EST,Estonia,ep,2009-06-07,25.8,1,6,I-IT,Independent – Indrek Tarand,Independent -- Indrek Tarand,,75,395,83,902,2029
 EST,Estonia,ep,2009-06-07,8.7,1,6,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,395,83,902,1448
-EST,Estonia,ep,2009-06-07,12.2,1,6,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,395,83,902,1597
+EST,Estonia,ep,2009-06-07,12.2,1,6,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,395,83,902,1597
 EST,Estonia,ep,2009-06-07,2.7,,6,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,395,83,902,219
 EST,Estonia,ep,2009-06-07,2.5,,6,I-MH,Independent – Martin Helme,Independent -- Martin Helme,,75,395,83,902,2030
 EST,Estonia,ep,2009-06-07,2.2,,6,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,395,83,902,417
 EST,Estonia,ep,2009-06-07,1.8,,6,I-DK,Independent – Dimitri Klenski,Independent -- Dimitri Klenski,,75,395,83,902,2031
 EST,Estonia,parliament,2011-03-06,28.6,33,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,699,83,902,113
 EST,Estonia,parliament,2011-03-06,23.3,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,699,83,902,1137
-EST,Estonia,parliament,2011-03-06,20.5,23,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,699,83,902,1597
+EST,Estonia,parliament,2011-03-06,20.5,23,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,699,83,902,1597
 EST,Estonia,parliament,2011-03-06,17.1,19,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,699,83,902,1448
 EST,Estonia,parliament,2011-03-06,3.8,0,101,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,699,83,902,219
 EST,Estonia,parliament,2011-03-06,2.1,0,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,699,83,902,417
 EST,Estonia,ep,2014-05-25,24.3,2,6,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,822,699,1095,113
 EST,Estonia,ep,2014-05-25,22.4,1,6,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,822,699,1095,1137
-EST,Estonia,ep,2014-05-25,13.9,1,6,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,822,699,1095,1597
+EST,Estonia,ep,2014-05-25,13.9,1,6,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,822,699,1095,1597
 EST,Estonia,ep,2014-05-25,13.6,1,6,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,822,699,1095,1448
 EST,Estonia,ep,2014-05-25,13.2,1,6,I-IT,Independent – Indrek Tarand,Independent -- Indrek Tarand,,75,822,699,1095,2029
 EST,Estonia,ep,2014-05-25,4.0,0,6,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,822,699,1095,417
@@ -3193,14 +3200,14 @@ EST,Estonia,ep,2014-05-25,1.8,0,6,I-SM,Independent – Silver Meikar,Independent
 EST,Estonia,parliament,2015-03-01,27.69,30,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,853,699,1095,113
 EST,Estonia,parliament,2015-03-01,24.81,27,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,853,699,1095,1137
 EST,Estonia,parliament,2015-03-01,15.19,15,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,853,699,1095,1448
-EST,Estonia,parliament,2015-03-01,13.71,14,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,853,699,1095,1597
+EST,Estonia,parliament,2015-03-01,13.71,14,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,853,699,1095,1597
 EST,Estonia,parliament,2015-03-01,8.69,8,101,EV,Eesti Vabaerakond,Free Party,7.4,75,853,699,1095,2409
 EST,Estonia,parliament,2015-03-01,8.15,7,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,853,699,1095,417
 EST,Estonia,parliament,2015-03-01,0.9,0,101,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,853,699,1095,219
 EST,Estonia,parliament,2019-03-03,28.9,34,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,1044,853,1495,113
 EST,Estonia,parliament,2019-03-03,23.1,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1044,853,1495,1137
 EST,Estonia,parliament,2019-03-03,17.8,19,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1044,853,1495,417
-EST,Estonia,parliament,2019-03-03,11.4,12,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,1044,853,1495,1597
+EST,Estonia,parliament,2019-03-03,11.4,12,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,1044,853,1495,1597
 EST,Estonia,parliament,2019-03-03,9.8,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1044,853,1495,1448
 EST,Estonia,parliament,2019-03-03,4.4,0,101,E200,Erakond Eesti 200,Estonia 200,6.0,75,1044,853,1495,2720
 EST,Estonia,parliament,2019-03-03,1.8,0,101,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,1044,853,1495,219
@@ -3210,10 +3217,19 @@ EST,Estonia,ep,2019-05-26,26.2,2,6,ERe,Eesti Reformierakond,Estonian Reform Part
 EST,Estonia,ep,2019-05-26,23.3,2,6,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1056,1044,1595,1448
 EST,Estonia,ep,2019-05-26,14.4,1,6,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1056,1044,1595,1137
 EST,Estonia,ep,2019-05-26,12.7,1,6,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1056,1044,1595,417
-EST,Estonia,ep,2019-05-26,10.3,0,6,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,1056,1044,1595,1597
+EST,Estonia,ep,2019-05-26,10.3,0,6,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,1056,1044,1595,1597
 EST,Estonia,ep,2019-05-26,1.8,0,6,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,1056,1044,1595,219
 EST,Estonia,ep,2019-05-26,3.2,0,6,E200,Erakond Eesti 200,Estonia 200,6.0,75,1056,1044,1595,2720
 EST,Estonia,ep,2019-05-26,6.2,0,6,I-RK,Independent – Raimond Kaljulaid,Independent -- Raimond Kaljulaid,,75,1056,1044,1595,2738
+EST,Estonia,parliament,2023-03-05,31.2,37,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,1118,1044,1688,113
+EST,Estonia,parliament,2023-03-05,16.1,17,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1118,1044,1688,417
+EST,Estonia,parliament,2023-03-05,15.3,16,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1118,1044,1688,1137
+EST,Estonia,parliament,2023-03-05,13.3,14,101,E200,Erakond Eesti 200,Estonia 200,6.0,75,1118,1044,1688,2720
+EST,Estonia,parliament,2023-03-05,9.3,9,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1118,1044,1688,1448
+EST,Estonia,parliament,2023-03-05,8.2,8,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,1118,1044,1688,1597
+EST,Estonia,parliament,2023-03-05,1.0,0,101,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,1118,1044,1688,219
+EST,Estonia,parliament,2023-03-05,2.4,0,101,EUV,Eestimaa Ühendatud Vasakpartei,Estonian United Left Party,1.3,75,1118,1044,1688,2892
+EST,Estonia,parliament,2023-03-05,2.3,0,101,P,Parempoolsed,the Right,7.4,75,1118,1044,1688,2893
 FIN,Finland,parliament,1917-10-02,44.79,92,171,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,902,,,395
 FIN,Finland,parliament,1917-10-02,30.17,32,171,SP-V,Suomalainen puolue – Vanhasuomalaiset,Finnish Party -- Old Finns,7.4,67,902,,,2434
 FIN,Finland,parliament,1917-10-02,12.38,26,171,KESK,Keskusta,Centre Party,5.8027,67,902,,,94
@@ -3544,6 +3560,16 @@ FIN,Finland,ep,2019-05-26,16.0,2,13,VIHR,Vihreä Liitto – Gröna Förbundet,Gr
 FIN,Finland,ep,2019-05-26,6.9,1,13,DL|VAS,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,Democratic Union | Left Alliance,2.1843,67,1050,1045,1510,1292
 FIN,Finland,ep,2019-05-26,6.3,1,13,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,1050,1045,1510,585
 FIN,Finland,ep,2019-05-26,4.9,0,13,KD,Kristillisdemokraatit – Kristdemokraterna,Christian Democrats,7.1884,67,1050,1045,1510,1463
+FIN,Finland,parliament,2023-04-02,20.8,48,200,KOK,Kansallinen Kokoomus – Samlingspartiet,National Coalition Party,7.2451,67,1119,1045,1607,1118
+FIN,Finland,parliament,2023-04-02,20.1,46,200,SP|P,Suomen Puolue | Perussuomalaiset,Finnish Party | True Finns,6.6331,67,1119,1045,1607,200
+FIN,Finland,parliament,2023-04-02,19.9,43,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,1119,1045,1607,395
+FIN,Finland,parliament,2023-04-02,11.3,23,200,KESK,Keskusta,Centre Party,5.8027,67,1119,1045,1607,94
+FIN,Finland,parliament,2023-04-02,7.0,13,200,VIHR,Vihreä Liitto – Gröna Förbundet,Green League,3.6465,67,1119,1045,1607,1062
+FIN,Finland,parliament,2023-04-02,7.1,11,200,DL|VAS,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,Democratic Union | Left Alliance,2.1843,67,1119,1045,1607,1292
+FIN,Finland,parliament,2023-04-02,4.3,9,200,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,1119,1045,1607,585
+FIN,Finland,parliament,2023-04-02,4.2,5,200,KD,Kristillisdemokraatit – Kristdemokraterna,Christian Democrats,7.1884,67,1119,1045,1607,1463
+FIN,Finland,parliament,2023-04-02,2.4,1,200,LN,Liike Nyt,Movement Now,6.0,67,1119,1045,1607,2801
+FIN,Finland,parliament,2023-04-02,0.5,0,200,no-seat,no seat,no seat,,67,1119,1045,1607,2054
 FRA,France,parliament,1902-05-11,29.73,175,575,RepG,Républicaine gauche ,Left Republican ,6.0,43,987,,,2587
 FRA,France,parliament,1902-05-11,14.12,145,575,C,Conservateurs,Conservatives,7.4,43,987,,,2589
 FRA,France,parliament,1902-05-11,16.81,117,575,RI,Radicaux indépendants,Independent Radicals,7.4,43,987,,,2585
@@ -3929,7 +3955,7 @@ FRA,France,parliament,2022-06-19,10.42,61,577,UMP|LR,Union pour un mouvement pop
 FRA,France,parliament,2022-06-19,3.14,22,577,d-gauche,divers gauche,other left,3.3,43,1110,1014,1673,177
 FRA,France,parliament,2022-06-19,2.33,10,577,d-droite,divers droite,other right,7.6583,43,1110,1014,1673,285
 FRA,France,parliament,2022-06-19,1.28,10,577,none,sans étiquette,no party affiliation,,43,1110,1014,1673,947
-FRA,France,parliament,2022-06-19,1.25,4,577,d-center,divers centre,other centre,6.0,43,1110,1014,1673,2858
+FRA,France,parliament,2022-06-19,1.25,4,577,d-centre,divers centre,other centre,6.0,43,1110,1014,1673,2858
 FRA,France,parliament,2022-06-19,0.87,3,577,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,7.4,43,1110,1014,1673,2273
 FRA,France,parliament,2022-06-19,0.85,1,577,etc,divers,others,,43,1110,1014,1673,1328
 FRA,France,parliament,2022-06-19,0.9,1,577,one-seat,one seat,one seat,,43,1110,1014,1673,2859
@@ -4508,6 +4534,23 @@ GRC,Greece,parliament,2019-07-07,3.44,9,300,MeRA25,Métopo Evropaikís Realistik
 GRC,Greece,parliament,2019-07-07,2.93,0,300,LS-CA,Laikos Syndesmos – Chrysi Avg,Peoples Association -- Golden Dawn,8.8,41,1078,992,1593,2092
 GRC,Greece,parliament,2019-07-07,1.46,0,300,LE|PE,Laïkí Enótita | Plefsi Eleftherias,Popular Unity | Course of Freedom,1.3,41,1078,992,1593,2596
 GRC,Greece,parliament,2019-07-07,1.24,0,300,EK,Enosi Kentroon,Union of Centrists,3.3,41,1078,992,1593,2165
+GRC,Greece,parliament,2023-05-21,40.8,146,300,ND,Néa Đimokratía,New Democracy,6.7365,41,1122,1078,1597,47
+GRC,Greece,parliament,2023-05-21,20.7,71,300,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2.8947,41,1122,1078,1597,1592
+GRC,Greece,parliament,2023-05-21,11.5,41,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,1122,1078,1597,1338
+GRC,Greece,parliament,2023-05-21,7.2,26,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,1122,1078,1597,614
+GRC,Greece,parliament,2023-05-21,4.45,16,300,EL,Elliniki Lisi,Greek Solution,7.4,41,1122,1078,1597,2780
+GRC,Greece,parliament,2023-05-21,2.9,0,300,LE|PE,Laïkí Enótita | Plefsi Eleftherias,Popular Unity | Course of Freedom,1.3,41,1122,1078,1597,2596
+GRC,Greece,parliament,2023-05-21,2.63,0,300,MeRA25,Métopo Evropaikís Realistikís Anypakoís,European Realistic Disobedience Front,1.3,41,1122,1078,1597,2742
+GRC,Greece,parliament,2023-05-21,2.9,0,300,NIKH,Δημοκρατικό Πατριωτικό Κίνημα,Victory,8.8,41,1122,1078,1597,2901
+GRC,Greece,parliament,2023-06-25,40.56,158,300,ND,Néa Đimokratía,New Democracy,6.7365,41,1123,1122,1696,47
+GRC,Greece,parliament,2023-06-25,17.83,47,300,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2.8947,41,1123,1122,1696,1592
+GRC,Greece,parliament,2023-06-25,11.84,32,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,1123,1122,1696,1338
+GRC,Greece,parliament,2023-06-25,7.69,21,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,1123,1122,1696,614
+GRC,Greece,parliament,2023-06-25,4.68,12,300,Sp,Spartiátes,Spartans,8.8,41,1123,1122,1696,2902
+GRC,Greece,parliament,2023-06-25,4.44,12,300,EL,Elliniki Lisi,Greek Solution,7.4,41,1123,1122,1696,2780
+GRC,Greece,parliament,2023-06-25,3.7,10,300,NIKH,Δημοκρατικό Πατριωτικό Κίνημα,Victory,8.8,41,1123,1122,1696,2901
+GRC,Greece,parliament,2023-06-25,3.17,8,300,LE|PE,Laïkí Enótita | Plefsi Eleftherias,Popular Unity | Course of Freedom,1.3,41,1123,1122,1696,2596
+GRC,Greece,parliament,2023-06-25,2.5,0,300,MeRA25,Métopo Evropaikís Realistikís Anypakoís,European Realistic Disobedience Front,1.3,41,1123,1122,1696,2742
 HRV,Croatia,parliament,2000-01-03,24.4,46,151,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,7.1053,62,797,,,276
 HRV,Croatia,parliament,2000-01-03,40.8,44,151,SPH,Socijaldemokratska partija Hrvatske,Social Democratic Party of Croatia,3.2456,62,797,,,1493
 HRV,Croatia,parliament,2000-01-03,,24,151,HSLS,Hrvatska socijalno liberalna stranka,Croatian Social Liberal Party,7.193,62,797,,,1102
@@ -8213,7 +8256,6 @@ ROU,Romania,parliament,2016-12-11,1.04,0,329,PRM,Partidul România Mare,Greater 
 ROU,Romania,ep,2019-05-26,27.0,10,32,PNL,Partidul Naţional Liberal,National Liberal Party,6.0543,23,1069,1015,1527,1015
 ROU,Romania,ep,2019-05-26,22.5,8,32,PSD,Partidul Social Democrat,Social Democratic Party,3.2325,23,1069,1015,1527,1120
 ROU,Romania,ep,2019-05-26,22.36,8,32,USR|PLUS,"Uniunea Salvați România | Partidul Libertate, Unitate și Solidaritate","Save Romania Union | Party of Liberty, Unity and Solidarity",6.0,23,1069,1015,1527,2646
-ROU,Romania,ep,2019-05-26,,4,32,PLUS,"Partidul Libertate, Unitate și Solidaritate","Party of Liberty, Unity and Solidarity",6.0,23,1069,1015,1527,2811
 ROU,Romania,ep,2019-05-26,5.26,2,32,UDMR,Uniunea Democrată Maghiară din România,Democratic Union of Hungarians in Romania,6.016,23,1069,1015,1527,948
 ROU,Romania,ep,2019-05-26,5.76,2,32,PMP,Partidul Mișcarea Populară,People's Movement Party,6.2,23,1069,1015,1527,2395
 ROU,Romania,ep,2019-05-26,6.44,2,32,PROR,PRO România,PRO Romania,6.0,23,1069,1015,1527,2746
@@ -8946,3 +8988,11 @@ TUR,Turkey,parliament,2018-06-24,11.72,67,600,HDP,Halkların Demokratik Partisi,
 TUR,Turkey,parliament,2018-06-24,11.12,49,600,MHP,Milliyetçi Hareket Partisi,National Action Party,8.6587,20,1032,997,1487,408
 TUR,Turkey,parliament,2018-06-24,9.97,43,600,IYI,İyi Parti,Iyi Party,8.8,20,1032,997,1487,2702
 TUR,Turkey,parliament,2018-06-24,1.35,0,600,SP,Saadet Partisi,Felicity Party,7.4,20,1032,997,1487,1315
+TUR,Turkey,parliament,2023-05-14,35.6,268,600,AKP,Adalet ve Kalkınma Partisi,Justice and Development Party,6.9873,20,1121,1032,1635,901
+TUR,Turkey,parliament,2023-05-14,25.3,169,600,SHP|CHP,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,Social Democratic Populist Party | Republican People's Party,3.2661,20,1121,1032,1635,507
+TUR,Turkey,parliament,2023-05-14,8.8,61,600,YSPG,Yeşiller ve Sol Gelecek Partisi,Party of Greens and the Left Future,2.5,20,1121,1032,1635,2895
+TUR,Turkey,parliament,2023-05-14,10.0,50,600,MHP,Milliyetçi Hareket Partisi,National Action Party,8.6587,20,1121,1032,1635,408
+TUR,Turkey,parliament,2023-05-14,9.7,43,600,IYI,İyi Parti,Iyi Party,8.8,20,1121,1032,1635,2702
+TUR,Turkey,parliament,2023-05-14,2.8,5,600,YRP,Yeniden Refah Partisi,New Welfare Party,,20,1121,1032,1635,2897
+TUR,Turkey,parliament,2023-05-14,1.7,4,600,TIP,Türkiye İşçi Partisi,Worker's Party of Turkey,1.3,20,1121,1032,1635,2896
+TUR,Turkey,parliament,2023-05-14,2.2,0,600,ZP,Zafer Partisi,Victory Party,8.8,20,1121,1032,1635,2898
