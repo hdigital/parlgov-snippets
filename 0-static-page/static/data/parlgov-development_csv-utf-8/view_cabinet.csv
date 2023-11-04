@@ -346,7 +346,6 @@ AUS,Australia,2019-05-18,2019-05-29,Morrison II,0,0,0,1,151,NXT,Nick Xenophon Te
 AUS,Australia,2019-05-18,2019-05-29,Morrison II,0,0,0,3,151,none,no party affiliation,no party affiliation,,33,1087,1616,1585,1396
 AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,4,151,AG,Australian Greens,Australian Greens,1.5439,33,1111,1672,1616,751
 AUS,Australia,2022-05-21,2022-05-23,Albanese,0,1,1,77,151,ALP,Australian Labor Party,Australian Labor Party,3.8833,33,1111,1672,1616,1253
-AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,58,151,C,Coalition,Coalition,7.4,33,1111,1672,1616,1428
 AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,1,151,Katter,Katter's Australian Party,Katter's Australian Party,3.3,33,1111,1672,1616,2258
 AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,21,151,LNPQ,Liberal National Party of Queensland,Liberal National Party of Queensland,6.0,33,1111,1672,1616,154
 AUS,Australia,2022-05-21,2022-05-23,Albanese,0,0,0,27,151,LPA,Liberal Party of Australia,Liberal Party of Australia,7.3903,33,1111,1672,1616,1411
@@ -462,11 +461,11 @@ AUT,Austria,1930-11-09,1932-01-29,Buresch II,0,0,0,8,165,HB,Heimatblock,Homeland
 AUT,Austria,1930-11-09,1932-01-29,Buresch II,0,1,0,9,165,L,Landbund für Österreich,Rural Federation,8.8,59,1029,1553,1552,2681
 AUT,Austria,1930-11-09,1932-01-29,Buresch II,0,1,1,66,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1029,1553,1552,1013
 AUT,Austria,1930-11-09,1932-01-29,Buresch II,0,0,0,72,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1029,1553,1552,973
-AUT,Austria,1930-11-09,1932-05-20,Dollfuß,0,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1029,1554,1553,2674
-AUT,Austria,1930-11-09,1932-05-20,Dollfuß,0,1,0,8,165,HB,Heimatblock,Homeland Block,8.8,59,1029,1554,1553,2685
-AUT,Austria,1930-11-09,1932-05-20,Dollfuß,0,1,0,9,165,L,Landbund für Österreich,Rural Federation,8.8,59,1029,1554,1553,2681
-AUT,Austria,1930-11-09,1932-05-20,Dollfuß,0,1,1,66,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1029,1554,1553,1013
-AUT,Austria,1930-11-09,1932-05-20,Dollfuß,0,0,0,72,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1029,1554,1553,973
+AUT,Austria,1930-11-09,1932-05-20,Dollfuss,0,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1029,1554,1553,2674
+AUT,Austria,1930-11-09,1932-05-20,Dollfuss,0,1,0,8,165,HB,Heimatblock,Homeland Block,8.8,59,1029,1554,1553,2685
+AUT,Austria,1930-11-09,1932-05-20,Dollfuss,0,1,0,9,165,L,Landbund für Österreich,Rural Federation,8.8,59,1029,1554,1553,2681
+AUT,Austria,1930-11-09,1932-05-20,Dollfuss,0,1,1,66,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1029,1554,1553,1013
+AUT,Austria,1930-11-09,1932-05-20,Dollfuss,0,0,0,72,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1029,1554,1553,973
 AUT,Austria,1930-11-09,1945-04-27,Renner IV,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1029,452,1554,2674
 AUT,Austria,1930-11-09,1945-04-27,Renner IV,1,0,0,8,165,HB,Heimatblock,Homeland Block,8.8,59,1029,452,1554,2685
 AUT,Austria,1930-11-09,1945-04-27,Renner IV,1,1,0,0,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,1029,452,1554,769
@@ -1431,6 +1430,7 @@ BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,39,240,KzB|DL,Koalitsiya za 
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,19,240,NFSB,Natsionalen Front za Spasenie na Balgariya,National Front for the Salvation of Bulgaria,8.8,10,840,1503,1153,2211
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,0,0,23,240,RB,Reformatorski Blok,Reformist Bloc,7.4,10,840,1503,1153,2363
 BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,1,0,0,240,SDS,Suyuz na Demokratichnite Sili,Union of Democratic Forces,6.1111,10,840,1503,1153,423
+BGR,Bulgaria,2014-10-05,2017-01-25,Gerdzhikov,1,1,1,0,240,none,no party affiliation,no party affiliation,,10,840,1503,1153,133
 BGR,Bulgaria,2017-03-26,2017-05-04,Borisov III,0,0,0,26,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,1011,1505,1503,1286
 BGR,Bulgaria,2017-03-26,2017-05-04,Borisov III,0,1,1,95,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,1011,1505,1503,1541
 BGR,Bulgaria,2017-03-26,2017-05-04,Borisov III,0,0,0,80,240,KzB|DL,Koalitsiya za Balgariya | Demokratichna Levitsa,Coalition for Bulgaria | Democratic Left,2.8982,10,1011,1505,1503,1160
@@ -1457,14 +1457,28 @@ BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,1,0,25,240,ITN,Ima takav narod,There
 BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,1,0,26,240,KzB|DL,Koalitsiya za Balgariya | Demokratichna Levitsa,Coalition for Bulgaria | Democratic Left,2.8982,10,1106,1660,1658,1160
 BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,1,1,67,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1106,1660,1658,2847
 BGR,Bulgaria,2021-11-14,2021-12-13,Petkov,0,0,0,13,240,R,Vazrazhdane,Revival,8.8,10,1106,1660,1658,2640
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,34,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,1106,1678,1660,1286
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,16,240,DSB|DB,Demokrati za Silna Balgariya | Demokratichna Balgariya,Democrats for a Strong Bulgaria | Democratic Bulgaria,7.85,10,1106,1678,1660,57
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,59,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,1106,1678,1660,1541
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,25,240,ITN,Ima takav narod,There Is Such a People,7.4,10,1106,1678,1660,2836
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,26,240,KzB|DL,Koalitsiya za Balgariya | Demokratichna Levitsa,Coalition for Bulgaria | Democratic Left,2.8982,10,1106,1678,1660,1160
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,67,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1106,1678,1660,2847
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,0,0,13,240,R,Vazrazhdane,Revival,8.8,10,1106,1678,1660,2640
-BGR,Bulgaria,2021-11-14,2022-08-01,Donev,1,1,1,0,240,none,no party affiliation,no party affiliation,,10,1106,1678,1660,133
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,0,0,34,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,1106,1678,1660,1286
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,0,0,16,240,DSB|DB,Demokrati za Silna Balgariya | Demokratichna Balgariya,Democrats for a Strong Bulgaria | Democratic Bulgaria,7.85,10,1106,1678,1660,57
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,0,0,59,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,1106,1678,1660,1541
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,0,0,25,240,ITN,Ima takav narod,There Is Such a People,7.4,10,1106,1678,1660,2836
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,0,0,26,240,KzB|DL,Koalitsiya za Balgariya | Demokratichna Levitsa,Coalition for Bulgaria | Democratic Left,2.8982,10,1106,1678,1660,1160
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,0,0,67,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1106,1678,1660,2847
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,0,0,13,240,R,Vazrazhdane,Revival,8.8,10,1106,1678,1660,2640
+BGR,Bulgaria,2021-11-14,2022-08-02,Donev I,1,1,1,0,240,none,no party affiliation,no party affiliation,,10,1106,1678,1660,133
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,0,0,25,240,BSP,Balgarska Sotsialisticheska Partiya,Bulgarian Socialist Party,3.0064,10,1114,1691,1678,982
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,0,0,12,240,BV,Balgarski vazhod,Bulgarian Rise,7.4,10,1114,1691,1678,2871
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,0,0,36,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,1114,1691,1678,1286
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,0,0,20,240,DaB,Da Bulgaria!,"Yes, Bulgaria!",6.0,10,1114,1691,1678,2638
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,0,0,67,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,1114,1691,1678,1541
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,0,0,53,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1114,1691,1678,2847
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,0,0,27,240,R,Vazrazhdane,Revival,8.8,10,1114,1691,1678,2640
+BGR,Bulgaria,2022-10-02,2022-10-02,Donev II,1,1,1,0,240,none,no party affiliation,no party affiliation,,10,1114,1691,1678,133
+BGR,Bulgaria,2023-04-02,2023-06-06,Denkov,0,0,0,23,240,BSP,Balgarska Sotsialisticheska Partiya,Bulgarian Socialist Party,3.0064,10,1120,1692,1691,982
+BGR,Bulgaria,2023-04-02,2023-06-06,Denkov,0,0,0,36,240,DPS,Dvizhenie za Prava i Svobodi,Movement for Rights and Freedoms,4.5828,10,1120,1692,1691,1286
+BGR,Bulgaria,2023-04-02,2023-06-06,Denkov,0,1,0,69,240,GERB,Grazhdani za Evropeysko Razvitie na Balgariya,Citizens for European Development of Bulgaria,8.8,10,1120,1692,1691,1541
+BGR,Bulgaria,2023-04-02,2023-06-06,Denkov,0,0,0,11,240,ITN,Ima takav narod,There Is Such a People,7.4,10,1120,1692,1691,2836
+BGR,Bulgaria,2023-04-02,2023-06-06,Denkov,0,1,1,64,240,PP,Prodalzhavame promyanata,We Continue the Change,,10,1120,1692,1691,2847
+BGR,Bulgaria,2023-04-02,2023-06-06,Denkov,0,0,0,37,240,R,Vazrazhdane,Revival,8.8,10,1120,1692,1691,2640
 CAN,Canada,1900-11-07,1900-11-07,Laurier I,0,1,1,133,213,LP,Liberal Party of Canada,Liberal Party of Canada,5.0552,29,883,1466,,368
 CAN,Canada,1900-11-07,1900-11-07,Laurier I,0,0,0,80,213,PCP,Progressive Conservative Party of Canada,Progressive Conservative Party of Canada,6.7112,29,883,1466,,794
 CAN,Canada,1904-11-03,1904-11-03,Laurier II,0,1,1,138,214,LP,Liberal Party of Canada,Liberal Party of Canada,5.0552,29,884,1467,1466,368
@@ -2336,16 +2350,16 @@ DEU,Germany,1919-01-19,1919-10-03,Bauer II,0,1,0,73,423,DZ,Deutsche Zentrumspart
 DEU,Germany,1919-01-19,1919-10-03,Bauer II,0,1,1,165,423,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1031,1558,1557,558
 DEU,Germany,1919-01-19,1919-10-03,Bauer II,0,0,0,22,423,USPD,Unabhängige Sozialdemokratische Partei Deutschlands,Independent Social Democratic Party of Germany,1.3,54,1031,1558,1557,2690
 DEU,Germany,1919-01-19,1919-10-03,Bauer II,0,0,0,2,423,one-seat,one seat,one seat,,54,1031,1558,1557,2289
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,0,0,4,423,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1031,1559,1558,2701
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,0,0,16,423,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1031,1559,1558,2697
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,1,0,74,423,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1031,1559,1558,2691
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,0,0,3,423,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1031,1559,1558,2696
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,0,0,41,423,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1031,1559,1558,2692
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,0,0,23,423,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1031,1559,1558,2693
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,1,0,73,423,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1031,1559,1558,137
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,1,1,165,423,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1031,1559,1558,558
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,0,0,22,423,USPD,Unabhängige Sozialdemokratische Partei Deutschlands,Independent Social Democratic Party of Germany,1.3,54,1031,1559,1558,2690
-DEU,Germany,1919-01-19,1920-03-29,Müller I,0,0,0,2,423,one-seat,one seat,one seat,,54,1031,1559,1558,2289
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,0,0,4,423,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1031,1559,1558,2701
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,0,0,16,423,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1031,1559,1558,2697
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,1,0,74,423,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1031,1559,1558,2691
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,0,0,3,423,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1031,1559,1558,2696
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,0,0,41,423,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1031,1559,1558,2692
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,0,0,23,423,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1031,1559,1558,2693
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,1,0,73,423,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1031,1559,1558,137
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,1,1,165,423,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1031,1559,1558,558
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,0,0,22,423,USPD,Unabhängige Sozialdemokratische Partei Deutschlands,Independent Social Democratic Party of Germany,1.3,54,1031,1559,1558,2690
+DEU,Germany,1919-01-19,1920-03-29,Mueller I,0,0,0,2,423,one-seat,one seat,one seat,,54,1031,1559,1558,2289
 DEU,Germany,1920-06-06,1920-06-26,Fehrenbach,0,0,0,4,466,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1033,1560,1559,2701
 DEU,Germany,1920-06-06,1920-06-26,Fehrenbach,0,0,0,20,466,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1033,1560,1559,2697
 DEU,Germany,1920-06-06,1920-06-26,Fehrenbach,0,0,0,3,466,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1033,1560,1559,2703
@@ -2561,86 +2575,86 @@ DEU,Germany,1924-12-07,1927-01-29,Marx V,0,0,0,2,493,LBT,Landbund Thüringen,Rur
 DEU,Germany,1924-12-07,1927-01-29,Marx V,0,0,0,14,493,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1035,1575,1574,2695
 DEU,Germany,1924-12-07,1927-01-29,Marx V,0,0,0,131,493,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1035,1575,1574,558
 DEU,Germany,1924-12-07,1927-01-29,Marx V,0,0,0,12,493,WP,Wirtschaftspartei,Economic Party,7.4,54,1035,1575,1574,2698
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,7,491,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1036,1576,1575,2701
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,1,0,17,491,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1036,1576,1575,2697
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,3,491,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1036,1576,1575,2703
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,9,491,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1036,1576,1575,2709
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,1,491,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1036,1576,1575,2712
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,1,0,25,491,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1036,1576,1575,2691
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,4,491,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1036,1576,1575,2696
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,73,491,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1036,1576,1575,2692
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,1,0,45,491,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1036,1576,1575,2693
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,1,0,61,491,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1036,1576,1575,137
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,54,491,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1036,1576,1575,649
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,12,491,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1036,1576,1575,2695
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,2,491,SLV,Sächsisches Landvolk,Saxon Peasants,5.3,54,1036,1576,1575,2708
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,1,1,153,491,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1036,1576,1575,558
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,2,491,VRP,Reichspartei für Volksrecht und Aufwertung,Reich Party for Civil Rights and Deflation,,54,1036,1576,1575,2710
-DEU,Germany,1928-05-20,1928-06-29,Müller II,0,0,0,23,491,WP,Wirtschaftspartei,Economic Party,7.4,54,1036,1576,1575,2698
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,7,491,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1036,1581,1576,2701
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,1,0,17,491,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1036,1581,1576,2697
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,3,491,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1036,1581,1576,2703
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,1,0,21,491,CNAG,Christlichnationale Arbeitsgemeinschaft,Christian National Working Group,6.2,54,1036,1581,1576,2713
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,1,491,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1036,1581,1576,2712
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,1,0,25,491,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1036,1581,1576,2691
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,4,491,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1036,1581,1576,2696
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,61,491,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1036,1581,1576,2692
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,1,0,45,491,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1036,1581,1576,2693
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,1,1,61,491,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1036,1581,1576,137
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,54,491,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1036,1581,1576,649
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,12,491,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1036,1581,1576,2695
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,2,491,SLV,Sächsisches Landvolk,Saxon Peasants,5.3,54,1036,1581,1576,2708
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,153,491,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1036,1581,1576,558
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,0,0,2,491,VRP,Reichspartei für Volksrecht und Aufwertung,Reich Party for Civil Rights and Deflation,,54,1036,1581,1576,2710
-DEU,Germany,1928-05-20,1930-03-30,Brüning I,0,1,0,23,491,WP,Wirtschaftspartei,Economic Party,7.4,54,1036,1581,1576,2698
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,5,577,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1037,1582,1581,2701
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1,0,19,577,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1037,1582,1581,2697
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,3,577,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1037,1582,1581,2703
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1,0,19,577,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1037,1582,1581,2709
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1,0,14,577,CSVD,Christlich-Sozialer Volksdienst,Christian Social People's Service,6.2,54,1037,1582,1581,2700
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,1,577,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1037,1582,1581,2712
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1,0,20,577,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1037,1582,1581,2691
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,3,577,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1037,1582,1581,2696
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,41,577,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1037,1582,1581,2692
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1,0,30,577,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1037,1582,1581,2693
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1,1,68,577,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1037,1582,1581,137
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,77,577,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1037,1582,1581,649
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,4,577,KVP,Konservative Volkspartei,Conservative Peoples' Party,7.4,54,1037,1582,1581,2711
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,107,577,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1037,1582,1581,2695
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,0,0,143,577,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1037,1582,1581,558
-DEU,Germany,1930-09-14,1930-10-16,Brüning II,0,1,0,23,577,WP,Wirtschaftspartei,Economic Party,7.4,54,1037,1582,1581,2698
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,5,577,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1037,1583,1582,2701
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,1,0,19,577,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1037,1583,1582,2697
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,3,577,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1037,1583,1582,2703
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,1,0,19,577,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1037,1583,1582,2709
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,1,0,14,577,CSVD,Christlich-Sozialer Volksdienst,Christian Social People's Service,6.2,54,1037,1583,1582,2700
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,1,577,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1037,1583,1582,2712
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,1,0,20,577,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1037,1583,1582,2691
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,3,577,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1037,1583,1582,2696
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,41,577,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1037,1583,1582,2692
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,1,0,30,577,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1037,1583,1582,2693
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,1,1,68,577,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1037,1583,1582,137
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,77,577,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1037,1583,1582,649
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,4,577,KVP,Konservative Volkspartei,Conservative Peoples' Party,7.4,54,1037,1583,1582,2711
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,107,577,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1037,1583,1582,2695
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,143,577,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1037,1583,1582,558
-DEU,Germany,1930-09-14,1930-12-05,Brüning III,0,0,0,23,577,WP,Wirtschaftspartei,Economic Party,7.4,54,1037,1583,1582,2698
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,5,577,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1037,1584,1583,2701
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,1,0,19,577,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1037,1584,1583,2697
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,3,577,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1037,1584,1583,2703
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,1,0,19,577,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1037,1584,1583,2709
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,1,0,14,577,CSVD,Christlich-Sozialer Volksdienst,Christian Social People's Service,6.2,54,1037,1584,1583,2700
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,1,577,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1037,1584,1583,2712
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,1,0,20,577,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1037,1584,1583,2691
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,3,577,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1037,1584,1583,2696
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,41,577,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1037,1584,1583,2692
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,30,577,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1037,1584,1583,2693
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,1,1,68,577,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1037,1584,1583,137
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,77,577,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1037,1584,1583,649
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,4,577,KVP,Konservative Volkspartei,Conservative Peoples' Party,7.4,54,1037,1584,1583,2711
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,107,577,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1037,1584,1583,2695
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,143,577,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1037,1584,1583,558
-DEU,Germany,1930-09-14,1931-10-10,Brüning IV,0,0,0,23,577,WP,Wirtschaftspartei,Economic Party,7.4,54,1037,1584,1583,2698
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,7,491,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1036,1576,1575,2701
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,1,0,17,491,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1036,1576,1575,2697
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,3,491,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1036,1576,1575,2703
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,9,491,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1036,1576,1575,2709
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,1,491,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1036,1576,1575,2712
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,1,0,25,491,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1036,1576,1575,2691
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,4,491,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1036,1576,1575,2696
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,73,491,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1036,1576,1575,2692
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,1,0,45,491,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1036,1576,1575,2693
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,1,0,61,491,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1036,1576,1575,137
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,54,491,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1036,1576,1575,649
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,12,491,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1036,1576,1575,2695
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,2,491,SLV,Sächsisches Landvolk,Saxon Peasants,5.3,54,1036,1576,1575,2708
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,1,1,153,491,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1036,1576,1575,558
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,2,491,VRP,Reichspartei für Volksrecht und Aufwertung,Reich Party for Civil Rights and Deflation,,54,1036,1576,1575,2710
+DEU,Germany,1928-05-20,1928-06-29,Mueller II,0,0,0,23,491,WP,Wirtschaftspartei,Economic Party,7.4,54,1036,1576,1575,2698
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,7,491,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1036,1581,1576,2701
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,1,0,17,491,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1036,1581,1576,2697
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,3,491,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1036,1581,1576,2703
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,1,0,21,491,CNAG,Christlichnationale Arbeitsgemeinschaft,Christian National Working Group,6.2,54,1036,1581,1576,2713
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,1,491,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1036,1581,1576,2712
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,1,0,25,491,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1036,1581,1576,2691
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,4,491,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1036,1581,1576,2696
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,61,491,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1036,1581,1576,2692
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,1,0,45,491,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1036,1581,1576,2693
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,1,1,61,491,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1036,1581,1576,137
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,54,491,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1036,1581,1576,649
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,12,491,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1036,1581,1576,2695
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,2,491,SLV,Sächsisches Landvolk,Saxon Peasants,5.3,54,1036,1581,1576,2708
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,153,491,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1036,1581,1576,558
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,0,0,2,491,VRP,Reichspartei für Volksrecht und Aufwertung,Reich Party for Civil Rights and Deflation,,54,1036,1581,1576,2710
+DEU,Germany,1928-05-20,1930-03-30,Bruening I,0,1,0,23,491,WP,Wirtschaftspartei,Economic Party,7.4,54,1036,1581,1576,2698
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,5,577,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1037,1582,1581,2701
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,1,0,19,577,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1037,1582,1581,2697
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,3,577,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1037,1582,1581,2703
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,1,0,19,577,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1037,1582,1581,2709
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,1,0,14,577,CSVD,Christlich-Sozialer Volksdienst,Christian Social People's Service,6.2,54,1037,1582,1581,2700
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,1,577,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1037,1582,1581,2712
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,1,0,20,577,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1037,1582,1581,2691
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,3,577,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1037,1582,1581,2696
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,41,577,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1037,1582,1581,2692
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,1,0,30,577,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1037,1582,1581,2693
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,1,1,68,577,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1037,1582,1581,137
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,77,577,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1037,1582,1581,649
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,4,577,KVP,Konservative Volkspartei,Conservative Peoples' Party,7.4,54,1037,1582,1581,2711
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,107,577,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1037,1582,1581,2695
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,0,0,143,577,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1037,1582,1581,558
+DEU,Germany,1930-09-14,1930-10-16,Bruening II,0,1,0,23,577,WP,Wirtschaftspartei,Economic Party,7.4,54,1037,1582,1581,2698
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,5,577,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1037,1583,1582,2701
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,1,0,19,577,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1037,1583,1582,2697
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,3,577,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1037,1583,1582,2703
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,1,0,19,577,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1037,1583,1582,2709
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,1,0,14,577,CSVD,Christlich-Sozialer Volksdienst,Christian Social People's Service,6.2,54,1037,1583,1582,2700
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,1,577,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1037,1583,1582,2712
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,1,0,20,577,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1037,1583,1582,2691
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,3,577,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1037,1583,1582,2696
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,41,577,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1037,1583,1582,2692
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,1,0,30,577,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1037,1583,1582,2693
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,1,1,68,577,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1037,1583,1582,137
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,77,577,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1037,1583,1582,649
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,4,577,KVP,Konservative Volkspartei,Conservative Peoples' Party,7.4,54,1037,1583,1582,2711
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,107,577,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1037,1583,1582,2695
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,143,577,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1037,1583,1582,558
+DEU,Germany,1930-09-14,1930-12-05,Bruening III,0,0,0,23,577,WP,Wirtschaftspartei,Economic Party,7.4,54,1037,1583,1582,2698
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,5,577,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1037,1584,1583,2701
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,1,0,19,577,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1037,1584,1583,2697
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,3,577,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1037,1584,1583,2703
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,1,0,19,577,CNBL,Christlich-Nationale Bauern- und Landvolkpartei,Christian-National Peasants' and Farmers' Party,6.2,54,1037,1584,1583,2709
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,1,0,14,577,CSVD,Christlich-Sozialer Volksdienst,Christian Social People's Service,6.2,54,1037,1584,1583,2700
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,1,577,DBP,Deutsche Bauernpartei,German Farmers' Party,5.3,54,1037,1584,1583,2712
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,1,0,20,577,DDP,Deutsche Demokratische Partei,German Democratic Party,6.0,54,1037,1584,1583,2691
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,3,577,DHP,Deutsch-Hannoversche Partei,German-Hanoverian Party,7.4,54,1037,1584,1583,2696
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,41,577,DNVP,Deutschnationale Volkspartei,German National People's Party,8.8,54,1037,1584,1583,2692
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,30,577,DVP,Deutsche Volkspartei,German People's Party,7.4,54,1037,1584,1583,2693
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,1,1,68,577,DZ,Deutsche Zentrumspartei,Centre Party,6.2,54,1037,1584,1583,137
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,77,577,KPD,Kommunistische Partei Deutschlands,Communist Party of Germany,0.957,54,1037,1584,1583,649
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,4,577,KVP,Konservative Volkspartei,Conservative Peoples' Party,7.4,54,1037,1584,1583,2711
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,107,577,NSDAP,Nationalsozialistische Deutsche Arbeiterpartei,National Socialist German Workers' Party,8.8,54,1037,1584,1583,2695
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,143,577,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,1037,1584,1583,558
+DEU,Germany,1930-09-14,1931-10-10,Bruening IV,0,0,0,23,577,WP,Wirtschaftspartei,Economic Party,7.4,54,1037,1584,1583,2698
 DEU,Germany,1930-09-14,1932-06-02,Papen I,0,0,0,5,577,BBB,Bayerischer Bauernbund,Bavarian Peasants' League,6.0,54,1037,1579,1584,2701
 DEU,Germany,1930-09-14,1932-06-02,Papen I,0,0,0,19,577,BVP,Bayerische Volkspartei,Bavarian People's Party,6.2,54,1037,1579,1584,2697
 DEU,Germany,1930-09-14,1932-06-02,Papen I,0,0,0,3,577,BWB,Bauern- und Weingärtnerbund,Farmers and Wine Growers Association,5.3,54,1037,1579,1584,2703
@@ -3718,44 +3732,55 @@ EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,0,0,6,101,EER,Erakond Eestimaa Rohe
 EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,0,0,29,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,83,686,274,1137
 EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,0,0,6,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,83,686,274,417
 EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,1,1,31,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,83,686,274,113
-EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,1,0,19,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,83,686,274,1597
+EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,1,0,19,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,83,686,274,1597
 EST,Estonia,2007-03-04,2007-04-05,Ansip II,0,1,0,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,83,686,274,1448
 EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,0,0,6,101,EER,Erakond Eestimaa Rohelised,Estonian Greens,2.5,75,83,902,686,219
 EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,0,0,29,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,83,902,686,1137
 EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,0,0,6,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,83,902,686,417
 EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,1,1,31,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,83,902,686,113
-EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,1,0,19,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,83,902,686,1597
+EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,1,0,19,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,83,902,686,1597
 EST,Estonia,2007-03-04,2009-05-21,Ansip III,0,0,0,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,83,902,686,1448
 EST,Estonia,2011-03-06,2011-04-05,Ansip IV,0,0,0,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,699,905,902,1137
 EST,Estonia,2011-03-06,2011-04-05,Ansip IV,0,1,1,33,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,699,905,902,113
-EST,Estonia,2011-03-06,2011-04-05,Ansip IV,0,1,0,23,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,699,905,902,1597
+EST,Estonia,2011-03-06,2011-04-05,Ansip IV,0,1,0,23,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,699,905,902,1597
 EST,Estonia,2011-03-06,2011-04-05,Ansip IV,0,0,0,19,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,699,905,902,1448
 EST,Estonia,2011-03-06,2014-03-26,Roivas I,0,0,0,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,699,1095,905,1137
 EST,Estonia,2011-03-06,2014-03-26,Roivas I,0,1,1,33,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,699,1095,905,113
-EST,Estonia,2011-03-06,2014-03-26,Roivas I,0,0,0,23,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,699,1095,905,1597
+EST,Estonia,2011-03-06,2014-03-26,Roivas I,0,0,0,23,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,699,1095,905,1597
 EST,Estonia,2011-03-06,2014-03-26,Roivas I,0,1,0,19,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,699,1095,905,1448
 EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,0,0,27,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,853,1160,1095,1137
 EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,0,0,7,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,853,1160,1095,417
 EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,1,1,30,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,853,1160,1095,113
 EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,0,0,8,101,EV,Eesti Vabaerakond,Free Party,7.4,75,853,1160,1095,2409
-EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,1,0,14,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,853,1160,1095,1597
+EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,1,0,14,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,853,1160,1095,1597
 EST,Estonia,2015-03-01,2015-04-09,Roivas II,0,1,0,15,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,853,1160,1095,1448
 EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,1,1,27,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,853,1495,1160,1137
 EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,0,0,7,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,853,1495,1160,417
 EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,0,0,30,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,853,1495,1160,113
 EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,0,0,8,101,EV,Eesti Vabaerakond,Free Party,7.4,75,853,1495,1160,2409
-EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,1,0,14,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,853,1495,1160,1597
+EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,1,0,14,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,853,1495,1160,1597
 EST,Estonia,2015-03-01,2016-11-20,Ratas I,0,1,0,15,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,853,1495,1160,1448
 EST,Estonia,2019-03-03,2019-04-29,Ratas II,0,1,1,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1044,1595,1495,1137
 EST,Estonia,2019-03-03,2019-04-29,Ratas II,0,1,0,19,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1044,1595,1495,417
 EST,Estonia,2019-03-03,2019-04-29,Ratas II,0,0,0,34,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,1044,1595,1495,113
-EST,Estonia,2019-03-03,2019-04-29,Ratas II,0,1,0,12,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,1044,1595,1495,1597
+EST,Estonia,2019-03-03,2019-04-29,Ratas II,0,1,0,12,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,1044,1595,1495,1597
 EST,Estonia,2019-03-03,2019-04-29,Ratas II,0,0,0,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1044,1595,1495,1448
-EST,Estonia,2019-03-03,2021-01-26,Kallas K,0,1,0,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1044,1664,1595,1137
-EST,Estonia,2019-03-03,2021-01-26,Kallas K,0,0,0,19,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1044,1664,1595,417
-EST,Estonia,2019-03-03,2021-01-26,Kallas K,0,1,1,34,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,1044,1664,1595,113
-EST,Estonia,2019-03-03,2021-01-26,Kallas K,0,0,0,12,101,IRL,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,8.4962,75,1044,1664,1595,1597
-EST,Estonia,2019-03-03,2021-01-26,Kallas K,0,0,0,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1044,1664,1595,1448
+EST,Estonia,2019-03-03,2021-01-26,Kallas K I,0,1,0,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1044,1664,1595,1137
+EST,Estonia,2019-03-03,2021-01-26,Kallas K I,0,0,0,19,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1044,1664,1595,417
+EST,Estonia,2019-03-03,2021-01-26,Kallas K I,0,1,1,34,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,1044,1664,1595,113
+EST,Estonia,2019-03-03,2021-01-26,Kallas K I,0,0,0,12,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,1044,1664,1595,1597
+EST,Estonia,2019-03-03,2021-01-26,Kallas K I,0,0,0,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1044,1664,1595,1448
+EST,Estonia,2019-03-03,2022-07-15,Kallas K II,0,0,0,26,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1044,1688,1664,1137
+EST,Estonia,2019-03-03,2022-07-15,Kallas K II,0,0,0,19,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1044,1688,1664,417
+EST,Estonia,2019-03-03,2022-07-15,Kallas K II,0,1,1,34,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,1044,1688,1664,113
+EST,Estonia,2019-03-03,2022-07-15,Kallas K II,0,1,0,12,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,1044,1688,1664,1597
+EST,Estonia,2019-03-03,2022-07-15,Kallas K II,0,1,0,10,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1044,1688,1664,1448
+EST,Estonia,2023-03-05,2023-04-17,Kallas K III,0,1,0,14,101,E200,Erakond Eesti 200,Estonia 200,6.0,75,1118,1689,1688,2720
+EST,Estonia,2023-03-05,2023-04-17,Kallas K III,0,0,0,16,101,EK,Eesti Keskerakond,Estonian Centre Party,3.9562,75,1118,1689,1688,1137
+EST,Estonia,2023-03-05,2023-04-17,Kallas K III,0,0,0,17,101,ERa/EKR,Eestimaa Rahvalliit / Eesti Konservatiivne Rahvaerakond,People's Union of Estonia / Conservative People's Party,4.5812,75,1118,1689,1688,417
+EST,Estonia,2023-03-05,2023-04-17,Kallas K III,0,1,1,37,101,ERe,Eesti Reformierakond,Estonian Reform Party,7.8969,75,1118,1689,1688,113
+EST,Estonia,2023-03-05,2023-04-17,Kallas K III,0,0,0,8,101,IRL,Erakond Isamaa ja Res Publica Liit,Pro Patria and Res Publica Union,8.4962,75,1118,1689,1688,1597
+EST,Estonia,2023-03-05,2023-04-17,Kallas K III,0,1,0,9,101,SDE|M,Sotsiaaldemokraatlik Erakond | Mõõdukad,Social Democratic Party | Moderates,4.1915,75,1118,1689,1688,1448
 FIN,Finland,1917-10-02,1917-11-27,Svinhufvud I,0,1,0,26,171,KESK,Keskusta,Centre Party,5.8027,67,902,1475,,94
 FIN,Finland,1917-10-02,1917-11-27,Svinhufvud I,0,1,0,21,171,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,902,1475,,585
 FIN,Finland,1917-10-02,1917-11-27,Svinhufvud I,0,1,1,32,171,SP-V,Suomalainen puolue – Vanhasuomalaiset,Finnish Party -- Old Finns,7.4,67,902,1475,,2434
@@ -3869,21 +3894,21 @@ FIN,Finland,1930-10-01,1931-03-21,Sunila II,0,1,0,20,200,RKP-SFP,Ruotsalainen Ka
 FIN,Finland,1930-10-01,1931-03-21,Sunila II,0,0,0,1,200,SPP,Suomen Pienviljelijäin Puolue – Finska Småbrukarpartiet,Finnish Small Farmers' Party,5.3,67,269,1203,1204,920
 FIN,Finland,1930-10-01,1931-03-21,Sunila II,0,0,0,66,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,269,1203,1204,395
 FIN,Finland,1930-10-01,1931-03-21,Sunila II,0,0,0,1,200,SV,Ruotsalainen vasemmisto – Svensk vänster,Swedish Left,1.3,67,269,1203,1204,1565
-FIN,Finland,1930-10-01,1932-12-14,Kivimäki I,0,1,0,59,200,KESK,Keskusta,Centre Party,5.8027,67,269,1202,1203,94
-FIN,Finland,1930-10-01,1932-12-14,Kivimäki I,0,1,1,11,200,KE|SLK,Kansallinen Edistyspuolue | [Suomen] Liberaalinen Kansanpuolue,National Progressive Party | [Finnish] Liberal People's Party,5.7167,67,269,1202,1203,1219
-FIN,Finland,1930-10-01,1932-12-14,Kivimäki I,0,0,0,42,200,KOK,Kansallinen Kokoomus – Samlingspartiet,National Coalition Party,7.2451,67,269,1202,1203,1118
-FIN,Finland,1930-10-01,1932-12-14,Kivimäki I,0,1,0,20,200,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,269,1202,1203,585
-FIN,Finland,1930-10-01,1932-12-14,Kivimäki I,0,0,0,1,200,SPP,Suomen Pienviljelijäin Puolue – Finska Småbrukarpartiet,Finnish Small Farmers' Party,5.3,67,269,1202,1203,920
-FIN,Finland,1930-10-01,1932-12-14,Kivimäki I,0,0,0,66,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,269,1202,1203,395
-FIN,Finland,1930-10-01,1932-12-14,Kivimäki I,0,0,0,1,200,SV,Ruotsalainen vasemmisto – Svensk vänster,Swedish Left,1.3,67,269,1202,1203,1565
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,0,0,14,200,IK,Isänmaallinen Kansanliike – Fosterländska Folkrörelsen,Patriotic People's Movement,7.4,67,689,1201,1202,957
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,1,0,53,200,KESK,Keskusta,Centre Party,5.8027,67,689,1201,1202,94
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,1,1,11,200,KE|SLK,Kansallinen Edistyspuolue | [Suomen] Liberaalinen Kansanpuolue,National Progressive Party | [Finnish] Liberal People's Party,5.7167,67,689,1201,1202,1219
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,0,0,18,200,KOK,Kansallinen Kokoomus – Samlingspartiet,National Coalition Party,7.2451,67,689,1201,1202,1118
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,0,0,2,200,Ka,Kansanpuolue,People's Party,5.3,67,689,1201,1202,2292
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,1,0,21,200,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,689,1201,1202,585
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,0,0,3,200,SPP,Suomen Pienviljelijäin Puolue – Finska Småbrukarpartiet,Finnish Small Farmers' Party,5.3,67,689,1201,1202,920
-FIN,Finland,1933-07-01,1933-07-01,Kivimäki II,0,0,0,78,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,689,1201,1202,395
+FIN,Finland,1930-10-01,1932-12-14,Kivimaki I,0,1,0,59,200,KESK,Keskusta,Centre Party,5.8027,67,269,1202,1203,94
+FIN,Finland,1930-10-01,1932-12-14,Kivimaki I,0,1,1,11,200,KE|SLK,Kansallinen Edistyspuolue | [Suomen] Liberaalinen Kansanpuolue,National Progressive Party | [Finnish] Liberal People's Party,5.7167,67,269,1202,1203,1219
+FIN,Finland,1930-10-01,1932-12-14,Kivimaki I,0,0,0,42,200,KOK,Kansallinen Kokoomus – Samlingspartiet,National Coalition Party,7.2451,67,269,1202,1203,1118
+FIN,Finland,1930-10-01,1932-12-14,Kivimaki I,0,1,0,20,200,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,269,1202,1203,585
+FIN,Finland,1930-10-01,1932-12-14,Kivimaki I,0,0,0,1,200,SPP,Suomen Pienviljelijäin Puolue – Finska Småbrukarpartiet,Finnish Small Farmers' Party,5.3,67,269,1202,1203,920
+FIN,Finland,1930-10-01,1932-12-14,Kivimaki I,0,0,0,66,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,269,1202,1203,395
+FIN,Finland,1930-10-01,1932-12-14,Kivimaki I,0,0,0,1,200,SV,Ruotsalainen vasemmisto – Svensk vänster,Swedish Left,1.3,67,269,1202,1203,1565
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,0,0,14,200,IK,Isänmaallinen Kansanliike – Fosterländska Folkrörelsen,Patriotic People's Movement,7.4,67,689,1201,1202,957
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,1,0,53,200,KESK,Keskusta,Centre Party,5.8027,67,689,1201,1202,94
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,1,1,11,200,KE|SLK,Kansallinen Edistyspuolue | [Suomen] Liberaalinen Kansanpuolue,National Progressive Party | [Finnish] Liberal People's Party,5.7167,67,689,1201,1202,1219
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,0,0,18,200,KOK,Kansallinen Kokoomus – Samlingspartiet,National Coalition Party,7.2451,67,689,1201,1202,1118
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,0,0,2,200,Ka,Kansanpuolue,People's Party,5.3,67,689,1201,1202,2292
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,1,0,21,200,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,689,1201,1202,585
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,0,0,3,200,SPP,Suomen Pienviljelijäin Puolue – Finska Småbrukarpartiet,Finnish Small Farmers' Party,5.3,67,689,1201,1202,920
+FIN,Finland,1933-07-01,1933-07-01,Kivimaki II,0,0,0,78,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,689,1201,1202,395
 FIN,Finland,1936-07-01,1936-07-04,Kallio IV,0,0,0,14,200,IK,Isänmaallinen Kansanliike – Fosterländska Folkrörelsen,Patriotic People's Movement,7.4,67,142,1200,1201,957
 FIN,Finland,1936-07-01,1936-07-04,Kallio IV,0,1,1,53,200,KESK,Keskusta,Centre Party,5.8027,67,142,1200,1201,94
 FIN,Finland,1936-07-01,1936-07-04,Kallio IV,0,1,0,7,200,KE|SLK,Kansallinen Edistyspuolue | [Suomen] Liberaalinen Kansanpuolue,National Progressive Party | [Finnish] Liberal People's Party,5.7167,67,142,1200,1201,1219
@@ -4429,6 +4454,15 @@ FIN,Finland,2019-04-14,2019-12-10,Marin,0,1,0,9,200,RKP-SFP,Ruotsalainen Kansanp
 FIN,Finland,2019-04-14,2019-12-10,Marin,0,0,0,39,200,SP|P,Suomen Puolue | Perussuomalaiset,Finnish Party | True Finns,6.6331,67,1045,1607,1596,200
 FIN,Finland,2019-04-14,2019-12-10,Marin,0,1,1,40,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,1045,1607,1596,395
 FIN,Finland,2019-04-14,2019-12-10,Marin,0,1,0,20,200,VIHR,Vihreä Liitto – Gröna Förbundet,Green League,3.6465,67,1045,1607,1596,1062
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,0,0,11,200,DL|VAS,Demokraattinen Liitto – Demokratiska Förbundet | Vasemmistoliitto – Vänsterförbundet ,Democratic Union | Left Alliance,2.1843,67,1119,1694,1607,1292
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,1,0,5,200,KD,Kristillisdemokraatit – Kristdemokraterna,Christian Democrats,7.1884,67,1119,1694,1607,1463
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,0,0,23,200,KESK,Keskusta,Centre Party,5.8027,67,1119,1694,1607,94
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,1,1,48,200,KOK,Kansallinen Kokoomus – Samlingspartiet,National Coalition Party,7.2451,67,1119,1694,1607,1118
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,0,0,1,200,LN,Liike Nyt,Movement Now,6.0,67,1119,1694,1607,2801
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,1,0,9,200,RKP-SFP,Ruotsalainen Kansanpuolue – Svenska Folkepartiet i Finland,Swedish People's Party,6.3906,67,1119,1694,1607,585
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,1,0,46,200,SP|P,Suomen Puolue | Perussuomalaiset,Finnish Party | True Finns,6.6331,67,1119,1694,1607,200
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,0,0,43,200,SSDP,Suomen Sosialidemokraattinen Puolue – Finlands Socialdemokratiska Parti,Social Democratic Party of Finland,3.5595,67,1119,1694,1607,395
+FIN,Finland,2023-04-02,2023-06-20,Orpo,0,0,0,13,200,VIHR,Vihreä Liitto – Gröna Förbundet,Green League,3.6465,67,1119,1694,1607,1062
 FRA,France,1902-05-11,1902-06-07,Combes,0,0,0,145,575,C,Conservateurs,Conservatives,7.4,43,987,1387,,2589
 FRA,France,1902-05-11,1902-06-07,Combes,0,1,1,75,575,PR,Parti radical-socialiste ,Radical Socialist Party,3.9896,43,987,1387,,401
 FRA,France,1902-05-11,1902-06-07,Combes,0,0,0,45,575,PS,Parti socialiste,Socialist Party,3.2493,43,987,1387,,1539
@@ -5201,12 +5235,12 @@ FRA,France,1956-01-02,1958-06-02,de Gaulle III,1,0,0,20,544,RDA,Rassemblement d�
 FRA,France,1956-01-02,1958-06-02,de Gaulle III,1,0,0,14,544,RGR,Rassemblement des gauches républicaines,Rally of Republican Lefts,7.4,43,312,197,594,890
 FRA,France,1956-01-02,1958-06-02,de Gaulle III,1,0,0,42,544,UDCA,Union de défense des commerçants et artisans – Poujadists,Union for the Defence of Traders and Artisans -- Poujadists,7.4,43,312,197,594,898
 FRA,France,1956-01-02,1958-06-02,de Gaulle III,1,1,1,7,544,none,sans étiquette,no party affiliation,,43,312,197,594,947
-FRA,France,1958-11-30,1959-01-08,Debré,0,1,0,117,465,CNIP,Centre national des indépendants et paysans,National Centre of Independents and Peasants [Conservatives],7.5636,43,375,692,197,1414
-FRA,France,1958-11-30,1959-01-08,Debré,0,1,1,206,465,G,Gaulliste,Gaullists,8.2,43,375,692,197,1094
-FRA,France,1958-11-30,1959-01-08,Debré,0,1,0,64,465,MRP,Mouvement républicain populaire,Popular Republican Movement,8.2,43,375,692,197,1086
-FRA,France,1958-11-30,1959-01-08,Debré,0,1,0,0,465,PR,Parti radical-socialiste ,Radical Socialist Party,3.9896,43,375,692,197,401
-FRA,France,1958-11-30,1959-01-08,Debré,0,0,0,47,465,PS,Parti socialiste,Socialist Party,3.2493,43,375,692,197,1539
-FRA,France,1958-11-30,1959-01-08,Debré,0,0,0,36,465,none,sans étiquette,no party affiliation,,43,375,692,197,947
+FRA,France,1958-11-30,1959-01-08,Debre,0,1,0,117,465,CNIP,Centre national des indépendants et paysans,National Centre of Independents and Peasants [Conservatives],7.5636,43,375,692,197,1414
+FRA,France,1958-11-30,1959-01-08,Debre,0,1,1,206,465,G,Gaulliste,Gaullists,8.2,43,375,692,197,1094
+FRA,France,1958-11-30,1959-01-08,Debre,0,1,0,64,465,MRP,Mouvement républicain populaire,Popular Republican Movement,8.2,43,375,692,197,1086
+FRA,France,1958-11-30,1959-01-08,Debre,0,1,0,0,465,PR,Parti radical-socialiste ,Radical Socialist Party,3.9896,43,375,692,197,401
+FRA,France,1958-11-30,1959-01-08,Debre,0,0,0,47,465,PS,Parti socialiste,Socialist Party,3.2493,43,375,692,197,1539
+FRA,France,1958-11-30,1959-01-08,Debre,0,0,0,36,465,none,sans étiquette,no party affiliation,,43,375,692,197,947
 FRA,France,1958-11-30,1962-04-15,Pompidou I,0,1,0,117,465,CNIP,Centre national des indépendants et paysans,National Centre of Independents and Peasants [Conservatives],7.5636,43,375,526,692,1414
 FRA,France,1958-11-30,1962-04-15,Pompidou I,0,1,0,206,465,G,Gaulliste,Gaullists,8.2,43,375,526,692,1094
 FRA,France,1958-11-30,1962-04-15,Pompidou I,0,1,0,64,465,MRP,Mouvement républicain populaire,Popular Republican Movement,8.2,43,375,526,692,1086
@@ -5536,7 +5570,7 @@ FRA,France,2022-06-19,2022-06-19,Borne II,0,1,0,0,577,UDF|MD,Union pour la démo
 FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,3,577,UDI,Union des démocrates et indépendants,Union of Democrats and Independents,7.4,43,1110,1675,1673,2273
 FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,61,577,UMP|LR,Union pour un mouvement populaire | Les Républicains,Union for a Popular Movement | The Republicans,7.4997,43,1110,1675,1673,658
 FRA,France,2022-06-19,2022-06-19,Borne II,0,1,0,0,577,agir,"Agir, la droite constructive","Act, the constructive right",7.4,43,1110,1675,1673,2862
-FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,4,577,d-center,divers centre,other centre,6.0,43,1110,1675,1673,2858
+FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,4,577,d-centre,divers centre,other centre,6.0,43,1110,1675,1673,2858
 FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,10,577,d-droite,divers droite,other right,7.6583,43,1110,1675,1673,285
 FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,22,577,d-gauche,divers gauche,other left,3.3,43,1110,1675,1673,177
 FRA,France,2022-06-19,2022-06-19,Borne II,0,0,0,1,577,etc,divers,others,,43,1110,1675,1673,1328
@@ -6064,12 +6098,26 @@ GRC,Greece,2015-09-20,2019-01-13,Tsipras III,0,0,0,17,300,PASOK,Panellinio Sosia
 GRC,Greece,2015-09-20,2019-01-13,Tsipras III,0,1,1,145,300,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2.8947,41,992,1593,1175,1592
 GRC,Greece,2015-09-20,2019-01-13,Tsipras III,0,0,0,10,300,TP,To Potami,The River,3.3,41,992,1593,1175,2346
 GRC,Greece,2015-09-20,2019-01-13,Tsipras III,0,0,0,7,300,none,no party affiliation,no party affiliation,,41,992,1593,1175,1358
-GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr,0,0,0,10,300,EL,Elliniki Lisi,Greek Solution,7.4,41,1078,1597,1593,2780
-GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr,0,0,0,15,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,1078,1597,1593,614
-GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr,0,0,0,9,300,MeRA25,Métopo Evropaikís Realistikís Anypakoís,European Realistic Disobedience Front,1.3,41,1078,1597,1593,2742
-GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr,0,1,1,158,300,ND,Néa Đimokratía,New Democracy,6.7365,41,1078,1597,1593,47
-GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr,0,0,0,22,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,1078,1597,1593,1338
-GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr,0,0,0,86,300,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2.8947,41,1078,1597,1593,1592
+GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr I,0,0,0,10,300,EL,Elliniki Lisi,Greek Solution,7.4,41,1078,1597,1593,2780
+GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr I,0,0,0,15,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,1078,1597,1593,614
+GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr I,0,0,0,9,300,MeRA25,Métopo Evropaikís Realistikís Anypakoís,European Realistic Disobedience Front,1.3,41,1078,1597,1593,2742
+GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr I,0,1,1,158,300,ND,Néa Đimokratía,New Democracy,6.7365,41,1078,1597,1593,47
+GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr I,0,0,0,22,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,1078,1597,1593,1338
+GRC,Greece,2019-07-07,2019-07-08,Mitsotakis Kyr I,0,0,0,86,300,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2.8947,41,1078,1597,1593,1592
+GRC,Greece,2023-05-21,2023-05-25,Sarmas,1,0,0,16,300,EL,Elliniki Lisi,Greek Solution,7.4,41,1122,1696,1597,2780
+GRC,Greece,2023-05-21,2023-05-25,Sarmas,1,0,0,26,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,1122,1696,1597,614
+GRC,Greece,2023-05-21,2023-05-25,Sarmas,1,0,0,146,300,ND,Néa Đimokratía,New Democracy,6.7365,41,1122,1696,1597,47
+GRC,Greece,2023-05-21,2023-05-25,Sarmas,1,0,0,41,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,1122,1696,1597,1338
+GRC,Greece,2023-05-21,2023-05-25,Sarmas,1,0,0,71,300,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2.8947,41,1122,1696,1597,1592
+GRC,Greece,2023-05-21,2023-05-25,Sarmas,1,1,1,0,300,none,no party affiliation,no party affiliation,,41,1122,1696,1597,1358
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,0,0,12,300,EL,Elliniki Lisi,Greek Solution,7.4,41,1123,1695,1696,2780
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,0,0,21,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,1123,1695,1696,614
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,0,0,8,300,LE|PE,Laïkí Enótita | Plefsi Eleftherias,Popular Unity | Course of Freedom,1.3,41,1123,1695,1696,2596
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,1,1,158,300,ND,Néa Đimokratía,New Democracy,6.7365,41,1123,1695,1696,47
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,0,0,10,300,NIKH,Δημοκρατικό Πατριωτικό Κίνημα,Victory,8.8,41,1123,1695,1696,2901
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,0,0,32,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,1123,1695,1696,1338
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,0,0,47,300,SYRIZA,Synaspismós Rizospastikís Aristerás,Coalition of the Radical Left,2.8947,41,1123,1695,1696,1592
+GRC,Greece,2023-06-25,2023-06-26,Mitsotakis Kyr II,0,0,0,12,300,Sp,Spartiátes,Spartans,8.8,41,1123,1695,1696,2902
 HRV,Croatia,2000-01-03,2000-01-27,Racan I,0,0,0,46,151,HDZ,Hrvatska demokratska zajednica,Croatian Democratic Union,7.1053,62,797,1049,,276
 HRV,Croatia,2000-01-03,2000-01-27,Racan I,0,1,0,2,151,HNS-LD,Hrvatska narodna stranka – Liberalni demokrati,Croatian People's Party -- Liberal Democrats,1.8421,62,797,1049,,1384
 HRV,Croatia,2000-01-03,2000-01-27,Racan I,0,1,0,24,151,HSLS,Hrvatska socijalno liberalna stranka,Croatian Social Liberal Party,7.193,62,797,1049,,1102
@@ -8766,7 +8814,6 @@ ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,11,400,P|SDI,Partito | Socialisti D
 ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,3,400,SVP,Südtiroler Volkspartei,South Tyrol Peoples Party,5.4,26,1113,1682,1681,1030
 ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,9,400,UC,Unione / Centro,Union / Centre,6.1092,26,1113,1682,1681,226
 ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,3,400,etc,diversi,others,,26,1113,1682,1681,825
-ITA,Italy,2022-09-25,2022-10-22,Meloni,0,1,0,0,400,none,senzo partito,no party affiliation,,26,1113,1682,1681,1552
 ITA,Italy,2022-09-25,2022-10-22,Meloni,0,0,0,1,400,one-seat,one seat,one seat,,26,1113,1682,1681,2302
 JPN,Japan,1946-04-10,1946-05-22,Yoshida I,0,1,0,110,464,DP,Minshutō,Democratic Party,7.4,5,697,891,,1734
 JPN,Japan,1946-04-10,1946-05-22,Yoshida I,0,0,0,6,464,JCP,Nihon Kyōsan-tō,Japan Communist Party,1.148,5,697,891,,1540
@@ -10490,10 +10537,10 @@ NOR,Norway,1906-08-27,1906-08-27,Michelsen II,0,0,0,4,123,AD|DRF,Arbeiderdemokra
 NOR,Norway,1906-08-27,1906-08-27,Michelsen II,0,0,0,10,123,DNA,Det norske Arbeiderparti,Norwegian Labour Party,3.3706,9,945,1385,1380,104
 NOR,Norway,1906-08-27,1906-08-27,Michelsen II,0,0,0,36,123,H,Høyre,Conservative Party,7.8994,9,945,1385,1380,1435
 NOR,Norway,1906-08-27,1906-08-27,Michelsen II,0,1,1,73,123,V,Venstre,Liberal Party of Norway,5.1467,9,945,1385,1380,647
-NOR,Norway,1906-08-27,1907-10-23,Løvland,0,0,0,4,123,AD|DRF,Arbeiderdemokratene | Det radikale Folkeparti, Labour Democrats | Radical People's Party,1.3,9,945,1381,1385,2415
-NOR,Norway,1906-08-27,1907-10-23,Løvland,0,0,0,10,123,DNA,Det norske Arbeiderparti,Norwegian Labour Party,3.3706,9,945,1381,1385,104
-NOR,Norway,1906-08-27,1907-10-23,Løvland,0,0,0,36,123,H,Høyre,Conservative Party,7.8994,9,945,1381,1385,1435
-NOR,Norway,1906-08-27,1907-10-23,Løvland,0,1,1,73,123,V,Venstre,Liberal Party of Norway,5.1467,9,945,1381,1385,647
+NOR,Norway,1906-08-27,1907-10-23,Lovland,0,0,0,4,123,AD|DRF,Arbeiderdemokratene | Det radikale Folkeparti, Labour Democrats | Radical People's Party,1.3,9,945,1381,1385,2415
+NOR,Norway,1906-08-27,1907-10-23,Lovland,0,0,0,10,123,DNA,Det norske Arbeiderparti,Norwegian Labour Party,3.3706,9,945,1381,1385,104
+NOR,Norway,1906-08-27,1907-10-23,Lovland,0,0,0,36,123,H,Høyre,Conservative Party,7.8994,9,945,1381,1385,1435
+NOR,Norway,1906-08-27,1907-10-23,Lovland,0,1,1,73,123,V,Venstre,Liberal Party of Norway,5.1467,9,945,1381,1385,647
 NOR,Norway,1906-08-27,1908-03-18,Knudsen I,0,0,0,4,123,AD|DRF,Arbeiderdemokratene | Det radikale Folkeparti, Labour Democrats | Radical People's Party,1.3,9,945,1382,1381,2415
 NOR,Norway,1906-08-27,1908-03-18,Knudsen I,0,0,0,10,123,DNA,Det norske Arbeiderparti,Norwegian Labour Party,3.3706,9,945,1382,1381,104
 NOR,Norway,1906-08-27,1908-03-18,Knudsen I,0,0,0,36,123,H,Høyre,Conservative Party,7.8994,9,945,1382,1381,1435
@@ -11141,6 +11188,11 @@ NZL,New Zealand,2020-10-17,2020-10-31,Ardern II,0,0,0,10,120,Greens,Green Party,
 NZL,New Zealand,2020-10-17,2020-10-31,Ardern II,0,1,1,65,120,LP,Labour Party,Labour Party,4.483,11,1092,1638,1518,878
 NZL,New Zealand,2020-10-17,2020-10-31,Ardern II,0,0,0,2,120,MP,Māori Party,Maori Party,,11,1092,1638,1518,114
 NZL,New Zealand,2020-10-17,2020-10-31,Ardern II,0,0,0,33,120,NP,National Party,National Party,6.7193,11,1092,1638,1518,997
+NZL,New Zealand,2020-10-17,2023-01-25,Hipkins,0,0,0,10,120,ACT,ACT New Zealand,ACT New Zealand,9.0263,11,1092,1687,1638,617
+NZL,New Zealand,2020-10-17,2023-01-25,Hipkins,0,0,0,10,120,Greens,Green Party,Green Party,1.7729,11,1092,1687,1638,1171
+NZL,New Zealand,2020-10-17,2023-01-25,Hipkins,0,1,1,65,120,LP,Labour Party,Labour Party,4.483,11,1092,1687,1638,878
+NZL,New Zealand,2020-10-17,2023-01-25,Hipkins,0,0,0,2,120,MP,Māori Party,Maori Party,,11,1092,1687,1638,114
+NZL,New Zealand,2020-10-17,2023-01-25,Hipkins,0,0,0,33,120,NP,National Party,National Party,6.7193,11,1092,1687,1638,997
 POL,Poland,1989-06-18,1989-08-24,Mazowiecki,0,1,0,173,460,PZPR,Polska Zjednoczone Partia Robotnicza,Polish United Workers' Party,1.3,74,158,728,,1077
 POL,Poland,1989-06-18,1989-08-24,Mazowiecki,0,1,1,161,460,S,Solidarność,Solidarnosc,3.3,74,158,728,,108
 POL,Poland,1989-06-18,1989-08-24,Mazowiecki,0,1,0,27,460,SD,Stronnictwo Demokratyczne,Democratic Party,1.3,74,158,728,,1216
@@ -11933,6 +11985,13 @@ SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,0,0,13,150,SaS,Sloboda a solidarit
 SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,0,0,38,150,Smer,Smer – sociálna demokracia,Direction -- Social Democracy,3.3799,1,1089,1679,1666,220
 SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,1,0,12,150,ZAL,Za ľudí,For the People,6.0,1,1089,1679,1666,2796
 SVK,Slovakia,2020-02-29,2022-09-13,Heger II,0,1,0,0,150,none,no party affiliation,no party affiliation,,1,1089,1679,1666,1359
+SVK,Slovakia,2020-02-29,2023-05-15,Odor,1,0,0,17,150,LsNS,Ľudová strana Naše Slovensko,People's Party Our Slovakia,8.8,1,1089,1693,1679,586
+SVK,Slovakia,2020-02-29,2023-05-15,Odor,1,0,0,53,150,OLaNO,Obyčajní ľudia a nezávislé osobnosti,Ordinary People and Independent,7.4,1,1089,1693,1679,1759
+SVK,Slovakia,2020-02-29,2023-05-15,Odor,1,0,0,17,150,SR,Sme Rodina – Boris Kollár,We are family -- Boris Kollar,8.8,1,1089,1693,1679,2623
+SVK,Slovakia,2020-02-29,2023-05-15,Odor,1,0,0,13,150,SaS,Sloboda a solidarita,Freedom and Solidarity,6.0,1,1089,1693,1679,1460
+SVK,Slovakia,2020-02-29,2023-05-15,Odor,1,0,0,38,150,Smer,Smer – sociálna demokracia,Direction -- Social Democracy,3.3799,1,1089,1693,1679,220
+SVK,Slovakia,2020-02-29,2023-05-15,Odor,1,0,0,12,150,ZAL,Za ľudí,For the People,6.0,1,1089,1693,1679,2796
+SVK,Slovakia,2020-02-29,2023-05-15,Odor,1,1,1,0,150,none,no party affiliation,no party affiliation,,1,1089,1693,1679,1359
 SVN,Slovenia,1990-04-12,1990-05-16,Peterle,0,0,0,1,80,Ita,Italijanska narodna skupnost,Italian national community,,60,129,527,,199
 SVN,Slovenia,1990-04-12,1990-05-16,Peterle,0,0,0,12,80,LDS,Liberalna demokracija Slovenije,Liberal Democracy of Slovenia,3.7351,60,129,527,,1252
 SVN,Slovenia,1990-04-12,1990-05-16,Peterle,0,0,0,1,80,Mad,Madžarska narodna skupnost,Hungarian national community,,60,129,527,,65
@@ -12573,3 +12632,10 @@ TUR,Turkey,2018-06-24,2018-07-09,Erdogan IV,0,0,0,67,600,HDP,Halkların Demokrat
 TUR,Turkey,2018-06-24,2018-07-09,Erdogan IV,0,0,0,43,600,IYI,İyi Parti,Iyi Party,8.8,20,1032,1635,1487,2702
 TUR,Turkey,2018-06-24,2018-07-09,Erdogan IV,0,0,0,49,600,MHP,Milliyetçi Hareket Partisi,National Action Party,8.6587,20,1032,1635,1487,408
 TUR,Turkey,2018-06-24,2018-07-09,Erdogan IV,0,0,0,146,600,SHP|CHP,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,Social Democratic Populist Party | Republican People's Party,3.2661,20,1032,1635,1487,507
+TUR,Turkey,2023-05-14,2023-06-03,Erdogan V,0,1,1,268,600,AKP,Adalet ve Kalkınma Partisi,Justice and Development Party,6.9873,20,1121,1690,1635,901
+TUR,Turkey,2023-05-14,2023-06-03,Erdogan V,0,0,0,43,600,IYI,İyi Parti,Iyi Party,8.8,20,1121,1690,1635,2702
+TUR,Turkey,2023-05-14,2023-06-03,Erdogan V,0,0,0,50,600,MHP,Milliyetçi Hareket Partisi,National Action Party,8.6587,20,1121,1690,1635,408
+TUR,Turkey,2023-05-14,2023-06-03,Erdogan V,0,0,0,169,600,SHP|CHP,Sosyal Demokrat Halçi Parti | Cumhuriyet Halk Partisi,Social Democratic Populist Party | Republican People's Party,3.2661,20,1121,1690,1635,507
+TUR,Turkey,2023-05-14,2023-06-03,Erdogan V,0,0,0,4,600,TIP,Türkiye İşçi Partisi,Worker's Party of Turkey,1.3,20,1121,1690,1635,2896
+TUR,Turkey,2023-05-14,2023-06-03,Erdogan V,0,0,0,5,600,YRP,Yeniden Refah Partisi,New Welfare Party,,20,1121,1690,1635,2897
+TUR,Turkey,2023-05-14,2023-06-03,Erdogan V,0,0,0,61,600,YSPG,Yeşiller ve Sol Gelecek Partisi,Party of Greens and the Left Future,2.5,20,1121,1690,1635,2895
