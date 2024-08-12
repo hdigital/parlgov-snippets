@@ -16,10 +16,6 @@ menu:
   main:
     - name: About
       url: /about/
-    - name: Data
-      url: /data-info/
-    - name: Twitter
-      url: https://twitter.com/parlgov
     - name: Dataverse
       url: https://dataverse.harvard.edu/dataverse/parlgov
     - name: GitHub
