@@ -6,7 +6,28 @@
     <description>Recent content on ParlGov website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ParlGov 2024 released</title>
+      <link>/2024/08/12/parlgov-2024-released/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/2024/08/12/parlgov-2024-released/</guid>
+      <description>We have added the 2024 stable version to the ParlGov Dataverse.
+The 2024 version includes all elections and cabinets until June 2023. The release includes a SQLite database with some additional information and a pdf-copy of the codebook.
+Many thanks to Alexandra Quaas and Maike Hesse for important help to finalize the release.</description>
+    </item>
+    
+    <item>
+      <title>Twitter account retired</title>
+      <link>/2024/08/09/twitter-account-retired/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/2024/08/09/twitter-account-retired/</guid>
+      <description>We retired the ParlGov Twitter/X account today. We have not been very active on the platform over the last years.
+In addition, Twitter has changed significanty since it turned into X and does not provide a free API access anymore.</description>
+    </item>
+    
     <item>
       <title>Development version 07/23</title>
       <link>/2023/11/04/development-version-07/23/</link>
@@ -94,29 +115,6 @@ In 2022, we also want to move into a schedule where we publish a development ver
       <guid>/2021/11/12/validation-of-cabinets-in-central-eastern-europe/</guid>
       <description>We validated the Central Eastern European cabinets with the recently published “Coalition Governance in Central Eastern Europe” (Bergman ea. 2019). No major changes or updates were added. All minor corrections are documented in the change log.
 In ParlGov, we record investiture votes mainly for recent cabinets (see codebook). Nevertheless, we have added some historical investiture votes for cabinets in Central Eastern Europe if we found a primary news source such as Reuters, AFP or AP.</description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>/data-info/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/data-info/</guid>
-      <description>Note Data ParlGov development version (4. Nov. 2023)
-Döring, Holger, Alexandra Quaas, Maike Hesse, and Philip Manow. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version.
- Main tables: parties · elections · cabinets Spreadsheet: Excel and Google Docs (public sheet) All tables: zipped csv-file Database: SQLite Codebook: pdf  Links All data available
- previously at http://www.parlgov.org/static/data/parlgov-development_csv-utf-8/ now at https://parlgov.org/data/parlgov-development_csv-utf-8/   </description>
-    </item>
-    
-    <item>
-      <title>ParlGov project</title>
-      <link>/about/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Project description ParlGov is a data infrastructure for political science and contains information for all EU and most OECD democracies (37 countries). The database combines approximately 1700 parties, 1000 elections (9400 results), and 1600 cabinets (3900 parties).
-See the Dashboard by Lukas Warode to visualize the ParlGov data.
-Reference  ParlGov database (Döring ea. 2022) Döring, Holger, Constantin Huber and Philip Manow. 2022. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies.</description>
     </item>
     
     <item>
@@ -3228,6 +3226,28 @@ The old design with the current layout, logo and colors has not changed over the
       <guid>/2009/07/31/central-and-east-european-countries-double-checked/</guid>
       <description>We have finished double checking our data on parties, election outcomes and government compositions for the Central- and East European EU member states. Government composition data was compared to information provided by Müller-Rommel ea. (2008) and EJPR Yearbooks.
 Our electoral results on Central- and Eastern Europe still lack a systematic coding of electoral alliances and an inclusion of official election results. Please let us know if you notice any data bugs.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>ParlGov project Project description The Parliaments and Governments Database (ParlGov) is a data infrastructure for political science with information for all EU and most OECD democracies. (37 countries). The database combines about 1700 parties, 1000 elections (9800 results) and 1600 cabinets (4000 parties).
+References  Döring, Holger, and Philip Manow. 2024. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. – parlgov.org Döring, Holger, and Philip Manow.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/data-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/data-info/</guid>
+      <description>Data Note Data ParlGov development version (4. Nov. 2023)
+Döring, Holger, Alexandra Quaas, Maike Hesse, and Philip Manow. 2023. Parliaments and governments database (ParlGov): Information on parties, elections and cabinets in established democracies. Development version.
+ Main tables: parties · elections · cabinets Spreadsheet: Excel and Google Docs (public sheet) All tables: zipped csv-file Database: SQLite Codebook: pdf  Links All data available
+ previously at http://www.parlgov.org/static/data/parlgov-development_csv-utf-8/ now at https://parlgov.org/data/parlgov-development_csv-utf-8/   </description>
     </item>
     
   </channel>
