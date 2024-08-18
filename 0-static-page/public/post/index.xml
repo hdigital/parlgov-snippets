@@ -6,7 +6,16 @@
     <description>Recent content in Posts on ParlGov website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Party Facts linking updated</title>
+      <link>/2024/08/18/party-facts-linking-updated/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/2024/08/18/party-facts-linking-updated/</guid>
+      <description>We have updated and linked all ParlGov parties from the 2024 release in Party Facts.</description>
+    </item>
+    
     <item>
       <title>ParlGov 2024 released</title>
       <link>/2024/08/12/parlgov-2024-released/</link>
