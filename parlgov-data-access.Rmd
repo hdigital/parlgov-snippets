@@ -1,12 +1,9 @@
 ---
 title: "ParlGov data"
-author: "Holger Doering --- holger.doering@gesis.org"
-date: "`r format(Sys.time(), '%d %B %Y, %H:%M')`"
 output:
-  html_notebook:
-    # code_folding: hide
-    toc: yes
-    toc_float: yes
+  html_document:
+    toc: true
+    df_print: paged
 ---
 <style type="text/css"> <!-- .table { width: auto } ---> </style>
 
