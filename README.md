@@ -1,6 +1,11 @@
-# ParlGov snippets
+# ParlGov snippets · 🗳️ 📊
 
-Snippets for dataset generation and analysis with ParlGov – [parlgov.org](http://www.parlgov.org)
+- <http://parlgov.org>
+- <https://dataverse.harvard.edu/dataverse/parlgov>
+- <https://parlgov.fly.dev>
+- <https://github.com/hdigital/parlgov-snippets>
+
+Snippets for dataset generation and analysis with ParlGov.
 
 - see [parlgov-data-access.Rmd](parlgov-data-access.Rmd) examples
 
