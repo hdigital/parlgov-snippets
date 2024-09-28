@@ -1,0 +1,141 @@
+cabinet_id,party_id,coal_coalition,coal_formed,coal_minority,coal_min_win,coal_surplus,coal_incumbent,coal_incumbent_pm,coal_seats_share,coal_n,coal_enp,coal_largest,coal_president,coal_median,coal_lr_range,coal_anti_sytem,country_name_short,country_name,election_date,start_date,cabinet_name,caretaker,cabinet_party,prime_minister,president,seats,election_seats_total,party_name_short,party_name,party_name_english,left_right,country_id,election_id,previous_cabinet_id,family
+659,50,1,0,1,0,0,0,0,8.5,1,1,0,0,0,0,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,769,2,0,1,0,0,0,0,2.4,1,1,0,0,0,0,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,1013,3,0,1,0,0,0,1,44.8,1,1,1,0,1,0,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,973,4,0,1,0,0,0,0,44.2,1,1,0,0,0,0,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+659,50,5,0,1,0,0,0,0,10.9,2,1.5,0,0,0,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,769,5,0,1,0,0,0,0,10.9,2,1.5,0,0,0,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,50,6,0,0,1,0,0,1,53.3,2,1.4,1,0,1,1.9,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,1013,6,0,0,1,0,0,1,53.3,2,1.4,1,0,1,1.9,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,50,7,0,0,1,0,0,0,52.7,2,1.4,0,0,0,4.6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,973,7,0,0,1,0,0,0,52.7,2,1.4,0,0,0,4.6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+659,769,8,0,1,0,0,0,1,47.3,2,1.1,1,0,1,6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,1013,8,0,1,0,0,0,1,47.3,2,1.1,1,0,1,6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,769,9,0,1,0,0,0,0,46.7,2,1.1,0,0,0,3.2,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,973,9,0,1,0,0,0,0,46.7,2,1.1,0,0,0,3.2,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+659,1013,10,1,0,1,0,1,1,89.1,2,2,1,0,1,2.7,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,973,10,1,0,1,0,1,1,89.1,2,2,1,0,1,2.7,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+659,50,11,0,0,0,1,0,1,55.8,3,1.5,1,0,1,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,769,11,0,0,0,1,0,1,55.8,3,1.5,1,0,1,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,1013,11,0,0,0,1,0,1,55.8,3,1.5,1,0,1,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,50,12,0,0,0,1,0,0,55.2,3,1.5,0,0,0,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,769,12,0,0,0,1,0,0,55.2,3,1.5,0,0,0,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,973,12,0,0,0,1,0,0,55.2,3,1.5,0,0,0,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+659,50,13,0,0,0,1,0,1,97.6,3,2.4,1,0,1,4.6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,1013,13,0,0,0,1,0,1,97.6,3,2.4,1,0,1,4.6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,973,13,0,0,0,1,0,1,97.6,3,2.4,1,0,1,4.6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+659,769,14,0,0,0,1,0,1,91.5,3,2.1,1,0,1,6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,1013,14,0,0,0,1,0,1,91.5,3,2.1,1,0,1,6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,973,14,0,0,0,1,0,1,91.5,3,2.1,1,0,1,6,0,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+659,50,15,0,0,0,1,0,1,100,4,2.5,1,0,1,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,14,165,FPO,Freiheitliche Partei Österreichs,Freedom Party of Austria,8.3494,59,11,560,right
+659,769,15,0,0,0,1,0,1,100,4,2.5,1,0,1,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,0,0,0,4,165,KPO,Kommunistische Partei Österreichs,Communist Party of Austria,0.5,59,11,560,com
+659,1013,15,0,0,0,1,0,1,100,4,2.5,1,0,1,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,1,0,74,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,11,560,chr
+659,973,15,0,0,0,1,0,1,100,4,2.5,1,0,1,7.8,1,AUT,Austria,1953-02-22,1953-04-02,Raab I,0,1,0,0,73,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,11,560,soc
+793,1727,16,0,0,1,0,0,1,54.3,1,1,1,0,1,0,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,912,17,0,1,0,0,0,0,3.4,1,1,0,0,0,0,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,543,18,0,1,0,0,0,0,8.2,1,1,0,0,0,0,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,558,19,0,1,0,0,0,0,34,1,1,0,0,0,0,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+793,1727,20,1,0,0,1,0,1,57.7,2,1.1,1,0,1,1.1,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,912,20,1,0,0,1,0,1,57.7,2,1.1,1,0,1,1.1,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,1727,21,0,0,0,1,0,1,62.6,2,1.3,1,0,1,0.3,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,543,21,0,0,0,1,0,1,62.6,2,1.3,1,0,1,0.3,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,1727,22,0,0,0,1,0,1,88.3,2,1.9,1,0,1,2.6,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,558,22,0,0,0,1,0,1,88.3,2,1.9,1,0,1,2.6,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+793,912,23,0,1,0,0,0,0,11.7,2,1.7,0,0,0,1.5,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,543,23,0,1,0,0,0,0,11.7,2,1.7,0,0,0,1.5,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,912,24,0,1,0,0,0,0,37.4,2,1.2,0,0,0,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,558,24,0,1,0,0,0,0,37.4,2,1.2,0,0,0,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+793,543,25,0,1,0,0,0,0,42.3,2,1.5,0,0,0,2.3,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,558,25,0,1,0,0,0,0,42.3,2,1.5,0,0,0,2.3,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+793,1727,26,0,0,0,1,0,1,66,3,1.4,1,0,1,1.5,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,912,26,0,0,0,1,0,1,66,3,1.4,1,0,1,1.5,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,543,26,0,0,0,1,0,1,66,3,1.4,1,0,1,1.5,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,1727,27,0,0,0,1,0,1,91.8,3,2,1,0,1,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,912,27,0,0,0,1,0,1,91.8,3,2,1,0,1,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,558,27,0,0,0,1,0,1,91.8,3,2,1,0,1,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+793,1727,28,0,0,0,1,0,1,96.6,3,2.2,1,0,1,2.6,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,543,28,0,0,0,1,0,1,96.6,3,2.2,1,0,1,2.6,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,558,28,0,0,0,1,0,1,96.6,3,2.2,1,0,1,2.6,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+793,912,29,0,1,0,0,0,0,45.7,3,1.7,0,0,0,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,543,29,0,1,0,0,0,0,45.7,3,1.7,0,0,0,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,558,29,0,1,0,0,0,0,45.7,3,1.7,0,0,0,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+793,1727,30,0,0,0,1,0,1,100,4,2.4,1,0,1,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,1,0,270,497,CDU+CSU,Christlich Demokratische Union / Christlich Soziale Union,Christian Democratic Union / Christian Social Union,6.2503,54,331,633,chr
+793,912,30,0,0,0,1,0,1,100,4,2.4,1,0,1,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,1,0,0,17,497,DP,Deutsche Partei,German Party,7.4,54,331,633,con
+793,543,30,0,0,0,1,0,1,100,4,2.4,1,0,1,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,41,497,FDP,Freie Demokratische Partei,Free Democratic Party,5.9233,54,331,633,lib
+793,558,30,0,0,0,1,0,1,100,4,2.4,1,0,1,3.8,0,DEU,Germany,1957-09-15,1957-10-24,Adenauer V,0,0,0,0,169,497,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,3.6451,54,331,633,soc
+1326,2469,31,1,0,1,0,1,1,72.5,1,1,1,0,1,0,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,1,1,0,58,80,NZLP,New Zealand Liberal Party,New Zealand Liberal Party,6,11,973,1325,lib
+1326,2471,32,0,1,0,0,0,0,20,1,1,0,0,0,0,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,16,80,RP,Reform Party,Reform Party,7.4,11,973,1325,con
+1326,1262,33,0,1,0,0,0,0,7.5,1,1,0,0,0,NA,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,6,80,none,no party affiliation,no party affiliation,NA,11,973,1325,none
+1326,2469,34,0,0,0,1,0,1,92.5,2,1.5,1,0,1,1.4,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,1,1,0,58,80,NZLP,New Zealand Liberal Party,New Zealand Liberal Party,6,11,973,1325,lib
+1326,2471,34,0,0,0,1,0,1,92.5,2,1.5,1,0,1,1.4,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,16,80,RP,Reform Party,Reform Party,7.4,11,973,1325,con
+1326,2469,35,0,0,0,1,0,1,80,2,1.2,1,0,1,0,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,1,1,0,58,80,NZLP,New Zealand Liberal Party,New Zealand Liberal Party,6,11,973,1325,lib
+1326,1262,35,0,0,0,1,0,1,80,2,1.2,1,0,1,0,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,6,80,none,no party affiliation,no party affiliation,NA,11,973,1325,none
+1326,2471,36,0,1,0,0,0,0,27.5,2,1.7,0,0,0,0,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,16,80,RP,Reform Party,Reform Party,7.4,11,973,1325,con
+1326,1262,36,0,1,0,0,0,0,27.5,2,1.7,0,0,0,0,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,6,80,none,no party affiliation,no party affiliation,NA,11,973,1325,none
+1326,2469,37,0,0,0,1,0,1,100,3,1.8,1,0,1,1.4,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,1,1,0,58,80,NZLP,New Zealand Liberal Party,New Zealand Liberal Party,6,11,973,1325,lib
+1326,2471,37,0,0,0,1,0,1,100,3,1.8,1,0,1,1.4,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,16,80,RP,Reform Party,Reform Party,7.4,11,973,1325,con
+1326,1262,37,0,0,0,1,0,1,100,3,1.8,1,0,1,1.4,0,NZL,New Zealand,1905-12-06,1905-12-06,Seddon II,0,0,0,0,6,80,none,no party affiliation,no party affiliation,NA,11,973,1325,none
+1443,280,38,1,1,0,0,1,1,50,1,1,1,0,1,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,1393,39,0,1,0,0,0,0,34.8,1,1,0,0,0,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,318,40,0,1,0,0,0,0,9.4,1,1,0,0,0,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,30,41,0,1,0,0,0,0,5.8,1,1,0,0,0,NA,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1443,280,42,0,0,1,0,0,1,84.8,2,1.9,1,0,1,0.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,1393,42,0,0,1,0,0,1,84.8,2,1.9,1,0,1,0.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,280,43,0,0,1,0,0,1,59.4,2,1.4,1,0,1,2.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,318,43,0,0,1,0,0,1,59.4,2,1.4,1,0,1,2.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,280,44,0,0,1,0,0,1,55.8,2,1.2,1,0,1,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,30,44,0,0,1,0,0,1,55.8,2,1.2,1,0,1,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1443,1393,45,0,1,0,0,0,0,44.2,2,1.5,0,0,0,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,318,45,0,1,0,0,0,0,44.2,2,1.5,0,0,0,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,1393,46,0,1,0,0,0,0,40.6,2,1.3,0,0,0,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,30,46,0,1,0,0,0,0,40.6,2,1.3,0,0,0,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1443,318,47,0,1,0,0,0,0,15.2,2,1.9,0,0,0,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,30,47,0,1,0,0,0,0,15.2,2,1.9,0,0,0,0,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1443,280,48,0,0,0,1,0,1,94.2,3,2.3,1,0,1,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,1393,48,0,0,0,1,0,1,94.2,3,2.3,1,0,1,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,318,48,0,0,0,1,0,1,94.2,3,2.3,1,0,1,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,280,49,0,0,0,1,0,1,90.6,3,2.2,1,0,1,0.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,1393,49,0,0,0,1,0,1,90.6,3,2.2,1,0,1,0.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,30,49,0,0,0,1,0,1,90.6,3,2.2,1,0,1,0.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1443,280,50,0,0,0,1,0,1,65.2,3,1.6,1,0,1,2.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,318,50,0,0,0,1,0,1,65.2,3,1.6,1,0,1,2.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,30,50,0,0,0,1,0,1,65.2,3,1.6,1,0,1,2.4,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1443,1393,51,0,1,0,0,0,0,50,3,1.9,0,0,0,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,318,51,0,1,0,0,0,0,50,3,1.9,0,0,0,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,30,51,0,1,0,0,0,0,50,3,1.9,0,0,0,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1443,280,52,0,0,0,1,0,1,100,4,2.6,1,0,1,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,1,1,0,69,138,FF,Fianna Fáil,Fianna Fail,6.0713,37,919,1442,con
+1443,1393,52,0,0,0,1,0,1,100,4,2.6,1,0,1,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,48,138,FG,Fine Gael,Fine Gael (Family of the Irish),6.4372,37,919,1442,chr
+1443,318,52,0,0,0,1,0,1,100,4,2.6,1,0,1,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,13,138,Lab,Labour Party,Labour Party,3.6252,37,919,1442,soc
+1443,30,52,0,0,0,1,0,1,100,4,2.6,1,0,1,2.8,0,IRL,Ireland,1937-07-01,1937-07-21,Valera III,0,0,0,0,8,138,none,no party affiliation,no party affiliation,NA,37,919,1442,none
+1544,2674,53,0,1,0,0,0,0,6.1,1,1,0,0,0,0,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,2681,54,0,1,0,0,0,0,3,1,1,0,0,0,0,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,1013,55,0,1,0,0,0,1,49.7,1,1,1,0,1,0,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,973,56,0,1,0,0,0,0,41.2,1,1,0,0,0,0,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc
+1544,2674,57,0,1,0,0,0,0,9.1,2,1.8,0,0,0,1.3,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,2681,57,0,1,0,0,0,0,9.1,2,1.8,0,0,0,1.3,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,2674,58,1,0,1,0,1,1,55.8,2,1.2,1,0,1,0.9,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,1013,58,1,0,1,0,1,1,55.8,2,1.2,1,0,1,0.9,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,2674,59,0,1,0,0,0,0,47.3,2,1.3,0,0,0,3.7,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,973,59,0,1,0,0,0,0,47.3,2,1.3,0,0,0,3.7,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc
+1544,2681,60,0,0,1,0,0,1,52.7,2,1.1,1,0,1,2.2,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,1013,60,0,0,1,0,0,1,52.7,2,1.1,1,0,1,2.2,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,2681,61,0,1,0,0,0,0,44.2,2,1.1,0,0,0,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,973,61,0,1,0,0,0,0,44.2,2,1.1,0,0,0,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc
+1544,1013,62,0,0,1,0,0,1,90.9,2,2,1,0,1,2.7,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,973,62,0,0,1,0,0,1,90.9,2,2,1,0,1,2.7,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc
+1544,2674,63,0,0,0,1,0,1,58.8,3,1.4,1,0,1,2.2,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,2681,63,0,0,0,1,0,1,58.8,3,1.4,1,0,1,2.2,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,1013,63,0,0,0,1,0,1,58.8,3,1.4,1,0,1,2.2,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,2674,64,0,0,1,0,0,0,50.3,3,1.5,0,0,0,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,2681,64,0,0,1,0,0,0,50.3,3,1.5,0,0,0,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,973,64,0,0,1,0,0,0,50.3,3,1.5,0,0,0,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc
+1544,2674,65,0,0,0,1,0,1,97,3,2.2,1,0,1,3.7,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,1013,65,0,0,0,1,0,1,97,3,2.2,1,0,1,3.7,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,973,65,0,0,0,1,0,1,97,3,2.2,1,0,1,3.7,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc
+1544,2681,66,0,0,0,1,0,1,93.9,3,2.1,1,0,1,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,1013,66,0,0,0,1,0,1,93.9,3,2.1,1,0,1,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,973,66,0,0,0,1,0,1,93.9,3,2.1,1,0,1,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc
+1544,2674,67,0,0,0,1,0,1,100,4,2.4,1,0,1,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,0,0,10,165,GDVP,Großdeutsche Volkspartei,Greater German People's Party,7.4,59,1027,1543,con
+1544,2681,67,0,0,0,1,0,1,100,4,2.4,1,0,1,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,5,165,L,Landbund für Österreich,Rural Federation,8.7,59,1027,1543,right
+1544,1013,67,0,0,0,1,0,1,100,4,2.4,1,0,1,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,1,1,0,82,165,OVP,Österreichische Volkspartei,Austrian People's Party,6.4733,59,1027,1543,chr
+1544,973,67,0,0,0,1,0,1,100,4,2.4,1,0,1,5,0,AUT,Austria,1923-10-21,1924-11-20,Ramek I,0,0,0,0,68,165,SPO,Sozialdemokratische Partei Österreichs,Social Democratic Party of Austria,3.7293,59,1027,1543,soc

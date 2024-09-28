@@ -15,6 +15,7 @@ Snippets for dataset generation and analysis with ParlGov.
 - **cabinet-party-family** — country-year data on cabinets party family share
 - **cabinet-type** — determine cabinet type: minority, minimal winning, surplus (grand coalition)
 - **country-year** — country-year format party family share elections and cabinets
+- **coalitions-potential** — create dataset with potential coalitions and their parameters (see Thürk/Hellström/Döring 2021)
 - **deu-election** — visualizations of German party system using election data (Authors: Lukas Warode & Philip Manow)
 - **election-vanhanen** — visualizing Vanhanen Index of Democratization using election data (Author: Lukas Warode)
 - **eu-cabinets** — party composition of EU cabinets on left/right and pro/contra EU dimension
