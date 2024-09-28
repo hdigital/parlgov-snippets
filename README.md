@@ -22,4 +22,4 @@ Snippets for dataset generation and analysis with ParlGov.
 
 ---
 
-![left-right recent cabinets](cabinet-map/cabinet-map.png)
+![left-right recent cabinets](party-family-share/share-country.png)
