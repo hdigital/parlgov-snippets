@@ -19,7 +19,8 @@ Snippets for dataset generation and analysis with ParlGov.
 - **election-vanhanen** — visualizing Vanhanen Index of Democratization using election data (Author: Lukas Warode)
 - **eu-cabinets** — party composition of EU cabinets on left/right and pro/contra EU dimension
 - **isr-cabinet-support** — structure and patterns of Israeli cabinet support parties (Author: Lukas Warode)
+- **party-family-share** — election results by party family share with visualization
 
 ---
 
-![left-right recent cabinets](cabinet-map/cabinet-map.png)
+![left-right recent cabinets](party-family-share/share-country.png)

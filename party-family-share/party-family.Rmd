@@ -1,0 +1,243 @@
+---
+title: "Party family vote share"
+author: "Holger Döring"
+date: "`r format(Sys.time(), '%d %B %Y, %H:%M')`"
+output:
+  html_document:
+    code_folding: hide
+    df_print: paged
+  html_notebook:
+    code_folding: hide
+---
+<style type="text/css"> <!-- .table { width: auto } ---> </style>
+
+```{r options, include=FALSE}
+knitr::opts_chunk$set(
+  # results="hide",
+  message = FALSE,
+  warning = FALSE,
+  package.startup.message = FALSE
+)
+
+options(
+  readr.num_columns = 0,
+  knitr.kable.NA = "",
+  width = 100,
+  tidyverse.quiet = TRUE
+)
+```
+
+```{r setup}
+library(reactable) # layout // interactive data tables
+
+library(lubridate) # tools  // dates manipulation
+library(knitr)     # layout // tables in RMarkdown with kable()
+library(tidyverse) # —      // load last to avoid masking
+```
+
+## Established democracies
+
+```{r get_data}
+## Get and read cabinet and party data from ParlGov database
+
+db_file <- "parlgov-development.db"
+url <- "http://www.parlgov.org/data/"
+
+# download ParlGov database if not in local folder
+if (!db_file %in% list.files()) {
+  download.file(paste0(url, db_file), db_file, mode = "wb")
+}
+
+# retrieve data from ParlGov database tables
+parlgov_db <- DBI::dbConnect(RSQLite::SQLite(), db_file)
+get_parlgov_table <-
+  function(table_name) {
+    tbl(parlgov_db, table_name) |> collect()
+  }
+
+party_raw <- get_parlgov_table("view_party")
+elec_raw <- get_parlgov_table("view_election")
+
+get_decade <- function(election_date) {
+  year(election_date) %/% 10 * 10
+}
+```
+
+Only countries that where democratic in 1980 included.
+--- Source: [ParlGov](http://parlgov.org/)
+
+```{r data}
+## Create datasets
+
+fam_level <- c("com", "eco", "soc", "agr", "lib", "chr", "con", "right", "other")
+fam_color <- c(
+  "#FB9A99", "#33A02C", "#E31A1C", "#B2DF8A", "#FDBF6F",
+  "#FF7F00", "#1F78B4", "#A6CEE3", "grey60"
+)
+
+party <-
+  party_raw |>
+  mutate(family = factor(family_name_short, fam_level))
+
+elec <-
+  elec_raw |>
+  mutate(
+    country = country_name,
+    decade = get_decade(election_date)
+  ) |>
+  left_join(party |> select(party_id, family)) |>
+  filter(election_type == "parliament", !is.na(family)) |>
+  filter(min(election_date) <= "1980-01-01", .by = country)
+
+turnout <-
+  get_parlgov_table("election") |>
+  filter(id %in% elec$election_id) |>
+  mutate(decade = get_decade(date)) |>
+  summarize(
+    turnout = mean(votes_valid / electorate, na.rm = TRUE),
+    .by = decade
+  )
+```
+
+## Party families
+
+```{r graph-all}
+pa_fam <-
+  elec |>
+  summarise(
+    vote_share = sum(vote_share, na.rm = TRUE),
+    .by = c(decade, election_id, family)
+  )
+
+pa_fam_other <-
+  pa_fam |>
+  summarise(
+    vote_share = 100 - sum(vote_share),
+    .by = c(decade, election_id)
+  ) |>
+  mutate(family = "other")
+
+pa_fam <- pa_fam |> bind_rows(pa_fam_other)
+
+# use pivot to add 0.0% for complete family data
+pa_fam_dec <-
+  pa_fam |>
+  group_by(decade, family) |>
+  pivot_wider(
+    names_from = family,
+    values_from = vote_share,
+    values_fill = 0
+  ) |>
+  pivot_longer(c(-election_id, -decade),
+    names_to = "family",
+    values_to = "vote_share"
+  ) |>
+  group_by(decade, family) |>
+  summarise(vote_share = mean(vote_share, na.rm = TRUE))
+
+pl_dt <-
+  pa_fam_dec |>
+  left_join(turnout) |>
+  mutate(
+    vote_share_with_turnout = vote_share * turnout,
+    family = factor(family, levels = fam_level)
+  ) |>
+  select(-turnout) |>
+  pivot_longer(c(-decade, -family),
+    names_to = "turnout",
+    values_to = "vote_share"
+  )
+
+pl <-
+  ggplot(pl_dt, aes(decade, vote_share, fill = family)) +
+  geom_area(position = "stack") +
+  scale_fill_manual(values = fam_color) +
+  facet_grid(. ~ turnout)
+
+ggsave("share-all.png", pl, width = 8, height = 6)
+print(pl)
+```
+
+<p style="page-break-before: always">
+
+```{r table-decade}
+pa_fam_wide <-
+  pa_fam_dec |>
+  mutate(vote_share = round(vote_share, 0)) |>
+  pivot_wider(
+    names_from = decade,
+    values_from = vote_share,
+    values_fill = 0
+  )
+
+tibble(family = fam_level) |> left_join(pa_fam_wide)
+```
+
+<p style="page-break-before: always">
+
+
+## Countries
+
+```{r country-graph}
+# use long/wide transformation to add 0.0% for complete family data
+pa_fam_elec <-
+  pa_fam |>
+  group_by(election_id, family) |>
+  pivot_wider(
+    names_from = family,
+    values_from = vote_share,
+    values_fill = 0
+  ) |>
+  pivot_longer(c(-election_id, -decade),
+    names_to = "family",
+    values_to = "vote_share"
+  ) |>
+  ungroup() |>
+  left_join(elec |> distinct(country, election_id))
+
+pl_dt <-
+  pa_fam_elec |>
+  inner_join(elec |> distinct(country, election_id, election_date)) |>
+  mutate(
+    year = as.Date(election_date),
+    family = factor(family, levels = fam_level)
+  ) |>
+  filter(election_id != 999) # Denmark 1915 (no vote share)
+
+pl <-
+  ggplot(pl_dt, aes(year, vote_share, fill = family)) +
+  geom_area(position = "stack") +
+  scale_fill_manual(values = fam_color) +
+  facet_wrap(~country)
+
+ggsave("share-country.png", pl, width = 8, height = 6)
+print(pl)
+```
+
+<p style="page-break-before: always">
+
+Mean party family share by country since first election
+
+```{r country-table}
+pa_fam_ctry <-
+  pa_fam_elec |>
+  summarise(
+    vote_share = mean(vote_share, na.rm = TRUE) |> round(0),
+    .by = c(country, family)
+  )
+
+year_first <-
+  elec |>
+  summarise(
+    year_first = min(year(election_date)),
+    .by = country
+  )
+
+pa_fam_ctry |>
+  pivot_wider(names_from = family, values_from = vote_share) |>
+  left_join(year_first) |>
+  arrange(country) |>
+  select(country, year_first, all_of(fam_level)) |>
+  reactable(searchable = TRUE)
+```
+
