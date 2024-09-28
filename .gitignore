@@ -5,6 +5,7 @@
 source__*
 
 parlgov-development.db
+parlgov-stable.db
 view_cabinet.csv
 
 
