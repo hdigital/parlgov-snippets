@@ -10,7 +10,13 @@ view_cabinet.csv
 
 
 # ------------------------------------------------------------------------------
-## OS files
+
+# Rocker RStudio
+.cache
+.local/share/rstudio/
+.config/rstudio/
+
+# OS files
 .DS_Store
 Icon?
 
